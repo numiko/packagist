@@ -1,0 +1,440 @@
+{
+    "packages": {
+        "drupal/reference_views_filter": {
+            "dev-8.x-1.x": {
+                "name": "drupal/reference_views_filter",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "7eb5d28097d6bad82ccc51e69c87166537fa378b"
+                },
+                "time": "2016-09-06 13:59:57",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "homepage": "https://www.drupal.org/project/reference_views_filter",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/reference_views_filter",
+                    "source": "http://cgit.drupalcode.org/reference_views_filter"
+                }
+            }
+        },
+        "numiko/drupal-8-composer-template": {
+            "8.x-dev": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "8.x-dev",
+                "version_normalized": "8.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "53e021b7f38d5418408a416710c5261523e4fe3b"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "~1.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~0.10",
+                    "drupal/core": "~8.0",
+                    "drush/drush": "~8.0",
+                    "numiko/numiko-media-profile": "~8.0"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2016-08-23 13:13:06",
+                "type": "project",
+                "extra": {
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            },
+            "dev-madalini/drupal-8-future-official-skeleton-alteration": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "dev-madalini/drupal-8-future-official-skeleton-alteration",
+                "version_normalized": "dev-madalini/drupal-8-future-official-skeleton-alteration",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "c1323b4a491d331f13494aa377697ec8015d5566"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "~1.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.1",
+                    "drush/drush": "~8.1",
+                    "numiko/numiko-media-profile": "~8.1"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2016-07-20 16:03:47",
+                "type": "project",
+                "extra": {
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            }
+        },
+        "numiko/entity_reference_view_display": {
+            "dev-8.x-1.x": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "99c2511a7cf7457eb20189e528495a63ac693203"
+                },
+                "time": "2016-08-23 13:59:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/field_lock_multi_values": {
+            "0.1.1": {
+                "name": "numiko/field_lock_multi_values",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "768b6a9e12eea3289372b63d565f5c46023dea47"
+                },
+                "time": "2016-07-29 14:06:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            },
+            "8.x-dev": {
+                "name": "numiko/field_lock_multi_values",
+                "version": "8.x-dev",
+                "version_normalized": "8.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "768b6a9e12eea3289372b63d565f5c46023dea47"
+                },
+                "time": "2016-07-29 14:06:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            },
+            "dev-master": {
+                "name": "numiko/field_lock_multi_values",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "8424fda56bddedd454f32fe1bd8da8834197b953"
+                },
+                "time": "2016-08-23 09:52:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            }
+        },
+        "numiko/file_size_display": {
+            "dev-master": {
+                "name": "numiko/file_size_display",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "80e1126910754ea4e2e3af21fb0953bba3eab952"
+                },
+                "time": "2016-09-02 14:46:21",
+                "type": "drupal-module",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
+            }
+        },
+        "numiko/form_ui": {
+            "dev-8.x-1.x": {
+                "name": "numiko/form_ui",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "0f1fee5411110b1ba822a2a82b24509cc35b6537"
+                },
+                "time": "2016-08-31 10:25:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/migrate_group_ui": {
+            "dev-8.x-2.x": {
+                "name": "numiko/migrate_group_ui",
+                "version": "dev-8.x-2.x",
+                "version_normalized": "dev-8.x-2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
+                    "reference": "e80a470aec7ff4286a1ca11d6d651f0902025e5e"
+                },
+                "time": "2016-08-23 09:52:51",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Modify migrate group listings to include ui run options",
+                "homepage": "https://www.drupal.org/project/migrate_group_ui",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/migrate_group_ui",
+                    "source": "http://cgit.drupalcode.org/migrate_group_ui"
+                }
+            }
+        },
+        "numiko/node_boolean": {
+            "dev-8.x-1.x": {
+                "name": "numiko/node_boolean",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "d5dad91e14d12e1235c32f1ef7c95948d54f1aed"
+                },
+                "time": "2016-08-23 09:53:15",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            }
+        },
+        "numiko/numiko-media-profile": {
+            "8.x-dev": {
+                "name": "numiko/numiko-media-profile",
+                "version": "8.x-dev",
+                "version_normalized": "8.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
+                    "reference": "9b67462a0c30fc233335caa6eb25fb5eaeb13791"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "cweagans/composer-patches": "1.5.0",
+                    "drupal/acquia_connector": "8.*",
+                    "drupal/config_update": "8.*",
+                    "drupal/core": "^8.1.0",
+                    "drupal/ctools": "8.*",
+                    "drupal/devel": "8.*",
+                    "drupal/embed": "8.*",
+                    "drupal/entity_browser": "8.*",
+                    "drupal/entity_embed": "8.*",
+                    "drupal/field_group": "8.*",
+                    "drupal/focal_point": "8.*",
+                    "drupal/honeypot": "8.*",
+                    "drupal/inline_entity_form": "8.*",
+                    "drupal/linkit": "8.5.*",
+                    "drupal/media_entity": "8.*",
+                    "drupal/media_entity_document": "8.*",
+                    "drupal/media_entity_image": "8.*",
+                    "drupal/media_entity_instagram": "8.*",
+                    "drupal/media_entity_twitter": "8.*",
+                    "drupal/metatag": "8.*",
+                    "drupal/paragraphs": "8.*",
+                    "drupal/password_policy": "8.*",
+                    "drupal/pathauto": "8.*",
+                    "drupal/redirect": "8.*",
+                    "drupal/scheduled_updates": "8.*",
+                    "drupal/search_kint": "8.*",
+                    "drupal/seckit": "8.*",
+                    "drupal/smart_trim": "8.*",
+                    "drupal/stage_file_proxy": "8.*",
+                    "drupal/token": "8.*",
+                    "drupal/video_embed_field": "8.*",
+                    "drupal/views_infinite_scroll": "8.*",
+                    "drupal/workbench_moderation": "8.*"
+                },
+                "time": "2016-07-20 15:49:36",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko media profile"
+            }
+        },
+        "numiko/slice": {
+            "8.1.x-dev": {
+                "name": "numiko/slice",
+                "version": "8.1.x-dev",
+                "version_normalized": "8.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slices.git",
+                    "reference": "e04f68de146ca737a98c1542bcf39bbb5962a15f"
+                },
+                "time": "2016-08-23 09:52:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Slice entities",
+                "homepage": "https://www.drupal.org/project/slice",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/slice",
+                    "source": "http://cgit.drupalcode.org/slice"
+                }
+            }
+        }
+    }
+}
