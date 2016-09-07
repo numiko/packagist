@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "53e021b7f38d5418408a416710c5261523e4fe3b"
+                    "reference": "0f7de59cedfb4bfb1deccaf97a92ece475110c4a"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -31,7 +31,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2016-08-23 13:13:06",
+                "time": "2016-09-07 08:16:03",
                 "type": "project",
                 "extra": {
                     "installer-paths": {
@@ -273,6 +273,27 @@
                     "GPL-2.0+"
                 ],
                 "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/menu_block_view_modes": {
+            "dev-8.x-1.x": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "49e3eb79d9e2716d9c2773280cbbb59183947e4c"
+                },
+                "time": "2016-09-07 10:36:48",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
                 "keywords": [
                     "Drupal"
                 ]
