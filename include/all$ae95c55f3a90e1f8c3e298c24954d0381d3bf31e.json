@@ -380,7 +380,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "53bb2078a653445ef18001665631e424b6d05a7c"
+                    "reference": "ead90f54f507b3c791d3f04b899a1740df444cd6"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -429,21 +429,8 @@
                     "numiko/node_boolean": "dev-8.x-1.x",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2016-09-13 09:33:50",
+                "time": "2016-09-13 09:53:03",
                 "type": "drupal-profile",
-                "extra": {
-                    "patches": {
-                        "drupal/menu_block": {
-                            "Add form and build alter hooks": "https://www.drupal.org/files/issues/2779465_menu_block_alter_hooks.patch"
-                        },
-                        "drupal/paragraphs": {
-                            "Empty required paragraph fields error": "https://www.drupal.org/files/issues/empty-required-error-message-2788607-9.patch"
-                        },
-                        "drupal/metatag": {
-                            "Fix console commands": "https://www.drupal.org/files/issues/metatag-remove-console-integration-2752239-41.patch"
-                        }
-                    }
-                },
                 "license": [
                     "GPL-2.0+"
                 ],
