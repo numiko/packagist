@@ -380,22 +380,26 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "9b67462a0c30fc233335caa6eb25fb5eaeb13791"
+                    "reference": "53bb2078a653445ef18001665631e424b6d05a7c"
                 },
                 "require": {
                     "composer/installers": "^1.0",
                     "cweagans/composer-patches": "1.5.0",
                     "drupal/acquia_connector": "8.*",
+                    "drupal/adminimal_theme": "^8.1",
+                    "drupal/coffee": "^8.1",
                     "drupal/config_update": "8.*",
                     "drupal/core": "^8.1.0",
                     "drupal/ctools": "8.*",
                     "drupal/devel": "8.*",
+                    "drupal/easy_breadcrumb": "^8.1",
                     "drupal/embed": "8.*",
-                    "drupal/entity_browser": "8.*",
+                    "drupal/entity_browser": "8.1.x-dev",
                     "drupal/entity_embed": "8.*",
                     "drupal/field_group": "8.*",
                     "drupal/focal_point": "8.*",
                     "drupal/honeypot": "8.*",
+                    "drupal/image_widget_crop": "8.*",
                     "drupal/inline_entity_form": "8.*",
                     "drupal/linkit": "8.5.*",
                     "drupal/media_entity": "8.*",
@@ -403,7 +407,8 @@
                     "drupal/media_entity_image": "8.*",
                     "drupal/media_entity_instagram": "8.*",
                     "drupal/media_entity_twitter": "8.*",
-                    "drupal/metatag": "8.*",
+                    "drupal/menu_block": "^8.1",
+                    "drupal/metatag": "8.1.0-beta9",
                     "drupal/paragraphs": "8.*",
                     "drupal/password_policy": "8.*",
                     "drupal/pathauto": "8.*",
@@ -411,15 +416,34 @@
                     "drupal/scheduled_updates": "8.*",
                     "drupal/search_kint": "8.*",
                     "drupal/seckit": "8.*",
+                    "drupal/simple_sitemap": "~8.0",
                     "drupal/smart_trim": "8.*",
                     "drupal/stage_file_proxy": "8.*",
                     "drupal/token": "8.*",
                     "drupal/video_embed_field": "8.*",
                     "drupal/views_infinite_scroll": "8.*",
-                    "drupal/workbench_moderation": "8.*"
+                    "drupal/workbench_moderation": "8.*",
+                    "numiko/entity_reference_view_display": "dev-8.x-1.x",
+                    "numiko/form_ui": "dev-8.x-1.x",
+                    "numiko/menu_block_view_modes": "dev-8.x-1.x",
+                    "numiko/node_boolean": "dev-8.x-1.x",
+                    "numiko/slice": "^8.1"
                 },
-                "time": "2016-07-20 15:49:36",
+                "time": "2016-09-13 09:33:50",
                 "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/menu_block": {
+                            "Add form and build alter hooks": "https://www.drupal.org/files/issues/2779465_menu_block_alter_hooks.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "Empty required paragraph fields error": "https://www.drupal.org/files/issues/empty-required-error-message-2788607-9.patch"
+                        },
+                        "drupal/metatag": {
+                            "Fix console commands": "https://www.drupal.org/files/issues/metatag-remove-console-integration-2752239-41.patch"
+                        }
+                    }
+                },
                 "license": [
                     "GPL-2.0+"
                 ],
