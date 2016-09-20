@@ -380,7 +380,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "e165960a7bcffb5624e43add3cf05b271a4c6782"
+                    "reference": "486137791e19174fe7f626b707e479f20072daf4"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -408,7 +408,7 @@
                     "drupal/media_entity_instagram": "8.*",
                     "drupal/media_entity_twitter": "8.*",
                     "drupal/menu_block": "^8.1",
-                    "drupal/metatag": "8.1.0-beta9",
+                    "drupal/metatag": "8.1.0-beta10",
                     "drupal/paragraphs": "8.*",
                     "drupal/password_policy": "8.*",
                     "drupal/pathauto": "8.*",
@@ -429,7 +429,7 @@
                     "numiko/node_boolean": "dev-8.x-1.x",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2016-09-13 14:34:55",
+                "time": "2016-09-20 15:29:21",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
