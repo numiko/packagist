@@ -328,9 +328,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
-                    "reference": "e80a470aec7ff4286a1ca11d6d651f0902025e5e"
+                    "reference": "782ce8aeb2328f54aab8163f78c33916f3362312"
                 },
-                "time": "2016-08-23 09:52:51",
+                "time": "2016-09-26 15:12:52",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
