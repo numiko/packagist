@@ -140,6 +140,25 @@
             }
         },
         "numiko/entity_reference_view_display": {
+            "8.1.0": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "b1ef331a9994a14f6917cd1e804c8206b948d1fc"
+                },
+                "time": "2016-09-14 12:42:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_reference_view_display",
                 "version": "dev-8.x-1.x",
@@ -258,6 +277,25 @@
             }
         },
         "numiko/form_ui": {
+            "8.1.0": {
+                "name": "numiko/form_ui",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "42594348c22328e4665fd8d4220c2fd8168e591f"
+                },
+                "time": "2016-09-13 08:36:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/form_ui",
                 "version": "dev-8.x-1.x",
@@ -300,6 +338,25 @@
             }
         },
         "numiko/menu_block_view_modes": {
+            "8.1.0": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "7187fa6a954b6612953cbc64df25e97f224ea623"
+                },
+                "time": "2016-09-26 16:48:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/menu_block_view_modes",
                 "version": "dev-8.x-1.x",
@@ -371,6 +428,30 @@
             }
         },
         "numiko/node_boolean": {
+            "8.1.0": {
+                "name": "numiko/node_boolean",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "9e2a1dde3a6172bbfa3b330a0e2b9b1eec67fe75"
+                },
+                "time": "2016-08-23 09:53:15",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/node_boolean",
                 "version": "dev-8.x-1.x",
@@ -397,6 +478,69 @@
             }
         },
         "numiko/numiko-media-profile": {
+            "8.1.0": {
+                "name": "numiko/numiko-media-profile",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
+                    "reference": "6a1aeb031115174146e5228f911a293ad577224b"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "cweagans/composer-patches": "1.5.0",
+                    "drupal/acquia_connector": "~8.1.0",
+                    "drupal/adminimal_theme": "~8.1.1",
+                    "drupal/coffee": "~8.1.0",
+                    "drupal/config_update": "~8.1.0",
+                    "drupal/core": "~8.1.9",
+                    "drupal/ctools": "~8.3.0",
+                    "drupal/devel": "~8.1.0",
+                    "drupal/easy_breadcrumb": "~8.1.0",
+                    "drupal/embed": "~8.1.0",
+                    "drupal/entity_browser": "^8.1",
+                    "drupal/entity_embed": "~8.1.0",
+                    "drupal/field_group": "~8.1.0",
+                    "drupal/focal_point": "~8.1.0",
+                    "drupal/honeypot": "~8.1.0",
+                    "drupal/image_widget_crop": "~8.1.0",
+                    "drupal/inline_entity_form": "~8.1.0",
+                    "drupal/linkit": "~8.5.0",
+                    "drupal/media_entity": "~8.1.0",
+                    "drupal/media_entity_document": "~8.1.0",
+                    "drupal/media_entity_image": "~8.1.0",
+                    "drupal/media_entity_instagram": "~8.1.0",
+                    "drupal/media_entity_twitter": "~8.1.0",
+                    "drupal/menu_block": "~8.1.0",
+                    "drupal/metatag": "~8.1.0",
+                    "drupal/paragraphs": "~8.1.0",
+                    "drupal/password_policy": "~8.1.0",
+                    "drupal/pathauto": "~8.1.0",
+                    "drupal/redirect": "~8.1.0",
+                    "drupal/scheduled_updates": "~8.1.0",
+                    "drupal/search_kint": "~8.1.0",
+                    "drupal/seckit": "~8.1.0",
+                    "drupal/simple_sitemap": "~8.2.0",
+                    "drupal/smart_trim": "~8.1.0",
+                    "drupal/stage_file_proxy": "~8.1.0",
+                    "drupal/token": "~8.1.0",
+                    "drupal/video_embed_field": "~8.1.0",
+                    "drupal/views_infinite_scroll": "~8.1.0",
+                    "drupal/workbench_moderation": "~8.1.1",
+                    "numiko/entity_reference_view_display": "~8.1.0",
+                    "numiko/form_ui": "~8.1.0",
+                    "numiko/menu_block_view_modes": "~8.1.0",
+                    "numiko/node_boolean": "~8.1.0",
+                    "numiko/slice": "~8.1.0"
+                },
+                "time": "2016-09-27 10:56:02",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko media profile"
+            },
             "8.x-dev": {
                 "name": "numiko/numiko-media-profile",
                 "version": "8.x-dev",
@@ -502,6 +646,30 @@
             }
         },
         "numiko/slice": {
+            "8.1.0": {
+                "name": "numiko/slice",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slices.git",
+                    "reference": "4a37b80196433d91d288740719944c88c58b296c"
+                },
+                "time": "2016-08-23 09:52:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Slice entities",
+                "homepage": "https://www.drupal.org/project/slice",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/slice",
+                    "source": "http://cgit.drupalcode.org/slice"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice",
                 "version": "dev-8.x-1.x",
