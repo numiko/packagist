@@ -1,5 +1,45 @@
 {
     "packages": {
+        "numiko/descendants_menu_block": {
+            "8.1.0": {
+                "name": "numiko/descendants_menu_block",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "b4e7b6989516a8499381d8c9c83740533d7b6420"
+                },
+                "time": "2016-10-04 12:11:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/descendants_menu_block",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "b4e7b6989516a8499381d8c9c83740533d7b6420"
+                },
+                "time": "2016-10-04 12:11:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/drupal-8-composer-template": {
             "8.x-dev": {
                 "name": "numiko/drupal-8-composer-template",
