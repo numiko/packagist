@@ -1042,14 +1042,14 @@
                 ],
                 "description": "The numiko media profile"
             },
-            "8.2.x-dev": {
+            "8.2.2": {
                 "name": "numiko/numiko-media-profile",
-                "version": "8.2.x-dev",
-                "version_normalized": "8.2.9999999.9999999-dev",
+                "version": "8.2.2",
+                "version_normalized": "8.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "040e16b7da692315e58e75e42028ea3a56714015"
+                    "reference": "5d98eb424fca6b261a8421f8b0b0603b5444d3b6"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -1096,9 +1096,72 @@
                     "numiko/form_ui": "~8.1.0",
                     "numiko/menu_block_view_modes": "~8.1.0",
                     "numiko/node_boolean": "~8.1.0",
-                    "numiko/slice": "~8.1.0"
+                    "numiko/slice": "~8.1"
                 },
-                "time": "2016-10-14 15:41:10",
+                "time": "2016-10-18 15:05:21",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko media profile"
+            },
+            "8.2.x-dev": {
+                "name": "numiko/numiko-media-profile",
+                "version": "8.2.x-dev",
+                "version_normalized": "8.2.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
+                    "reference": "07a978e43d3257ee6353972be8f702c2aeea13e9"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "cweagans/composer-patches": "1.5.0",
+                    "drupal/adminimal_theme": "~8.1.1",
+                    "drupal/coffee": "~8.1.0",
+                    "drupal/config_update": "~8.1.0",
+                    "drupal/core": "~8.2.0",
+                    "drupal/crop": "~8.1.0",
+                    "drupal/ctools": "~8.3.0",
+                    "drupal/devel": "~8.1.0",
+                    "drupal/easy_breadcrumb": "~8.1.0",
+                    "drupal/embed": "~8.1.0",
+                    "drupal/entity_browser": "^8.1",
+                    "drupal/entity_embed": "~8.1.0",
+                    "drupal/field_group": "~8.1.0",
+                    "drupal/focal_point": "~8.1.0",
+                    "drupal/honeypot": "~8.1.0",
+                    "drupal/image_widget_crop": "~8.1.0",
+                    "drupal/inline_entity_form": "~8.1.0",
+                    "drupal/linkit": "~8.5.0",
+                    "drupal/media_entity": "~8.1.0",
+                    "drupal/media_entity_document": "~8.1.0",
+                    "drupal/media_entity_image": "~8.1.0",
+                    "drupal/media_entity_instagram": "~8.1.0",
+                    "drupal/media_entity_twitter": "~8.1.0",
+                    "drupal/menu_block": "~8.1.0",
+                    "drupal/metatag": "~8.1.0",
+                    "drupal/paragraphs": "~8.1.0",
+                    "drupal/password_policy": "~8.3.0",
+                    "drupal/pathauto": "~8.1.0",
+                    "drupal/redirect": "~8.1.0",
+                    "drupal/scheduled_updates": "~8.1.0",
+                    "drupal/search_kint": "~8.1.0",
+                    "drupal/seckit": "~8.1.0",
+                    "drupal/simple_sitemap": "~8.2.0",
+                    "drupal/smart_trim": "~8.1.0",
+                    "drupal/stage_file_proxy": "~8.1.0",
+                    "drupal/token": "~8.1.0",
+                    "drupal/video_embed_field": "~8.1.0",
+                    "drupal/views_infinite_scroll": "~8.1.0",
+                    "drupal/workbench_moderation": "~8.1.1",
+                    "numiko/entity_reference_view_display": "~8.1.0",
+                    "numiko/form_ui": "~8.1.0",
+                    "numiko/menu_block_view_modes": "~8.1.0",
+                    "numiko/node_boolean": "~8.1.0",
+                    "numiko/slice": "~8.1"
+                },
+                "time": "2016-10-18 15:05:21",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
