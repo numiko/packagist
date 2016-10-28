@@ -1755,6 +1755,27 @@
                     "source": "http://cgit.drupalcode.org/slice"
                 }
             }
+        },
+        "numiko/wm_bulk_actions": {
+            "dev-master": {
+                "name": "numiko/wm_bulk_actions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/workbench-moderation-bulk-actions.git",
+                    "reference": "27466a4f352041436e0be7dc1b7db4206e227ce0"
+                },
+                "time": "2016-10-28 13:39:43",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content view bulk actions for Workbench Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
         }
     }
 }
