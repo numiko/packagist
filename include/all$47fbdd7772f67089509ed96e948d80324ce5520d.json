@@ -1775,6 +1775,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/wm_bulk_actions",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/workbench-moderation-bulk-actions.git",
+                    "reference": "27466a4f352041436e0be7dc1b7db4206e227ce0"
+                },
+                "time": "2016-10-28 13:39:43",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content view bulk actions for Workbench Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         }
     }
