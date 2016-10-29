@@ -1757,10 +1757,10 @@
             }
         },
         "numiko/wm_bulk_actions": {
-            "dev-master": {
+            "8.1.0": {
                 "name": "numiko/wm_bulk_actions",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/workbench-moderation-bulk-actions.git",
