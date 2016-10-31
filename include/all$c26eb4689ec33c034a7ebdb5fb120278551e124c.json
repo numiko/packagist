@@ -1762,9 +1762,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "8e74cedba5e417fb56c851b6c88e40e16eb1b757"
+                    "reference": "529f82c7fb25a49d305c55b8cc9f95427ae47cc8"
                 },
-                "time": "2016-10-31 15:54:15",
+                "time": "2016-10-31 16:11:04",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
