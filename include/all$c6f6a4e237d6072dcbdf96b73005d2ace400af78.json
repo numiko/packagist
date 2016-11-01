@@ -296,6 +296,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.2": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "bd6dd23c4443f573f358907b0d12a306cba736b9"
+                },
+                "time": "2016-11-01 10:36:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_reference_view_display",
                 "version": "dev-8.x-1.x",
