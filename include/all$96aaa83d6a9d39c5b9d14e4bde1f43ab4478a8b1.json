@@ -1841,6 +1841,30 @@
                     "source": "http://cgit.drupalcode.org/slice"
                 }
             },
+            "8.3.4": {
+                "name": "numiko/slice",
+                "version": "8.3.4",
+                "version_normalized": "8.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slices.git",
+                    "reference": "ee383f42f4ab5f878db75b68ce8b3815594f8668"
+                },
+                "time": "2016-11-03 13:49:38",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Slice entities",
+                "homepage": "https://www.drupal.org/project/slice",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/slice",
+                    "source": "http://cgit.drupalcode.org/slice"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice",
                 "version": "dev-8.x-1.x",
@@ -1896,9 +1920,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "5176ce7348ddb8b7339899b2ed6b573590e0f2a9"
+                    "reference": "a0fbf3d0774405279219d96510c9a7c66a51af7f"
                 },
-                "time": "2016-11-03 11:47:49",
+                "time": "2016-11-03 13:49:38",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
