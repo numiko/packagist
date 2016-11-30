@@ -126,7 +126,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "2891a9e1e7e585600dbaab1d4e911f30bff4b7d4"
+                    "reference": "ac5dbe809923f75656a383d6332c924246461e46"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -149,7 +149,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2016-09-09 08:46:54",
+                "time": "2016-11-30 14:50:01",
                 "type": "project",
                 "extra": {
                     "installer-paths": {
@@ -180,10 +180,12 @@
                         "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
                     ],
                     "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
                     ],
                     "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
                     ]
                 },
                 "license": [
