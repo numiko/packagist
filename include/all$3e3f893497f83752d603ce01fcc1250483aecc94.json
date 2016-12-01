@@ -1600,11 +1600,10 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "2a864ed9e8c8397680f9765508bbb39ce02ae80e"
+                    "reference": "a6e8317c6b5cdb4cae25139f519ddbe1f5da8aaa"
                 },
                 "require": {
                     "composer/installers": "^1.0",
-                    "cweagans/composer-patches": "1.6.0",
                     "drupal/acquia_connector": "8.*",
                     "drupal/adminimal_theme": "^8.1",
                     "drupal/coffee": "^8.1",
@@ -1649,7 +1648,7 @@
                     "numiko/node_boolean": "dev-8.x-1.x",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2016-12-01 11:13:46",
+                "time": "2016-12-01 11:40:58",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
