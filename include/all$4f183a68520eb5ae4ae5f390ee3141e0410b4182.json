@@ -1,45 +1,5 @@
 {
     "packages": {
-        "drupal/duration": {
-            "8.1.0": {
-                "name": "drupal/duration",
-                "version": "8.1.0",
-                "version_normalized": "8.1.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/duration.git",
-                    "reference": "ef695d7a6f66cdd6521490fcb4b566ad47b42f7c"
-                },
-                "time": "2016-12-02 14:42:57",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Video duration field formatter",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-8.x-1.x": {
-                "name": "drupal/duration",
-                "version": "dev-8.x-1.x",
-                "version_normalized": "dev-8.x-1.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/duration.git",
-                    "reference": "ef695d7a6f66cdd6521490fcb4b566ad47b42f7c"
-                },
-                "time": "2016-12-02 14:42:57",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Video duration field formatter",
-                "keywords": [
-                    "Drupal"
-                ]
-            }
-        },
         "drupal/yamlform2text": {
             "8.1.0": {
                 "name": "drupal/yamlform2text",
@@ -377,6 +337,46 @@
                     }
                 ],
                 "description": "Project template for Drupal 8 projects with composer"
+            }
+        },
+        "numiko/duration": {
+            "8.1.0": {
+                "name": "numiko/duration",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/duration.git",
+                    "reference": "8ff6c1b44eb022baa377d4a88d13165bc68a4867"
+                },
+                "time": "2016-12-02 15:59:34",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Video duration field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/duration",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/duration.git",
+                    "reference": "8ff6c1b44eb022baa377d4a88d13165bc68a4867"
+                },
+                "time": "2016-12-02 15:59:34",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Video duration field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/entity_reference_view_display": {
