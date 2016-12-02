@@ -1,10 +1,10 @@
 {
     "packages": {
         "drupal/duration": {
-            "dev-master": {
+            "8.1.0.x-dev": {
                 "name": "drupal/duration",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "8.1.0.x-dev",
+                "version_normalized": "8.1.0.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/duration.git",
