@@ -1,5 +1,26 @@
 {
     "packages": {
+        "drupal/duration": {
+            "dev-master": {
+                "name": "drupal/duration",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/duration.git",
+                    "reference": "ef695d7a6f66cdd6521490fcb4b566ad47b42f7c"
+                },
+                "time": "2016-12-02 14:42:57",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Video duration field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "drupal/yamlform2text": {
             "8.1.0": {
                 "name": "drupal/yamlform2text",
