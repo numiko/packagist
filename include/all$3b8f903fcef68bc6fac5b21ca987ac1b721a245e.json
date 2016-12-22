@@ -126,7 +126,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "0c29ff77574c1a1a1b7a235496d22440c20235e4"
+                    "reference": "f31118780be53e80838513fcd3ca21325d090fcc"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -149,7 +149,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2016-12-08 15:42:36",
+                "time": "2016-12-22 15:11:04",
                 "type": "project",
                 "extra": {
                     "installer-paths": {
