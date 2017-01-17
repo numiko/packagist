@@ -1,5 +1,45 @@
 {
     "packages": {
+        "drupal/slice_type_condition": {
+            "8.1.0": {
+                "name": "drupal/slice_type_condition",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "fb4d686ff29c3f9876ac2a7b7b028adf9e954353"
+                },
+                "time": "2017-01-16 17:47:31",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "drupal/slice_type_condition",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "fb4d686ff29c3f9876ac2a7b7b028adf9e954353"
+                },
+                "time": "2017-01-16 17:47:31",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "drupal/yamlform2text": {
             "8.1.0": {
                 "name": "drupal/yamlform2text",
