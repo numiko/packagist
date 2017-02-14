@@ -2625,6 +2625,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.1": {
+                "name": "numiko/slice_type_condition",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "f88e043e8998aac3d37852caa07c0074941e3f99"
+                },
+                "time": "2017-02-14 10:52:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice_type_condition",
                 "version": "dev-8.x-1.x",
