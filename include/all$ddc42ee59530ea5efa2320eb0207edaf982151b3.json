@@ -1013,6 +1013,25 @@
                     "Drupal"
                 ]
             },
+            "dev-8.1.19-beta": {
+                "name": "numiko/form_ui",
+                "version": "dev-8.1.19-beta",
+                "version_normalized": "dev-8.1.19-beta",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "679543eecb42b2c867167743771a60a9ddbe5869"
+                },
+                "time": "2017-02-16 15:43:04",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/form_ui",
                 "version": "dev-8.x-1.x",
