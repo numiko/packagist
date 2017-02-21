@@ -1567,6 +1567,68 @@
                 ],
                 "description": "The numiko media profile"
             },
+            "8.2.10": {
+                "name": "numiko/numiko-media-profile",
+                "version": "8.2.10",
+                "version_normalized": "8.2.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
+                    "reference": "6c7f510e5a716e4c90f276d86c991b9260817e19"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "drupal/acquia_connector": "8.*",
+                    "drupal/adminimal_theme": "^8.1",
+                    "drupal/coffee": "^8.1",
+                    "drupal/config_update": "8.*",
+                    "drupal/core": "^8.1.0",
+                    "drupal/ctools": "8.*",
+                    "drupal/devel": "8.*",
+                    "drupal/easy_breadcrumb": "^8.1",
+                    "drupal/embed": "8.*",
+                    "drupal/entity_browser": "^8.1",
+                    "drupal/entity_embed": "8.*",
+                    "drupal/field_group": "8.*",
+                    "drupal/focal_point": "8.*",
+                    "drupal/honeypot": "8.*",
+                    "drupal/image_widget_crop": "8.*",
+                    "drupal/inline_entity_form": "8.*",
+                    "drupal/linkit": "8.5.*",
+                    "drupal/media_entity": "8.*",
+                    "drupal/media_entity_document": "8.*",
+                    "drupal/media_entity_image": "8.*",
+                    "drupal/media_entity_instagram": "8.*",
+                    "drupal/media_entity_twitter": "8.*",
+                    "drupal/menu_block": "^8.1",
+                    "drupal/metatag": "8.1.0-beta11",
+                    "drupal/paragraphs": "8.1.0",
+                    "drupal/password_policy": "8.*",
+                    "drupal/pathauto": "8.*",
+                    "drupal/redirect": "8.*",
+                    "drupal/scheduled_updates": "8.*",
+                    "drupal/search_kint": "8.*",
+                    "drupal/seckit": "8.*",
+                    "drupal/simple_sitemap": "~8.0",
+                    "drupal/smart_trim": "8.*",
+                    "drupal/stage_file_proxy": "8.*",
+                    "drupal/token": "8.*",
+                    "drupal/video_embed_field": "8.*",
+                    "drupal/views_infinite_scroll": "8.*",
+                    "drupal/workbench_moderation": "8.*",
+                    "numiko/entity_reference_view_display": "dev-8.x-1.x",
+                    "numiko/form_ui": "^8.1",
+                    "numiko/menu_block_view_modes": "dev-8.x-1.x",
+                    "numiko/node_boolean": "dev-8.x-1.x",
+                    "numiko/slice": "^8.1"
+                },
+                "time": "2017-02-21 14:46:39",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko media profile"
+            },
             "8.2.2": {
                 "name": "numiko/numiko-media-profile",
                 "version": "8.2.2",
@@ -1949,7 +2011,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "62eff0e2d3ec96e8888e39f10b99573fb5c08810"
+                    "reference": "6c7f510e5a716e4c90f276d86c991b9260817e19"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -1977,7 +2039,7 @@
                     "drupal/media_entity_twitter": "8.*",
                     "drupal/menu_block": "^8.1",
                     "drupal/metatag": "8.1.0-beta11",
-                    "drupal/paragraphs": "8.*",
+                    "drupal/paragraphs": "8.1.0",
                     "drupal/password_policy": "8.*",
                     "drupal/pathauto": "8.*",
                     "drupal/redirect": "8.*",
@@ -1997,7 +2059,7 @@
                     "numiko/node_boolean": "dev-8.x-1.x",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2017-01-25 15:35:39",
+                "time": "2017-02-21 14:46:39",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
