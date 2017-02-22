@@ -1,5 +1,55 @@
 {
     "packages": {
+        "drupal/webform_ajax": {
+            "8.1.0": {
+                "name": "drupal/webform_ajax",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-ajax.git",
+                    "reference": "59430687adf13962c7fbd46a28ade92afc6caf81"
+                },
+                "time": "2017-02-22 14:55:02",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Support AJAX form submission methods",
+                "homepage": "https://www.drupal.org/project/webform_ajax",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/webform_ajax",
+                    "source": "http://cgit.drupalcode.org/webform_ajax"
+                }
+            },
+            "dev-8.x-1.x": {
+                "name": "drupal/webform_ajax",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-ajax.git",
+                    "reference": "b49e2dee019408a7346fe0d08c6d17fc9e669ca6"
+                },
+                "time": "2017-02-22 14:55:02",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Support AJAX form submission methods",
+                "homepage": "https://www.drupal.org/project/webform_ajax",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/webform_ajax",
+                    "source": "http://cgit.drupalcode.org/webform_ajax"
+                }
+            }
+        },
         "drupal/yamlform2text": {
             "8.1.0": {
                 "name": "drupal/yamlform2text",
