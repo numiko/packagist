@@ -516,6 +516,126 @@
                 ]
             }
         },
+        "numiko/facets_all_links": {
+            "8.1.0": {
+                "name": "numiko/facets_all_links",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "fae06feb03b4796ee901e092ccadbf6f0270a301"
+                },
+                "time": "2017-02-21 21:32:08",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/facets_all_links",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "b518f18a523015de8c10b0d4b219c87645461234"
+                },
+                "time": "2017-02-21 21:32:08",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/facets_attachment": {
+            "8.1.0": {
+                "name": "numiko/facets_attachment",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "b60a242114b494cf015034a446c8fe6ac3a0a334"
+                },
+                "time": "2017-02-21 21:07:28",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/facets_attachment",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "7939c86a2ffa088239e130ce2da140318d7ccb0b"
+                },
+                "time": "2017-02-21 21:07:28",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/facets_default": {
+            "8.1.0": {
+                "name": "numiko/facets_default",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-default.git",
+                    "reference": "f39c7bb0757f4468e38c3da631ca9f2d76f4568f"
+                },
+                "time": "2017-02-21 20:52:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set a default active facet",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/facets_default",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-default.git",
+                    "reference": "8ed1a72918b9dfa4d25a33cfeba1e91db4674cb5"
+                },
+                "time": "2017-02-21 20:52:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set a default active facet",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/field_lock_multi_values": {
             "0.1.1": {
                 "name": "numiko/field_lock_multi_values",
@@ -1071,6 +1191,86 @@
                 ]
             }
         },
+        "numiko/icon-menu": {
+            "8.1.1": {
+                "name": "numiko/icon-menu",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "81f9934adad13f549108edca6c76fa791694eb31"
+                },
+                "time": "2017-02-22 09:38:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/icon-menu",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "a9c541e79ef437afbf5caa719293d2e46e0b66a5"
+                },
+                "time": "2017-02-22 09:38:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/link_template_formatter": {
+            "8.1.0": {
+                "name": "numiko/link_template_formatter",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "42c4b24152035e9c33f7bccb475453eedffa71d5"
+                },
+                "time": "2017-02-21 21:49:04",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/link_template_formatter",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "5e956b9e2aba47f4072e75aa42ec13fe7639b206"
+                },
+                "time": "2017-02-21 21:49:04",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/media_url_formatter": {
             "dev-8.x-1.x": {
                 "name": "numiko/media_url_formatter",
@@ -1087,6 +1287,46 @@
                     "GPL-2.0+"
                 ],
                 "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/media_video_preview": {
+            "8.1.0": {
+                "name": "numiko/media_video_preview",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "a1dcc2159343ebef7ad7ea53c71dd3f0515e232d"
+                },
+                "time": "2017-02-21 21:21:20",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/media_video_preview",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "3da835430446253886ed7fecd3d4f54802fd145a"
+                },
+                "time": "2017-02-21 21:21:20",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
                 "keywords": [
                     "Drupal"
                 ]
@@ -3002,6 +3242,46 @@
                     "GPL-2.0+"
                 ],
                 "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/visible_trim": {
+            "8.1.0": {
+                "name": "numiko/visible_trim",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/visible-trim.git",
+                    "reference": "d689d020f7b2253f6652affac7caae8281f262a4"
+                },
+                "time": "2017-02-21 20:38:13",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add markup to enable visible trim of text fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/visible_trim",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/visible-trim.git",
+                    "reference": "41737ec33f1feb7c9d0244ff3bdb6185b1e78504"
+                },
+                "time": "2017-02-21 20:38:13",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add markup to enable visible trim of text fields",
                 "keywords": [
                     "Drupal"
                 ]
