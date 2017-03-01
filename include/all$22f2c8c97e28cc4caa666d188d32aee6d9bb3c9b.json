@@ -3661,6 +3661,30 @@
                     "source": "http://cgit.drupalcode.org/slice_jump_links"
                 }
             },
+            "8.1.2": {
+                "name": "numiko/slice_jump_links",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "c8b36bc8648d71a8bc573ffbbc7f655d799465ee"
+                },
+                "time": "2017-03-01 17:50:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://www.drupal.org/project/slice_jump_links",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/slice_jump_links",
+                    "source": "http://cgit.drupalcode.org/slice_jump_links"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice_jump_links",
                 "version": "dev-8.x-1.x",
@@ -3668,9 +3692,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "2b0340b1de2bb4176210db04f60c661023a033a3"
+                    "reference": "c8b36bc8648d71a8bc573ffbbc7f655d799465ee"
                 },
-                "time": "2017-03-01 17:25:52",
+                "time": "2017-03-01 17:50:29",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
