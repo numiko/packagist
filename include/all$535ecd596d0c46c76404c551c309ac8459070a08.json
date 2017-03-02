@@ -26,6 +26,32 @@
                 }
             }
         },
+        "drupal/twig_values": {
+            "dev-8.x-1.x": {
+                "name": "drupal/twig_values",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "c2249e16c8d84b42b707f5231457a733a6e8e512"
+                },
+                "time": "2017-03-02 16:53:38",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            }
+        },
         "drupal/webform_ajax": {
             "8.1.0": {
                 "name": "drupal/webform_ajax",
