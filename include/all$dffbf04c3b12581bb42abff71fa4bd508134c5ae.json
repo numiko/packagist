@@ -26,6 +26,46 @@
                 }
             }
         },
+        "drupal/structured_data": {
+            "8.1.1": {
+                "name": "drupal/structured_data",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/structured-data.git",
+                    "reference": "9ad2b54e4988af466b3fa1a217cbaff1998d57b4"
+                },
+                "time": "2017-03-07 14:48:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add json+ld structured data and structured data plugin system",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "drupal/structured_data",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/structured-data.git",
+                    "reference": "c2882df15ef0f76518fd38c446d3363de244fd95"
+                },
+                "time": "2017-03-07 14:48:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add json+ld structured data and structured data plugin system",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "drupal/webform_ajax": {
             "8.1.0": {
                 "name": "drupal/webform_ajax",
