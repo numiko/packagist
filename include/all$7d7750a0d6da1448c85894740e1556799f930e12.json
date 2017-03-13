@@ -3127,12 +3127,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "758b022d7b10623a8f37e02235aff765f332ce2e"
+                    "reference": "9b3227c5295cd241edaea22b20db444973439b4b"
                 },
                 "require": {
                     "composer/installers": "^1.0",
                     "drupal/acquia_connector": "8.*",
-                    "drupal/adminimal_theme": "^8.1",
+                    "drupal/adminimal_theme": "^1.3",
                     "drupal/coffee": "^8.1",
                     "drupal/config_update": "8.*",
                     "drupal/core": "^8.1.0",
@@ -3176,7 +3176,7 @@
                     "numiko/sensible_email_validation": "^8.1",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2017-02-27 16:38:33",
+                "time": "2017-03-13 17:38:54",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
