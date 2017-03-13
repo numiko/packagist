@@ -3127,7 +3127,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "9b3227c5295cd241edaea22b20db444973439b4b"
+                    "reference": "126fe86a03a16064825a586fd8bb8111c65f7046"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -3140,7 +3140,7 @@
                     "drupal/devel": "8.*",
                     "drupal/easy_breadcrumb": "^8.1",
                     "drupal/embed": "8.*",
-                    "drupal/entity_browser": "^8.1",
+                    "drupal/entity_browser": "^1.0",
                     "drupal/entity_embed": "8.*",
                     "drupal/field_group": "8.*",
                     "drupal/focal_point": "8.*",
@@ -3176,7 +3176,7 @@
                     "numiko/sensible_email_validation": "^8.1",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2017-03-13 17:38:54",
+                "time": "2017-03-13 17:56:49",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
