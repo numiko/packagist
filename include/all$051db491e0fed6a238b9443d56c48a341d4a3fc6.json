@@ -4016,6 +4016,30 @@
             }
         },
         "numiko/twig_field_values": {
+            "8.1.0": {
+                "name": "numiko/twig_field_values",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "579bda3c008574cc4bf10d44e5a565104db23758"
+                },
+                "time": "2017-03-14 16:36:30",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/twig_field_values",
                 "version": "dev-8.x-1.x",
@@ -4023,9 +4047,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "7cfe0715b51e64009f54bb35a9b8f60fda626aed"
+                    "reference": "579bda3c008574cc4bf10d44e5a565104db23758"
                 },
-                "time": "2017-03-07 17:28:53",
+                "time": "2017-03-14 16:36:30",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
