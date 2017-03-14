@@ -3127,7 +3127,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "126fe86a03a16064825a586fd8bb8111c65f7046"
+                    "reference": "1dbf3b9bbdec518fc17b9df80a96c3bae8aabb0c"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -3174,9 +3174,10 @@
                     "numiko/menu_block_view_modes": "^8.1",
                     "numiko/node_boolean": "^8.1",
                     "numiko/sensible_email_validation": "^8.1",
-                    "numiko/slice": "^8.1"
+                    "numiko/slice": "^8.1",
+                    "numiko/twig_field_values": "^8.1"
                 },
-                "time": "2017-03-13 17:56:49",
+                "time": "2017-03-14 16:41:58",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -4047,9 +4048,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "579bda3c008574cc4bf10d44e5a565104db23758"
+                    "reference": "72785408b69ccd45bdb4acb996e94bc8b0141a79"
                 },
-                "time": "2017-03-14 16:36:30",
+                "time": "2017-03-14 16:40:06",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
