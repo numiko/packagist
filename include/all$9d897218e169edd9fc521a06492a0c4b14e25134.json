@@ -218,9 +218,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform-ajax.git",
-                    "reference": "200bc62274d04216b26f27c6bec97c68afec98f4"
+                    "reference": "ceae20da2e567b7e1e6ea64a0293995c0f87a741"
                 },
-                "time": "2017-03-15 16:52:07",
+                "time": "2017-03-16 10:18:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
