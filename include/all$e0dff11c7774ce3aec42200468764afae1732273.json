@@ -211,6 +211,30 @@
                     "source": "http://cgit.drupalcode.org/webform_ajax"
                 }
             },
+            "8.1.6": {
+                "name": "drupal/webform_ajax",
+                "version": "8.1.6",
+                "version_normalized": "8.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-ajax.git",
+                    "reference": "bfabdc023922b022bf13773165921738887b0ce6"
+                },
+                "time": "2017-03-17 12:10:33",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Support AJAX form submission methods",
+                "homepage": "https://www.drupal.org/project/webform_ajax",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/webform_ajax",
+                    "source": "http://cgit.drupalcode.org/webform_ajax"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "drupal/webform_ajax",
                 "version": "dev-8.x-1.x",
@@ -218,9 +242,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform-ajax.git",
-                    "reference": "ceae20da2e567b7e1e6ea64a0293995c0f87a741"
+                    "reference": "7ad25ed8dfbbb43e7b212db1e62c1d317b4da856"
                 },
-                "time": "2017-03-16 10:18:59",
+                "time": "2017-03-17 12:10:33",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
