@@ -1569,17 +1569,17 @@
                 ]
             }
         },
-        "numiko/media-responsive-thumbnail": {
+        "numiko/media_responsive_thumbnail": {
             "8.1.0": {
-                "name": "numiko/media-responsive-thumbnail",
+                "name": "numiko/media_responsive_thumbnail",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
-                    "reference": "608053318214334f464c7a3b701b5b885722230a"
+                    "reference": "04b1f6c97e50ecba5278f30d6af27b8dab1dcd53"
                 },
-                "time": "2017-03-29 11:39:06",
+                "time": "2017-03-29 12:16:01",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -1590,15 +1590,15 @@
                 ]
             },
             "dev-8.x-1.x": {
-                "name": "numiko/media-responsive-thumbnail",
+                "name": "numiko/media_responsive_thumbnail",
                 "version": "dev-8.x-1.x",
                 "version_normalized": "dev-8.x-1.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
-                    "reference": "6fd280daf10263233b10de609874a1b48156f346"
+                    "reference": "4fea972800e801b75d5c6f375999e98a0ae13f80"
                 },
-                "time": "2017-03-29 11:39:06",
+                "time": "2017-03-29 12:16:01",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
