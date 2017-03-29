@@ -1569,6 +1569,46 @@
                 ]
             }
         },
+        "numiko/media-responsive-thumbnail": {
+            "8.1.0": {
+                "name": "numiko/media-responsive-thumbnail",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "608053318214334f464c7a3b701b5b885722230a"
+                },
+                "time": "2017-03-29 11:39:06",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/media-responsive-thumbnail",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "6fd280daf10263233b10de609874a1b48156f346"
+                },
+                "time": "2017-03-29 11:39:06",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/media_url_formatter": {
             "dev-8.x-1.x": {
                 "name": "numiko/media_url_formatter",
