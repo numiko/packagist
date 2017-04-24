@@ -46,6 +46,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.2": {
+                "name": "drupal/structured_data",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/structured-data.git",
+                    "reference": "6367e0c372687b8f94a20a8597412fc59319f023"
+                },
+                "time": "2017-04-24 15:41:04",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add json+ld structured data and structured data plugin system",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "drupal/structured_data",
                 "version": "dev-8.x-1.x",
@@ -53,9 +72,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/structured-data.git",
-                    "reference": "c2882df15ef0f76518fd38c446d3363de244fd95"
+                    "reference": "3c58f54206da573f4fbfe007d4d3b7ec2980775c"
                 },
-                "time": "2017-03-07 14:48:40",
+                "time": "2017-04-24 15:41:04",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
