@@ -4461,6 +4461,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.1": {
+                "name": "numiko/visible_trim",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/visible-trim.git",
+                    "reference": "c118041c71e2ce32b8581f0bd1044fff1455f0b8"
+                },
+                "time": "2017-05-04 10:59:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add markup to enable visible trim of text fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/visible_trim",
                 "version": "dev-8.x-1.x",
