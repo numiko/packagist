@@ -1607,6 +1607,46 @@
                 ]
             }
         },
+        "numiko/media_linkit": {
+            "1.0.0": {
+                "name": "numiko/media_linkit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "22f93b50398bfe16bebc097fa7ac7e2e88ba3042"
+                },
+                "time": "2017-05-04 09:28:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/media_linkit",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "6b95e782fac6e52630d4f83e07c1635371e846b5"
+                },
+                "time": "2017-05-04 09:28:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/media_responsive_thumbnail": {
             "8.1.0": {
                 "name": "numiko/media_responsive_thumbnail",
