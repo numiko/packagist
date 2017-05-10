@@ -2035,6 +2035,30 @@
                     "source": "http://cgit.drupalcode.org/block_boolean"
                 }
             },
+            "8.1.4": {
+                "name": "numiko/node_boolean",
+                "version": "8.1.4",
+                "version_normalized": "8.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "34936b3393fb2f6157af4c0467f39442ba531bfc"
+                },
+                "time": "2017-05-10 11:20:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/node_boolean",
                 "version": "dev-8.x-1.x",
@@ -2042,9 +2066,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480"
+                    "reference": "eb0f77d3500bc9256b563730dfa54f6a92aee6e6"
                 },
-                "time": "2017-04-04 10:49:49",
+                "time": "2017-05-10 11:20:53",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
