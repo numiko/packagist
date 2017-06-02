@@ -1705,6 +1705,46 @@
                 ]
             }
         },
+        "numiko/link_fragment": {
+            "1.0.0": {
+                "name": "numiko/link_fragment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "62a728ed9b881d4a571127bec2dc1ec8a59d0f44"
+                },
+                "time": "2017-06-02 10:51:01",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/link_fragment",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "52d284a33f6b66150e2b7587cb5a9b42120dd489"
+                },
+                "time": "2017-06-02 10:51:01",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/link_template_formatter": {
             "8.1.0": {
                 "name": "numiko/link_template_formatter",
