@@ -507,16 +507,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "f31118780be53e80838513fcd3ca21325d090fcc"
+                    "reference": "fa47ea1ed01c6f7d0f4d59fdd5b69d52fdadf19b"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
                     "cweagans/composer-patches": "~1.0",
                     "drupal-composer/drupal-scaffold": "^2.0.1",
-                    "drupal/console": "~0.10",
-                    "drupal/core": "~8.0",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.3",
                     "drush/drush": "~8.0",
-                    "numiko/numiko-media-profile": "~8.0"
+                    "numiko/numiko-media-profile": "~8.2"
                 },
                 "conflict": {
                     "drupal/drupal": "*"
@@ -530,7 +530,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2016-12-22 15:11:04",
+                "time": "2017-06-08 09:44:33",
                 "type": "project",
                 "extra": {
                     "installer-paths": {
