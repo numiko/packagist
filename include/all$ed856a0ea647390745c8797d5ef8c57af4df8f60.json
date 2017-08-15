@@ -997,6 +997,46 @@
                 }
             }
         },
+        "numiko/entity_embed_ckeditor": {
+            "8.1.0": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "a2b3f91c2a18330f5d5ccb26410658b46ea30f35"
+                },
+                "time": "2017-03-23 10:31:13",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "8cb29d6548500c0f1504057a21bcdcc418b991f3"
+                },
+                "time": "2017-03-23 10:35:20",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/entity_reference_view_display": {
             "8.1.0": {
                 "name": "numiko/entity_reference_view_display",
