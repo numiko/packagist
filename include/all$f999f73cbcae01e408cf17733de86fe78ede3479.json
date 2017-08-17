@@ -593,9 +593,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
-                    "reference": "e3db7936c9fbbfead5915e61a783fbae840c5b37"
+                    "reference": "3ab5545473d8f1c17fc8694fc236a8c7f1d6af86"
                 },
-                "time": "2017-08-17 14:55:45",
+                "time": "2017-08-17 15:50:02",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -2321,9 +2321,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/instance-migrate.git",
-                    "reference": "86d497f7f71ba90bcd5795d39643e7196578f3ce"
+                    "reference": "7b637f0ca5e7bdc9b8008f1343d0dfe15acebd32"
                 },
-                "time": "2017-08-17 14:57:49",
+                "time": "2017-08-17 15:42:43",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
