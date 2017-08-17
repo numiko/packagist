@@ -1,5 +1,195 @@
 {
     "packages": {
+        "drupal/domain_access_blocking": {
+            "8.1.0": {
+                "name": "drupal/domain_access_blocking",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
+                    "reference": "ad0cd73195042d25c076577099d744e1cad9d59e"
+                },
+                "time": "2017-08-17 14:38:12",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Block access for CMS users who do not have access to the current domain",
+                "homepage": "https://www.drupal.org/project/domain_access_blocking",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_access_blocking",
+                    "source": "http://cgit.drupalcode.org/domain_access_blocking"
+                }
+            },
+            "dev-master": {
+                "name": "drupal/domain_access_blocking",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
+                    "reference": "ad0cd73195042d25c076577099d744e1cad9d59e"
+                },
+                "time": "2017-08-17 14:38:12",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Block access for CMS users who do not have access to the current domain",
+                "homepage": "https://www.drupal.org/project/domain_access_blocking",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_access_blocking",
+                    "source": "http://cgit.drupalcode.org/domain_access_blocking"
+                }
+            }
+        },
+        "drupal/domain_path": {
+            "8.1.0": {
+                "name": "drupal/domain_path",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "45a79c83d960769ca7e40f2b01f90b058b659b0c"
+                },
+                "time": "2017-08-17 14:47:51",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "drupal/domain_path",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "45a79c83d960769ca7e40f2b01f90b058b659b0c"
+                },
+                "time": "2017-08-17 14:47:51",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "drupal/domain_redirect": {
+            "8.1.0": {
+                "name": "drupal/domain_redirect",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "ab5ec3ab431e85a91411159e735ed871de63acf2"
+                },
+                "time": "2017-08-17 10:59:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            "dev-master": {
+                "name": "drupal/domain_redirect",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "ab5ec3ab431e85a91411159e735ed871de63acf2"
+                },
+                "time": "2017-08-17 10:59:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            }
+        },
+        "drupal/instance_migrate": {
+            "8.1.0": {
+                "name": "drupal/instance_migrate",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "27399766da22a78283f965aa48bd5d17977ee0e1"
+                },
+                "time": "2017-08-17 11:15:14",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
+            "dev-master": {
+                "name": "drupal/instance_migrate",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "27399766da22a78283f965aa48bd5d17977ee0e1"
+                },
+                "time": "2017-08-17 11:15:14",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            }
+        },
         "drupal/slice_jump_links": {
             "8.1.0": {
                 "name": "drupal/slice_jump_links",
