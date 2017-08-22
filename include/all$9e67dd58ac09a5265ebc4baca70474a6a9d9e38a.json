@@ -650,6 +650,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.2": {
+                "name": "numiko/domain_path",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "714e00b2a3024c4e7b0a23bcda8803dc5b3c1ada"
+                },
+                "time": "2017-08-22 11:28:58",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/domain_path",
                 "version": "dev-master",
@@ -657,9 +676,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-path.git",
-                    "reference": "60463db61633c19a40ebb7d992a29c51ea44f59e"
+                    "reference": "714e00b2a3024c4e7b0a23bcda8803dc5b3c1ada"
                 },
-                "time": "2017-08-17 14:57:21",
+                "time": "2017-08-22 11:28:58",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
