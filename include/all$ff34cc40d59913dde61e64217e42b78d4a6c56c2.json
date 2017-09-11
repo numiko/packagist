@@ -4272,7 +4272,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "b4f4ef8d69ebf9d7aebd9d44efb639a7a17256a0"
+                    "reference": "ad22d2e9a39a6dfaf9261e164491b26e1557cdcb"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -4321,7 +4321,7 @@
                     "numiko/node_boolean": "dev-8.x-1.x",
                     "numiko/slice": "^8.1"
                 },
-                "time": "2016-12-22 14:11:20",
+                "time": "2017-09-11 14:51:52",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
