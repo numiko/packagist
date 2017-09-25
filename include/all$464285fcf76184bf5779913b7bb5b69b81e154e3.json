@@ -2443,6 +2443,30 @@
                     "source": "http://cgit.drupalcode.org/instance_migrate"
                 }
             },
+            "8.1.4": {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.4",
+                "version_normalized": "8.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "c15b43db3903b6dc81d3bed0fb666c9358b40cae"
+                },
+                "time": "2017-09-25 10:42:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
             "dev-master": {
                 "name": "numiko/instance_migrate",
                 "version": "dev-master",
@@ -2450,9 +2474,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/instance-migrate.git",
-                    "reference": "0e6cbabe003df56382eba3ab835c7e3c5cda8976"
+                    "reference": "c15b43db3903b6dc81d3bed0fb666c9358b40cae"
                 },
-                "time": "2017-08-31 16:11:41",
+                "time": "2017-09-25 10:42:40",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
