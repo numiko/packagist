@@ -4707,15 +4707,15 @@
                 ]
             }
         },
-        "numiko/search_api_exlude": {
+        "numiko/search_api_exclude": {
             "dev-master": {
-                "name": "numiko/search_api_exlude",
+                "name": "numiko/search_api_exclude",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/search-api-exclude.git",
-                    "reference": "319cf28ea2a97cd96ea2972e633b4e900367a684"
+                    "reference": "b53defdd3409cf9e026fccdcdc1ceef5f6a9138a"
                 },
                 "time": "2017-10-03 10:58:27",
                 "type": "drupal-module",
