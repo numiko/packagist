@@ -817,9 +817,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "a48b992aa3fbd161b84bf454dbb73fefb6a6025f"
+                    "reference": "383292554d17da5a5c957cd7cc8982e82a68f169"
                 },
-                "time": "2017-10-13 16:19:22",
+                "time": "2017-10-23 16:53:51",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
