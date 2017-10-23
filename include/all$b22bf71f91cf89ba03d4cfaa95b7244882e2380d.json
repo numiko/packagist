@@ -2718,6 +2718,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.1": {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "1219c99151cab88497f1ca3644ac2aa3bc20f6bd"
+                },
+                "time": "2017-10-23 14:54:45",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/media_responsive_thumbnail",
                 "version": "dev-8.x-1.x",
@@ -2725,9 +2744,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
-                    "reference": "4fea972800e801b75d5c6f375999e98a0ae13f80"
+                    "reference": "80ca72cd982d5279b56e70f60bc5d81c3f41d615"
                 },
-                "time": "2017-03-29 12:16:01",
+                "time": "2017-10-23 14:54:45",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
