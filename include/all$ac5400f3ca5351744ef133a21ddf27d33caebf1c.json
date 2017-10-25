@@ -586,6 +586,30 @@
                     "source": "http://cgit.drupalcode.org/domain_access_blocking"
                 }
             },
+            "8.1.2": {
+                "name": "numiko/domain_access_blocking",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
+                    "reference": "931642fbf23ba0e0bd4114d5d4915d34e7daaa47"
+                },
+                "time": "2017-10-25 11:00:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Block access for CMS users who do not have access to the current domain",
+                "homepage": "https://www.drupal.org/project/domain_access_blocking",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_access_blocking",
+                    "source": "http://cgit.drupalcode.org/domain_access_blocking"
+                }
+            },
             "dev-master": {
                 "name": "numiko/domain_access_blocking",
                 "version": "dev-master",
@@ -593,9 +617,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
-                    "reference": "3ab5545473d8f1c17fc8694fc236a8c7f1d6af86"
+                    "reference": "931642fbf23ba0e0bd4114d5d4915d34e7daaa47"
                 },
-                "time": "2017-08-17 15:50:02",
+                "time": "2017-10-25 11:00:40",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
