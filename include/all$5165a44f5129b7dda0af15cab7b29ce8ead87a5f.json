@@ -617,9 +617,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-access-blocking.git",
-                    "reference": "931642fbf23ba0e0bd4114d5d4915d34e7daaa47"
+                    "reference": "c94b9b01d059c0e326184b596c2ca28f3e091dac"
                 },
-                "time": "2017-10-25 11:00:40",
+                "time": "2017-10-25 14:52:54",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
