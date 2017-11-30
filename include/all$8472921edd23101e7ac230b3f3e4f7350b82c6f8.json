@@ -3125,6 +3125,46 @@
                 }
             }
         },
+        "numiko/minimal-date-fields": {
+            "1.0.0": {
+                "name": "numiko/minimal-date-fields",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimal-date-fields.git",
+                    "reference": "0d27d411267ebda3ae153a861ddaea6ef6fd0f0b"
+                },
+                "time": "2017-11-30 13:27:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add date fields for storing just year/month or year values only",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/minimal-date-fields",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimal-date-fields.git",
+                    "reference": "b177233aa889c248ba159e9513a243c58fe0e060"
+                },
+                "time": "2017-11-30 13:27:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add date fields for storing just year/month or year values only",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/node_boolean": {
             "8.1.0": {
                 "name": "numiko/node_boolean",
