@@ -382,6 +382,25 @@
             }
         },
         "numiko/custom-caption-filter": {
+            "1.4.0": {
+                "name": "numiko/custom-caption-filter",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "de138ed21034a77a4bfda6667e32fce961359fbf"
+                },
+                "time": "2017-11-30 13:06:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.1": {
                 "name": "numiko/custom-caption-filter",
                 "version": "8.1.1",
@@ -446,9 +465,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
-                    "reference": "eda0af46064d3170c5e2a38f34d4d66f2745862c"
+                    "reference": "de138ed21034a77a4bfda6667e32fce961359fbf"
                 },
-                "time": "2017-06-02 15:11:45",
+                "time": "2017-11-30 13:06:22",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -1408,6 +1427,46 @@
                     "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
                     "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
                 }
+            }
+        },
+        "numiko/entity-reference-revisions-context": {
+            "1.0.0": {
+                "name": "numiko/entity-reference-revisions-context",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
+                    "reference": "09f8f85324e5ed904d8c50489d1fcd8b61a11d34"
+                },
+                "time": "2017-11-30 13:07:05",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add data attributes to paragraphs to represent their position within a set of paragraphs",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/entity-reference-revisions-context",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
+                    "reference": "17bf8654ffe2904973544260833ed1704ee3d74d"
+                },
+                "time": "2017-11-30 13:07:05",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add data attributes to paragraphs to represent their position within a set of paragraphs",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/entity_embed_ckeditor": {
