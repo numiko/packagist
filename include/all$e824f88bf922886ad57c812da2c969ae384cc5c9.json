@@ -5870,6 +5870,46 @@
                 }
             }
         },
+        "numiko/views-topup": {
+            "1.0.0": {
+                "name": "numiko/views-topup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "de5e6e8a864543bae1f7c101ea70dbad02a9c510"
+                },
+                "time": "2017-11-30 12:39:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/views-topup",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "d9a817f05b547f62bad5b16a06e1e599cd90aef0"
+                },
+                "time": "2017-11-30 12:39:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/visible_trim": {
             "8.1.0": {
                 "name": "numiko/visible_trim",
@@ -5943,6 +5983,46 @@
                     "GPL-2.0+"
                 ],
                 "description": "Add markup to enable visible trim of text fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/webform-dotmailer": {
+            "1.0.0": {
+                "name": "numiko/webform-dotmailer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-dotmailer.git",
+                    "reference": "08394857c7b1494f997b37d335d89468a51d7f78"
+                },
+                "time": "2017-11-30 12:29:55",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add a handler for Dotmailer for webform submissions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/webform-dotmailer",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-dotmailer.git",
+                    "reference": "22214a645660eae9bc03167c85140c62d48e1768"
+                },
+                "time": "2017-11-30 12:29:55",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add a handler for Dotmailer for webform submissions",
                 "keywords": [
                     "Drupal"
                 ]
