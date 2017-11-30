@@ -5948,6 +5948,46 @@
                 ]
             }
         },
+        "numiko/webform-field-selector": {
+            "1.0.0": {
+                "name": "numiko/webform-field-selector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-field-selector.git",
+                    "reference": "963abf10f72b22dba25c11cd94afa3ed7f3fe937"
+                },
+                "time": "2017-11-30 12:19:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add optional fields to a webform, selectable on a per instance basis",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/webform-field-selector",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-field-selector.git",
+                    "reference": "d76c97f24349e5bd10bd93250d2c339f9176f2c5"
+                },
+                "time": "2017-11-30 12:19:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add optional fields to a webform, selectable on a per instance basis",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/wm_bulk_actions": {
             "8.1.0": {
                 "name": "numiko/wm_bulk_actions",
