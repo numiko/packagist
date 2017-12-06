@@ -401,6 +401,25 @@
                     "Drupal"
                 ]
             },
+            "1.4.1": {
+                "name": "numiko/custom-caption-filter",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "00fc0e668fc9abcb23ec86624d0e5d5d5db676aa"
+                },
+                "time": "2017-12-06 15:51:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.1": {
                 "name": "numiko/custom-caption-filter",
                 "version": "8.1.1",
