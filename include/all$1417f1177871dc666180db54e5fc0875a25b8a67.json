@@ -505,13 +505,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "03d6df0477008a6c54ad065f97482c6fb5ace43a"
+                    "reference": "99776a1bf5482f2d236a891b15ca4b2da5263bf2"
                 },
                 "require": {
                     "composer/installers": "^1.0",
                     "drupal/acquia_connector": "^1.8",
                     "drupal/advagg": "^3.4",
-                    "drupal/better_exposed_filters": "^5.0",
+                    "drupal/better_exposed_filters": "^3.0",
                     "drupal/coffee": "^1.0",
                     "drupal/config_filter": "^1.0",
                     "drupal/config_ignore": "^2.0",
@@ -580,7 +580,7 @@
                     "numiko/sensible_email_validation": "^8.1",
                     "numiko/twig_field_values": "^8.1"
                 },
-                "time": "2018-01-10 12:46:09",
+                "time": "2018-01-10 13:12:28",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
