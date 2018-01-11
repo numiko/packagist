@@ -766,14 +766,14 @@
                 ],
                 "description": "The numiko d8 profile"
             },
-            "dev-master": {
+            "0.1.0-alpha4": {
                 "name": "numiko/d8-profile",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.1.0-alpha4",
+                "version_normalized": "0.1.0.0-alpha4",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "f9bfea49388420a26b75f030f1dd1fb268cdf92f"
+                    "reference": "87a31d777410c36e8c5ffec3040e160fa2fd51f9"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -849,7 +849,97 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2018-01-11 09:31:14",
+                "time": "2018-01-11 15:23:26",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko d8 profile"
+            },
+            "dev-master": {
+                "name": "numiko/d8-profile",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d8-profile.git",
+                    "reference": "30c44f317f71398067099d1383e5ad3ad62cdb1d"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "drupal/acquia_connector": "^1.8",
+                    "drupal/advagg": "^3.4",
+                    "drupal/better_exposed_filters": "^3.0",
+                    "drupal/coffee": "^1.0",
+                    "drupal/config_filter": "^1.0",
+                    "drupal/config_ignore": "^2.0",
+                    "drupal/config_split": "^1.0",
+                    "drupal/config_update": "^1.3",
+                    "drupal/core": "^8.4",
+                    "drupal/cshs": "^1.0",
+                    "drupal/ctools": "^3.0",
+                    "drupal/devel": "^1.0",
+                    "drupal/easy_breadcrumb": "^1.6",
+                    "drupal/editor_advanced_link": "^1.0",
+                    "drupal/embed": "^1.0",
+                    "drupal/entity_browser": "^1.0",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.0",
+                    "drupal/facets": "^1.0",
+                    "drupal/facets_pretty_paths": "^1.0",
+                    "drupal/field_group": "^1.0",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.0",
+                    "drupal/honeypot": "^1.24",
+                    "drupal/image_widget_crop": "^2.0",
+                    "drupal/imageapi_optimize": "^2.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^5.0",
+                    "drupal/mailsystem": "^4.0",
+                    "drupal/maxlength": "^1.0",
+                    "drupal/media_entity": "^1.6",
+                    "drupal/media_entity_document": "^1.",
+                    "drupal/media_entity_image": "^1.2",
+                    "drupal/media_entity_instagram": "^1.2",
+                    "drupal/media_entity_twitter": "^1.3",
+                    "drupal/menu_block": "^1.4",
+                    "drupal/metatag": "^1.0",
+                    "drupal/mimemail": "^1.0",
+                    "drupal/minifyhtml": "^1.1",
+                    "drupal/paragraphs": "^1.1",
+                    "drupal/password_policy": "^3.0",
+                    "drupal/path_redirect_import": "^1.0",
+                    "drupal/pathauto": "^1.0",
+                    "drupal/rabbit_hole": "^1.0",
+                    "drupal/redirect": "^1.0",
+                    "drupal/redis": "^1.0",
+                    "drupal/role_delegation": "^1.0",
+                    "drupal/scheduled_updates": "^1.0",
+                    "drupal/search_api": "^1.0",
+                    "drupal/search_api_solr": "^1.0",
+                    "drupal/search_kint": "^1.0",
+                    "drupal/seckit": "^1.0",
+                    "drupal/simple_sitemap": "^2.8",
+                    "drupal/smart_trim": "^1.0",
+                    "drupal/stage_file_proxy": "^1.0",
+                    "drupal/structured_data": "^8.1",
+                    "drupal/token": "^1.0",
+                    "drupal/video_embed_field": "^1.4",
+                    "drupal/views_infinite_scroll": "^1.3",
+                    "drupal/webform": "^5.0",
+                    "drupal/workbench": "^1.0",
+                    "drupal/workbench_moderation": "^1.2",
+                    "numiko/custom-caption-filter": "^8.1",
+                    "numiko/entity_reference_view_display": "^8.1",
+                    "numiko/form_ui": "^1.0",
+                    "numiko/media_responsive_thumbnail": "^8.1",
+                    "numiko/menu_block_view_modes": "^8.1",
+                    "numiko/node_boolean": "^8.1",
+                    "numiko/sensible_email_validation": "^8.1",
+                    "numiko/twig_field_values": "^8.1",
+                    "numiko/views-topup": "^1.0"
+                },
+                "time": "2018-01-11 15:23:26",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -1355,6 +1445,166 @@
             }
         },
         "numiko/drupal-8-composer-template": {
+            "1.1.0": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "dc7032932a1fee7df47d07d09e04dca5a1cbe2a8"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "~1.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.0",
+                    "drush/drush": "~8.0",
+                    "numiko/d8-profile": "*"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2018-01-11 15:31:34",
+                "type": "project",
+                "extra": {
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            },
+            "1.1.0-beta1": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "05f9b03d90fd1b0fc31dbe9372072a388161f7e6"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "~1.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.0",
+                    "drush/drush": "~8.0",
+                    "numiko/d8-profile": "*"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2018-01-11 15:31:34",
+                "type": "project",
+                "extra": {
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            },
             "8.x-dev": {
                 "name": "numiko/drupal-8-composer-template",
                 "version": "8.x-dev",
@@ -1442,16 +1692,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "e74602c8482beb157d21014c0c0348dccb4fa0fa"
+                    "reference": "86be5dcea943ec65b0b8ed1df9643ed8cc667194"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
                     "cweagans/composer-patches": "~1.0",
                     "drupal-composer/drupal-scaffold": "^2.0.1",
-                    "drupal/console": "~0.10",
+                    "drupal/console": "~1.0",
                     "drupal/core": "~8.0",
                     "drush/drush": "~8.0",
-                    "numiko/numiko-media-profile": "dev-8.2.5-beta"
+                    "numiko/d8-profile": "*"
                 },
                 "conflict": {
                     "drupal/drupal": "*"
@@ -1465,7 +1715,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2016-12-01 11:25:45",
+                "time": "2018-01-11 15:31:34",
                 "type": "project",
                 "extra": {
                     "installer-paths": {

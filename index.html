@@ -48,7 +48,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                     Numiko Repository
                             </h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2018-01-11T15:26:24+0000">Thu, 11 Jan 2018 15:26:24 +0000</time>
+                Last updated: <time datetime="2018-01-11T15:47:14+0000">Thu, 11 Jan 2018 15:47:14 +0000</time>
             </div>
         </div>
         <div id="bd">
@@ -210,12 +210,15 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                                                                                 <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="git@bitbucket.org:numiko/d8-profile.git" title="f9bfea49388420a26b75f030f1dd1fb268cdf92f">dev-master</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="5e3ba3667f050f0be060df0462c17a4eecb11305">0.1.0-alpha3</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="6d6be6aeaf24f6df118961d025913974f3d84d2b">0.1.0-alpha2</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="93748460b2701c64de7e7894d954124a6da0dc3f">0.1.0-alpha1</a>                                </td>
+                                    <a href="git@bitbucket.org:numiko/d8-profile.git" title="30c44f317f71398067099d1383e5ad3ad62cdb1d">dev-master</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="87a31d777410c36e8c5ffec3040e160fa2fd51f9">0.1.0-alpha4</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="5e3ba3667f050f0be060df0462c17a4eecb11305">0.1.0-alpha3</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="6d6be6aeaf24f6df118961d025913974f3d84d2b">0.1.0-alpha2</a>, <a href="git@bitbucket.org:numiko/d8-profile.git" title="93748460b2701c64de7e7894d954124a6da0dc3f">0.1.0-alpha1</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
                                 <td>
-                                                                                                        </td>
+                                                                                                                <ul>
+                                                                                            <li><a href="#numiko/drupal-8-composer-template">numiko/drupal-8-composer-template</a></li>
+                                                                                    </ul>
+                                                                    </td>
                             </tr>
                         </table>
                     </div>
@@ -341,7 +344,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                                                     <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="fa47ea1ed01c6f7d0f4d59fdd5b69d52fdadf19b">8.x-dev</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="e74602c8482beb157d21014c0c0348dccb4fa0fa">dev-8.x-beta</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="c1323b4a491d331f13494aa377697ec8015d5566">dev-madalini/drupal-8-future-official-skeleton-alteration</a>                                </td>
+                                    <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="fa47ea1ed01c6f7d0f4d59fdd5b69d52fdadf19b">8.x-dev</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="dc7032932a1fee7df47d07d09e04dca5a1cbe2a8">1.1.0</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="05f9b03d90fd1b0fc31dbe9372072a388161f7e6">1.1.0-beta1</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="86be5dcea943ec65b0b8ed1df9643ed8cc667194">dev-8.x-beta</a>, <a href="git@bitbucket.org:numiko/drupal-8-composer-template.git" title="c1323b4a491d331f13494aa377697ec8015d5566">dev-madalini/drupal-8-future-official-skeleton-alteration</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -1288,7 +1291,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2018-01-11T15:26:24+0000</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2018-01-11T15:47:14+0000</small></p>
         </div>
     </div>
 
@@ -1339,7 +1342,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2018-01-11T15:26:24+0000').fromNow());
+            $lastUpdate.text(moment('2018-01-11T15:47:14+0000').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
