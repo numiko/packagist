@@ -3734,6 +3734,48 @@
                 }
             }
         },
+        "numiko/numiadmin": {
+            "dev-master": {
+                "name": "numiko/numiadmin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "7752d701fa98f60e682880aed04d193f617602e5"
+                },
+                "time": "2018-01-11 12:36:59",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Seven",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/numibase": {
+            "dev-master": {
+                "name": "numiko/numibase",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "b540e9c6329a98c1699a80eaf883abb412efc8a9"
+                },
+                "time": "2018-01-11 12:32:04",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/numiko-media-profile": {
             "8.1.0": {
                 "name": "numiko/numiko-media-profile",
