@@ -856,14 +856,14 @@
                 ],
                 "description": "The numiko d8 profile"
             },
-            "0.1.0-beta6": {
+            "0.1.0-alpha5": {
                 "name": "numiko/d8-profile",
-                "version": "0.1.0-beta6",
-                "version_normalized": "0.1.0.0-beta6",
+                "version": "0.1.0-alpha5",
+                "version_normalized": "0.1.0.0-alpha5",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "b7fc34cc2d7895ec1a26f85be862f65347bd6e5b"
+                    "reference": "f81af8c4648929d4a0a8de7b131164fe20bec976"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -941,7 +941,7 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2018-01-11 16:01:41",
+                "time": "2018-01-12 09:16:29",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -955,7 +955,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "ef855f6455303d016d09a48c8c99f740a336ed75"
+                    "reference": "dfea2a37e5cbc5ec423fb51a8e0c8cffc140078b"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -1033,7 +1033,7 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2018-01-11 16:01:41",
+                "time": "2018-01-12 09:16:29",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
