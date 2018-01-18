@@ -91,9 +91,28 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/structured-data.git",
-                    "reference": "3c58f54206da573f4fbfe007d4d3b7ec2980775c"
+                    "reference": "27452a5018de5d4a3f03668574b6ef0ebf76b768"
                 },
-                "time": "2017-04-24 15:41:04",
+                "time": "2018-01-18 13:39:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add json+ld structured data and structured data plugin system",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/validate_tokens_museum": {
+                "name": "drupal/structured_data",
+                "version": "dev-feature/validate_tokens_museum",
+                "version_normalized": "dev-feature/validate_tokens_museum",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/structured-data.git",
+                    "reference": "0ded8e8269867b05b3d59794268c994e1450d7f7"
+                },
+                "time": "2018-01-18 14:53:39",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
