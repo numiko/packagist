@@ -8799,6 +8799,44 @@
                 ]
             }
         },
+        "numiko/token_entity_reference": {
+            "1.0.0": {
+                "name": "numiko/token_entity_reference",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "279f858adcd65c8f560827b87e06350a6799213f"
+                },
+                "time": "2018-04-11 10:41:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/token_entity_reference",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "f26d47a46881b693499c605de74a917c55d1ddd6"
+                },
+                "time": "2018-04-11 10:41:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/twig_field_values": {
             "8.1.0": {
                 "name": "numiko/twig_field_values",
