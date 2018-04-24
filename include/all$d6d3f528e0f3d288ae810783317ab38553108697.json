@@ -3174,6 +3174,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.3-beta.1": {
+                "name": "numiko/descendants_menu_block",
+                "version": "8.1.3-beta.1",
+                "version_normalized": "8.1.3.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "2b13a2e5b51488defb9b719bc19cf24287f27298"
+                },
+                "time": "2018-04-24 14:40:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/descendants_menu_block",
                 "version": "dev-8.x-1.x",
@@ -3184,6 +3203,25 @@
                     "reference": "1b83ffcf48bee744864f68170f76530fe520de12"
                 },
                 "time": "2017-08-16 12:17:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/active-trail-root": {
+                "name": "numiko/descendants_menu_block",
+                "version": "dev-feature/active-trail-root",
+                "version_normalized": "dev-feature/active-trail-root",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "ffde06551717f5462a0d22e9785a8ed6d042c4a0"
+                },
+                "time": "2018-04-24 14:40:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
