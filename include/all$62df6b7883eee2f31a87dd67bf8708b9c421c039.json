@@ -3193,6 +3193,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.3-beta.2": {
+                "name": "numiko/descendants_menu_block",
+                "version": "8.1.3-beta.2",
+                "version_normalized": "8.1.3.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "7813a0303891eca8df24b45433e776f504d90513"
+                },
+                "time": "2018-04-26 11:05:11",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/descendants_menu_block",
                 "version": "dev-8.x-1.x",
@@ -3219,9 +3238,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
-                    "reference": "ffde06551717f5462a0d22e9785a8ed6d042c4a0"
+                    "reference": "a1a0e28b3b1e8d8600e25c08134809ed2544b763"
                 },
-                "time": "2018-04-24 14:40:59",
+                "time": "2018-04-26 11:05:11",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
