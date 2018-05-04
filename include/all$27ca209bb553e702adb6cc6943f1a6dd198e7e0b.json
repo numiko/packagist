@@ -6447,6 +6447,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.1": {
+                "name": "numiko/numibase",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163"
+                },
+                "time": "2018-05-04 08:37:33",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/numibase",
                 "version": "dev-master",
@@ -6454,9 +6473,28 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "528befbd466c57fbd39c2d3b80bc09868ed8326f"
+                    "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163"
                 },
-                "time": "2018-04-10 11:10:19",
+                "time": "2018-05-04 08:37:33",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-fix/page-actions": {
+                "name": "numiko/numibase",
+                "version": "dev-fix/page-actions",
+                "version_normalized": "dev-fix/page-actions",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163"
+                },
+                "time": "2018-05-04 08:37:33",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
