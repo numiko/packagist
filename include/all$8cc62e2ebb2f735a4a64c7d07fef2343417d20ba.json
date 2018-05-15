@@ -4699,6 +4699,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/fill-blocks": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-feature/fill-blocks",
+                "version_normalized": "dev-feature/fill-blocks",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "2e05de86ff90a7452ccbba42fb0633660dc55f5b"
+                },
+                "time": "2018-05-15 09:32:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/facets_all_links": {
