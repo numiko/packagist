@@ -9489,9 +9489,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/views-topup.git",
-                    "reference": "9857cc15e2e53709b0b52be50a42c6d682a72a29"
+                    "reference": "8b132da24f6cf684f58b7bb879da34a2ef653eba"
                 },
-                "time": "2018-05-02 11:27:09",
+                "time": "2018-05-31 14:37:31",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
