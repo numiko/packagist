@@ -8380,6 +8380,25 @@
                     "Drupal"
                 ]
             },
+            "1.0.1": {
+                "name": "numiko/reference_views_filter",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "5ef9a52a8484c5837fef603978180804a41a1ace"
+                },
+                "time": "2018-06-29 15:36:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0-beta1": {
                 "name": "numiko/reference_views_filter",
                 "version": "8.1.0-beta1",
@@ -8406,9 +8425,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/reference-views-filter.git",
-                    "reference": "374f073e0b41c546570646934230ca45fb611546"
+                    "reference": "60637f79a2854f1da31a49a42970f5dd880bc695"
                 },
-                "time": "2017-07-27 11:26:00",
+                "time": "2018-06-29 15:36:19",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -9320,6 +9339,24 @@
                     "Drupal"
                 ]
             },
+            "1.0.2": {
+                "name": "numiko/token_entity_reference",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "2258afd4086ffcf3ab0dabfa70d5252bd88ee5e4"
+                },
+                "time": "2018-06-29 15:44:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/token_entity_reference",
                 "version": "dev-master",
@@ -9327,9 +9364,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "d9878bdecd2dc2337e4a86a761c90e7e96e5472e"
+                    "reference": "4ddde2ca9ee49b9c8590608ae71969eb9ac86ef7"
                 },
-                "time": "2018-06-13 15:28:13",
+                "time": "2018-06-29 15:44:53",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
