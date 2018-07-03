@@ -4744,6 +4744,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-fix/coding-standards": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "dev-fix/coding-standards",
+                "version_normalized": "dev-fix/coding-standards",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "db35c9e828e41520b0c95cda9244b130a968cc50"
+                },
+                "time": "2018-07-03 12:51:14",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/entity_reference_view_display": {
