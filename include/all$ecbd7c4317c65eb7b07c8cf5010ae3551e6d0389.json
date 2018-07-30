@@ -3570,6 +3570,46 @@
                 "description": "The numiko d8 profile"
             }
         },
+        "numiko/default_menu_link": {
+            "1.0.0": {
+                "name": "numiko/default_menu_link",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/default-menu-link",
+                    "reference": "618f8ae1112db5b43ca50b5fb1b4e95c6e7d6a77"
+                },
+                "time": "2018-07-30 13:16:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Default the menu to be switched on per content type",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/default_menu_link",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/default-menu-link",
+                    "reference": "e566b848d26416c4266ed4017d04f9019bbd0396"
+                },
+                "time": "2018-07-30 13:16:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Default the menu to be switched on per content type",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/descendants_menu_block": {
             "8.1.0": {
                 "name": "numiko/descendants_menu_block",
@@ -5417,6 +5457,46 @@
                 ]
             }
         },
+        "numiko/field_items_limit": {
+            "1.0.0": {
+                "name": "numiko/field_items_limit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-items-limit",
+                    "reference": "138aaf2b3a73e7c4046072beb29adf1668ae0fa6"
+                },
+                "time": "2018-07-30 09:40:12",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Limit the number of items output through field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/field_items_limit",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-items-limit",
+                    "reference": "35b769dd5c20f01304844d826972cde67034370e"
+                },
+                "time": "2018-07-30 09:40:12",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Limit the number of items output through field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/field_lock_multi_values": {
             "0.1.1": {
                 "name": "numiko/field_lock_multi_values",
@@ -6832,6 +6912,46 @@
                     "GPL-2.0+"
                 ],
                 "description": "Add date fields for storing just year/month or year values only",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/minimum_breadcrumb": {
+            "1.0.0": {
+                "name": "numiko/minimum_breadcrumb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimum-breadcrumb",
+                    "reference": "877b6e9cfe1622c25e6de943ea7daae689fb3ed7"
+                },
+                "time": "2018-07-30 09:31:55",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Only shows breadcrumbs if more than n items are present",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/minimum_breadcrumb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimum-breadcrumb",
+                    "reference": "32a4551505eda2a9ffa31d3ef7097d92e223aa9c"
+                },
+                "time": "2018-07-30 09:31:55",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Only shows breadcrumbs if more than n items are present",
                 "keywords": [
                     "Drupal"
                 ]
@@ -8719,6 +8839,46 @@
                 "description": "The numiko media profile"
             }
         },
+        "numiko/random_number_field": {
+            "1.0.0": {
+                "name": "numiko/random_number_field",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/random-number-field",
+                    "reference": "20fb526daa5656a7f1b9aad388162443f400221e"
+                },
+                "time": "2018-07-30 10:23:48",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define a field type to be populated with a random number each time new content is created.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/random_number_field",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/random-number-field",
+                    "reference": "68e4847a63329b6d9f6480ca7c1645b94ee750fb"
+                },
+                "time": "2018-07-30 10:23:48",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define a field type to be populated with a random number each time new content is created.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/reference_views_filter": {
             "1.0.0": {
                 "name": "numiko/reference_views_filter",
@@ -9661,6 +9821,126 @@
                 ]
             }
         },
+        "numiko/taxonomy_slice": {
+            "1.0.0": {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "efa0154661741fc08a9103e20c35a39bed0af66a"
+                },
+                "time": "2018-07-30 09:59:18",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/taxonomy_slice",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "56efcb05cb813edfc10c84dc3ac6869f7c972e5f"
+                },
+                "time": "2018-07-30 09:59:18",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/template_breadcrumb": {
+            "1.0.0": {
+                "name": "numiko/template_breadcrumb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/template-breadcrumb",
+                    "reference": "f4bd1081275f7461aff0fab7970100d3d0b635f8"
+                },
+                "time": "2018-07-30 10:33:42",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enables the injection of breadcrumbs into the view mode",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/template_breadcrumb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/template-breadcrumb",
+                    "reference": "38a13405ea2a4df0b7797bc2f3585b3ce4c06ef5"
+                },
+                "time": "2018-07-30 10:33:42",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enables the injection of breadcrumbs into the view mode",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/token_defaults": {
+            "1.0.0": {
+                "name": "numiko/token_defaults",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-defaults",
+                    "reference": "b0ba54f12a145e8d50b3e4014018f296da3be491"
+                },
+                "time": "2018-07-30 10:06:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Setup rewrites for tokens not found",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/token_defaults",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-defaults",
+                    "reference": "83dd18bbc4db6ca75e6b8ea22bf49023b1568bbb"
+                },
+                "time": "2018-07-30 10:06:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Setup rewrites for tokens not found",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/token_entity_reference": {
             "1.0.0": {
                 "name": "numiko/token_entity_reference",
@@ -9855,6 +10135,46 @@
                     "issues": "http://drupal.org/project/issues/twig_values",
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
+            }
+        },
+        "numiko/user_login_admin": {
+            "1.0.0": {
+                "name": "numiko/user_login_admin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "c50338c5d4afdb84ba65bcfb778b961bff869be7"
+                },
+                "time": "2018-07-30 11:46:58",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/user_login_admin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "2e4b71c4a76ccc3ac61530927301519b33bd2fbe"
+                },
+                "time": "2018-07-30 11:46:58",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/views-topup": {
@@ -10101,6 +10421,86 @@
                     "GPL-2.0+"
                 ],
                 "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/views_helper": {
+            "1.0.0": {
+                "name": "numiko/views_helper",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-helper",
+                    "reference": "4f7c4668a937d566acec2cea9b2e483a2479f9a1"
+                },
+                "time": "2018-07-30 10:16:34",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Show a list of all views and their associated exposed filter arguments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/views_helper",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-helper",
+                    "reference": "9e310946fc5cca9ff9acc45f5e12455b55a96cd1"
+                },
+                "time": "2018-07-30 10:16:34",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Show a list of all views and their associated exposed filter arguments",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/views_string_length_sort": {
+            "1.0.0": {
+                "name": "numiko/views_string_length_sort",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-string-length-sort",
+                    "reference": "27739d536c8e07bf326d83ed3ea04e31920b9b6f"
+                },
+                "time": "2018-07-30 10:38:02",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add the ability to sort a view by string length",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/views_string_length_sort",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-string-length-sort",
+                    "reference": "9b04c5524831d66ca3dde6a502f9fd2307a37fe0"
+                },
+                "time": "2018-07-30 10:38:02",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add the ability to sort a view by string length",
                 "keywords": [
                     "Drupal"
                 ]
