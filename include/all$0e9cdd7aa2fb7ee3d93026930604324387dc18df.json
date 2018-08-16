@@ -4281,6 +4281,28 @@
                     "Drupal"
                 ]
             },
+            "1.3.1": {
+                "name": "numiko/domain_path",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "6bbf4e59d423ad867c084df90428b9abec8a28cc"
+                },
+                "require": {
+                    "drupal/core": "~8.4"
+                },
+                "time": "2018-08-16 10:58:18",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/domain_path",
                 "version": "8.1.0",
@@ -4367,12 +4389,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-path.git",
-                    "reference": "738ca01f69bbc3327eccf3153bf7ee314c9eef4f"
+                    "reference": "6bbf4e59d423ad867c084df90428b9abec8a28cc"
                 },
                 "require": {
                     "drupal/core": "~8.4"
                 },
-                "time": "2017-12-07 11:58:22",
+                "time": "2018-08-16 10:58:18",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
