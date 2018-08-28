@@ -3060,7 +3060,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "24c1fb4f200fa89844799527329b425ad0db6294"
+                    "reference": "c85b5435c703a3ada1be9f7d78c5c568f9b6da3c"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -3128,7 +3128,7 @@
                     "drupal/webform": "^5.0",
                     "drupal/workbench": "^1.0",
                     "drupal/workbench_moderation": "^1.2",
-                    "numiko/custom-caption-filter": "^1",
+                    "numiko/custom-caption-filter": "*",
                     "numiko/entity_reference_view_display": "^8.1",
                     "numiko/form_ui": "^1.0",
                     "numiko/media_responsive_thumbnail": "^8.1",
@@ -3140,7 +3140,7 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2018-08-28 10:18:49",
+                "time": "2018-08-28 10:34:17",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -4192,7 +4192,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "fd678224a26af96e0cdefdf46953691f13f388bd"
+                    "reference": "fe93d493a22b5350fd5b1dbcd7385e1baab70d32"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -4260,7 +4260,7 @@
                     "drupal/webform": "^5.0",
                     "drupal/workbench": "^1.0",
                     "drupal/workbench_moderation": "^1.2",
-                    "numiko/custom-caption-filter": "^1",
+                    "numiko/custom-caption-filter": "*",
                     "numiko/entity_reference_view_display": "^8.1",
                     "numiko/form_ui": "^1.0",
                     "numiko/media_responsive_thumbnail": "^8.1",
@@ -4272,7 +4272,7 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2018-08-28 10:18:49",
+                "time": "2018-08-28 10:34:17",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
