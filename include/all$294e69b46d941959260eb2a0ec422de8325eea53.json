@@ -4810,6 +4810,28 @@
                     "Drupal"
                 ]
             },
+            "1.4.0-beta1": {
+                "name": "numiko/domain_path",
+                "version": "1.4.0-beta1",
+                "version_normalized": "1.4.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "8bb06e7eecc55663368df7a1c480b96cc1104151"
+                },
+                "require": {
+                    "drupal/core": "~8.4"
+                },
+                "time": "2018-09-11 13:20:37",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/domain_path",
                 "version": "8.1.0",
@@ -4902,6 +4924,28 @@
                     "drupal/core": "~8.4"
                 },
                 "time": "2018-09-11 12:51:56",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-fix/current-domain-default-hack": {
+                "name": "numiko/domain_path",
+                "version": "dev-fix/current-domain-default-hack",
+                "version_normalized": "dev-fix/current-domain-default-hack",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "048c3d0d66c0c30f4288ae58fc15482d1ad3de7c"
+                },
+                "require": {
+                    "drupal/core": "~8.4"
+                },
+                "time": "2018-09-11 13:24:30",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
