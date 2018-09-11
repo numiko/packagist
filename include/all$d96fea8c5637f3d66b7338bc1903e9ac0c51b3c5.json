@@ -4896,12 +4896,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-path.git",
-                    "reference": "6bbf4e59d423ad867c084df90428b9abec8a28cc"
+                    "reference": "18e37f4620d45c6afe2e44e0691fdf02cf49a7ba"
                 },
                 "require": {
                     "drupal/core": "~8.4"
                 },
-                "time": "2018-08-16 10:58:18",
+                "time": "2018-09-11 12:51:56",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
