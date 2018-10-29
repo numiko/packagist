@@ -5212,6 +5212,54 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "8.1.5": {
+                "name": "numiko/domain_redirect",
+                "version": "8.1.5",
+                "version_normalized": "8.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "c68c582d826afeb7f20e0588d0dff087e3a27706"
+                },
+                "time": "2018-10-29 17:38:56",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            "8.1.6": {
+                "name": "numiko/domain_redirect",
+                "version": "8.1.6",
+                "version_normalized": "8.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "daf9383ca1b23249ce2bd1b40192721fcd9c47f7"
+                },
+                "time": "2018-10-29 17:39:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-master": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-master",
