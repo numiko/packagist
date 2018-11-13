@@ -11576,6 +11576,30 @@
                     "issues": "http://drupal.org/project/issues/twig_values",
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
+            },
+            "dev-fix/bool-comparison-html-tags": {
+                "name": "numiko/twig_field_values",
+                "version": "dev-fix/bool-comparison-html-tags",
+                "version_normalized": "dev-fix/bool-comparison-html-tags",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "dd7a2882cc178ecb229f477a9b4fa138d50a59ec"
+                },
+                "time": "2018-11-13 09:24:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
             }
         },
         "numiko/user_login_admin": {
