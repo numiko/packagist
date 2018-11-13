@@ -11553,16 +11553,16 @@
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
             },
-            "dev-8.x-1.x": {
+            "8.1.3": {
                 "name": "numiko/twig_field_values",
-                "version": "dev-8.x-1.x",
-                "version_normalized": "dev-8.x-1.x",
+                "version": "8.1.3",
+                "version_normalized": "8.1.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "7e3de72423abdd1ee28df8a9ba9c3713dea68e07"
+                    "reference": "d99fad83ac5917e37b6ba79933b52689d4969986"
                 },
-                "time": "2018-08-02 09:29:52",
+                "time": "2018-11-13 11:03:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -11577,16 +11577,16 @@
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
             },
-            "dev-fix/bool-comparison-html-tags": {
+            "dev-8.x-1.x": {
                 "name": "numiko/twig_field_values",
-                "version": "dev-fix/bool-comparison-html-tags",
-                "version_normalized": "dev-fix/bool-comparison-html-tags",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "dd7a2882cc178ecb229f477a9b4fa138d50a59ec"
+                    "reference": "31aa0c6ca07201e81405e823343a847699d29b55"
                 },
-                "time": "2018-11-13 09:24:32",
+                "time": "2018-11-13 11:03:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
