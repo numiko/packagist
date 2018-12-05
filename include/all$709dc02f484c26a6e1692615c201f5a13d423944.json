@@ -12571,6 +12571,25 @@
                     "Drupal"
                 ]
             },
+            "1.2.0": {
+                "name": "numiko/views-topup",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "58dc7096c650bd3ffd34642586b28c0ad799036e"
+                },
+                "time": "2018-12-05 16:13:31",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/views-topup",
                 "version": "dev-8.x-1.x",
@@ -12578,9 +12597,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/views-topup.git",
-                    "reference": "0967a430d39a95443fd31837d72761c11f18ee88"
+                    "reference": "bc5118880c6391a5635fd0fe0de43a0a975679d6"
                 },
-                "time": "2018-10-26 10:58:07",
+                "time": "2018-12-05 16:13:31",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
