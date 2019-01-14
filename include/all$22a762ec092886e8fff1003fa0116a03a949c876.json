@@ -11333,7 +11333,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-media-profile.git",
-                    "reference": "c272d95f10b61f7bcc6be31ff0bb095a0222cf6a"
+                    "reference": "862b41b6f5afac73b8b6c74567b2ea9ae5cd659b"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -11383,7 +11383,7 @@
                     "numiko/slice": "^4.0",
                     "numiko/twig_field_values": "^8.1"
                 },
-                "time": "2019-01-14 12:23:12",
+                "time": "2019-01-14 14:37:16",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
