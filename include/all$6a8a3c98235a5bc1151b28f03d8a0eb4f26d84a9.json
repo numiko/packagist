@@ -8587,6 +8587,25 @@
                     "Drupal"
                 ]
             },
+            "dev-8.x-2.x": {
+                "name": "numiko/form_ui",
+                "version": "dev-8.x-2.x",
+                "version_normalized": "dev-8.x-2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "52d52b65366188d209c60544c7633ea4069f038b"
+                },
+                "time": "2018-08-10 15:04:41",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/redirect-login-workbench": {
                 "name": "numiko/form_ui",
                 "version": "dev-feature/redirect-login-workbench",
@@ -8594,9 +8613,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "d78b94593d6e93c7fdf07d739a5258b5e790348e"
+                    "reference": "69b5de4ad535d45dec25cdcba9228f79bda65599"
                 },
-                "time": "2019-01-28 11:31:57",
+                "time": "2019-01-28 12:10:55",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
