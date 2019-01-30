@@ -8074,6 +8074,25 @@
                     "Drupal"
                 ]
             },
+            "2.0.1": {
+                "name": "numiko/form_ui",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "a9ae0b5de5d35d414f064528b82e1f3b7afe3b09"
+                },
+                "time": "2019-01-30 09:29:42",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -8594,28 +8613,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "52d52b65366188d209c60544c7633ea4069f038b"
+                    "reference": "0cf07cabeb09863bc8c2794689fbae26b30d60aa"
                 },
-                "time": "2018-08-10 15:04:41",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/redirect-login-workbench": {
-                "name": "numiko/form_ui",
-                "version": "dev-feature/redirect-login-workbench",
-                "version_normalized": "dev-feature/redirect-login-workbench",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "69b5de4ad535d45dec25cdcba9228f79bda65599"
-                },
-                "time": "2019-01-28 12:10:55",
+                "time": "2019-01-30 09:29:42",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
