@@ -8074,16 +8074,16 @@
                     "Drupal"
                 ]
             },
-            "2.0.1": {
+            "1.2.0": {
                 "name": "numiko/form_ui",
-                "version": "2.0.1",
-                "version_normalized": "2.0.1.0",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "a9ae0b5de5d35d414f064528b82e1f3b7afe3b09"
+                    "reference": "789551f7eca14f456bf6226cf1f67ab7548e70b4"
                 },
-                "time": "2019-01-30 09:29:42",
+                "time": "2019-01-30 09:55:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -8575,9 +8575,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "03663f842a69f75664c4326bbb041833b06721b3"
+                    "reference": "2928486912b8c5dcb9cdb36e2efac0298b3808ab"
                 },
-                "time": "2019-01-18 16:36:27",
+                "time": "2019-01-30 09:55:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -8597,25 +8597,6 @@
                     "reference": "f1a8e6cb78d0d8d29dc084e63363f538b3da4302"
                 },
                 "time": "2017-03-10 13:03:18",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-8.x-2.x": {
-                "name": "numiko/form_ui",
-                "version": "dev-8.x-2.x",
-                "version_normalized": "dev-8.x-2.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "0cf07cabeb09863bc8c2794689fbae26b30d60aa"
-                },
-                "time": "2019-01-30 09:29:42",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -9163,6 +9144,25 @@
                     "Drupal"
                 ]
             },
+            "2.0.1": {
+                "name": "numiko/media_url_formatter",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "df7c384f3eee235b573affce481b5069ac91f7d2"
+                },
+                "time": "2019-01-30 09:42:50",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/media_url_formatter",
                 "version": "dev-8.x-1.x",
@@ -9189,9 +9189,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-url-formatter.git",
-                    "reference": "79db99dd66426b4b3e81089ac26d44a765deb813"
+                    "reference": "7b1e4d3a84884e33d5c9c5ae2279da48e16415c4"
                 },
-                "time": "2018-07-31 12:53:34",
+                "time": "2019-01-30 09:42:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
