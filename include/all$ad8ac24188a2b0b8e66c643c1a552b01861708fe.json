@@ -9951,6 +9951,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/2019-updates": {
+                "name": "numiko/numibase",
+                "version": "dev-feature/2019-updates",
+                "version_normalized": "dev-feature/2019-updates",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "8bdf9cef7f2ad3c366bf55ff6a2da60cb4f174e9"
+                },
+                "time": "2019-02-12 12:03:18",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-fix/page-actions": {
                 "name": "numiko/numibase",
                 "version": "dev-fix/page-actions",
