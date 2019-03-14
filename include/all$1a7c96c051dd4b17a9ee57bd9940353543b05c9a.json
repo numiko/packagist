@@ -11985,6 +11985,34 @@
                 ]
             }
         },
+        "numiko/redirect_unpublished": {
+            "1.0.1": {
+                "name": "numiko/redirect_unpublished",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
+                    "reference": "cc2af3eac57d3acd1cfcfaae1fa748a3a7395dd7"
+                },
+                "time": "2019-03-14 17:24:20",
+                "type": "drupal-module",
+                "description": "Redirect unpublished nodes if they have a redirect"
+            },
+            "dev-master": {
+                "name": "numiko/redirect_unpublished",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
+                    "reference": "cc2af3eac57d3acd1cfcfaae1fa748a3a7395dd7"
+                },
+                "time": "2019-03-14 17:24:20",
+                "type": "drupal-module",
+                "description": "Redirect unpublished nodes if they have a redirect"
+            }
+        },
         "numiko/reference_views_filter": {
             "1.0.0": {
                 "name": "numiko/reference_views_filter",
