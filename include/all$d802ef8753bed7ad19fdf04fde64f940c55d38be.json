@@ -6104,7 +6104,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "49947b9570ffc18a281330912bfb7cda377807e0"
+                    "reference": "c91e947aa939f6ce1e51a0f0e3ee9948b6610e45"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -6181,7 +6181,7 @@
                     "numiko/twig_field_values": "^8.1",
                     "numiko/views-topup": "^1.0"
                 },
-                "time": "2019-04-02 18:56:33",
+                "time": "2019-04-02 19:28:59",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -7921,7 +7921,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "940943ae8f32699ab0267a6ce56193a9371f2e7d"
+                    "reference": "08f8d70ac2d6705acad67b8b4a263b8c9bcd5d93"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -7930,7 +7930,7 @@
                     "drupal/console": "~1.0",
                     "drupal/core": "~8.3",
                     "drush/drush": "~8.0",
-                    "numiko/d8-profile": "2.3.0-beta3"
+                    "numiko/d8-profile": "2.3.0-beta4"
                 },
                 "conflict": {
                     "drupal/drupal": "*"
@@ -7944,7 +7944,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-04-02 18:58:06",
+                "time": "2019-04-02 19:30:22",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -7990,7 +7990,11 @@
                         "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
                     ],
                     "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker"
+                        "bash scripts/composer/download-docker",
+                        "cp files/example.settings.local.php docroot/sites/example.settings.local.php",
+                        "cp files/example.settings.local.php docroot/sites/default/settings.local.php",
+                        "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
+                        "cp files/example.development.services.yml docroot/sites/development.services.yml"
                     ]
                 },
                 "license": [
