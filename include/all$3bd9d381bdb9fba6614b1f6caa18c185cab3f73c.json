@@ -6215,7 +6215,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "d224e049f332e5d169128801948f06a3e0e12ee8"
+                    "reference": "759d969e81d30391449e0b34108a757c848d8ced"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -6275,7 +6275,6 @@
                     "drupal/views_infinite_scroll": "*",
                     "drupal/webform": "*",
                     "drupal/workbench": "*",
-                    "drupal/workbench_moderation": "*",
                     "numiko/custom-caption-filter": "*",
                     "numiko/entity_reference_view_display": "*",
                     "numiko/form_ui": "*",
@@ -6287,7 +6286,7 @@
                     "numiko/twig_field_values": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2019-04-10 15:13:27",
+                "time": "2019-04-11 15:38:20",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -6303,9 +6302,6 @@
                         },
                         "drupal/tab_toolbar": {
                             "[2947903] Make tab toolbar available in admin theme configurable": "https://www.drupal.org/files/issues/2947903-4-make-admin-toolbar-tabs-configurable.patch"
-                        },
-                        "drupal/workbench_moderation": {
-                            "[2847078] Create table on module install rather than when first content is created": "https://www.drupal.org/files/issues/2847078-7.patch"
                         }
                     }
                 },
