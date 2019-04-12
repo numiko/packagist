@@ -6531,7 +6531,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "0ded07afd0515636da21078234982eba53dc6dbb"
+                    "reference": "226fc45a66c664f7f90af9ce69f03ee54e25e032"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -6549,6 +6549,7 @@
                     "drupal/easy_breadcrumb": "*",
                     "drupal/editor_advanced_link": "*",
                     "drupal/embed": "*",
+                    "drupal/entity": "*",
                     "drupal/entity_browser": "*",
                     "drupal/entity_clone": "*",
                     "drupal/entity_embed": "*",
@@ -6603,7 +6604,7 @@
                     "numiko/twig_field_values": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2019-04-12 10:58:57",
+                "time": "2019-04-12 11:15:07",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
