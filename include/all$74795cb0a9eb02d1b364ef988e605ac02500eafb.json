@@ -141,6 +141,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/specify-breadcrumb-and-site-url": {
+                "name": "drupal/structured_data",
+                "version": "dev-feature/specify-breadcrumb-and-site-url",
+                "version_normalized": "dev-feature/specify-breadcrumb-and-site-url",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/structured-data.git",
+                    "reference": "45790476b029ed0e0c94cca8e0a03e388d32661f"
+                },
+                "time": "2019-04-15 15:17:06",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add json+ld structured data and structured data plugin system",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/validate_tokens_museum": {
                 "name": "drupal/structured_data",
                 "version": "dev-feature/validate_tokens_museum",
