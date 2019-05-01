@@ -8975,7 +8975,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "3c90fabdbf54b086f0a8b0ef0478a4b3e6b32b56"
+                    "reference": "264f370b279b4f9e356b051bd3f167c30f5b60de"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -8998,7 +8998,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-05-01 10:42:49",
+                "time": "2019-05-01 14:50:36",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -11871,9 +11871,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "83a5b398b942de5ebfdb0ecd64aeb0e9cfaeaa98"
+                    "reference": "0e7caa4a8432ce08ccb8b147b4d075d10c7a634f"
                 },
-                "time": "2019-05-01 11:10:33",
+                "time": "2019-05-01 14:46:15",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -12061,9 +12061,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "ad50dd3862d522bd950796d11ab01aa1f351bf20"
+                    "reference": "dee1f93e908b1d1bcd6503788784f1c76283c40c"
                 },
-                "time": "2019-05-01 11:10:33",
+                "time": "2019-05-01 14:46:15",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
