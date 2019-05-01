@@ -10604,6 +10604,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/save-edit": {
+                "name": "numiko/form_ui",
+                "version": "dev-feature/save-edit",
+                "version_normalized": "dev-feature/save-edit",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "c73280197a01787d7b78a36bf74a7b0b2105b9b4"
+                },
+                "time": "2019-05-01 08:46:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/icon-menu": {
