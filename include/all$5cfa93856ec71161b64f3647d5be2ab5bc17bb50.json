@@ -11928,9 +11928,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "c3a3a5c4c9eb0cec38c4e1d0237b745cde2aff4d"
+                    "reference": "51cd0be4028c60dcf758fd26a6292aeff7aae46f"
                 },
-                "time": "2019-05-01 11:10:48",
+                "time": "2019-05-01 12:32:18",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -14152,6 +14152,33 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
+            "8.1.1": {
+                "name": "numiko/sensible_email_validation",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "dfd6cf85eb5a4fe706910456f8cf0a7e8e2d16ff"
+                },
+                "require": {
+                    "egulias/email-validator": "*"
+                },
+                "time": "2019-05-01 12:45:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/sensible_email_validation",
                 "version": "dev-8.x-1.x",
@@ -14159,12 +14186,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "0e745fcb7b5f3aa64d1e9194ee919cf31fbff950"
+                    "reference": "dfd6cf85eb5a4fe706910456f8cf0a7e8e2d16ff"
                 },
                 "require": {
-                    "egulias/email-validator": "1.2.*"
+                    "egulias/email-validator": "*"
                 },
-                "time": "2017-02-27 16:19:07",
+                "time": "2019-05-01 12:45:49",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
