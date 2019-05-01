@@ -8523,6 +8523,101 @@
                 ],
                 "description": "Project template for Drupal 8 projects with composer"
             },
+            "2.0.0-beta1": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "bd58fa4f661c88669363bd58a49ed805c7b4e9bd"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "^1.5.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.3",
+                    "drush/drush": "~8.0",
+                    "numiko/d8-profile": "2.3.0-beta4"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2019-05-01 10:42:49",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "drupal-scaffold": {
+                        "excludes": [
+                            "sites/example.settings.local.php",
+                            "sites/development.services.yml"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "cp files/example.settings.local.php docroot/sites/example.settings.local.php",
+                        "cp files/example.settings.local.php docroot/sites/default/settings.local.php",
+                        "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
+                        "cp files/example.development.services.yml docroot/sites/development.services.yml",
+                        "bash scripts/theme/install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            },
             "8.x-dev": {
                 "name": "numiko/drupal-8-composer-template",
                 "version": "8.x-dev",
@@ -8880,7 +8975,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "9c1966f092dcc9db6d29def620b68e638d3f53eb"
+                    "reference": "3c90fabdbf54b086f0a8b0ef0478a4b3e6b32b56"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -8889,7 +8984,7 @@
                     "drupal/console": "~1.0",
                     "drupal/core": "~8.3",
                     "drush/drush": "~8.0",
-                    "numiko/d8-profile": "*"
+                    "numiko/d8-profile": "2.3.0-beta4"
                 },
                 "conflict": {
                     "drupal/drupal": "*"
@@ -8903,7 +8998,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2018-01-15 15:54:58",
+                "time": "2019-05-01 10:42:49",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -8923,6 +9018,12 @@
                         "drush/contrib/{$name}": [
                             "type:drupal-drush"
                         ]
+                    },
+                    "drupal-scaffold": {
+                        "excludes": [
+                            "sites/example.settings.local.php",
+                            "sites/development.services.yml"
+                        ]
                     }
                 },
                 "autoload": {
@@ -8941,6 +9042,14 @@
                     "post-update-cmd": [
                         "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
                         "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "cp files/example.settings.local.php docroot/sites/example.settings.local.php",
+                        "cp files/example.settings.local.php docroot/sites/default/settings.local.php",
+                        "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
+                        "cp files/example.development.services.yml docroot/sites/development.services.yml",
+                        "bash scripts/theme/install"
                     ]
                 },
                 "license": [
