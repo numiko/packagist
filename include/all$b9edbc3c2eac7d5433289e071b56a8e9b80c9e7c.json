@@ -5635,6 +5635,118 @@
                 ],
                 "description": "The numiko d8 profile"
             },
+            "3.0.0-beta.8": {
+                "name": "numiko/d8-profile",
+                "version": "3.0.0-beta.8",
+                "version_normalized": "3.0.0.0-beta8",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d8-profile.git",
+                    "reference": "5df9d189b823c9003a18e2b2c3b5ca6d2a61dc83"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "drupal/advagg": "*",
+                    "drupal/better_exposed_filters": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "*",
+                    "drupal/config_update": "*",
+                    "drupal/core": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_browser": "*",
+                    "drupal/entity_clone": "*",
+                    "drupal/entity_embed": "*",
+                    "drupal/environment_indicator": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/image_widget_crop": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^5",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/mimemail": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "*",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/tab_toolbar": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/video_embed_field": "*",
+                    "drupal/views_infinite_scroll": "*",
+                    "drupal/webform": "*",
+                    "drupal/workbench": "*",
+                    "numiko/custom-caption-filter": "*",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "*",
+                    "numiko/menu_block_view_modes": "*",
+                    "numiko/node_boolean": "*",
+                    "numiko/numiadmin": "*",
+                    "numiko/numibase": "*",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2019-05-01 15:34:33",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2018-08-20/1551534-8.6.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2730631-13.patch",
+                            "[2895477] Native browser form validation does not fire when submit buttons use #ajax": "https://www.drupal.org/files/issues/2019-02-11/2895477-30.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/entity_clone": {
+                            "[2706639] Support for cloning nodes that have another entities attached": "https://www.drupal.org/files/issues/entity_clone-allow_for_recursive_entity_cloning-2706639-41.patch"
+                        },
+                        "drupal/tab_toolbar": {
+                            "[2947903] Make tab toolbar available in admin theme configurable": "https://www.drupal.org/files/issues/2947903-4-make-admin-toolbar-tabs-configurable.patch"
+                        },
+                        "drupal/clientside_validation": {
+                            "[2855356][Numiko] Configurable data attributes": "https://www.drupal.org/files/issues/2019-05-01/2855356-add-data-attribute-overrides_0.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko d8 profile"
+            },
             "dev-master": {
                 "name": "numiko/d8-profile",
                 "version": "dev-master",
@@ -6881,18 +6993,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "e915e0f03e77d89b9c3bdaf06e921c2f278bf05b"
+                    "reference": "7577cda1de1036d60fd87a99a47d1ef3a03d43ef"
                 },
                 "require": {
                     "composer/installers": "^1.0",
                     "drupal/advagg": "*",
                     "drupal/better_exposed_filters": "*",
+                    "drupal/clientside_validation": "*",
                     "drupal/coffee": "*",
                     "drupal/config_filter": "*",
                     "drupal/config_ignore": "*",
                     "drupal/config_split": "*",
                     "drupal/config_update": "*",
-                    "drupal/core": "^8.6",
+                    "drupal/core": "*",
                     "drupal/cshs": "*",
                     "drupal/ctools": "*",
                     "drupal/devel": "*",
@@ -6940,6 +7053,7 @@
                     "drupal/stage_file_proxy": "*",
                     "drupal/tab_toolbar": "*",
                     "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
                     "drupal/video_embed_field": "*",
                     "drupal/views_infinite_scroll": "*",
                     "drupal/webform": "*",
@@ -6953,15 +7067,17 @@
                     "numiko/numibase": "*",
                     "numiko/sensible_email_validation": "*",
                     "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2019-04-30 13:12:39",
+                "time": "2019-05-01 15:34:33",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
                         "drupal/core": {
                             "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2018-08-20/1551534-8.6.patch",
-                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2730631-13.patch"
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2730631-13.patch",
+                            "[2895477] Native browser form validation does not fire when submit buttons use #ajax": "https://www.drupal.org/files/issues/2019-02-11/2895477-30.patch"
                         },
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
@@ -6971,6 +7087,9 @@
                         },
                         "drupal/tab_toolbar": {
                             "[2947903] Make tab toolbar available in admin theme configurable": "https://www.drupal.org/files/issues/2947903-4-make-admin-toolbar-tabs-configurable.patch"
+                        },
+                        "drupal/clientside_validation": {
+                            "[2855356][Numiko] Configurable data attributes": "https://www.drupal.org/files/issues/2019-05-01/2855356-add-data-attribute-overrides_0.patch"
                         }
                     }
                 },
@@ -8977,7 +9096,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "08f8d70ac2d6705acad67b8b4a263b8c9bcd5d93"
+                    "reference": "ca9b02117d5b1233f11ce2109eb038d0e5d5423c"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -9000,101 +9119,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-04-02 19:30:22",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "drupal-scaffold": {
-                        "excludes": [
-                            "sites/example.settings.local.php",
-                            "sites/development.services.yml"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "cp files/example.settings.local.php docroot/sites/example.settings.local.php",
-                        "cp files/example.settings.local.php docroot/sites/default/settings.local.php",
-                        "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
-                        "cp files/example.development.services.yml docroot/sites/development.services.yml"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 8 projects with composer"
-            },
-            "dev-feature/install-profile-updates": {
-                "name": "numiko/drupal-8-composer-template",
-                "version": "dev-feature/install-profile-updates",
-                "version_normalized": "dev-feature/install-profile-updates",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "efee94a38be5fdd9ca1877c287eb4db2708b25d3"
-                },
-                "require": {
-                    "composer/installers": "^1.0.20",
-                    "cweagans/composer-patches": "^1.5.0",
-                    "drupal-composer/drupal-scaffold": "^2.0.1",
-                    "drupal/console": "~1.0",
-                    "drupal/core": "~8.3",
-                    "drush/drush": "~8.0",
-                    "numiko/d8-profile": "2.3.0-beta4"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "behat/mink": "~1.7",
-                    "behat/mink-goutte-driver": "~1.2",
-                    "jcalderonzumba/gastonjs": "~1.0.2",
-                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
-                    "mikey179/vfsstream": "~1.2",
-                    "phpunit/phpunit": "~4.8",
-                    "symfony/css-selector": "~2.8"
-                },
-                "time": "2019-05-01 13:19:35",
+                "time": "2019-05-01 15:40:12",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -9165,7 +9190,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "a0b514a413428d172a2c27f65505b8e1e783ccf6"
+                    "reference": "96f641d20c31e129b7e33a427a4837f4ecbd1dce"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -9188,7 +9213,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-05-01 15:14:29",
+                "time": "2019-05-01 15:40:42",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -12130,25 +12155,6 @@
                     "Drupal"
                 ]
             },
-            "dev-D8IP-18": {
-                "name": "numiko/numibase",
-                "version": "dev-D8IP-18",
-                "version_normalized": "dev-D8IP-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "51cd0be4028c60dcf758fd26a6292aeff7aae46f"
-                },
-                "time": "2019-05-01 12:32:18",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-D8IP-37": {
                 "name": "numiko/numibase",
                 "version": "dev-D8IP-37",
@@ -12206,25 +12212,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/2019-updates": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/2019-updates",
-                "version_normalized": "dev-feature/2019-updates",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "ad50dd3862d522bd950796d11ab01aa1f351bf20"
-                },
-                "time": "2019-05-01 11:10:33",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-fix/page-actions": {
                 "name": "numiko/numibase",
                 "version": "dev-fix/page-actions",
@@ -12251,9 +12238,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "dee1f93e908b1d1bcd6503788784f1c76283c40c"
+                    "reference": "673fb728385898a71b3c3791e14c63b81b1dc564"
                 },
-                "time": "2019-05-01 14:46:15",
+                "time": "2019-05-01 15:51:22",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
