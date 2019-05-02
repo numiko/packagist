@@ -9398,7 +9398,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "d4ca9d4b0c154ca512e124eb42164f724bb85df4"
+                    "reference": "867c01ab95aa5043de89ade8402e4db06c1665e1"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -9421,7 +9421,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-05-02 09:28:48",
+                "time": "2019-05-02 10:46:28",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -12374,6 +12374,25 @@
                     "reference": "5c5285d0dccc5e84b447d9b4a73a47d66b948589"
                 },
                 "time": "2019-05-01 16:03:07",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-D8IP-34": {
+                "name": "numiko/numibase",
+                "version": "dev-D8IP-34",
+                "version_normalized": "dev-D8IP-34",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "8914d89c8ba462e19b962d71cf23ef0b7d3132c7"
+                },
+                "time": "2019-05-02 10:50:36",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
