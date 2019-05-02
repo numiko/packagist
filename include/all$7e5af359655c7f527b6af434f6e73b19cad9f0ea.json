@@ -9398,7 +9398,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "867c01ab95aa5043de89ade8402e4db06c1665e1"
+                    "reference": "60838c76259f5079066983f7d20b449651028b0c"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -9407,7 +9407,7 @@
                     "drupal/console": "~1.0",
                     "drupal/core": "~8.3",
                     "drush/drush": "~8.0",
-                    "numiko/d8-profile": "2.3.0-beta4"
+                    "numiko/d8-profile": "^3.0"
                 },
                 "conflict": {
                     "drupal/drupal": "*"
@@ -9421,7 +9421,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-05-02 10:46:28",
+                "time": "2019-05-02 12:44:57",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -9473,6 +9473,7 @@
                         "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
                         "cp files/example.development.services.yml docroot/sites/development.services.yml",
                         "cat files/example.settings.php >> docroot/sites/default/settings.php",
+                        "chmod 777 docroot/sites/default/files/media-icons/generic",
                         "bash scripts/theme/install"
                     ]
                 },
