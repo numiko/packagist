@@ -9552,6 +9552,102 @@
                 ],
                 "description": "Project template for Drupal 8 projects with composer"
             },
+            "2.0.0-beta7": {
+                "name": "numiko/drupal-8-composer-template",
+                "version": "2.0.0-beta7",
+                "version_normalized": "2.0.0.0-beta7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
+                    "reference": "335c20f4ba41bb05d221b59fdd16acbc668aaa2a"
+                },
+                "require": {
+                    "composer/installers": "^1.0.20",
+                    "cweagans/composer-patches": "^1.5.0",
+                    "drupal-composer/drupal-scaffold": "^2.0.1",
+                    "drupal/console": "~1.0",
+                    "drupal/core": "~8.3",
+                    "drush/drush": "~8.0",
+                    "numiko/d8-profile": "^3.0"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "behat/mink": "~1.7",
+                    "behat/mink-goutte-driver": "~1.2",
+                    "jcalderonzumba/gastonjs": "~1.0.2",
+                    "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+                    "mikey179/vfsstream": "~1.2",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/css-selector": "~2.8"
+                },
+                "time": "2019-05-03 11:59:06",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "drupal-scaffold": {
+                        "excludes": [
+                            "sites/example.settings.local.php",
+                            "sites/development.services.yml"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "cp files/example.settings.local.php docroot/sites/example.settings.local.php",
+                        "cp files/example.settings.local.php docroot/sites/default/settings.local.php",
+                        "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
+                        "cp files/example.development.services.yml docroot/sites/development.services.yml",
+                        "cat files/example.settings.php >> docroot/sites/default/settings.php",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 8 projects with composer"
+            },
             "8.x-dev": {
                 "name": "numiko/drupal-8-composer-template",
                 "version": "8.x-dev",
@@ -9815,7 +9911,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "0213a36fb0f22df564ed48792dab0da1be335433"
+                    "reference": "9b675b4e8e7f41ae4f2c0af265d785a4a49248a5"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -9838,7 +9934,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-05-02 15:03:03",
+                "time": "2019-05-03 11:59:06",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -9890,7 +9986,7 @@
                         "cp files/example.development.services.yml docroot/sites/example.development.services.yml",
                         "cp files/example.development.services.yml docroot/sites/development.services.yml",
                         "cat files/example.settings.php >> docroot/sites/default/settings.php",
-                        "bash scripts/theme/install"
+                        "bash scripts/composer/theme-install"
                     ]
                 },
                 "license": [
@@ -11052,6 +11148,25 @@
                     "reference": "ddb9f0a5d9bc96086bcae93af2ddc9656bcde96e"
                 },
                 "time": "2019-05-01 10:01:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.2.2": {
+                "name": "numiko/form_ui",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "6f9e023979780b54f6b1cf69ad9553ec76f0b269"
+                },
+                "time": "2019-05-03 11:53:40",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
