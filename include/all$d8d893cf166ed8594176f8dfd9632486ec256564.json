@@ -8630,6 +8630,70 @@
                 }
             }
         },
+        "numiko/dotmailer": {
+            "2.0.0": {
+                "name": "numiko/dotmailer",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/dotmailer.git",
+                    "reference": "b08099e2ab58ba8c8ab4f2aa7a701fc1beed5f67"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "php": ">=5.3.3",
+                    "romanpitak/php-rest-client": ">=v1.2"
+                },
+                "time": "2019-05-14 10:09:30",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "DotMailer\\Api\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Roman Piták",
+                        "email": "roman@pitak.net",
+                        "homepage": "http://pitak.net",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Client library for the dotMailer v2 (REST) API.",
+                "homepage": "https://github.com/romanpitak/dotMailer-API-v2-PHP-client",
+                "keywords": [
+                    "API",
+                    "REST",
+                    "client",
+                    "dotMailer",
+                    "v2",
+                    "version 2"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/dotmailer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/dotmailer.git",
+                    "reference": "9115c0358fadffecf93d201873273e87b605ed37"
+                },
+                "time": "2019-05-14 10:55:28",
+                "type": "library",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Client library for the dotMailer v2 (REST) API.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/drupal-8-composer-template": {
             "1.1.0": {
                 "name": "numiko/drupal-8-composer-template",
