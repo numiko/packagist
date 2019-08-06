@@ -8337,7 +8337,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d8-profile.git",
-                    "reference": "57b40fdb745a4f13e26f07ec932cbe3afac8016c"
+                    "reference": "03199525d9a3f46613dac41aff45fabf4f46a12b"
                 },
                 "require": {
                     "composer/installers": "^1.0",
@@ -8414,7 +8414,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2019-07-16 11:49:52",
+                "time": "2019-08-06 08:54:24",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
