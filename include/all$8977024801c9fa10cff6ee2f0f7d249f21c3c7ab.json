@@ -13894,9 +13894,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/icon-menu.git",
-                    "reference": "2f14260820a25f12cdbf657565130fabd6171844"
+                    "reference": "92b43bdc62884b3b7cddd2bed30205000b129675"
                 },
-                "time": "2018-06-11 09:08:58",
+                "time": "2019-08-22 10:19:30",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
