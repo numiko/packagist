@@ -15013,6 +15013,28 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-release/1.0.0": {
+                "name": "numiko/numiadmin",
+                "version": "dev-release/1.0.0",
+                "version_normalized": "dev-release/1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "7d96e7cb545b9f2998ecb1350dee66e591b8136c"
+                },
+                "require": {
+                    "drupal/adminimal_theme": "^1.5"
+                },
+                "time": "2019-09-02 14:52:25",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Adminimal",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/numibase": {
