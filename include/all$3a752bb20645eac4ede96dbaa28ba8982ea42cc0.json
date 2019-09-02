@@ -14995,6 +14995,47 @@
             }
         },
         "numiko/numiadmin": {
+            "0.1.0": {
+                "name": "numiko/numiadmin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "8d943b3cf9a370f78985e2daf6a5571ee105a39a"
+                },
+                "time": "2018-01-11 12:36:59",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Seven",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.0": {
+                "name": "numiko/numiadmin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "834fec6abb03e21be7bff600c33bf0ea7283555b"
+                },
+                "require": {
+                    "drupal/adminimal_theme": "^1.5"
+                },
+                "time": "2019-09-02 19:16:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Adminimal",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/numiadmin",
                 "version": "dev-master",
@@ -15021,12 +15062,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiadmin.git",
-                    "reference": "7d96e7cb545b9f2998ecb1350dee66e591b8136c"
+                    "reference": "217eebe2cbe9ce5c287f4cb56b66222bd1ef456e"
                 },
                 "require": {
                     "drupal/adminimal_theme": "^1.5"
                 },
-                "time": "2019-09-02 14:52:25",
+                "time": "2019-09-02 19:16:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
