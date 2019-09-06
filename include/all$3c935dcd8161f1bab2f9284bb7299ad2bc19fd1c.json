@@ -12617,6 +12617,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.6": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "8.1.6",
+                "version_normalized": "8.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "55cb2c9119c422a2eaa5db2b271e4a50e5ab8ab7"
+                },
+                "time": "2019-09-06 15:31:17",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_embed_ckeditor",
                 "version": "dev-8.x-1.x",
@@ -12624,9 +12643,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
-                    "reference": "a2e6816194b36699b25ddb3e87d275fcdf7b925c"
+                    "reference": "55cb2c9119c422a2eaa5db2b271e4a50e5ab8ab7"
                 },
-                "time": "2019-08-12 14:39:13",
+                "time": "2019-09-06 15:31:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -17185,6 +17204,46 @@
                     "GPL-2.0+"
                 ],
                 "description": "The numiko media profile"
+            }
+        },
+        "numiko/paragraphs_category_modal": {
+            "1.0.0": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "e9c3cdbfb76a29c03a742437f9a75faf0d195c61"
+                },
+                "time": "2019-09-06 15:31:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "bf49ac2188a17e2f876422170b3be4d0dbff58ca"
+                },
+                "time": "2019-09-06 15:31:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/random_number_field": {
