@@ -17478,7 +17478,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/pet-importer.git",
-                    "reference": "825f2d463667df0ae416e4bb4deaea11807eb719"
+                    "reference": "27903d2f9d0e930ab9f2320bc699d8f9e0bba673"
                 },
                 "require": {
                     "php": "^7.2.9"
