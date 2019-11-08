@@ -17478,7 +17478,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/pet-importer.git",
-                    "reference": "bbf2782d524aec1081549a4195c38300de3e1825"
+                    "reference": "f13fb9742300144499206b701460967d9904f2e3"
                 },
                 "require": {
                     "php": "^7.2.9",
@@ -17488,7 +17488,7 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2019-11-08 09:40:06",
+                "time": "2019-11-08 10:50:46",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
