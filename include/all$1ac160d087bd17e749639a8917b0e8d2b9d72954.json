@@ -17808,9 +17808,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/search-api-exclude.git",
-                    "reference": "e3125fa2f7014d04c1b10cf92adc7734e0f2b2eb"
+                    "reference": "afc898ea830873110b0f48d9ac8b94444c6ac28c"
                 },
-                "time": "2017-10-03 13:09:57",
+                "time": "2019-11-21 13:32:23",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
