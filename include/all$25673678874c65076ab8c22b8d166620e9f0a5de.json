@@ -19075,9 +19075,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/taxonomy-slice",
-                    "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c"
+                    "reference": "ff93a9af2582d49b78739a905b0d6ae098e8fb36"
                 },
-                "time": "2019-11-28 14:50:32",
+                "time": "2019-11-28 14:59:14",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
