@@ -19011,6 +19011,25 @@
                     "Drupal"
                 ]
             },
+            "1.2.2-beta1": {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.2-beta1",
+                "version_normalized": "1.2.2.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c"
+                },
+                "time": "2019-11-28 14:50:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/taxonomy_slice",
                 "version": "dev-master",
@@ -19021,6 +19040,25 @@
                     "reference": "3c5d801b38dfde811098ccad55dc4aba2ed8ba5e"
                 },
                 "time": "2019-10-07 10:38:04",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/optional-columns": {
+                "name": "numiko/taxonomy_slice",
+                "version": "dev-feature/optional-columns",
+                "version_normalized": "dev-feature/optional-columns",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c"
+                },
+                "time": "2019-11-28 14:50:32",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
