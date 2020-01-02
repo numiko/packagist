@@ -495,6 +495,34 @@
                 ]
             }
         },
+        "numiko/csp_per_page": {
+            "8.1.1": {
+                "name": "numiko/csp_per_page",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "70da1c031f97ddc167dca14027b2f4d54c47bed6"
+                },
+                "time": "2020-01-02 17:01:57",
+                "type": "drupal-module",
+                "description": "Set a strict CSP on specific paths and content types"
+            },
+            "dev-master": {
+                "name": "numiko/csp_per_page",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "70da1c031f97ddc167dca14027b2f4d54c47bed6"
+                },
+                "time": "2020-01-02 17:01:57",
+                "type": "drupal-module",
+                "description": "Set a strict CSP on specific paths and content types"
+            }
+        },
         "numiko/custom-caption-filter": {
             "1.4.0": {
                 "name": "numiko/custom-caption-filter",
