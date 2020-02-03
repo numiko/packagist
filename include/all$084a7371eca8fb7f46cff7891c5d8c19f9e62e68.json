@@ -503,7 +503,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "5a8c71c9809b1b7d4b967dbe622a38b191cf45c4"
+                    "reference": "f66f7d1ad5f4c148ebb415160dfa675be06c28e7"
                 },
                 "require": {
                     "php": "^7.2.9",
@@ -513,7 +513,7 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2020-02-03 15:52:28",
+                "time": "2020-02-03 16:02:08",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
@@ -589,9 +589,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/csp-per-page.git",
-                    "reference": "214cb23dedb21ce977f2d67e55e8c09e766b596f"
+                    "reference": "ab04f3df6613a95b11771bb883b3465768aa18af"
                 },
-                "time": "2020-02-03 15:55:52",
+                "time": "2020-02-03 16:00:47",
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             }
