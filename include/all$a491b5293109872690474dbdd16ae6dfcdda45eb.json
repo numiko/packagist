@@ -529,14 +529,14 @@
                 ],
                 "description": "Library used to send requests to ElasticSearch for British museums collections."
             },
-            "dev-master": {
+            "0.1.1": {
                 "name": "numiko/collections-api",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "1750a54b67234a193561c6eb5dfdfd20e89b303e"
+                    "reference": "38a5c4f673ccc45a5dc0f20806aab0f4e9d0c29b"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
@@ -547,7 +547,40 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2020-02-04 13:02:06",
+                "time": "2020-02-04 15:10:07",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\CollectionsApi\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "email": "lukestirk@numiko.com"
+                    }
+                ],
+                "description": "Library used to send requests to ElasticSearch for British museums collections."
+            },
+            "dev-master": {
+                "name": "numiko/collections-api",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/collections-api.git",
+                    "reference": "7e44083e4c36d4e8ce222fae06b8b984de827233"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": " ^7.0",
+                    "php": "^7.2.9",
+                    "psr/log": "^1.1"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2020-02-04 15:10:07",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
