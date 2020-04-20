@@ -1750,6 +1750,39 @@
                 ],
                 "description": "Library used to send requests to ElasticSearch for British museums collections."
             },
+            "0.1.43": {
+                "name": "numiko/collections-api",
+                "version": "0.1.43",
+                "version_normalized": "0.1.43.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/collections-api.git",
+                    "reference": "59d97b406670602b02f3fed54b80949c96e1483e"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": " ^7.0",
+                    "php": "^7.2.9",
+                    "psr/log": "^1.1"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2020-04-20 15:07:33",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\CollectionsApi\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "email": "lukestirk@numiko.com"
+                    }
+                ],
+                "description": "Library used to send requests to ElasticSearch for British museums collections."
+            },
             "0.1.5": {
                 "name": "numiko/collections-api",
                 "version": "0.1.5",
@@ -1922,7 +1955,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "95ed91f6ca68ddf266c26a144dce9eea126c0e9f"
+                    "reference": "b2965070103da8b5d42ec2752908660eaf10432a"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
@@ -1933,7 +1966,7 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2020-04-20 08:42:40",
+                "time": "2020-04-20 15:07:33",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
