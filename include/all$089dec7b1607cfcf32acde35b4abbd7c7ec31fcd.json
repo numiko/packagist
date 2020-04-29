@@ -20270,6 +20270,33 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
+            "8.2.0": {
+                "name": "numiko/sensible_email_validation",
+                "version": "8.2.0",
+                "version_normalized": "8.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "0b76352da7b69f4d81e06edf9947e5a678ab448a"
+                },
+                "require": {
+                    "egulias/email-validator": "~2.0"
+                },
+                "time": "2020-04-29 15:20:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/sensible_email_validation",
                 "version": "dev-8.x-1.x",
