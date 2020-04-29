@@ -20304,12 +20304,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "dfd6cf85eb5a4fe706910456f8cf0a7e8e2d16ff"
+                    "reference": "0c9b11ac3f3657e91fc35aa72e9815c10f2137c6"
                 },
                 "require": {
                     "egulias/email-validator": "*"
                 },
-                "time": "2019-05-01 12:45:49",
+                "time": "2020-04-29 13:50:43",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
