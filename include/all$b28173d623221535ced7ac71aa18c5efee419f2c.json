@@ -20270,33 +20270,6 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
-            "8.2.x-dev": {
-                "name": "numiko/sensible_email_validation",
-                "version": "8.2.x-dev",
-                "version_normalized": "8.2.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "b785709f2202d8310f0a93c9f23767bcbb69ff19"
-                },
-                "require": {
-                    "egulias/email-validator": "*"
-                },
-                "time": "2020-04-29 12:48:30",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Disallow domains without TLDs in email addresses",
-                "homepage": "https://www.drupal.org/project/sensible_email_validation",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
-                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
-                }
-            },
             "dev-8.x-1.x": {
                 "name": "numiko/sensible_email_validation",
                 "version": "dev-8.x-1.x",
@@ -20304,12 +20277,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "0c9b11ac3f3657e91fc35aa72e9815c10f2137c6"
+                    "reference": "0a859f9a8dc80a172d9cfc82009226c5c772dacd"
                 },
                 "require": {
-                    "egulias/email-validator": "*"
+                    "egulias/email-validator": "~2.0"
                 },
-                "time": "2020-04-29 13:50:43",
+                "time": "2020-04-29 15:23:36",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
