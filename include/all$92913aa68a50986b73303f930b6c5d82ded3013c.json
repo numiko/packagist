@@ -17439,6 +17439,25 @@
                     "Drupal"
                 ]
             },
+            "8.1.4-beta1": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "8.1.4-beta1",
+                "version_normalized": "8.1.4.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "af12b82a39e3ab7d8e1f8e37167d745c31bc4884"
+                },
+                "time": "2020-05-22 08:56:17",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/menu_block_view_modes",
                 "version": "dev-8.x-1.x",
@@ -17449,6 +17468,25 @@
                     "reference": "6ac98c689635c4926ac2f02e21516212ed01df88"
                 },
                 "time": "2018-04-09 13:38:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-fix/error-on-empty-site": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "dev-fix/error-on-empty-site",
+                "version_normalized": "dev-fix/error-on-empty-site",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "af12b82a39e3ab7d8e1f8e37167d745c31bc4884"
+                },
+                "time": "2020-05-22 08:56:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
