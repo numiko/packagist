@@ -2252,7 +2252,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "d9b2c9f0292ddf18e1b25e0b028731c53de80596"
+                    "reference": "7f79e05f772201608631daaf0171d4e2ea41ddab"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
@@ -2263,7 +2263,7 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2020-05-28 10:09:42",
+                "time": "2020-05-28 11:25:03",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
