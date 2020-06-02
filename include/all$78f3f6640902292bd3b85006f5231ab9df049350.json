@@ -17869,9 +17869,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "eb0f77d3500bc9256b563730dfa54f6a92aee6e6"
+                    "reference": "690d4bb73f8000e06f28a5bf87b0170c1ea6e703"
                 },
-                "time": "2017-05-10 11:20:53",
+                "time": "2020-06-02 14:07:04",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
