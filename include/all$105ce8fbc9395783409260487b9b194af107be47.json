@@ -16720,6 +16720,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/filter-spacing": {
+                "name": "numiko/form_ui",
+                "version": "dev-feature/filter-spacing",
+                "version_normalized": "dev-feature/filter-spacing",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "e8f84e3eb8ae62f293f8b758f8969aef997df4ab"
+                },
+                "time": "2020-07-01 11:47:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/icon-menu": {
