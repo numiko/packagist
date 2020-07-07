@@ -17022,6 +17022,46 @@
                 }
             }
         },
+        "numiko/link_class": {
+            "1.0.0": {
+                "name": "numiko/link_class",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-class.git",
+                    "reference": "8efe0bcaa59f3b76bdf7adec3ae70ed911fa2b52"
+                },
+                "time": "2020-07-07 11:32:16",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Formatter for adding classes to link fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/link_class",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-class.git",
+                    "reference": "e5bd68744e586bd4d71ec232aeb4add90e065826"
+                },
+                "time": "2020-07-07 11:32:16",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Formatter for adding classes to link fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/link_fragment": {
             "1.0.0": {
                 "name": "numiko/link_fragment",
