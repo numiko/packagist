@@ -11518,6 +11518,46 @@
                 ]
             }
         },
+        "numiko/devel_matrix": {
+            "1.0.0": {
+                "name": "numiko/devel_matrix",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/devel-matrix.git",
+                    "reference": "b577e1605117c69abfaf49ad503ff8df74baf76c"
+                },
+                "time": "2020-07-13 09:40:30",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "View development reports for comparing field setups",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/devel_matrix",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/devel-matrix.git",
+                    "reference": "f3fed4a342f478302fcfc1e4f03b3f212bf22f1f"
+                },
+                "time": "2020-07-13 09:40:30",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "View development reports for comparing field setups",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/domain_access_blocking": {
             "8.1.0": {
                 "name": "numiko/domain_access_blocking",
