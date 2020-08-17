@@ -21518,6 +21518,25 @@
                     "Drupal"
                 ]
             },
+            "1.1.0-beta1": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "2eaaf221780742a74fa98f8ab871bf1cca9d85dc"
+                },
+                "time": "2020-08-17 11:27:25",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
                 "version": "dev-master",
@@ -21528,6 +21547,25 @@
                     "reference": "bf49ac2188a17e2f876422170b3be4d0dbff58ca"
                 },
                 "time": "2019-09-06 15:31:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/icons": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "dev-feature/icons",
+                "version_normalized": "dev-feature/icons",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "df07fe64a2dcbccd7820e7891d5f5bd4fc5a7f92"
+                },
+                "time": "2020-08-17 11:27:25",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
