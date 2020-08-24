@@ -22966,6 +22966,30 @@
                 ]
             }
         },
+        "numiko/socialfeed_multi": {
+            "dev-8.x-1.x": {
+                "name": "numiko/socialfeed_multi",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/socialfeed-multi.git",
+                    "reference": "9a18f0e8564a6f36156bae456e4db3dfe0723bda"
+                },
+                "require": {
+                    "drupal/socialfeed": "^1.2"
+                },
+                "time": "2020-08-24 15:17:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Social Feed module to support multiple accounts.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/taxonomy_slice": {
             "1.0.0": {
                 "name": "numiko/taxonomy_slice",
