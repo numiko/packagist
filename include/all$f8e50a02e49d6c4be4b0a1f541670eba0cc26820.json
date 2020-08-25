@@ -22996,12 +22996,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/socialfeed-multi.git",
-                    "reference": "9a18f0e8564a6f36156bae456e4db3dfe0723bda"
+                    "reference": "6d6d61ea6577e9ae3fa9e6d7fa839836e1c47209"
                 },
                 "require": {
                     "drupal/socialfeed": "^1.2"
                 },
-                "time": "2020-08-24 15:17:10",
+                "time": "2020-08-25 16:41:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
