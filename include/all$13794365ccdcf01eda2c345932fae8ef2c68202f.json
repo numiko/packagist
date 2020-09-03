@@ -21959,6 +21959,40 @@
                 }
             }
         },
+        "numiko/simple_domain_path": {
+            "1.0.0-beta2": {
+                "name": "numiko/simple_domain_path",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "602864e5ad58749a474073667f24b4130778cbf7"
+                },
+                "time": "2020-09-03 15:36:18",
+                "type": "drupal-module",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/simple_domain_path",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "602864e5ad58749a474073667f24b4130778cbf7"
+                },
+                "time": "2020-09-03 15:36:18",
+                "type": "drupal-module",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/slice": {
             "4.0.0": {
                 "name": "numiko/slice",
