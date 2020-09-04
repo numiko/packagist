@@ -21983,9 +21983,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "602864e5ad58749a474073667f24b4130778cbf7"
+                    "reference": "e2a6bbe8680310e26cd2a349e751420b20401a69"
                 },
-                "time": "2020-09-03 15:36:18",
+                "time": "2020-09-04 13:11:36",
                 "type": "drupal-module",
                 "description": "Allow paths per-domain",
                 "keywords": [
