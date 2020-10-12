@@ -10153,6 +10153,117 @@
                 ],
                 "description": "The numiko d8 profile"
             },
+            "4.2.0-beta1": {
+                "name": "numiko/d8-profile",
+                "version": "4.2.0-beta1",
+                "version_normalized": "4.2.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d8-profile.git",
+                    "reference": "21bf403971257e19387e9f2f9eab1ae05d7f5ad9"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "drupal/accessible_media_embed": "*",
+                    "drupal/advagg": "*",
+                    "drupal/better_exposed_filters": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "*",
+                    "drupal/config_update": "*",
+                    "drupal/core": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_browser": "*",
+                    "drupal/entity_clone": "1.x-dev",
+                    "drupal/entity_embed": "*",
+                    "drupal/environment_indicator": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/fallback_media": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^5",
+                    "drupal/mail_safety": "^1.1",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/mimemail": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/node_boolean": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "*",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/tab_toolbar": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/video_embed_field": "*",
+                    "drupal/views_infinite_scroll": "*",
+                    "drupal/webform": "*",
+                    "drupal/workbench": "*",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^2.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^1.0",
+                    "numiko/numiadmin": "*",
+                    "numiko/numibase": "^2.0",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2020-10-06 13:36:27",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2018-08-20/1551534-8.6.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2730631-13.patch",
+                            "[2895477] Native browser form validation does not fire when submit buttons use #ajax": "https://www.drupal.org/files/issues/2019-02-11/2895477-30.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/tab_toolbar": {
+                            "[2947903] Make tab toolbar available in admin theme configurable": "https://www.drupal.org/files/issues/2947903-4-make-admin-toolbar-tabs-configurable.patch"
+                        },
+                        "drupal/clientside_validation": {
+                            "[2855356][Numiko] Configurable data attributes": "https://www.drupal.org/files/issues/2019-05-01/2855356-add-data-attribute-overrides_0.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko d8 profile"
+            },
             "dev-master": {
                 "name": "numiko/d8-profile",
                 "version": "dev-master",
