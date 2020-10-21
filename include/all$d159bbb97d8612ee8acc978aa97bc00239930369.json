@@ -17205,9 +17205,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-default.git",
-                    "reference": "8ed1a72918b9dfa4d25a33cfeba1e91db4674cb5"
+                    "reference": "c855ee0b02a2c90a55c190ec6da2e7356e445409"
                 },
-                "time": "2017-02-21 20:52:10",
+                "time": "2020-10-21 15:20:30",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
