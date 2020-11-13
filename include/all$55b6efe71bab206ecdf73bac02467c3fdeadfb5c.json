@@ -19862,63 +19862,6 @@
                     "Drupal"
                 ]
             },
-            "dev-D8IP-37": {
-                "name": "numiko/numibase",
-                "version": "dev-D8IP-37",
-                "version_normalized": "dev-D8IP-37",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "12fcf1af6dbc2167cae4791032d2c4d9e8b720ea"
-                },
-                "time": "2019-04-30 10:32:17",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-D8IP-41": {
-                "name": "numiko/numibase",
-                "version": "dev-D8IP-41",
-                "version_normalized": "dev-D8IP-41",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "7a96f957bd206488fd18b04a140a3687519c47f5"
-                },
-                "time": "2019-04-30 14:10:01",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-D8IP-42": {
-                "name": "numiko/numibase",
-                "version": "dev-D8IP-42",
-                "version_normalized": "dev-D8IP-42",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "5186c8d2c3af4b8a91baddf00649be610cb7558c"
-                },
-                "time": "2019-05-01 11:08:14",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-fix/page-actions": {
                 "name": "numiko/numibase",
                 "version": "dev-fix/page-actions",
