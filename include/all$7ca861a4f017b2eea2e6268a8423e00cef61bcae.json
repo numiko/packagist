@@ -2515,6 +2515,25 @@
                     "Drupal"
                 ]
             },
+            "3.0.0": {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "061b2e0c3fe239b6f5b529ae26b96d081123ab1f"
+                },
+                "time": "2020-11-16 13:22:35",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.1": {
                 "name": "numiko/custom-caption-filter",
                 "version": "8.1.1",
@@ -2601,6 +2620,25 @@
                     "reference": "60ca0532f8cd968543d3b495d0cc96f078b806ee"
                 },
                 "time": "2019-09-10 15:49:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/3.x": {
+                "name": "numiko/custom-caption-filter",
+                "version": "dev-release/3.x",
+                "version_normalized": "dev-release/3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "819573efe7ee850eb5f415225b9dfa32e25061d1"
+                },
+                "time": "2020-11-16 13:22:35",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -17910,6 +17948,25 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/form_ui",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "86d35cda2291943f607b4660f718418a5810d925"
+                },
+                "time": "2020-11-16 13:23:50",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -18414,6 +18471,25 @@
                     "reference": "f1a8e6cb78d0d8d29dc084e63363f538b3da4302"
                 },
                 "time": "2017-03-10 13:03:18",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/2.x": {
+                "name": "numiko/form_ui",
+                "version": "dev-release/2.x",
+                "version_normalized": "dev-release/2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "64ae46505d609627e6119885c3024581e55e2908"
+                },
+                "time": "2020-11-16 13:23:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -23822,6 +23898,30 @@
             }
         },
         "numiko/twig_field_values": {
+            "1.0.0": {
+                "name": "numiko/twig_field_values",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "adc29177c550068072d14a94cd8746d17eb2fc60"
+                },
+                "time": "2020-11-16 13:20:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            },
             "8.1.0": {
                 "name": "numiko/twig_field_values",
                 "version": "8.1.0",
@@ -23965,6 +24065,30 @@
                     "issues": "http://drupal.org/project/issues/twig_values",
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
+            },
+            "dev-release/1.x": {
+                "name": "numiko/twig_field_values",
+                "version": "dev-release/1.x",
+                "version_normalized": "dev-release/1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "1b4d6e423bdf62490ea98d2d6c6d9791e25bb023"
+                },
+                "time": "2020-11-16 13:20:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
             }
         },
         "numiko/user_login_admin": {
@@ -23987,6 +24111,25 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/user_login_admin",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "5075481a867272715e2bc164fea41c24db6b3661"
+                },
+                "time": "2020-11-16 13:25:01",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/user_login_admin",
                 "version": "dev-master",
@@ -23997,6 +24140,25 @@
                     "reference": "2e4b71c4a76ccc3ac61530927301519b33bd2fbe"
                 },
                 "time": "2018-07-30 11:46:58",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/2.0.0": {
+                "name": "numiko/user_login_admin",
+                "version": "dev-release/2.0.0",
+                "version_normalized": "dev-release/2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "5b6fd33f739849dca4b1a91a5442cecd71715280"
+                },
+                "time": "2020-11-16 13:25:01",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -24255,6 +24417,25 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/views-topup",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "5f0bfcc7de827003ac6cdc09f0585657b17599bc"
+                },
+                "time": "2020-11-16 13:18:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/views-topup",
                 "version": "dev-8.x-1.x",
@@ -24341,6 +24522,25 @@
                     "reference": "e3d108d0920b8c3ee789089d41ff89befa83389b"
                 },
                 "time": "2018-06-07 13:42:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/2.x": {
+                "name": "numiko/views-topup",
+                "version": "dev-release/2.x",
+                "version_normalized": "dev-release/2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "0f2a06d6ef4d22a3f7af340d3e980be0c84f8488"
+                },
+                "time": "2020-11-16 13:18:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
