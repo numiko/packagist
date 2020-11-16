@@ -2411,6 +2411,19 @@
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
+            "8.3.0": {
+                "name": "numiko/csp_per_page",
+                "version": "8.3.0",
+                "version_normalized": "8.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "ad1fc81faa7387eef649a5c349a69bcf6cefdb81"
+                },
+                "time": "2020-11-16 13:31:22",
+                "type": "drupal-module",
+                "description": "Set a strict CSP on specific paths and content types"
+            },
             "dev-master": {
                 "name": "numiko/csp_per_page",
                 "version": "dev-master",
@@ -2421,6 +2434,19 @@
                     "reference": "70da1c031f97ddc167dca14027b2f4d54c47bed6"
                 },
                 "time": "2020-01-02 17:01:57",
+                "type": "drupal-module",
+                "description": "Set a strict CSP on specific paths and content types"
+            },
+            "dev-8.x.3-x": {
+                "name": "numiko/csp_per_page",
+                "version": "dev-8.x.3-x",
+                "version_normalized": "dev-8.x.3-x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "f6d4aee79a4d6758d0315b4318fab7b6007ef6df"
+                },
+                "time": "2020-11-16 13:31:22",
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
@@ -17214,6 +17240,25 @@
                     "Drupal"
                 ]
             },
+            "8.2.0": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "8.2.0",
+                "version_normalized": "8.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "c3261133fc8af38bbb94b05d3bbbb59238ba339b"
+                },
+                "time": "2020-11-16 13:29:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_reference_view_display",
                 "version": "dev-8.x-1.x",
@@ -17224,6 +17269,25 @@
                     "reference": "3663a7428c17422976831478db09aef482ddd5e4"
                 },
                 "time": "2018-05-15 12:10:35",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-2.x": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-8.x-2.x",
+                "version_normalized": "dev-8.x-2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "40c980698e897ee763f7e121c8830fdba4eca2a6"
+                },
+                "time": "2020-11-16 13:29:39",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -22436,6 +22500,60 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
+            "8.3.0": {
+                "name": "numiko/sensible_email_validation",
+                "version": "8.3.0",
+                "version_normalized": "8.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "60cfae96186220cadf29312d4a5b2067a5c825c5"
+                },
+                "require": {
+                    "egulias/email-validator": "~2.0"
+                },
+                "time": "2020-11-16 13:26:07",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
+            "8.3.x-dev": {
+                "name": "numiko/sensible_email_validation",
+                "version": "8.3.x-dev",
+                "version_normalized": "8.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "df352281627e2754c42a45b16a6a19dc88790d9c"
+                },
+                "require": {
+                    "egulias/email-validator": "~2.0"
+                },
+                "time": "2020-11-16 13:26:07",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/sensible_email_validation",
                 "version": "dev-8.x-1.x",
@@ -23898,30 +24016,6 @@
             }
         },
         "numiko/twig_field_values": {
-            "1.0.0": {
-                "name": "numiko/twig_field_values",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "adc29177c550068072d14a94cd8746d17eb2fc60"
-                },
-                "time": "2020-11-16 13:20:03",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Twig Values",
-                "homepage": "https://www.drupal.org/project/twig_values",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/twig_values",
-                    "source": "http://cgit.drupalcode.org/twig_values"
-                }
-            },
             "8.1.0": {
                 "name": "numiko/twig_field_values",
                 "version": "8.1.0",
@@ -24042,16 +24136,16 @@
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
             },
-            "dev-8.x-1.x": {
+            "8.2.0": {
                 "name": "numiko/twig_field_values",
-                "version": "dev-8.x-1.x",
-                "version_normalized": "dev-8.x-1.x",
+                "version": "8.2.0",
+                "version_normalized": "8.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "31aa0c6ca07201e81405e823343a847699d29b55"
+                    "reference": "c27152476c825d0eb290ba4a97f512f81211cecc"
                 },
-                "time": "2018-11-13 11:03:59",
+                "time": "2020-11-16 13:20:03",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -24066,16 +24160,40 @@
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
             },
-            "dev-release/1.x": {
+            "8.2.x-dev": {
                 "name": "numiko/twig_field_values",
-                "version": "dev-release/1.x",
-                "version_normalized": "dev-release/1.x",
+                "version": "8.2.x-dev",
+                "version_normalized": "8.2.9999999.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
                     "reference": "1b4d6e423bdf62490ea98d2d6c6d9791e25bb023"
                 },
                 "time": "2020-11-16 13:20:03",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            },
+            "dev-8.x-1.x": {
+                "name": "numiko/twig_field_values",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "31aa0c6ca07201e81405e823343a847699d29b55"
+                },
+                "time": "2018-11-13 11:03:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
