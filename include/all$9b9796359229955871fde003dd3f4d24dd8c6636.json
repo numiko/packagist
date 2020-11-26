@@ -18814,9 +18814,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "8f44e1ae4662dabcc3953506a03c669563ffe692"
+                    "reference": "8c6e12e0e3405945332363d47f38f0c6de6c3f01"
                 },
-                "time": "2020-11-26 10:09:12",
+                "time": "2020-11-26 10:40:29",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -19346,9 +19346,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "8f44e1ae4662dabcc3953506a03c669563ffe692"
+                    "reference": "8c6e12e0e3405945332363d47f38f0c6de6c3f01"
                 },
-                "time": "2020-11-26 10:09:12",
+                "time": "2020-11-26 10:40:29",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
