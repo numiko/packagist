@@ -24045,6 +24045,41 @@
             }
         },
         "numiko/pet-importer": {
+            "1.0.0": {
+                "name": "numiko/pet-importer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/pet-importer.git",
+                    "reference": "245a9456fd2486adcf680b05e3a47b16c9d4e36f"
+                },
+                "require": {
+                    "php": "^7.2.9",
+                    "psr/log": "^1.1"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2020-04-06 13:56:05",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\PetImporter\\": ""
+                    },
+                    "exclude-from-classmap": [
+                        "/Tests/"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Dan Bentley",
+                        "email": "dan@numiko.com"
+                    }
+                ],
+                "description": "Library used to process BlueCross' pet XML export for a simpler Drupal migration"
+            },
             "dev-master": {
                 "name": "numiko/pet-importer",
                 "version": "dev-master",
