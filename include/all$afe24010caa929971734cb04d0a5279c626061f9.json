@@ -19778,7 +19778,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "d2210371fcca0a64a409e01ec84f30cdcd9eacb9"
+                    "reference": "abd68140da70c798b760fcb0e7f165e0ee5c23c8"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -19799,7 +19799,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2020-12-17 09:45:57",
+                "time": "2021-01-07 12:21:18",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -19814,6 +19814,11 @@
                                 "overwrite": false
                             },
                             "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/settings.local.php": {
                                 "mode": "replace",
                                 "path": "files/example.settings.local.php",
                                 "overwrite": false
@@ -26934,9 +26939,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "de0912debe23e87029d755f671b17269da991056"
+                    "reference": "ff74158e5a6fc60bfd1d7d59bddc63c15a072025"
                 },
-                "time": "2021-01-07 11:20:02",
+                "time": "2021-01-07 12:13:11",
                 "type": "drupal-module",
                 "description": "Allow paths per-domain",
                 "keywords": [
