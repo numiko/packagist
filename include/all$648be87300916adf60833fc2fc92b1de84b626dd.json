@@ -27034,6 +27034,28 @@
                     "Drupal"
                 ]
             },
+            "1.0.0-beta3": {
+                "name": "numiko/simple_domain_path",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "f080c6cecbdb269cef3a6f6911e9f1fec5ff0344"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-simple_domain_path-1.0.0-beta3-fdc07c.tar",
+                    "reference": "f080c6cecbdb269cef3a6f6911e9f1fec5ff0344",
+                    "shasum": "ad58fc21a6cb806636279b5a5a1622a8277b05b5"
+                },
+                "time": "2021-01-12 14:48:19",
+                "type": "drupal-module",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/simple_domain_path",
                 "version": "dev-master",
@@ -27041,25 +27063,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "2334e8f2a149bb42547538bf0e3edb62734d8b09"
+                    "reference": "f080c6cecbdb269cef3a6f6911e9f1fec5ff0344"
                 },
-                "time": "2020-09-04 15:37:18",
-                "type": "drupal-module",
-                "description": "Allow paths per-domain",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/support-non-node-entities": {
-                "name": "numiko/simple_domain_path",
-                "version": "dev-feature/support-non-node-entities",
-                "version_normalized": "dev-feature/support-non-node-entities",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "2b51b1d8546128e0fd2412d9859c4832e3008f58"
-                },
-                "time": "2021-01-11 09:12:24",
+                "time": "2021-01-12 14:48:19",
                 "type": "drupal-module",
                 "description": "Allow paths per-domain",
                 "keywords": [
