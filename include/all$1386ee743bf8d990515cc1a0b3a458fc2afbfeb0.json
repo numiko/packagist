@@ -14590,6 +14590,31 @@
                     "Drupal"
                 ]
             },
+            "3.1.0": {
+                "name": "numiko/descendants_menu_block",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "697305ce606bd2585f56a4e8d925e8bdda394f90"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-descendants_menu_block-3.1.0-cac5aa.tar",
+                    "reference": "697305ce606bd2585f56a4e8d925e8bdda394f90",
+                    "shasum": "7b83988b258d9cd0e384e2cdc81537f88840fc9a"
+                },
+                "time": "2021-01-20 15:53:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/descendants_menu_block",
                 "version": "8.1.0",
@@ -14835,9 +14860,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
-                    "reference": "9bb9d30ceca4f3478c708f15a4e3746960b077a5"
+                    "reference": "8e301b8a7f44d869cb28af11bd06721f57f6ade0"
                 },
-                "time": "2021-01-20 14:02:54",
+                "time": "2021-01-20 15:53:22",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -28309,6 +28334,37 @@
                     "source": "http://cgit.drupalcode.org/slice_jump_links"
                 }
             },
+            "8.4.1": {
+                "name": "numiko/slice_jump_links",
+                "version": "8.4.1",
+                "version_normalized": "8.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "a996c157d4026ce6081cc7458ece587a589f9c71"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-slice_jump_links-8.4.1-052754.tar",
+                    "reference": "a996c157d4026ce6081cc7458ece587a589f9c71",
+                    "shasum": "3d57d923811829cde34a07ce50b5591a82739ba5"
+                },
+                "time": "2021-01-20 15:50:50",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://www.drupal.org/project/slice_jump_links",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/slice_jump_links",
+                    "source": "http://cgit.drupalcode.org/slice_jump_links"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice_jump_links",
                 "version": "dev-8.x-1.x",
@@ -28388,9 +28444,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "ccbc1dd8b04a8044d654d1aeb03c72cde4f40bb9"
+                    "reference": "2ffd238b9afc45c03de56dfbd9084a4c58690cf9"
                 },
-                "time": "2021-01-20 13:59:21",
+                "time": "2021-01-20 15:50:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
