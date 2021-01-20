@@ -14565,6 +14565,31 @@
                     "Drupal"
                 ]
             },
+            "3.0": {
+                "name": "numiko/descendants_menu_block",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "b9c040fa4f6465f456e68bb8c064383b7d1015e5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-descendants_menu_block-3.0-eab020.tar",
+                    "reference": "b9c040fa4f6465f456e68bb8c064383b7d1015e5",
+                    "shasum": "8112b1c73e8adff29cd0c98bdd75c0a6585c4d44"
+                },
+                "time": "2021-01-20 14:02:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/descendants_menu_block",
                 "version": "8.1.0",
@@ -14794,6 +14819,25 @@
                     "reference": "6979d41c5c4bde67fff82361621c036b187ec409"
                 },
                 "time": "2020-03-03 15:17:07",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-3.x": {
+                "name": "numiko/descendants_menu_block",
+                "version": "dev-8.x-3.x",
+                "version_normalized": "dev-8.x-3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "9bb9d30ceca4f3478c708f15a4e3746960b077a5"
+                },
+                "time": "2021-01-20 14:02:54",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -26498,6 +26542,31 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "14fa1be121b72255a8ba4356d0cfe63950920937"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_category_modal-2.0.0-6d4a38.tar",
+                    "reference": "14fa1be121b72255a8ba4356d0cfe63950920937",
+                    "shasum": "1010874775632e019c6d52046b2be7c1e781c494"
+                },
+                "time": "2021-01-20 14:01:16",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
                 "version": "dev-master",
@@ -26505,9 +26574,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "bf49ac2188a17e2f876422170b3be4d0dbff58ca"
+                    "reference": "52af919673d85fbca9d1d9911bcfe921a1ad80eb"
                 },
-                "time": "2019-09-06 15:31:59",
+                "time": "2021-01-20 14:01:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -28210,6 +28279,36 @@
                     "source": "http://cgit.drupalcode.org/slice_jump_links"
                 }
             },
+            "8.4.0": {
+                "name": "numiko/slice_jump_links",
+                "version": "8.4.0",
+                "version_normalized": "8.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "f9c87109c697fa593205c62d90323f334ab08f2a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-slice_jump_links-8.4.0-4c0217.tar",
+                    "reference": "f9c87109c697fa593205c62d90323f334ab08f2a",
+                    "shasum": "dbc1e14238dd634ca7be30e1676ba765094e6ba7"
+                },
+                "time": "2021-01-20 13:59:21",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://www.drupal.org/project/slice_jump_links",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/slice_jump_links",
+                    "source": "http://cgit.drupalcode.org/slice_jump_links"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice_jump_links",
                 "version": "dev-8.x-1.x",
@@ -28268,6 +28367,30 @@
                     "reference": "b98be4c3d39e77973d67b1d53a010056936429e8"
                 },
                 "time": "2018-11-19 09:21:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://www.drupal.org/project/slice_jump_links",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/slice_jump_links",
+                    "source": "http://cgit.drupalcode.org/slice_jump_links"
+                }
+            },
+            "dev-8.x-4.x": {
+                "name": "numiko/slice_jump_links",
+                "version": "dev-8.x-4.x",
+                "version_normalized": "dev-8.x-4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "ccbc1dd8b04a8044d654d1aeb03c72cde4f40bb9"
+                },
+                "time": "2021-01-20 13:59:21",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
