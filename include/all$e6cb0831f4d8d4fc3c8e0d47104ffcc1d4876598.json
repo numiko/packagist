@@ -23510,6 +23510,32 @@
             }
         },
         "numiko/menu_block_view_modes": {
+            "1.0.0": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "d4667f9cf7eff3bcfa2b77a323ef79be1e2a25cd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-menu_block_view_modes-1.0.0-37547a.tar",
+                    "reference": "d4667f9cf7eff3bcfa2b77a323ef79be1e2a25cd",
+                    "shasum": "9af0bf88e1575eae639a59f132ba760a8fbf73fe"
+                },
+                "time": "2021-01-22 12:31:44",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/menu_block_view_modes",
                 "version": "8.1.0",
@@ -23645,6 +23671,25 @@
                     "reference": "6ac98c689635c4926ac2f02e21516212ed01df88"
                 },
                 "time": "2018-04-09 13:38:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/drupal9": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "dev-feature/drupal9",
+                "version_normalized": "dev-feature/drupal9",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "d7be8ed047d89caaad93acff0ac93abae8953d98"
+                },
+                "time": "2021-01-22 12:31:44",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
