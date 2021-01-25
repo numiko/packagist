@@ -18565,7 +18565,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-8-composer-template.git",
-                    "reference": "73038ea0818b935aeb23c396ad2363880d5ce1cf"
+                    "reference": "5b06e75ada1d05009c20dc8d2e72b7b12562a0d8"
                 },
                 "require": {
                     "composer/installers": "^1.0.20",
@@ -18588,7 +18588,7 @@
                     "phpunit/phpunit": "~4.8",
                     "symfony/css-selector": "~2.8"
                 },
-                "time": "2019-07-17 16:03:48",
+                "time": "2021-01-25 15:09:34",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
