@@ -22556,6 +22556,31 @@
             }
         },
         "numiko/icon-menu": {
+            "1.0.0": {
+                "name": "numiko/icon-menu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "eb274879b7993d14d6e0463924decf1b31110643"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-icon-menu-1.0.0-99cbd6.tar",
+                    "reference": "eb274879b7993d14d6e0463924decf1b31110643",
+                    "shasum": "64a141014ca7dad5e0df848ab4266b497f0b9666"
+                },
+                "time": "2021-01-27 09:41:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.1": {
                 "name": "numiko/icon-menu",
                 "version": "8.1.1",
@@ -22647,6 +22672,25 @@
                     "shasum": "b4dd7724ed3eaab29dd0ed75b13b8cc4a568ddcc"
                 },
                 "time": "2019-08-22 10:58:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/icon-menu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "9905163be9306447aaffa7fb84e37dc9d17f4bd0"
+                },
+                "time": "2021-01-27 09:41:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
