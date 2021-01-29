@@ -24389,9 +24389,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "d2f0e33e32bcc9fba7c427bf78d7aff24c67b1d1"
+                    "reference": "804ed5c54b71b8396a03a5e4967c675dc47b65de"
                 },
-                "time": "2021-01-28 17:29:28",
+                "time": "2021-01-29 11:01:32",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -27308,6 +27308,71 @@
                     "Drupal"
                 ]
             },
+            "1.0.0-beta4": {
+                "name": "numiko/simple_domain_path",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "902d452fd62601dd5b93049c4a28d35872d30f2c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-simple_domain_path-1.0.0-beta4-d1d584.tar",
+                    "reference": "902d452fd62601dd5b93049c4a28d35872d30f2c",
+                    "shasum": "27bfb13eec7d3daa2b7934c6654f527f010a2bdd"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-01-29 11:14:46",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.0-beta5": {
+                "name": "numiko/simple_domain_path",
+                "version": "1.0.0-beta5",
+                "version_normalized": "1.0.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "4ee171432139d162d8d21d852fcb2c9f4d617150"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-simple_domain_path-1.0.0-beta5-cdc952.tar",
+                    "reference": "4ee171432139d162d8d21d852fcb2c9f4d617150",
+                    "shasum": "5c5293c56cfee4cef26250bd0ef3899f9ae369dc"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-01-29 11:19:35",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/simple_domain_path",
                 "version": "dev-master",
@@ -27315,28 +27380,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "f080c6cecbdb269cef3a6f6911e9f1fec5ff0344"
-                },
-                "time": "2021-01-12 14:48:19",
-                "type": "drupal-module",
-                "description": "Allow paths per-domain",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/add-drush-9-support": {
-                "name": "numiko/simple_domain_path",
-                "version": "dev-feature/add-drush-9-support",
-                "version_normalized": "dev-feature/add-drush-9-support",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "74b1f53c5c2008d5748eb326fea4ed32b98f075c"
+                    "reference": "4ee171432139d162d8d21d852fcb2c9f4d617150"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-01-26 17:25:28",
+                "time": "2021-01-29 11:19:35",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
