@@ -20350,6 +20350,120 @@
                 ],
                 "description": "Project template for Drupal 9 projects with composer"
             },
+            "1.1.0-beta8": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.1.0-beta8",
+                "version_normalized": "1.1.0.0-beta8",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "ae1da533898bdf7b8c7706b503fb3d18175b9d84"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-drupal-9-composer-template-1.1.0-beta8-d2091b.tar",
+                    "reference": "ae1da533898bdf7b8c7706b503fb3d18175b9d84",
+                    "shasum": "cea62156876861182c25dd48c4f453d4716592c8"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2021-02-10 11:07:07",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
             "dev-master": {
                 "name": "numiko/drupal-9-composer-template",
                 "version": "dev-master",
@@ -20464,7 +20578,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "abd68140da70c798b760fcb0e7f165e0ee5c23c8"
+                    "reference": "ae1da533898bdf7b8c7706b503fb3d18175b9d84"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -20485,7 +20599,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2021-01-07 12:21:18",
+                "time": "2021-02-10 11:07:07",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -20500,11 +20614,6 @@
                                 "overwrite": false
                             },
                             "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/settings.local.php": {
                                 "mode": "replace",
                                 "path": "files/example.settings.local.php",
                                 "overwrite": false
