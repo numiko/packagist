@@ -14953,12 +14953,11 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "e33ec221bde2680b78e3cd8e3073aed02ff32d2d"
+                    "reference": "9a8c30394f7e52381c0cf81ec210d5dc4efb8a75"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
                     "drupal/advagg": "*",
-                    "drupal/better_exposed_filters": "*",
                     "drupal/clientside_validation": "*",
                     "drupal/coffee": "*",
                     "drupal/config_filter": "*",
@@ -15024,7 +15023,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-02-10 16:43:01",
+                "time": "2021-02-12 13:55:06",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -20802,7 +20801,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "35a37785e475d463a52300ddf2ee94dd927f3f6b"
+                    "reference": "39cdfa83e4ea8e299908444cb10323f014889b8f"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -20823,7 +20822,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2021-02-10 11:30:33",
+                "time": "2021-02-12 13:37:23",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
