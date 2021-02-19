@@ -28635,6 +28635,40 @@
                 ]
             }
         },
+        "numiko/personas": {
+            "1.0.0": {
+                "name": "numiko/personas",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "86881341830cd7842b6468b0d1a8c83c732e2a92"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-personas-1.0.0-4038d8.tar",
+                    "reference": "86881341830cd7842b6468b0d1a8c83c732e2a92",
+                    "shasum": "46c5fabca3875d1510bd767fc9e31ad5c8ad20d3"
+                },
+                "time": "2021-02-19 11:50:00",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
+            "dev-master": {
+                "name": "numiko/personas",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "86881341830cd7842b6468b0d1a8c83c732e2a92"
+                },
+                "time": "2021-02-19 11:50:00",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            }
+        },
         "numiko/pet-importer": {
             "1.0.0": {
                 "name": "numiko/pet-importer",
