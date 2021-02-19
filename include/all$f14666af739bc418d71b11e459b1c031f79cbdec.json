@@ -28914,6 +28914,40 @@
                 ]
             }
         },
+        "numiko/responsive_image_class": {
+            "1.0.1": {
+                "name": "numiko/responsive_image_class",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "fab4990dc8a5eba5a54089845b503fdec2ed903d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-responsive_image_class-1.0.1-fd6cc9.tar",
+                    "reference": "fab4990dc8a5eba5a54089845b503fdec2ed903d",
+                    "shasum": "f1da16b160594b8c684c97f0f8dd0981cf0637ad"
+                },
+                "time": "2021-02-19 11:29:10",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
+            },
+            "dev-master": {
+                "name": "numiko/responsive_image_class",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "fab4990dc8a5eba5a54089845b503fdec2ed903d"
+                },
+                "time": "2021-02-19 11:29:10",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
+            }
+        },
         "numiko/search_api_exclude": {
             "dev-master": {
                 "name": "numiko/search_api_exclude",
