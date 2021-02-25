@@ -29649,6 +29649,52 @@
                 ]
             }
         },
+        "numiko/site_alerts": {
+            "1.1.0": {
+                "name": "numiko/site_alerts",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "2e1762c3cc67c198c745a948a81d6dd6eac5cb67"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-site_alerts-1.1.0-34356a.tar",
+                    "reference": "2e1762c3cc67c198c745a948a81d6dd6eac5cb67",
+                    "shasum": "410f5e6f0fb67e8794c24cf57235f3980a3190ce"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-02-25 12:13:54",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/site_alerts",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "2e1762c3cc67c198c745a948a81d6dd6eac5cb67"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-02-25 12:13:54",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/slice": {
             "4.0.0": {
                 "name": "numiko/slice",
