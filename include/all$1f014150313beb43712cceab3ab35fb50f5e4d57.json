@@ -23340,6 +23340,31 @@
                     "Drupal"
                 ]
             },
+            "8.2.1": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "8.2.1",
+                "version_normalized": "8.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "5322f158a47f3bbeb89926b90306e5fcd99633eb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-entity_reference_view_display-8.2.1-132d84.tar",
+                    "reference": "5322f158a47f3bbeb89926b90306e5fcd99633eb",
+                    "shasum": "d846b1df4164ce50fbac37fa7f12614126cc4ed6"
+                },
+                "time": "2021-03-23 11:25:12",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_reference_view_display",
                 "version": "dev-8.x-1.x",
@@ -23366,9 +23391,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
-                    "reference": "40c980698e897ee763f7e121c8830fdba4eca2a6"
+                    "reference": "5322f158a47f3bbeb89926b90306e5fcd99633eb"
                 },
-                "time": "2020-11-16 13:29:39",
+                "time": "2021-03-23 11:25:12",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
