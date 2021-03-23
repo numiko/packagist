@@ -22378,7 +22378,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "0451efe3e63ba03d468fb07de97eaa07d55898f4"
+                    "reference": "140241622f98e2620cb057a3d7a40d57b978d448"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -22399,7 +22399,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2020-11-17 09:37:46",
+                "time": "2021-03-23 13:45:24",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -22485,7 +22485,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "9c5add48deb82b0bec14425cff0b8c156b524948"
+                    "reference": "140241622f98e2620cb057a3d7a40d57b978d448"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -22506,7 +22506,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2021-03-22 16:23:41",
+                "time": "2021-03-23 13:45:24",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
