@@ -27467,6 +27467,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/tidy-drupal": {
+                "name": "numiko/numibase",
+                "version": "dev-feature/tidy-drupal",
+                "version_normalized": "dev-feature/tidy-drupal",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "be76fa43a4d3ef7217fc2838ef1048f6bf9be077"
+                },
+                "time": "2021-03-24 09:14:20",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-fix/page-actions": {
                 "name": "numiko/numibase",
                 "version": "dev-fix/page-actions",
