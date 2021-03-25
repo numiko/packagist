@@ -16296,7 +16296,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "81c77c66e810ffd8dcdb68301f4c4922bccaad69"
+                    "reference": "db5a2f5f1c294a2f60a2f877bcbe04671ce64221"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -16354,7 +16354,6 @@
                     "drupal/simple_sitemap": "*",
                     "drupal/smart_trim": "*",
                     "drupal/stage_file_proxy": "*",
-                    "drupal/styleguide": "*",
                     "drupal/token": "*",
                     "drupal/username_enumeration_prevention": "*",
                     "drupal/webform": "^6.0@alpha",
@@ -16365,11 +16364,12 @@
                     "numiko/personas": "*",
                     "numiko/responsive_image_class": "*",
                     "numiko/sensible_email_validation": "*",
+                    "numiko/styleguide": "*",
                     "numiko/twig_field_values": "*",
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-03-25 12:37:29",
+                "time": "2021-03-25 15:33:41",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
