@@ -28036,9 +28036,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "37cbace131cecc89ff0ef58117d3b2166e51a442"
+                    "reference": "9f04f767771daa49501ff8ebbd01ea9ffbec792e"
                 },
-                "time": "2021-03-29 14:47:56",
+                "time": "2021-03-29 16:32:48",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -32651,6 +32651,30 @@
                     "Drupal"
                 ]
             },
+            "0.0.3": {
+                "name": "numiko/styleguide",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
+                    "reference": "de91d43f0bdf9aedd1253f5d81d8341fc93d8e0a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-styleguide-0.0.3-70b0c1.tar",
+                    "reference": "de91d43f0bdf9aedd1253f5d81d8341fc93d8e0a",
+                    "shasum": "d1db045dd5f51b72bf83be0112623c1511f9e22e"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-03-29 16:31:03",
+                "type": "drupal-module",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/styleguide",
                 "version": "dev-master",
@@ -32658,12 +32682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "63cee45e4231981a8209fc021f0e3fcb6ace97a9"
+                    "reference": "de91d43f0bdf9aedd1253f5d81d8341fc93d8e0a"
                 },
                 "require": {
                     "php": ">=7.3.0"
                 },
-                "time": "2021-03-29 11:50:08",
+                "time": "2021-03-29 16:31:03",
                 "type": "drupal-module",
                 "keywords": [
                     "Drupal"
