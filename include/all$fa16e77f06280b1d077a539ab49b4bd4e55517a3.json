@@ -2810,6 +2810,29 @@
                 "description": "Library used to send requests to ElasticSearch for British museums collections."
             }
         },
+        "numiko/content_bulk_update": {
+            "dev-master": {
+                "name": "numiko/content_bulk_update",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "a5c036bffe37f300b15b374960db0df31eb27751"
+                },
+                "time": "2021-04-06 11:40:08",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/csp_per_page": {
             "8.1.1": {
                 "name": "numiko/csp_per_page",
