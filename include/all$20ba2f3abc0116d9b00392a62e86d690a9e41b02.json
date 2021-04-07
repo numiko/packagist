@@ -31545,6 +31545,35 @@
             }
         },
         "numiko/search_api_exclude": {
+            "2.0.0": {
+                "name": "numiko/search_api_exclude",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-api-exclude.git",
+                    "reference": "d33ab3a4e9aaefaae2e3e37208b693e6b83420d3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-search_api_exclude-2.0.0-72a464.tar",
+                    "reference": "d33ab3a4e9aaefaae2e3e37208b693e6b83420d3",
+                    "shasum": "2c6778db0e52edc9a2d87250f42d4b35b764a0bf"
+                },
+                "time": "2021-04-07 10:09:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Search API Exclude module allows users to prevent certain nodes from being indexed.",
+                "homepage": "https://www.drupal.org/project/search_api_exclude",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/search_api_exclude"
+                }
+            },
             "dev-master": {
                 "name": "numiko/search_api_exclude",
                 "version": "dev-master",
@@ -31555,6 +31584,29 @@
                     "reference": "afc898ea830873110b0f48d9ac8b94444c6ac28c"
                 },
                 "time": "2019-11-21 13:32:23",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Search API Exclude module allows users to prevent certain nodes from being indexed.",
+                "homepage": "https://www.drupal.org/project/search_api_exclude",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/search_api_exclude"
+                }
+            },
+            "dev-release/2.0": {
+                "name": "numiko/search_api_exclude",
+                "version": "dev-release/2.0",
+                "version_normalized": "dev-release/2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-api-exclude.git",
+                    "reference": "723fb047cdd144b8f21a810288f24d988311380e"
+                },
+                "time": "2021-04-07 10:09:54",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
