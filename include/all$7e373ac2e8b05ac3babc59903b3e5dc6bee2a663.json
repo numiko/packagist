@@ -32061,31 +32061,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "2e1762c3cc67c198c745a948a81d6dd6eac5cb67"
+                    "reference": "4f282f2393076780258564c64fc30b91a905c7b8"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-02-25 12:13:54",
-                "type": "drupal-module",
-                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/make-alert-fields-translatable": {
-                "name": "numiko/site_alerts",
-                "version": "dev-feature/make-alert-fields-translatable",
-                "version_normalized": "dev-feature/make-alert-fields-translatable",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "35cc89daf14806ffa998a1dbbab18a7de91554ff"
-                },
-                "require": {
-                    "php": ">=5.6.0"
-                },
-                "time": "2021-04-08 09:51:14",
+                "time": "2021-04-08 10:03:10",
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
