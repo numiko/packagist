@@ -33507,6 +33507,24 @@
                     "Drupal"
                 ]
             },
+            "dev-master": {
+                "name": "numiko/styleguide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
+                    "reference": "5ef5250ff2495ef5ac57b0ecaf1e8abe9e62a18c"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-04-09 14:33:02",
+                "type": "drupal-module",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-branch-for-pr": {
                 "name": "numiko/styleguide",
                 "version": "dev-branch-for-pr",
