@@ -32566,6 +32566,31 @@
                     "Drupal"
                 ]
             },
+            "1.6.0": {
+                "name": "numiko/site_alerts",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "422bcce22f356792d8f15654afb1ef0ff5f31bb5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-site_alerts-1.6.0-d47faf.tar",
+                    "reference": "422bcce22f356792d8f15654afb1ef0ff5f31bb5",
+                    "shasum": "5764d08bab20feae92dd71a307f8d17ceb242284"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-14 14:48:36",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/site_alerts",
                 "version": "dev-master",
@@ -32573,12 +32598,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "82cfa811d6e5daabf8b1472f017d83e515e365cf"
+                    "reference": "64a7441c74c337e41ecc71a87d6a101e29e70f7f"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-04-14 12:54:57",
+                "time": "2021-04-14 14:57:01",
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
