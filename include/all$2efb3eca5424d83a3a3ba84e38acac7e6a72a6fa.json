@@ -2838,6 +2838,34 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/content_bulk_update",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "c6f10bd55a10011bc0a447b514ff30dfe311588e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-content_bulk_update-1.1.0-38865e.tar",
+                    "reference": "c6f10bd55a10011bc0a447b514ff30dfe311588e",
+                    "shasum": "9ca15f8da62e2040331899558381cfc9454df556"
+                },
+                "time": "2021-04-14 10:18:50",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/content_bulk_update",
                 "version": "dev-master",
@@ -2845,9 +2873,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content_bulk_update.git",
-                    "reference": "a5c036bffe37f300b15b374960db0df31eb27751"
+                    "reference": "4d91541ca5f2b1485558aba4049a2ded2adc8265"
                 },
-                "time": "2021-04-06 11:40:08",
+                "time": "2021-04-14 10:18:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -32489,6 +32517,32 @@
                     "Drupal"
                 ]
             },
+            "1.4.0": {
+                "name": "numiko/site_alerts",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "7d4ad595a5fddb4a99feb3340cf37daee1589717"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-site_alerts-1.4.0-537ef9.tar",
+                    "reference": "7d4ad595a5fddb4a99feb3340cf37daee1589717",
+                    "shasum": "30b39a0e30e2937c28160452199ca35ea7d4cb9a"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-14 10:17:20",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/site_alerts",
                 "version": "dev-master",
@@ -32496,12 +32550,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "4f282f2393076780258564c64fc30b91a905c7b8"
+                    "reference": "2843a9ce747f075680a2f58b9b02e27ea63f536e"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-04-08 10:03:10",
+                "time": "2021-04-14 10:17:20",
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
