@@ -27351,7 +27351,6 @@
                 },
                 "time": "2021-04-15 10:11:26",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Add the local tasks menu to gin toolbar.",
                 "keywords": [
                     "Drupal"
