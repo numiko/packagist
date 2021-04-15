@@ -27330,6 +27330,53 @@
                 ]
             }
         },
+        "numiko/gin_local_tasks": {
+            "1.0.0": {
+                "name": "numiko/gin_local_tasks",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/gin-local-tasks.git",
+                    "reference": "79ffb29e162b7f83427324e753c4ad68f7884f3e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-gin_local_tasks-1.0.0-95d1b0.tar",
+                    "reference": "79ffb29e162b7f83427324e753c4ad68f7884f3e",
+                    "shasum": "2afff4ac3d9361def6b5a20d6e0afa224ee21513"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-15 10:11:26",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Add the local tasks menu to gin toolbar.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/gin_local_tasks",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/gin-local-tasks.git",
+                    "reference": "00519bf649b2678f630dd986e15eef3b16bb4884"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-15 10:11:26",
+                "type": "drupal-module",
+                "description": "Add the local tasks menu to gin toolbar.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/icon-menu": {
             "1.0.0": {
                 "name": "numiko/icon-menu",
