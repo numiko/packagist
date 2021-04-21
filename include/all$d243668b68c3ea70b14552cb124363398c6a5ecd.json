@@ -33864,7 +33864,6 @@
                 },
                 "time": "2021-04-21 09:15:58",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
