@@ -16798,6 +16798,112 @@
                 ],
                 "description": "The Numiko D9 profile"
             },
+            "1.2.0-beta3": {
+                "name": "numiko/d9-profile",
+                "version": "1.2.0-beta3",
+                "version_normalized": "1.2.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "d5bc23c9bfbd7b68fb7701ad75d2ee04c5b0a316"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-d9-profile-1.2.0-beta3-59a2fe.tar",
+                    "reference": "d5bc23c9bfbd7b68fb7701ad75d2ee04c5b0a316",
+                    "shasum": "ecfde140dd4ffb7be42cdf5f9c76a935f5298aa3"
+                },
+                "require": {
+                    "drupal/accessible_media_embed": "*",
+                    "drupal/advagg": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/components": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "*",
+                    "drupal/config_update": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_clone": "*",
+                    "drupal/entity_embed": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/fallback_media": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/gin": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^6",
+                    "drupal/mail_safety": "*",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/node_boolean": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "3.x-dev@dev",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/webform": "^6.0@alpha",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/personas": "*",
+                    "numiko/responsive_image_class": "*",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/styleguide": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2021-04-21 14:06:38",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2020-07-02/1551534-75.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2020-06-19/2730631-103.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/menu_block": {
+                            "[3146665] Drupal 9 Compatibility": "https://www.drupal.org/files/issues/2020-11-11/3146665_7.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko D9 profile"
+            },
             "dev-master": {
                 "name": "numiko/d9-profile",
                 "version": "dev-master",
@@ -16912,7 +17018,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "e5b4225f48c55751ca2e70517d5dc402006a6f2a"
+                    "reference": "d5bc23c9bfbd7b68fb7701ad75d2ee04c5b0a316"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -16949,7 +17055,6 @@
                     "drupal/maxlength": "*",
                     "drupal/menu_block": "*",
                     "drupal/metatag": "*",
-                    "drupal/mimemail": "*",
                     "drupal/minifyhtml": "*",
                     "drupal/node_boolean": "*",
                     "drupal/paragraphs": "*",
@@ -16985,7 +17090,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-03-29 11:54:40",
+                "time": "2021-04-21 14:06:38",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -16994,17 +17099,10 @@
                             "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2020-06-19/2730631-103.patch"
                         },
                         "drupal/coffee": {
-                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch",
-                            "[3174680] Drupal 9 Compatibility": "https://www.drupal.org/files/issues/2020-10-27/3174680-5-make-test-module-d9-compatible.patch"
-                        },
-                        "drupal/entity_clone": {
-                            "[2706639] Support for cloning nodes that have another entities attached": "https://www.drupal.org/files/issues/entity_clone-allow_for_recursive_entity_cloning-2706639-41.patch"
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
                         },
                         "drupal/menu_block": {
                             "[3146665] Drupal 9 Compatibility": "https://www.drupal.org/files/issues/2020-11-11/3146665_7.patch"
-                        },
-                        "drupal/username_enumeration_prevention": {
-                            "[3167106] Drupal 9 Compatibility - Deprecated function User::getUsername": "https://www.drupal.org/files/issues/2020-09-01/fix-deprecated-getusername-3167106-2.patch"
                         }
                     }
                 },
@@ -24890,7 +24988,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "e7e51299553fbe24bf167df357d72dd9b005ceb1"
+                    "reference": "1e5356c9777f8c4d766a4b781aec69807995fcec"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -24911,7 +25009,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2021-04-21 13:43:57",
+                "time": "2021-04-21 14:03:23",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
