@@ -29771,9 +29771,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "434419d6871e6b4c26dd7f05c1dbedb40bc3d880"
+                    "reference": "7c2f31b6e88b0ec8d30c204dcc229ff1bae83e93"
                 },
-                "time": "2021-04-15 16:32:58",
+                "time": "2021-04-26 08:33:15",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -29793,25 +29793,6 @@
                     "reference": "7a7736e14e096c0c7ba80bd9be44ca116a83a3a1"
                 },
                 "time": "2021-04-01 11:09:06",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/styleguide-carousel": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/styleguide-carousel",
-                "version_normalized": "dev-feature/styleguide-carousel",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "88fd82cbce853d9d96c1df5946fd3a6871706a62"
-                },
-                "time": "2021-04-15 16:30:06",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
