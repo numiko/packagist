@@ -28574,6 +28574,23 @@
                 "time": "2021-03-30 15:50:16",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
+            },
+            "dev-release/2.0": {
+                "name": "numiko/integration_tests",
+                "version": "dev-release/2.0",
+                "version_normalized": "dev-release/2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "d276796d4fbd4f1365f16c93e4e4a45a89d2ea6e"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2021-04-27 13:23:22",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
             }
         },
         "numiko/link_class": {
