@@ -35025,6 +35025,24 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-release/2.0.0": {
+                "name": "numiko/styleguide",
+                "version": "dev-release/2.0.0",
+                "version_normalized": "dev-release/2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
+                    "reference": "1f79a9572027d684678049288834d91ebd5d408d"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-04-28 09:21:27",
+                "type": "drupal-module",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/taxonomy_slice": {
