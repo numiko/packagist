@@ -35224,12 +35224,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "1f79a9572027d684678049288834d91ebd5d408d"
+                    "reference": "039a6bc882c67d9dd12018f79b6009bd30c6d7c3"
                 },
                 "require": {
                     "php": ">=7.3.0"
                 },
-                "time": "2021-04-28 09:21:27",
+                "time": "2021-04-29 10:52:58",
                 "type": "drupal-module",
                 "keywords": [
                     "Drupal"
