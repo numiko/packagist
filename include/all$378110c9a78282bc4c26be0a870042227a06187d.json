@@ -17462,7 +17462,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "ab89dc416bb2662cb8d7288a0ddd77952a86d89b"
+                    "reference": "9afed14b6c66957ed80cd5c72ef6282b19378ea2"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -17535,7 +17535,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-04-28 14:48:27",
+                "time": "2021-04-29 09:48:00",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -17545,9 +17545,6 @@
                         },
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
-                        },
-                        "drupal/menu_block": {
-                            "[3146665] Drupal 9 Compatibility": "https://www.drupal.org/files/issues/2020-11-11/3146665_7.patch"
                         }
                     }
                 },
