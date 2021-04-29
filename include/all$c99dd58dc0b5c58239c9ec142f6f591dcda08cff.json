@@ -16697,7 +16697,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
