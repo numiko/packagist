@@ -3040,6 +3040,25 @@
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
+            "8.3.1": {
+                "name": "numiko/csp_per_page",
+                "version": "8.3.1",
+                "version_normalized": "8.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "abbc097b64153d71b7115d1641f0dcc8c6b1284a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-csp_per_page-8.3.1-8e0586.tar",
+                    "reference": "abbc097b64153d71b7115d1641f0dcc8c6b1284a",
+                    "shasum": "9c964c0d368eb6e94b02c2030f9913c9cbc90d49"
+                },
+                "time": "2021-04-29 09:33:15",
+                "type": "drupal-module",
+                "description": "Set a strict CSP on specific paths and content types"
+            },
             "dev-master": {
                 "name": "numiko/csp_per_page",
                 "version": "dev-master",
@@ -3060,9 +3079,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/csp-per-page.git",
-                    "reference": "f6d4aee79a4d6758d0315b4318fab7b6007ef6df"
+                    "reference": "350020d409fedfeeace4a1531d8595ef89c4c5ed"
                 },
-                "time": "2020-11-16 13:31:22",
+                "time": "2021-04-29 09:33:15",
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
@@ -33657,6 +33676,31 @@
                     "Drupal"
                 ]
             },
+            "1.6.2": {
+                "name": "numiko/site_alerts",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "8bacdc491f4ad676350a76d72b60ce59eca62fde"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-site_alerts-1.6.2-a3fca8.tar",
+                    "reference": "8bacdc491f4ad676350a76d72b60ce59eca62fde",
+                    "shasum": "b16c6f666c66f018dd92ba5371bdd41612c6fe3f"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-29 09:35:16",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/site_alerts",
                 "version": "dev-master",
@@ -33664,12 +33708,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "e516886526e5dbe4a952bddc250f6b35dc3b132f"
+                    "reference": "ee6a131aed98864f35af5afdbf16178022cc7927"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-04-16 15:18:56",
+                "time": "2021-04-29 09:35:16",
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
