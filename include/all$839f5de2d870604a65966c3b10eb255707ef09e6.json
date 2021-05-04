@@ -33179,7 +33179,6 @@
                 },
                 "time": "2021-05-04 14:52:16",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Extra checks for security_review module."
             },
             "dev-sprint/1": {
