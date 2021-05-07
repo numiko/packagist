@@ -33250,19 +33250,6 @@
                 "time": "2021-05-06 10:26:08",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
-            },
-            "dev-sprint/1b": {
-                "name": "numiko/numiko_security_review",
-                "version": "dev-sprint/1b",
-                "version_normalized": "dev-sprint/1b",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "53b6606192a330b313d5d050f7a261ba6b9eb579"
-                },
-                "time": "2021-05-06 10:26:08",
-                "type": "drupal-module",
-                "description": "Extra checks for security_review module."
             }
         },
         "numiko/paragraphs_category_modal": {
