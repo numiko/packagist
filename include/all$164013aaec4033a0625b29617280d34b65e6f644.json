@@ -17232,6 +17232,115 @@
                 ],
                 "description": "The Numiko D9 profile"
             },
+            "1.2.0-beta14": {
+                "name": "numiko/d9-profile",
+                "version": "1.2.0-beta14",
+                "version_normalized": "1.2.0.0-beta14",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "c1b5b0c36fc9f2b449ded08a8077c2030ab4e648"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-d9-profile-1.2.0-beta14-77381d.tar",
+                    "reference": "c1b5b0c36fc9f2b449ded08a8077c2030ab4e648",
+                    "shasum": "f07105a0c4757a43ac2f513ef8dd8f00484fa263"
+                },
+                "require": {
+                    "drupal/accessible_media_embed": "*",
+                    "drupal/admin_toolbar": "*",
+                    "drupal/advagg": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/components": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "*",
+                    "drupal/config_update": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_clone": "*",
+                    "drupal/entity_embed": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/fallback_media": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/gin": "*",
+                    "drupal/gin_toolbar": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^6",
+                    "drupal/mail_safety": "*",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/node_boolean": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "3.x-dev@dev",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/webform": "^6.0@alpha",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/personas": "*",
+                    "numiko/responsive_image_class": "*",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/slice_jump_links": "*",
+                    "numiko/styleguide": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2021-06-01 16:26:40",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2020-07-02/1551534-75.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2020-06-19/2730631-103.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/gin_toolbar": {
+                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2021-04-18/3121440-28.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko D9 profile"
+            },
             "1.2.0-beta2": {
                 "name": "numiko/d9-profile",
                 "version": "1.2.0-beta2",
@@ -18306,7 +18415,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "397acb71d4371d58356ecda969e7dc9522652e70"
+                    "reference": "c1b5b0c36fc9f2b449ded08a8077c2030ab4e648"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -18381,7 +18490,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-06-01 15:52:22",
+                "time": "2021-06-01 16:26:40",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -31121,9 +31230,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "abe74f625f45cca06552d19903d99fed4bb6f9ab"
+                    "reference": "63ec1874c63845e7147b476befe63735443bafdb"
                 },
-                "time": "2021-06-01 14:02:15",
+                "time": "2021-06-01 16:28:01",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
