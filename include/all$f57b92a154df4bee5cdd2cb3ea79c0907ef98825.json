@@ -35817,73 +35817,25 @@
             }
         },
         "numiko/styleguide": {
-            "0.0.1": {
+            "0.1.0": {
                 "name": "numiko/styleguide",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "fd8ae1059cae03683106bf337fd924a615f48daa"
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-styleguide-0.0.1-1af689.tar",
-                    "reference": "fd8ae1059cae03683106bf337fd924a615f48daa",
-                    "shasum": "fb16038ba57f47f3399e72753baed4545227f0a7"
+                    "url": "https://numiko.github.io/packagist//dist/numiko-styleguide-0.1.0-9ac1a4.tar",
+                    "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64",
+                    "shasum": "94c9425a1b5028347e2894353fdca4067d16153d"
                 },
                 "require": {
                     "php": ">=7.3.0"
                 },
-                "time": "2021-03-25 12:32:11",
-                "type": "drupal-module",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "0.0.2": {
-                "name": "numiko/styleguide",
-                "version": "0.0.2",
-                "version_normalized": "0.0.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "63cee45e4231981a8209fc021f0e3fcb6ace97a9"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-styleguide-0.0.2-eb768a.tar",
-                    "reference": "63cee45e4231981a8209fc021f0e3fcb6ace97a9",
-                    "shasum": "668ee82f8fe1ef0e24ad370fdd5e776f53a49f87"
-                },
-                "require": {
-                    "php": ">=7.3.0"
-                },
-                "time": "2021-03-29 11:50:08",
-                "type": "drupal-module",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "0.0.3": {
-                "name": "numiko/styleguide",
-                "version": "0.0.3",
-                "version_normalized": "0.0.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "de91d43f0bdf9aedd1253f5d81d8341fc93d8e0a"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-styleguide-0.0.3-70b0c1.tar",
-                    "reference": "de91d43f0bdf9aedd1253f5d81d8341fc93d8e0a",
-                    "shasum": "d1db045dd5f51b72bf83be0112623c1511f9e22e"
-                },
-                "require": {
-                    "php": ">=7.3.0"
-                },
-                "time": "2021-03-29 16:31:03",
+                "time": "2021-06-01 09:39:01",
                 "type": "drupal-module",
                 "keywords": [
                     "Drupal"
@@ -35895,49 +35847,13 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "5ef5250ff2495ef5ac57b0ecaf1e8abe9e62a18c"
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64"
                 },
                 "require": {
                     "php": ">=7.3.0"
                 },
-                "time": "2021-04-09 14:33:02",
-                "type": "drupal-module",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-branch-for-pr": {
-                "name": "numiko/styleguide",
-                "version": "dev-branch-for-pr",
-                "version_normalized": "dev-branch-for-pr",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "109f2f5d372a1e5ce8df2daa01e3730b53ed4f9c"
-                },
-                "require": {
-                    "php": ">=7.3.0"
-                },
-                "time": "2021-04-01 10:08:33",
-                "type": "drupal-module",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-release/2.0.0": {
-                "name": "numiko/styleguide",
-                "version": "dev-release/2.0.0",
-                "version_normalized": "dev-release/2.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/styleguide-drupal-module.git",
-                    "reference": "039a6bc882c67d9dd12018f79b6009bd30c6d7c3"
-                },
-                "require": {
-                    "php": ">=7.3.0"
-                },
-                "time": "2021-04-29 10:52:58",
+                "time": "2021-06-01 09:39:01",
                 "type": "drupal-module",
                 "keywords": [
                     "Drupal"
