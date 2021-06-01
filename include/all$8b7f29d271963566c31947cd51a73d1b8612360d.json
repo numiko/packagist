@@ -18306,10 +18306,11 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "7c60c19e21fec000bf166876507f2f2955a0892d"
+                    "reference": "397acb71d4371d58356ecda969e7dc9522652e70"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
+                    "drupal/admin_toolbar": "*",
                     "drupal/advagg": "*",
                     "drupal/clientside_validation": "*",
                     "drupal/coffee": "*",
@@ -18333,6 +18334,7 @@
                     "drupal/filter_perms": "*",
                     "drupal/focal_point": "*",
                     "drupal/gin": "*",
+                    "drupal/gin_toolbar": "*",
                     "drupal/honeypot": "*",
                     "drupal/imageapi_optimize": "*",
                     "drupal/imageapi_optimize_binaries": "*",
@@ -18379,7 +18381,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-06-01 14:40:41",
+                "time": "2021-06-01 15:52:22",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
@@ -18389,6 +18391,9 @@
                         },
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/gin_toolbar": {
+                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2021-04-18/3121440-28.patch"
                         }
                     }
                 },
