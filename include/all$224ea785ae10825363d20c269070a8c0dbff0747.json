@@ -34842,6 +34842,19 @@
                 "time": "2021-02-19 11:29:10",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
+            },
+            "dev-fix/handle-multiple-classes": {
+                "name": "numiko/responsive_image_class",
+                "version": "dev-fix/handle-multiple-classes",
+                "version_normalized": "dev-fix/handle-multiple-classes",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "66c306fa03a9360f4079678dbf380a681486de1e"
+                },
+                "time": "2021-06-24 11:03:50",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
             }
         },
         "numiko/search_api_exclude": {
