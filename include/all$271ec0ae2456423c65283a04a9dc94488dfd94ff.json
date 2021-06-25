@@ -20766,9 +20766,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "07640de16ec31ab1e8a20e5dc5d7c84994111002"
+                    "reference": "4734a925e5b59953bbf4ba34672dd4ecb017320f"
                 },
-                "time": "2020-02-18 17:10:54",
+                "time": "2021-06-25 11:24:18",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
