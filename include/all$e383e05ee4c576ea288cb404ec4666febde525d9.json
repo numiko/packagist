@@ -20807,6 +20807,30 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "dev-feature/d9-compatibility": {
+                "name": "numiko/domain_redirect",
+                "version": "dev-feature/d9-compatibility",
+                "version_normalized": "dev-feature/d9-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "b6a97ac8c74730aca5bee9b8ad49a371798f9fb8"
+                },
+                "time": "2021-06-25 11:39:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-feature/fix-fatal-error": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-feature/fix-fatal-error",
