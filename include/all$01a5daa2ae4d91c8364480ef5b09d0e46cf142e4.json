@@ -655,6 +655,32 @@
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
             },
+            "1.0.1": {
+                "name": "numiko/adestra",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "47029affb9ce533ee3a75911af0ae1475557fc0c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-adestra-1.0.1-995375.tar",
+                    "reference": "47029affb9ce533ee3a75911af0ae1475557fc0c",
+                    "shasum": "6fe082a3800fab20ca70d0b0d4f95935f43d534f"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.4.1"
+                },
+                "time": "2021-07-01 14:14:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            },
             "dev-master": {
                 "name": "numiko/adestra",
                 "version": "dev-master",
@@ -662,12 +688,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/adestra.git",
-                    "reference": "21144024518ed0ab82701535677c409f9ce7666c"
+                    "reference": "8833d8a12a9dd9470a086850c3fc41fd22043a8f"
                 },
                 "require": {
                     "phpxmlrpc/phpxmlrpc": "^4.4.1"
                 },
-                "time": "2021-07-01 09:42:09",
+                "time": "2021-07-01 14:14:54",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -38893,28 +38919,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig_smart_split.git",
-                    "reference": "89d926c1b2c5b7fe6d02d7c81c17579dbc7beb46"
+                    "reference": "4f67cf2f4da8666e7b20aaf2b77b721b03f1cb9e"
                 },
-                "time": "2021-07-01 09:13:26",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Add a twig extension to intelligently divide content into multiple chunks",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/make-d9-compatible": {
-                "name": "numiko/twig_smart_split",
-                "version": "dev-feature/make-d9-compatible",
-                "version_normalized": "dev-feature/make-d9-compatible",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
-                    "reference": "dbadde264500d3ef8f555fbfe097a8f943f0ae0e"
-                },
-                "time": "2021-07-01 13:32:22",
+                "time": "2021-07-01 14:13:57",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
