@@ -38879,6 +38879,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/make-d9-compatible": {
+                "name": "numiko/twig_smart_split",
+                "version": "dev-feature/make-d9-compatible",
+                "version_normalized": "dev-feature/make-d9-compatible",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "dbadde264500d3ef8f555fbfe097a8f943f0ae0e"
+                },
+                "time": "2021-07-01 13:32:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/user_login_admin": {
