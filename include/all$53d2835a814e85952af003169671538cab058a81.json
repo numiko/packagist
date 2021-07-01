@@ -628,6 +628,54 @@
                 ]
             }
         },
+        "numiko/adestra": {
+            "1.0.0": {
+                "name": "numiko/adestra",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "3715655969b3ddb19214c38d34cfa3904e374279"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-adestra-1.0.0-3d8824.tar",
+                    "reference": "3715655969b3ddb19214c38d34cfa3904e374279",
+                    "shasum": "444fbb1c34491de73af24895ea4d0e7f8839c171"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.4.1"
+                },
+                "time": "2021-07-01 09:42:09",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            },
+            "dev-master": {
+                "name": "numiko/adestra",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "21144024518ed0ab82701535677c409f9ce7666c"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.4.1"
+                },
+                "time": "2021-07-01 09:42:09",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            }
+        },
         "numiko/collections-api": {
             "0.1.0": {
                 "name": "numiko/collections-api",
@@ -38457,6 +38505,52 @@
                 }
             }
         },
+        "numiko/twig_smart_split": {
+            "1.0.0": {
+                "name": "numiko/twig_smart_split",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "89ed8a237984b1ab557defcc52916658895ce610"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-twig_smart_split-1.0.0-77d81c.tar",
+                    "reference": "89ed8a237984b1ab557defcc52916658895ce610",
+                    "shasum": "74a43d0bec94e28d4a9b66577cef65f405db2fe0"
+                },
+                "time": "2021-07-01 09:13:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/twig_smart_split",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "89d926c1b2c5b7fe6d02d7c81c17579dbc7beb46"
+                },
+                "time": "2021-07-01 09:13:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/user_login_admin": {
             "1.0.0": {
                 "name": "numiko/user_login_admin",
@@ -39282,6 +39376,52 @@
                     "GPL-2.0+"
                 ],
                 "description": "Webform feature to add optional fields to a webform, selectable on a per instance basis",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/webform_settings": {
+            "1.0.0": {
+                "name": "numiko/webform_settings",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform_settings.git",
+                    "reference": "db6bb0c3feaf1d68f87e993665714c141244263d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-webform_settings-1.0.0-2a210d.tar",
+                    "reference": "db6bb0c3feaf1d68f87e993665714c141244263d",
+                    "shasum": "9c22e10dc1bf4ee077bf3435ddad80c3509a9b77"
+                },
+                "time": "2021-07-01 09:26:31",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set sensible defaults for webform purge settings",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/webform_settings",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform_settings.git",
+                    "reference": "9470ee59ab99bb227830e174e6cf9f43f27a134c"
+                },
+                "time": "2021-07-01 09:26:31",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set sensible defaults for webform purge settings",
                 "keywords": [
                     "Drupal"
                 ]
