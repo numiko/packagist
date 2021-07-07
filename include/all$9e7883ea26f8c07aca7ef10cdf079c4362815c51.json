@@ -32118,6 +32118,29 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "2.1.0-beta1": {
+                "name": "numiko/integration_tests",
+                "version": "2.1.0-beta1",
+                "version_normalized": "2.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "415e6e44a6125ee74fbd43866fc9127983aa4a73"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-integration_tests-2.1.0-beta1-3d0fe9.tar",
+                    "reference": "415e6e44a6125ee74fbd43866fc9127983aa4a73",
+                    "shasum": "140f3276671a85e0acef4dfba5b6a95428baea8b"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2021-07-07 09:34:40",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/initial-commit": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/initial-commit",
@@ -32159,13 +32182,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "3944d28322f1468d2adbd82424f8d4537f360bb6"
+                    "reference": "415e6e44a6125ee74fbd43866fc9127983aa4a73"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2021-07-06 16:34:00",
+                "time": "2021-07-07 09:34:40",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             }
