@@ -38654,6 +38654,31 @@
                     "Drupal"
                 ]
             },
+            "1.0.2": {
+                "name": "numiko/social_share_block",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-social_share_block-1.0.2-9f9a8c.tar",
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81",
+                    "shasum": "69456a6d448fac6b30c0afdcc46183789fe0f5eb"
+                },
+                "time": "2021-07-12 07:08:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/social_share_block",
                 "version": "dev-master",
@@ -38661,9 +38686,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/social-share-block.git",
-                    "reference": "bcf19c418944d4db56379770f6dfd929e7143150"
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
                 },
-                "time": "2021-07-09 14:34:32",
+                "time": "2021-07-12 07:08:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
