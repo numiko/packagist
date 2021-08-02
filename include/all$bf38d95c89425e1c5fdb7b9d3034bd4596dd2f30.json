@@ -32537,6 +32537,31 @@
                     "Drupal"
                 ]
             },
+            "2.1.0": {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "1ceaf765afe8c53c79b35ac3b061542e916944c4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_responsive_thumbnail-2.1.0-a3e9ae.tar",
+                    "reference": "1ceaf765afe8c53c79b35ac3b061542e916944c4",
+                    "shasum": "d2bcc50a192da71bf5bb6a1bed703504d49b5d2c"
+                },
+                "time": "2021-08-02 12:56:51",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/media_responsive_thumbnail",
                 "version": "8.1.0",
@@ -32594,9 +32619,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
-                    "reference": "80ca72cd982d5279b56e70f60bc5d81c3f41d615"
+                    "reference": "46d5a58a7f4aee275e2879404c6ab76b17e2847b"
                 },
-                "time": "2017-10-23 14:54:45",
+                "time": "2021-08-02 12:56:51",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -32613,9 +32638,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
-                    "reference": "6c4462689c87a4ad477cf43287126a5dde37cf1d"
+                    "reference": "021bf3a746fa312793af7be64d8b56fbbcc97d94"
                 },
-                "time": "2018-07-31 12:40:24",
+                "time": "2021-08-02 12:56:51",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -39283,6 +39308,30 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/token_entity_reference",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "90af6424b99098f36ff385383575ff948ed44bf0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-token_entity_reference-1.1.0-64cb88.tar",
+                    "reference": "90af6424b99098f36ff385383575ff948ed44bf0",
+                    "shasum": "4915400ef614a1aedd69b42fd2030660f4c40ebe"
+                },
+                "time": "2021-08-02 13:01:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/token_entity_reference",
                 "version": "dev-master",
@@ -39290,9 +39339,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "4ddde2ca9ee49b9c8590608ae71969eb9ac86ef7"
+                    "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e"
                 },
-                "time": "2018-06-29 15:44:53",
+                "time": "2021-08-02 13:01:49",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
