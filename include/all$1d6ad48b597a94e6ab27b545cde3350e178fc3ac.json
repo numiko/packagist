@@ -765,6 +765,26 @@
                 ],
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
+            },
+            "dev-task/make-webform-6-compatible": {
+                "name": "numiko/adestra",
+                "version": "dev-task/make-webform-6-compatible",
+                "version_normalized": "dev-task/make-webform-6-compatible",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "1ccec9cac1b9394d7e0373dbf5c9bda7450ebd50"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.5.2"
+                },
+                "time": "2021-08-09 14:04:01",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
             }
         },
         "numiko/collections-api": {
