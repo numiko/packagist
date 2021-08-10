@@ -746,19 +746,25 @@
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
             },
-            "dev-master": {
+            "2.0.0": {
                 "name": "numiko/adestra",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/adestra.git",
-                    "reference": "8833d8a12a9dd9470a086850c3fc41fd22043a8f"
+                    "reference": "5806286742fee3aacdf368282d2f117d0700a126"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-adestra-2.0.0-1f15c6.tar",
+                    "reference": "5806286742fee3aacdf368282d2f117d0700a126",
+                    "shasum": "2be4901aa6228b501f58139e994e9396b85396b9"
                 },
                 "require": {
-                    "phpxmlrpc/phpxmlrpc": "^4.4.1"
+                    "phpxmlrpc/phpxmlrpc": "^4.5.2"
                 },
-                "time": "2021-07-01 14:14:54",
+                "time": "2021-08-10 08:02:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -766,19 +772,19 @@
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
             },
-            "dev-task/make-webform-6-compatible": {
+            "dev-master": {
                 "name": "numiko/adestra",
-                "version": "dev-task/make-webform-6-compatible",
-                "version_normalized": "dev-task/make-webform-6-compatible",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/adestra.git",
-                    "reference": "984c36b48905011b10540bbe1f1e841daf33c892"
+                    "reference": "5806286742fee3aacdf368282d2f117d0700a126"
                 },
                 "require": {
                     "phpxmlrpc/phpxmlrpc": "^4.5.2"
                 },
-                "time": "2021-08-09 14:40:41",
+                "time": "2021-08-10 08:02:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
