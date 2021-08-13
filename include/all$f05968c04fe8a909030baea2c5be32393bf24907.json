@@ -29797,9 +29797,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
-                    "reference": "2324e1d283d970217c37ab5be45049824650fdf4"
+                    "reference": "d2f3fad7115ee70fc84653d599664131ccc4b565"
                 },
-                "time": "2021-08-13 11:22:44",
+                "time": "2021-08-13 14:42:15",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
