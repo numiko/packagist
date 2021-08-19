@@ -19829,6 +19829,115 @@
                 ],
                 "description": "The Numiko D9 profile"
             },
+            "1.2.0-beta32": {
+                "name": "numiko/d9-profile",
+                "version": "1.2.0-beta32",
+                "version_normalized": "1.2.0.0-beta32",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "51c1cbdaa5e4bb1b24d50cdcccd079c7c40887df"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-d9-profile-1.2.0-beta32-738e30.tar",
+                    "reference": "51c1cbdaa5e4bb1b24d50cdcccd079c7c40887df",
+                    "shasum": "633b1d7741a8ddfb67feb1f23318cdfcf42e4113"
+                },
+                "require": {
+                    "drupal/accessible_media_embed": "*",
+                    "drupal/admin_toolbar": "*",
+                    "drupal/advagg": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/components": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_clone": "*",
+                    "drupal/entity_embed": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/fallback_media": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/gin": "*",
+                    "drupal/gin_toolbar": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^6",
+                    "drupal/mail_safety": "*",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/node_boolean": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "3.x-dev@dev",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/webform": "^6.0@alpha",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/integration_tests": "^2.0@beta",
+                    "numiko/personas": "*",
+                    "numiko/responsive_image_class": "*",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/slice_jump_links": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2021-08-19 12:53:01",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2020-07-02/1551534-75.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2020-06-19/2730631-103.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/gin_toolbar": {
+                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2021-04-18/3121440-28.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko D9 profile"
+            },
             "1.2.0-beta4": {
                 "name": "numiko/d9-profile",
                 "version": "1.2.0-beta4",
@@ -20863,6 +20972,109 @@
                         },
                         "drupal/menu_block": {
                             "[3146665] Drupal 9 Compatibility": "https://www.drupal.org/files/issues/2020-11-11/3146665_7.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko D9 profile"
+            },
+            "dev-release/1.2.0": {
+                "name": "numiko/d9-profile",
+                "version": "dev-release/1.2.0",
+                "version_normalized": "dev-release/1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "51c1cbdaa5e4bb1b24d50cdcccd079c7c40887df"
+                },
+                "require": {
+                    "drupal/accessible_media_embed": "*",
+                    "drupal/admin_toolbar": "*",
+                    "drupal/advagg": "*",
+                    "drupal/clientside_validation": "*",
+                    "drupal/coffee": "*",
+                    "drupal/components": "*",
+                    "drupal/config_filter": "*",
+                    "drupal/config_ignore": "*",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "*",
+                    "drupal/cshs": "*",
+                    "drupal/ctools": "*",
+                    "drupal/devel": "*",
+                    "drupal/easy_breadcrumb": "*",
+                    "drupal/editor_advanced_link": "*",
+                    "drupal/embed": "*",
+                    "drupal/entity_clone": "*",
+                    "drupal/entity_embed": "*",
+                    "drupal/facets": "*",
+                    "drupal/facets_pretty_paths": "*",
+                    "drupal/fallback_media": "*",
+                    "drupal/field_group": "*",
+                    "drupal/filter_perms": "*",
+                    "drupal/focal_point": "*",
+                    "drupal/gin": "*",
+                    "drupal/gin_toolbar": "*",
+                    "drupal/honeypot": "*",
+                    "drupal/imageapi_optimize": "*",
+                    "drupal/imageapi_optimize_binaries": "*",
+                    "drupal/inline_entity_form": "*",
+                    "drupal/linkit": "^6",
+                    "drupal/mail_safety": "*",
+                    "drupal/mailsystem": "*",
+                    "drupal/maxlength": "*",
+                    "drupal/menu_block": "*",
+                    "drupal/metatag": "*",
+                    "drupal/minifyhtml": "*",
+                    "drupal/node_boolean": "*",
+                    "drupal/paragraphs": "*",
+                    "drupal/password_policy": "3.x-dev@dev",
+                    "drupal/path_redirect_import": "*",
+                    "drupal/pathauto": "*",
+                    "drupal/redirect": "*",
+                    "drupal/redis": "*",
+                    "drupal/role_delegation": "*",
+                    "drupal/scheduled_publish": "*",
+                    "drupal/schema_metatag": "*",
+                    "drupal/search_api": "*",
+                    "drupal/search_api_attachments": "*",
+                    "drupal/search_api_autocomplete": "*",
+                    "drupal/search_api_solr": "*",
+                    "drupal/search_kint": "*",
+                    "drupal/seckit": "*",
+                    "drupal/simple_sitemap": "*",
+                    "drupal/smart_trim": "*",
+                    "drupal/stage_file_proxy": "*",
+                    "drupal/token": "*",
+                    "drupal/username_enumeration_prevention": "*",
+                    "drupal/webform": "^6.0@alpha",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/integration_tests": "^2.0@beta",
+                    "numiko/personas": "*",
+                    "numiko/responsive_image_class": "*",
+                    "numiko/sensible_email_validation": "*",
+                    "numiko/slice_jump_links": "*",
+                    "numiko/twig_field_values": "*",
+                    "numiko/user_login_admin": "*",
+                    "numiko/views-topup": "*"
+                },
+                "time": "2021-08-19 12:53:01",
+                "type": "drupal-profile",
+                "extra": {
+                    "patches": {
+                        "drupal/core": {
+                            "[1551534] Allow a button in an exposed forms to trigger ajax.": "https://www.drupal.org/files/issues/2020-07-02/1551534-75.patch",
+                            "[2730631] Node revision routes don't convert {node} param": "https://www.drupal.org/files/issues/2020-06-19/2730631-103.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/gin_toolbar": {
+                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2021-04-18/3121440-28.patch"
                         }
                     }
                 },
@@ -28904,6 +29116,120 @@
                 ],
                 "description": "Project template for Drupal 9 projects with composer"
             },
+            "1.2.0-beta7": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.2.0-beta7",
+                "version_normalized": "1.2.0.0-beta7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "02bf252ba2d88a1d87f1cf0abfcdbd93958e7b27"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-drupal-9-composer-template-1.2.0-beta7-4e3927.tar",
+                    "reference": "02bf252ba2d88a1d87f1cf0abfcdbd93958e7b27",
+                    "shasum": "837fbec8897a66045bed7407e19086cc0930d665"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.2.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2021-08-19 13:16:37",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
             "dev-master": {
                 "name": "numiko/drupal-9-composer-template",
                 "version": "dev-master",
@@ -29040,6 +29366,113 @@
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
                 "time": "2021-06-30 08:37:06",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
+            "dev-release/1.2.0": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "dev-release/1.2.0",
+                "version_normalized": "dev-release/1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "02bf252ba2d88a1d87f1cf0abfcdbd93958e7b27"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.2.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2021-08-19 13:16:37",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
