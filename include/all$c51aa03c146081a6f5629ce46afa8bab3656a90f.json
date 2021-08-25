@@ -34489,6 +34489,25 @@
                     "Drupal"
                 ]
             },
+            "dev-D8IP-196-Main-Menu": {
+                "name": "numiko/numibase",
+                "version": "dev-D8IP-196-Main-Menu",
+                "version_normalized": "dev-D8IP-196-Main-Menu",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "c7fdd8765649cc326104da731e51446de890e1ff"
+                },
+                "time": "2021-08-25 14:58:58",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/install_profile_styleguide": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/install_profile_styleguide",
