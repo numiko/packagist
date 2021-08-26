@@ -22401,6 +22401,36 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "8.2.1": {
+                "name": "numiko/domain_redirect",
+                "version": "8.2.1",
+                "version_normalized": "8.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "a20de1657c3a4aa2ec8c5425ab182436b5ffeb0d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-domain_redirect-8.2.1-cd162c.tar",
+                    "reference": "a20de1657c3a4aa2ec8c5425ab182436b5ffeb0d",
+                    "shasum": "42e70de7d93b291db913313997c00830b557d634"
+                },
+                "time": "2021-08-26 10:35:42",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-master": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-master",
@@ -22408,9 +22438,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "1ea873aa2146d2ef55f1f6fd991eb80b7e16f825"
+                    "reference": "42b5c781fa8cffdc57f9f7a59e20a98190530f9f"
                 },
-                "time": "2021-06-25 12:52:56",
+                "time": "2021-08-26 10:35:42",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -33024,6 +33054,32 @@
                     "Drupal"
                 ]
             },
+            "3.0.1": {
+                "name": "numiko/media_linkit",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "f179c4901a3327dddff6bd1bc45a61c70dd08491"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_linkit-3.0.1-9f4f2b.tar",
+                    "reference": "f179c4901a3327dddff6bd1bc45a61c70dd08491",
+                    "shasum": "1291c7ceb6f050df29209b4787d5a4cc325407c7"
+                },
+                "time": "2021-08-26 10:55:17",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/media_linkit",
                 "version": "dev-8.x-1.x",
@@ -33069,9 +33125,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-linkit.git",
-                    "reference": "2502a7f32e0e0317c68d6a6c6fa3a23844171e70"
+                    "reference": "0352300cd5fa6c15d9b5d23a5d89a4c148cda3fb"
                 },
-                "time": "2021-08-24 08:08:59",
+                "time": "2021-08-26 10:55:17",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
