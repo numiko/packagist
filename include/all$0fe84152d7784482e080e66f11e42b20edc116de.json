@@ -34487,6 +34487,32 @@
                     "Drupal"
                 ]
             },
+            "8.1.2": {
+                "name": "numiko/numibase",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "a60298e316a056e2865be8392a08f71fc1cba8b5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-numibase-8.1.2-225470.tar",
+                    "reference": "a60298e316a056e2865be8392a08f71fc1cba8b5",
+                    "shasum": "e4a409cd5beff65536ea68810c08e4d37ddffaab"
+                },
+                "time": "2021-08-31 09:53:24",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/numibase",
                 "version": "dev-master",
@@ -34649,6 +34675,25 @@
                     "reference": "ae950ee782ce9a3f7d6f321c9912ffe50b867fe1"
                 },
                 "time": "2020-11-16 14:31:26",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/8.x": {
+                "name": "numiko/numibase",
+                "version": "dev-release/8.x",
+                "version_normalized": "dev-release/8.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "c03d9130469fa84a7f80beda9a8eb64926e2f7be"
+                },
+                "time": "2021-08-31 09:53:24",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
