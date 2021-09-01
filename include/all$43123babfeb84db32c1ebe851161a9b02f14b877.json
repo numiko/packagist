@@ -2978,14 +2978,20 @@
                 ],
                 "description": "Library used to send requests to ElasticSearch for British museums collections."
             },
-            "dev-master": {
+            "1.2.2": {
                 "name": "numiko/collections-api",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "bf40dbc4ef3b745a2a6e55213c98bd870f48ccef"
+                    "reference": "9f5faf17edd1afc0f96c68f32e897c985d57a293"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-collections-api-1.2.2-cf6cdd.tar",
+                    "reference": "9f5faf17edd1afc0f96c68f32e897c985d57a293",
+                    "shasum": "b246654051497303feb34f821bed4755465fd914"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
@@ -2996,7 +3002,40 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2021-09-01 09:31:11",
+                "time": "2021-09-01 10:52:33",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\CollectionsApi\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "email": "lukestirk@numiko.com"
+                    }
+                ],
+                "description": "Library used to send requests to ElasticSearch for British museums collections."
+            },
+            "dev-master": {
+                "name": "numiko/collections-api",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/collections-api.git",
+                    "reference": "14677414a90dc2f1f6e0540d00972e7a6d8e343f"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": " ^7.0",
+                    "php": "^7.2.9",
+                    "psr/log": "^1.1"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2021-09-01 10:52:33",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
