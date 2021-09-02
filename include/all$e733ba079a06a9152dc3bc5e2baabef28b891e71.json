@@ -30929,6 +30929,31 @@
             }
         },
         "numiko/facets_default": {
+            "1.0.0": {
+                "name": "numiko/facets_default",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-default.git",
+                    "reference": "d2a56737776738fb7619f199bd6787fc59ebf460"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-facets_default-1.0.0-481a69.tar",
+                    "reference": "d2a56737776738fb7619f199bd6787fc59ebf460",
+                    "shasum": "fe71314cfaa842b69f74390200ba594608489eaa"
+                },
+                "time": "2021-09-02 13:58:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set a default active facet",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/facets_default",
                 "version": "8.1.0",
@@ -30961,9 +30986,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-default.git",
-                    "reference": "c855ee0b02a2c90a55c190ec6da2e7356e445409"
+                    "reference": "1757983fd6381c304ac9319a2eb001376d6a658a"
                 },
-                "time": "2020-10-21 15:20:30",
+                "time": "2021-09-02 13:58:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -32958,6 +32983,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/link_class",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-class.git",
+                    "reference": "b72f1c5785ca66a1b211c819110c1eaaf8a53ab2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-link_class-1.1.0-1974c6.tar",
+                    "reference": "b72f1c5785ca66a1b211c819110c1eaaf8a53ab2",
+                    "shasum": "86450f05f2080d99424d8188f6f86e6d65c9307f"
+                },
+                "time": "2021-09-02 14:06:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Formatter for adding classes to link fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/link_class",
                 "version": "dev-8.x-1.x",
@@ -32965,9 +33015,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/link-class.git",
-                    "reference": "e5bd68744e586bd4d71ec232aeb4add90e065826"
+                    "reference": "4202c8e355454753d50a0c9f38a5115381806289"
                 },
-                "time": "2020-07-07 11:32:16",
+                "time": "2021-09-02 14:06:22",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
