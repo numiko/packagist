@@ -30477,6 +30477,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/entity-reference-revisions-context",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
+                    "reference": "b579f0b448e117c1b52f662437e19c3fdcf3ddf4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-entity-reference-revisions-context-1.1.0-7257a2.tar",
+                    "reference": "b579f0b448e117c1b52f662437e19c3fdcf3ddf4",
+                    "shasum": "1de7f126a1cca2d9892b857b5b3822824ee2d935"
+                },
+                "time": "2021-09-10 14:34:47",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add data attributes to paragraphs to represent their position within a set of paragraphs",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity-reference-revisions-context",
                 "version": "dev-8.x-1.x",
@@ -30484,9 +30509,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
-                    "reference": "17bf8654ffe2904973544260833ed1704ee3d74d"
+                    "reference": "b579f0b448e117c1b52f662437e19c3fdcf3ddf4"
                 },
-                "time": "2017-11-30 13:07:05",
+                "time": "2021-09-10 14:34:47",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
