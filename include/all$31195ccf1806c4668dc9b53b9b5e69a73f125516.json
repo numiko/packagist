@@ -30548,6 +30548,31 @@
                     "Drupal"
                 ]
             },
+            "2.0.1": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "1ebf396acc287f2cc3d4e1bcad3e9add6e594e97"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-entity_embed_ckeditor-2.0.1-949411.tar",
+                    "reference": "1ebf396acc287f2cc3d4e1bcad3e9add6e594e97",
+                    "shasum": "ebd41ddaa80876f0847aebd0142a03070abecc7c"
+                },
+                "time": "2021-09-15 08:43:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/entity_embed_ckeditor",
                 "version": "8.1.0",
@@ -30768,9 +30793,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
-                    "reference": "a757e31676bfada2fab3334ed07a7555b72c765c"
+                    "reference": "1ebf396acc287f2cc3d4e1bcad3e9add6e594e97"
                 },
-                "time": "2021-08-24 08:11:17",
+                "time": "2021-09-15 08:43:36",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
