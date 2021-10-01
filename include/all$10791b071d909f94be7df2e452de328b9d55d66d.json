@@ -37844,16 +37844,22 @@
                     "Drupal"
                 ]
             },
-            "dev-master": {
+            "2.1.0": {
                 "name": "numiko/paragraphs_category_modal",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "52af919673d85fbca9d1d9911bcfe921a1ad80eb"
+                    "reference": "5344d9d91ac32334a6f969e5bdbcb6bf58cfceca"
                 },
-                "time": "2021-01-20 14:01:16",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_category_modal-2.1.0-544a52.tar",
+                    "reference": "5344d9d91ac32334a6f969e5bdbcb6bf58cfceca",
+                    "shasum": "a4b549f795f0f087a5893fb764ef6e52f7287d95"
+                },
+                "time": "2021-10-01 09:27:25",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -37863,16 +37869,16 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/icons": {
+            "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
-                "version": "dev-feature/icons",
-                "version_normalized": "dev-feature/icons",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "df07fe64a2dcbccd7820e7891d5f5bd4fc5a7f92"
+                    "reference": "6e287ecd4edaafbdf3e46d00ba37b36754305f95"
                 },
-                "time": "2020-08-17 11:27:25",
+                "time": "2021-10-01 09:27:25",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
