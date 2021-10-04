@@ -34243,7 +34243,6 @@
                 },
                 "time": "2021-10-04 10:20:02",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
