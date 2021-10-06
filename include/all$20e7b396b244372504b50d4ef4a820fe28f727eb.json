@@ -30648,6 +30648,36 @@
                     "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
                 }
             },
+            "2.0.0": {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "d73cd3dcaf8717ea03c1a71e60bd4d7026160d7a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-enforceuserlogincsrf-2.0.0-13b6e6.tar",
+                    "reference": "d73cd3dcaf8717ea03c1a71e60bd4d7026160d7a",
+                    "shasum": "cbd5fce2fe332a20cadf904d166922f17233168a"
+                },
+                "time": "2021-10-06 08:15:54",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
             "dev-master": {
                 "name": "numiko/enforceuserlogincsrf",
                 "version": "dev-master",
@@ -30655,9 +30685,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
-                    "reference": "ee61c5542c01322dd94e122846d917c547fb7ea9"
+                    "reference": "6b4af81c82fe35c63cffe449bc0162b17d190024"
                 },
-                "time": "2017-07-07 15:15:54",
+                "time": "2021-10-06 08:15:54",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -31721,6 +31751,33 @@
             }
         },
         "numiko/file_size_display": {
+            "1.0.0": {
+                "name": "numiko/file_size_display",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "f5c864b1fe5ad61711047310229f2f94e799c9aa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-file_size_display-1.0.0-594210.tar",
+                    "reference": "f5c864b1fe5ad61711047310229f2f94e799c9aa",
+                    "shasum": "cb31abf0154d8b3792d42e9e0a97d72416e87429"
+                },
+                "time": "2021-10-06 08:03:39",
+                "type": "drupal-module",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
+            },
             "dev-master": {
                 "name": "numiko/file_size_display",
                 "version": "dev-master",
@@ -31728,9 +31785,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/file-size-display.git",
-                    "reference": "80e1126910754ea4e2e3af21fb0953bba3eab952"
+                    "reference": "fdb11dc6987890a6a1003de938575b39df98e87c"
                 },
-                "time": "2016-09-02 14:46:21",
+                "time": "2021-10-06 08:03:39",
                 "type": "drupal-module",
                 "description": "Field formatter for files to nicely show file size",
                 "homepage": "http://numiko.com",
