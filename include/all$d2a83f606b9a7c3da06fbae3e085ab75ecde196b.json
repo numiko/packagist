@@ -30678,6 +30678,36 @@
                     "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
                 }
             },
+            "2.0.1": {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "de40051726bb562ca7477de28716a3d6b43f2371"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-enforceuserlogincsrf-2.0.1-4d3934.tar",
+                    "reference": "de40051726bb562ca7477de28716a3d6b43f2371",
+                    "shasum": "48f3083f97ee78c99f54907f02873dab03c85c1f"
+                },
+                "time": "2021-10-11 08:42:15",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
             "dev-master": {
                 "name": "numiko/enforceuserlogincsrf",
                 "version": "dev-master",
@@ -30685,9 +30715,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
-                    "reference": "6b4af81c82fe35c63cffe449bc0162b17d190024"
+                    "reference": "7598f35aa77ce54c4dfaa0f47a944c9079b55421"
                 },
-                "time": "2021-10-06 08:15:54",
+                "time": "2021-10-11 08:42:15",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
