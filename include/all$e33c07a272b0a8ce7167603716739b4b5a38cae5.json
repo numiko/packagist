@@ -31680,6 +31680,32 @@
                     "Drupal"
                 ]
             },
+            "1.0.1": {
+                "name": "numiko/field_items_limit",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-items-limit",
+                    "reference": "65c6ad314ad8dc5bfbb73e49dc76ca13da600730"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-field_items_limit-1.0.1-744a9d.tar",
+                    "reference": "65c6ad314ad8dc5bfbb73e49dc76ca13da600730",
+                    "shasum": "b8b5fe1d6e3827619b24bb6647774c6d96d34983"
+                },
+                "time": "2021-10-19 10:51:02",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Limit the number of items output through field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/field_items_limit",
                 "version": "dev-master",
@@ -31687,9 +31713,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/field-items-limit",
-                    "reference": "35b769dd5c20f01304844d826972cde67034370e"
+                    "reference": "bf6487b5de7d47c10f0f018cb1c8eccbf42781c7"
                 },
-                "time": "2018-07-30 09:40:12",
+                "time": "2021-10-19 10:51:02",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
