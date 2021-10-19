@@ -31340,7 +31340,6 @@
                 },
                 "time": "2021-10-19 12:24:40",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -33812,6 +33811,31 @@
                     "Drupal"
                 ]
             },
+            "1.0.1": {
+                "name": "numiko/link_fragment",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "a5178737209fed2a527317e86a464baf9bf1333f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-link_fragment-1.0.1-24775d.tar",
+                    "reference": "a5178737209fed2a527317e86a464baf9bf1333f",
+                    "shasum": "f41b1147f25046666951045721f8feb990d2f607"
+                },
+                "time": "2021-10-19 12:26:24",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/link_fragment",
                 "version": "dev-8.x-1.x",
@@ -33819,9 +33843,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/link-fragment.git",
-                    "reference": "52d284a33f6b66150e2b7587cb5a9b42120dd489"
+                    "reference": "1c6f11177121d40e60618a9bda54313e1a086e7d"
                 },
-                "time": "2017-06-02 10:51:01",
+                "time": "2021-10-19 12:26:24",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -33833,6 +33857,31 @@
             }
         },
         "numiko/link_template_formatter": {
+            "1.0.0": {
+                "name": "numiko/link_template_formatter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "4ed2f0e7392d571125c6b98e810cc6133bb44be2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-link_template_formatter-1.0.0-e53de5.tar",
+                    "reference": "4ed2f0e7392d571125c6b98e810cc6133bb44be2",
+                    "shasum": "58b36035d179e823fe3f82f44f98e57298736378"
+                },
+                "time": "2021-10-19 12:28:10",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/link_template_formatter",
                 "version": "8.1.0",
@@ -33865,9 +33914,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/link-template-formatter.git",
-                    "reference": "5e956b9e2aba47f4072e75aa42ec13fe7639b206"
+                    "reference": "432f89a1aaec67e6620e852fa1cdee9b2ef602d5"
                 },
-                "time": "2017-02-21 21:49:04",
+                "time": "2021-10-19 12:28:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -42358,6 +42407,31 @@
             }
         },
         "numiko/visible_trim": {
+            "1.0.0": {
+                "name": "numiko/visible_trim",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/visible-trim.git",
+                    "reference": "877684274375284c42bd6e68d7e6b2440fdefa4d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-visible_trim-1.0.0-19be42.tar",
+                    "reference": "877684274375284c42bd6e68d7e6b2440fdefa4d",
+                    "shasum": "f0a774bb713a2108f5b9155543f8b9171578b229"
+                },
+                "time": "2021-10-19 12:30:20",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add markup to enable visible trim of text fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/visible_trim",
                 "version": "8.1.0",
@@ -42440,9 +42514,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/visible-trim.git",
-                    "reference": "41737ec33f1feb7c9d0244ff3bdb6185b1e78504"
+                    "reference": "18316f2abdbdde904d6b8e8a8e4cf307928cb270"
                 },
-                "time": "2017-02-21 20:38:13",
+                "time": "2021-10-19 12:30:20",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
