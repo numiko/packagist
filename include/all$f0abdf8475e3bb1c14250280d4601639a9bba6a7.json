@@ -31697,7 +31697,6 @@
                 },
                 "time": "2021-10-19 10:51:02",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -35333,6 +35332,32 @@
                     "Drupal"
                 ]
             },
+            "0.3.0": {
+                "name": "numiko/numiadmin",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "6fdad2e8af5a1d2007c59331a81c4e2f0f3a7f7b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-numiadmin-0.3.0-450ab5.tar",
+                    "reference": "6fdad2e8af5a1d2007c59331a81c4e2f0f3a7f7b",
+                    "shasum": "516e6ec05f227f2fe9080c0ae8b789c24b1ebbb6"
+                },
+                "time": "2021-10-19 11:12:24",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Seven",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "1.0.0": {
                 "name": "numiko/numiadmin",
                 "version": "1.0.0",
@@ -35396,9 +35421,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiadmin.git",
-                    "reference": "88777fcf105f07e6a2daa21ce970cfdc50bb9484"
+                    "reference": "3d532ca7cc5afb6885a2e37e08f8b6f52363a56d"
                 },
-                "time": "2021-08-23 10:41:16",
+                "time": "2021-10-19 11:12:24",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
