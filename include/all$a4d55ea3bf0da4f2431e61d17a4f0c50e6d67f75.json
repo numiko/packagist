@@ -267,6 +267,36 @@
             }
         },
         "drupal/webform_ajax": {
+            "1.0.0": {
+                "name": "drupal/webform_ajax",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-ajax.git",
+                    "reference": "6e11456127aa761a7c7714c95bf0c09ad9f47ba9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-webform_ajax-1.0.0-acc952.tar",
+                    "reference": "6e11456127aa761a7c7714c95bf0c09ad9f47ba9",
+                    "shasum": "64dd1425f599bf6c80eaffed00e1726cc4a226d5"
+                },
+                "time": "2021-10-22 10:28:47",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Support AJAX form submission methods",
+                "homepage": "https://www.drupal.org/project/webform_ajax",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/webform_ajax",
+                    "source": "http://cgit.drupalcode.org/webform_ajax"
+                }
+            },
             "8.1.0": {
                 "name": "drupal/webform_ajax",
                 "version": "8.1.0",
@@ -514,9 +544,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform-ajax.git",
-                    "reference": "2b336da2e7bc9cc673e23b3eccde7553a959d7a1"
+                    "reference": "534a71d6966ba628a0a6c4b893d637a309f15abe"
                 },
-                "time": "2017-05-04 21:26:50",
+                "time": "2021-10-22 10:28:47",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
