@@ -35506,6 +35506,31 @@
                     "Drupal"
                 ]
             },
+            "0.4.0": {
+                "name": "numiko/numiadmin",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiadmin.git",
+                    "reference": "5e97e8eeffec010a1b1e92ddfc4dbdaa2ef6c162"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-numiadmin-0.4.0-b6dcb1.tar",
+                    "reference": "5e97e8eeffec010a1b1e92ddfc4dbdaa2ef6c162",
+                    "shasum": "5ede4339e5f057e10549eb6abd4f6da30653c7ba"
+                },
+                "time": "2021-10-27 08:25:18",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Admin sub-theme of Seven",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "1.0.0": {
                 "name": "numiko/numiadmin",
                 "version": "1.0.0",
@@ -35569,9 +35594,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiadmin.git",
-                    "reference": "3d532ca7cc5afb6885a2e37e08f8b6f52363a56d"
+                    "reference": "0c391cc6de1f0a72fa0061b1fecb3cb44f605497"
                 },
-                "time": "2021-10-19 11:12:24",
+                "time": "2021-10-27 08:25:18",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
