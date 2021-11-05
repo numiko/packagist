@@ -34184,6 +34184,30 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/template-suggestion-update": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/template-suggestion-update",
+                "version_normalized": "dev-feature/template-suggestion-update",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "216b6a3f1d52a7fb176e725a573137f4e2c2fdfe"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2021-11-05 09:09:19",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/media_linkit": {
