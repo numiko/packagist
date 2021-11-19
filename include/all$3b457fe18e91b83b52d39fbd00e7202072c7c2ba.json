@@ -34978,6 +34978,30 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/configurable-search-api-index": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/configurable-search-api-index",
+                "version_normalized": "dev-feature/configurable-search-api-index",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "1b36febcc4800f313090ab0171c4455511dc2fb2"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2021-11-19 11:52:24",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/media_linkit": {
