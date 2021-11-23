@@ -39116,10 +39116,36 @@
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },
+            "dev-master": {
+                "name": "numiko/numiko_security_review",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "7c1dbdce61be463435f851bf0004434ecb36da85"
+                },
+                "time": "2021-05-07 14:20:28",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
+            },
             "dev-sprint/1": {
                 "name": "numiko/numiko_security_review",
                 "version": "dev-sprint/1",
                 "version_normalized": "dev-sprint/1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "7c1dbdce61be463435f851bf0004434ecb36da85"
+                },
+                "time": "2021-05-07 14:20:28",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
+            },
+            "dev-sprint/2": {
+                "name": "numiko/numiko_security_review",
+                "version": "dev-sprint/2",
+                "version_normalized": "dev-sprint/2",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
