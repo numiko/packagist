@@ -34955,21 +34955,27 @@
                     "Drupal"
                 ]
             },
-            "dev-master": {
+            "1.4.0": {
                 "name": "numiko/listings_filter",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "ec630c14ce45b952ab2756201181f0d6ec65cce2"
+                    "reference": "8a2ac6bd3e6298d822c1ed701814f14ed5a67611"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-listings_filter-1.4.0-32fc15.tar",
+                    "reference": "8a2ac6bd3e6298d822c1ed701814f14ed5a67611",
+                    "shasum": "003819a2f39214587879cbc8c41ac631a5d402d9"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2021-11-11 10:55:54",
+                "time": "2021-11-23 09:35:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -34979,21 +34985,21 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/configurable-search-api-index": {
+            "dev-master": {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/configurable-search-api-index",
-                "version_normalized": "dev-feature/configurable-search-api-index",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "4e5c4f2dd568e54d41978531b180e198151c2e0e"
+                    "reference": "8a2ac6bd3e6298d822c1ed701814f14ed5a67611"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2021-11-19 12:02:17",
+                "time": "2021-11-23 09:35:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
