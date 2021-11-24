@@ -23432,6 +23432,36 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "8.2.2": {
+                "name": "numiko/domain_redirect",
+                "version": "8.2.2",
+                "version_normalized": "8.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "aa12befb9c90ddaf31df4395ac8acfad464e0ded"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-domain_redirect-8.2.2-4c71b7.tar",
+                    "reference": "aa12befb9c90ddaf31df4395ac8acfad464e0ded",
+                    "shasum": "3563981e491245fa029b49c0ac4e56c3d8278ea3"
+                },
+                "time": "2021-11-24 09:47:16",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-master": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-master",
@@ -23439,9 +23469,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "42b5c781fa8cffdc57f9f7a59e20a98190530f9f"
+                    "reference": "1601ba974b4ab8f2a3874b3a227d3e53c915dd57"
                 },
-                "time": "2021-08-26 10:35:42",
+                "time": "2021-11-24 09:47:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
