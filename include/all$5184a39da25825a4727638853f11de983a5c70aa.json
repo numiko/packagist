@@ -22011,7 +22011,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "1d26c44cdb61c5b9b2348d6a84880130b1bdd5f3"
+                    "reference": "3117829b488671426777fd654e0f316e00889200"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -22037,6 +22037,7 @@
                     "drupal/facets_pretty_paths": "*",
                     "drupal/fallback_media": "*",
                     "drupal/field_group": "*",
+                    "drupal/file_delete": "*",
                     "drupal/filter_perms": "*",
                     "drupal/focal_point": "*",
                     "drupal/gin": "*",
@@ -22089,7 +22090,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-11-26 10:49:40",
+                "time": "2021-11-26 11:25:04",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
