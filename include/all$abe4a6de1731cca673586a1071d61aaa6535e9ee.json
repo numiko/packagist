@@ -22011,7 +22011,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "c776595f8862862c986e9cf6e216c457a48b9ac7"
+                    "reference": "f59201eca4dcc33751cc69ae5c6fedf9fa249ff2"
                 },
                 "require": {
                     "drupal/accessible_media_embed": "*",
@@ -22088,7 +22088,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2021-11-17 15:59:24",
+                "time": "2021-11-26 10:03:02",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
