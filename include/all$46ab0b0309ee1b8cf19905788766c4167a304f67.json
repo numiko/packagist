@@ -35250,38 +35250,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "8a2ac6bd3e6298d822c1ed701814f14ed5a67611"
+                    "reference": "4c0765b3d09aad25a9b0a722fb22eb43f6841592"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2021-11-23 09:35:16",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/add-user-sorts": {
-                "name": "numiko/listings_filter",
-                "version": "dev-feature/add-user-sorts",
-                "version_normalized": "dev-feature/add-user-sorts",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "8c1a46aff18e787c09ac41b4ec937e8cce01bc8c"
-                },
-                "require": {
-                    "drupal/jsonapi_extras": "^3.0",
-                    "drupal/jsonapi_image_styles": "^2.0",
-                    "drupal/jsonapi_search_api": "^1.0"
-                },
-                "time": "2021-11-23 11:17:57",
+                "time": "2021-11-29 13:51:38",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
