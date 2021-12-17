@@ -35401,6 +35401,30 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/add-max-results": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/add-max-results",
+                "version_normalized": "dev-feature/add-max-results",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8632a75205eccf41bf1a9d134513c78e70ba3b67"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2021-12-17 11:54:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/media_linkit": {
