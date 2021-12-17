@@ -35378,22 +35378,29 @@
                     "Drupal"
                 ]
             },
-            "dev-master": {
+            "1.6.0": {
                 "name": "numiko/listings_filter",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "4c0765b3d09aad25a9b0a722fb22eb43f6841592"
+                    "reference": "5e1253e7099c9bf5d51caa5825d1dd9189463b00"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-listings_filter-1.6.0-f1ed6b.tar",
+                    "reference": "5e1253e7099c9bf5d51caa5825d1dd9189463b00",
+                    "shasum": "3d805d793b703ffc276a3dc2d26764beb28cc833"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2021-11-29 13:51:38",
+                "time": "2021-12-17 12:06:58",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -35402,21 +35409,21 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/add-max-results": {
+            "dev-master": {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/add-max-results",
-                "version_normalized": "dev-feature/add-max-results",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "8632a75205eccf41bf1a9d134513c78e70ba3b67"
+                    "reference": "5e1253e7099c9bf5d51caa5825d1dd9189463b00"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2021-12-17 11:54:59",
+                "time": "2021-12-17 12:06:58",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
