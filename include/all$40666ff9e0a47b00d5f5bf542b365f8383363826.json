@@ -35431,6 +35431,30 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-feature/facets-alter": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/facets-alter",
+                "version_normalized": "dev-feature/facets-alter",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "3e9cb709454e3f81511c4b618727e30267bec699"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2022-01-05 15:10:52",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/media_linkit": {
