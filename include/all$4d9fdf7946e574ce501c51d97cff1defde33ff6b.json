@@ -35438,6 +35438,37 @@
                     "Drupal"
                 ]
             },
+            "1.7.1": {
+                "name": "numiko/listings_filter",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "4a38acfa609916eb93b240cec7e492212b86b810"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-listings_filter-1.7.1-e152aa.tar",
+                    "reference": "4a38acfa609916eb93b240cec7e492212b86b810",
+                    "shasum": "bd18b8c00c9fa825f231fe874c24fc96973c8ea3"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2022-01-16 21:48:44",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/listings_filter",
                 "version": "dev-master",
@@ -35445,14 +35476,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "e7df9112c02db94c0306dd09ea5ed9ad7db9055a"
+                    "reference": "4a38acfa609916eb93b240cec7e492212b86b810"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2022-01-05 16:30:00",
+                "time": "2022-01-16 21:48:44",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
