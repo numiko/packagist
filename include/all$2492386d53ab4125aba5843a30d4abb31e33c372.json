@@ -42319,6 +42319,36 @@
                     "source": "http://cgit.drupalcode.org/slice_jump_links"
                 }
             },
+            "8.4.7": {
+                "name": "numiko/slice_jump_links",
+                "version": "8.4.7",
+                "version_normalized": "8.4.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "3ac6a352818013c022b0f2db78d40d437a71b653"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-slice_jump_links-8.4.7-7b5b1e.tar",
+                    "reference": "3ac6a352818013c022b0f2db78d40d437a71b653",
+                    "shasum": "65714be8309b760bcdc967ed8bf31e5117419290"
+                },
+                "time": "2022-02-07 14:56:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://www.drupal.org/project/slice_jump_links",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/slice_jump_links",
+                    "source": "http://cgit.drupalcode.org/slice_jump_links"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/slice_jump_links",
                 "version": "dev-8.x-1.x",
@@ -42398,9 +42428,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "933037cbf0b71b69099d64772225672160780141"
+                    "reference": "0d85121fe583621e3d827297a25ce4711622d67d"
                 },
-                "time": "2021-11-08 08:41:33",
+                "time": "2022-02-07 14:56:29",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
