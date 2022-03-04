@@ -39981,6 +39981,52 @@
                 ]
             }
         },
+        "numiko/paragraphs_parent_revision_access": {
+            "1.0.0": {
+                "name": "numiko/paragraphs_parent_revision_access",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
+                    "reference": "8fea786a3751ffb074b048060f9c3cdbef881a72"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_parent_revision_access-1.0.0-1aa137.tar",
+                    "reference": "8fea786a3751ffb074b048060f9c3cdbef881a72",
+                    "shasum": "36438df7a794db18c472d91f6c4374ecf81089a9"
+                },
+                "time": "2022-03-04 10:45:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access handler for paragraphs when working with Content Moderation",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/paragraphs_parent_revision_access",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
+                    "reference": "8fea786a3751ffb074b048060f9c3cdbef881a72"
+                },
+                "time": "2022-03-04 10:45:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access handler for paragraphs when working with Content Moderation",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/personas": {
             "1.0.0": {
                 "name": "numiko/personas",
