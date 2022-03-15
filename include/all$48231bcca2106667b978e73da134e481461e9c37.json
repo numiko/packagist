@@ -40933,6 +40933,39 @@
                     "Drupal"
                 ]
             },
+            "2.0.1": {
+                "name": "numiko/simple_domain_path",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "e768a8595f3981aab3ecda4f0249d62392ddb78a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-simple_domain_path-2.0.1-4e57d5.tar",
+                    "reference": "e768a8595f3981aab3ecda4f0249d62392ddb78a",
+                    "shasum": "447cd853d560b12f0f21c239e675e38e0c37e3fb"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-03-15 09:12:55",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/simple_domain_path",
                 "version": "dev-master",
@@ -40940,12 +40973,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "60967fe6169f3a7a274337600636416c3df8a6a1"
+                    "reference": "e768a8595f3981aab3ecda4f0249d62392ddb78a"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2021-08-24 08:21:43",
+                "time": "2022-03-15 09:12:55",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
