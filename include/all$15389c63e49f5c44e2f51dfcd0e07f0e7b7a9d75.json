@@ -3821,6 +3821,68 @@
                 ]
             }
         },
+        "numiko/custom_block_permissions": {
+            "1.0.0": {
+                "name": "numiko/custom_block_permissions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
+                    "reference": "da6b1909f90b282d522a03f27a1fa64a832f4bc6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-custom_block_permissions-1.0.0-28063f.tar",
+                    "reference": "da6b1909f90b282d522a03f27a1fa64a832f4bc6",
+                    "shasum": "da9c82b42669813b17e773df09f6b205f7a658f6"
+                },
+                "time": "2022-03-17 12:57:59",
+                "type": "drupal-module",
+                "description": "Allows custom block edit access",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.1": {
+                "name": "numiko/custom_block_permissions",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
+                    "reference": "07b81ab06d096fcc279020e21ae7d3ecceca30a9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-custom_block_permissions-1.0.1-6c43cc.tar",
+                    "reference": "07b81ab06d096fcc279020e21ae7d3ecceca30a9",
+                    "shasum": "3d43d17f026fd6ade1b14a1a0405d9a408753ac7"
+                },
+                "time": "2022-03-17 14:38:31",
+                "type": "drupal-module",
+                "description": "Allows custom block edit access",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/custom_block_permissions",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
+                    "reference": "07b81ab06d096fcc279020e21ae7d3ecceca30a9"
+                },
+                "time": "2022-03-17 14:38:31",
+                "type": "drupal-module",
+                "description": "Allows custom block edit access",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/d8-profile": {
             "0.1.0-alpha1": {
                 "name": "numiko/d8-profile",
