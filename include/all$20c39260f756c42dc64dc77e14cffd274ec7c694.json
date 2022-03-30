@@ -36464,6 +36464,27 @@
                 ]
             }
         },
+        "numiko/media_wrapper_filter": {
+            "dev-main": {
+                "name": "numiko/media_wrapper_filter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media_wrapper_filter.git",
+                    "reference": "89fb43e3a6d9893b3acfd49de52b33fd07e5135d"
+                },
+                "time": "2022-03-30 07:41:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for adding classes to the media wrapper",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/menu_block_view_modes": {
             "1.0.0": {
                 "name": "numiko/menu_block_view_modes",
