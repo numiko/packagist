@@ -40919,6 +40919,39 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
+            "8.4.0": {
+                "name": "numiko/sensible_email_validation",
+                "version": "8.4.0",
+                "version_normalized": "8.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "6d66404700be11c8fa34a472de750dcf0860ed14"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-sensible_email_validation-8.4.0-74c044.tar",
+                    "reference": "6d66404700be11c8fa34a472de750dcf0860ed14",
+                    "shasum": "59556158e3a8556956250efe9512854bba7b7017"
+                },
+                "require": {
+                    "egulias/email-validator": ">2.0"
+                },
+                "time": "2022-04-13 14:06:39",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/sensible_email_validation",
                 "version": "dev-8.x-1.x",
@@ -40926,12 +40959,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "d0e17a99bf1c1721597772bbf86a639b99ac6b1b"
+                    "reference": "6d66404700be11c8fa34a472de750dcf0860ed14"
                 },
                 "require": {
-                    "egulias/email-validator": "~2.0"
+                    "egulias/email-validator": ">2.0"
                 },
-                "time": "2020-07-21 15:36:33",
+                "time": "2022-04-13 14:06:39",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
