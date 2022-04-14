@@ -35252,7 +35252,6 @@
                 },
                 "time": "2022-04-14 14:11:26",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             },
             "dev-feature/initial-commit": {
