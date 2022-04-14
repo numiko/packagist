@@ -40926,19 +40926,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "791ce7a34f1c3c83f70d47cdbadf78eddce80162"
+                    "reference": "1c460609cc6be6e81e69838a4e613e3446a585a7"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-sensible_email_validation-8.4.2-6e957f.tar",
-                    "reference": "791ce7a34f1c3c83f70d47cdbadf78eddce80162",
-                    "shasum": "76c4ae783e1540a1bc1a484c119abccc87064096"
+                    "url": "https://numiko.github.io/packagist//dist/numiko-sensible_email_validation-8.4.2-0b0ab8.tar",
+                    "reference": "1c460609cc6be6e81e69838a4e613e3446a585a7",
+                    "shasum": "e0796e75f28b566c5b572714795ff40ab6e30bc8"
                 },
                 "require": {
                     "egulias/email-validator": "^3.0"
                 },
-                "time": "2022-04-14 11:00:17",
+                "time": "2022-04-14 12:22:12",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -40959,12 +40960,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "791ce7a34f1c3c83f70d47cdbadf78eddce80162"
+                    "reference": "1c460609cc6be6e81e69838a4e613e3446a585a7"
                 },
                 "require": {
                     "egulias/email-validator": "^3.0"
                 },
-                "time": "2022-04-14 11:00:17",
+                "time": "2022-04-14 12:22:12",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
