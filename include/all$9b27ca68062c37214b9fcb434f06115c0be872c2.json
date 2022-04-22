@@ -40294,6 +40294,19 @@
                 "time": "2021-02-19 13:57:40",
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
+            "dev-feature/granular-permissions": {
+                "name": "numiko/personas",
+                "version": "dev-feature/granular-permissions",
+                "version_normalized": "dev-feature/granular-permissions",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "4f9345585ce4abecfb7054f9edee513b7f7308b1"
+                },
+                "time": "2022-04-22 10:41:53",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             }
         },
         "numiko/pet-importer": {
