@@ -40282,6 +40282,25 @@
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             },
+            "1.1.0": {
+                "name": "numiko/personas",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "a09a00135c0f8c2699f871a74efa2db37d58ef7c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-personas-1.1.0-e50c3c.tar",
+                    "reference": "a09a00135c0f8c2699f871a74efa2db37d58ef7c",
+                    "shasum": "e2182ba5fa511be8eafb1a3743a4129ef318dbf7"
+                },
+                "time": "2022-04-27 10:53:57",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
             "dev-master": {
                 "name": "numiko/personas",
                 "version": "dev-master",
@@ -40289,22 +40308,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-personas.git",
-                    "reference": "9327100f957b8bef5474c9e077e6fbb44f32d4b9"
+                    "reference": "a09a00135c0f8c2699f871a74efa2db37d58ef7c"
                 },
-                "time": "2021-02-19 13:57:40",
-                "type": "drupal-module",
-                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
-            },
-            "dev-feature/granular-permissions": {
-                "name": "numiko/personas",
-                "version": "dev-feature/granular-permissions",
-                "version_normalized": "dev-feature/granular-permissions",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-personas.git",
-                    "reference": "4f9345585ce4abecfb7054f9edee513b7f7308b1"
-                },
-                "time": "2022-04-22 10:41:53",
+                "time": "2022-04-27 10:53:57",
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             }
