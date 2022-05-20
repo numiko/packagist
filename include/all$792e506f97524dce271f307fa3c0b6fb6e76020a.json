@@ -33283,6 +33283,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-release/2.1.1": {
+                "name": "numiko/facets_attachment",
+                "version": "dev-release/2.1.1",
+                "version_normalized": "dev-release/2.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "b2a7ac1e5746d3cf9737049b07dc6a5f11ccec88"
+                },
+                "time": "2022-05-20 12:01:07",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/facets_default": {
