@@ -33127,6 +33127,31 @@
                     "Drupal"
                 ]
             },
+            "2.1.1": {
+                "name": "numiko/facets_attachment",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-facets_attachment-2.1.1-c487c4.tar",
+                    "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0",
+                    "shasum": "a57497843d4fb72d863b7d0bb647d6d86fef7c5d"
+                },
+                "time": "2022-05-20 13:34:38",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/facets_attachment",
                 "version": "8.1.0",
@@ -33272,9 +33297,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-attachment.git",
-                    "reference": "43c8085113dd5e63774137487f1dbfbb7718a843"
+                    "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0"
                 },
-                "time": "2021-10-26 08:50:38",
+                "time": "2022-05-20 13:34:38",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -33291,9 +33316,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-attachment.git",
-                    "reference": "b2a7ac1e5746d3cf9737049b07dc6a5f11ccec88"
+                    "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0"
                 },
-                "time": "2022-05-20 12:01:07",
+                "time": "2022-05-20 13:34:38",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
