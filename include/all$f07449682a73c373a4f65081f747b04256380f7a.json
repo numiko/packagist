@@ -33063,9 +33063,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-all-links.git",
-                    "reference": "3bda804061793a9924ebc0b0f76b9674844f6492"
+                    "reference": "7deb6a81b9178423e962615beec9cbd36c62ef8a"
                 },
-                "time": "2021-10-19 12:24:40",
+                "time": "2022-05-24 10:16:26",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
