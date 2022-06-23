@@ -36498,7 +36498,6 @@
                 },
                 "time": "2022-06-23 09:09:52",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -36514,9 +36513,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "d2e6cbf0bbe47af2d3c605e668618b2cd8d3dc66"
+                    "reference": "43a634f1b3d0ba0b939d39d2e48d388ada79c249"
                 },
-                "time": "2022-06-23 09:09:52",
+                "time": "2022-06-23 09:21:53",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
