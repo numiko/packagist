@@ -36651,9 +36651,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "380652061e0295b4439018783d6af228f27b5c5f"
+                    "reference": "2f9d8e5fe446c20f01cf69656fe7b63dae0d695b"
                 },
-                "time": "2022-06-23 09:38:09",
+                "time": "2022-06-29 20:24:37",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
