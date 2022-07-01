@@ -34265,6 +34265,31 @@
                     "Drupal"
                 ]
             },
+            "2.0.4-beta.1": {
+                "name": "numiko/form_ui",
+                "version": "2.0.4-beta.1",
+                "version_normalized": "2.0.4.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "1dba3c3e940c441f587780c879dca61fb1b0673e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-form_ui-2.0.4-beta.1-21007f.tar",
+                    "reference": "1dba3c3e940c441f587780c879dca61fb1b0673e",
+                    "shasum": "fe302e63970be01b8140cdaa5c7ad091d303dd2c"
+                },
+                "time": "2022-07-01 11:34:33",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -34935,9 +34960,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "226c7d3ff0d3b4da6c42d8cfc5dc28b29d4145a7"
+                    "reference": "4f03d6faf1721af6de0ea4be98eacecbb85fb7a7"
                 },
-                "time": "2021-10-01 12:41:06",
+                "time": "2022-07-01 11:34:33",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
