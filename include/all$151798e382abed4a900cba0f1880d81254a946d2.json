@@ -36694,6 +36694,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/media_video_id",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-id.git",
+                    "reference": "f918ecbe3649c91c96bcd39ba2d44ba0e3fc580b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_video_id-1.1.0-af60a4.tar",
+                    "reference": "f918ecbe3649c91c96bcd39ba2d44ba0e3fc580b",
+                    "shasum": "81eec770b1bd2df0681d6d0a49c00cb4185a7b2a"
+                },
+                "time": "2022-08-04 09:17:41",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Refine the core media of drupal to be in line with our standard requirements including the output of a video ID (youtube or vimeo)",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/media_video_id",
                 "version": "dev-main",
@@ -36701,9 +36726,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "2f9d8e5fe446c20f01cf69656fe7b63dae0d695b"
+                    "reference": "50a39caa9852dfaef9ddefb48ccede40ab4c998a"
                 },
-                "time": "2022-06-29 20:24:37",
+                "time": "2022-08-04 09:17:41",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
