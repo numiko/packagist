@@ -33513,6 +33513,53 @@
                 ]
             }
         },
+        "numiko/fastly_file_purge": {
+            "1.0.0": {
+                "name": "numiko/fastly_file_purge",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/fastly-file-purge.git",
+                    "reference": "054396a4822bf94c06ba82799debc4a022a565b8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-fastly_file_purge-1.0.0-615117.tar",
+                    "reference": "054396a4822bf94c06ba82799debc4a022a565b8",
+                    "shasum": "17bd88f8d55d4736f16de51794e6c9c015ffbb80"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-08-05 08:44:21",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Purge Fastly file urls when file is replaced or deleted.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/fastly_file_purge",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/fastly-file-purge.git",
+                    "reference": "054396a4822bf94c06ba82799debc4a022a565b8"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-08-05 08:44:21",
+                "type": "drupal-module",
+                "description": "Purge Fastly file urls when file is replaced or deleted.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/field_items_limit": {
             "1.0.0": {
                 "name": "numiko/field_items_limit",
