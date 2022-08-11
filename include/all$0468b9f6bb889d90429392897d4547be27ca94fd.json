@@ -41225,6 +41225,21 @@
                 }
             }
         },
+        "numiko/security_checker": {
+            "dev-feature/circleci": {
+                "name": "numiko/security_checker",
+                "version": "dev-feature/circleci",
+                "version_normalized": "dev-feature/circleci",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-automated-updates.git",
+                    "reference": "cb170c6dff135c1db3e853e5512c29db1919cb19"
+                },
+                "time": "2022-08-11 14:42:43",
+                "type": "library",
+                "description": "Check composer.lock file for security updates"
+            }
+        },
         "numiko/sensible_email_validation": {
             "8.1.0": {
                 "name": "numiko/sensible_email_validation",
