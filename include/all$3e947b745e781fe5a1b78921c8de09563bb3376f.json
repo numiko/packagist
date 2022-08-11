@@ -41243,7 +41243,6 @@
                 },
                 "time": "2022-08-11 14:51:58",
                 "type": "library",
-                "installation-source": "source",
                 "description": "Check composer.lock file for security updates"
             },
             "dev-master": {
