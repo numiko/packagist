@@ -36181,21 +36181,27 @@
                     "Drupal"
                 ]
             },
-            "dev-master": {
+            "1.9.0": {
                 "name": "numiko/listings_filter",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.9.0",
+                "version_normalized": "1.9.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "5408ffce7494e89416e3186c88d7e457d17b7a1a"
+                    "reference": "f4342fa0fc770004a232fa8ddbef417b96cc6186"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-listings_filter-1.9.0-43c290.tar",
+                    "reference": "f4342fa0fc770004a232fa8ddbef417b96cc6186",
+                    "shasum": "4b8c9d78f0b8a84ae016db73badcabc206fc3c47"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2022-01-28 11:32:05",
+                "time": "2022-08-22 14:16:31",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -36205,21 +36211,21 @@
                     "Drupal"
                 ]
             },
-            "dev-release/1.9.0": {
+            "dev-master": {
                 "name": "numiko/listings_filter",
-                "version": "dev-release/1.9.0",
-                "version_normalized": "dev-release/1.9.0",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "b2760b5b825bfa0a4f59182ce92517b48f3de05b"
+                    "reference": "da46140d00a0310b4519fca8df132c2719300db5"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2022-08-18 15:11:43",
+                "time": "2022-08-22 14:16:31",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
