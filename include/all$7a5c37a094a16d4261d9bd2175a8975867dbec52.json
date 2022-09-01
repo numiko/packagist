@@ -40626,6 +40626,31 @@
                     "Drupal"
                 ]
             },
+            "2.2.0": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "269f387073173879a831e93240e9676829aa0fc5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_category_modal-2.2.0-7dfb02.tar",
+                    "reference": "269f387073173879a831e93240e9676829aa0fc5",
+                    "shasum": "ab1393aa62cf282bd8c2b529f28fdcf59570660f"
+                },
+                "time": "2022-09-01 13:31:18",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
                 "version": "dev-master",
@@ -40633,9 +40658,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "6e287ecd4edaafbdf3e46d00ba37b36754305f95"
+                    "reference": "569c178b8c7e35ecc158d32207e48c62852dce73"
                 },
-                "time": "2021-10-01 09:27:25",
+                "time": "2022-09-01 13:31:18",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -42023,7 +42048,6 @@
                 },
                 "time": "2022-09-01 13:23:32",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
                     "Drupal"
