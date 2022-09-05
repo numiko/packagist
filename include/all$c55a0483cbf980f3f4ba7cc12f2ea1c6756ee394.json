@@ -40743,7 +40743,6 @@
                 },
                 "time": "2022-09-05 10:20:57",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -40759,9 +40758,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "7d03eb5e702d4a29f5c3fb75246871ebb3cd11a1"
+                    "reference": "be92d836c6c5e69ee1a0966b52aece299e489747"
                 },
-                "time": "2022-09-05 10:20:57",
+                "time": "2022-09-05 10:53:26",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
