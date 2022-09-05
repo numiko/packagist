@@ -34361,6 +34361,31 @@
                     "Drupal"
                 ]
             },
+            "2.1.0": {
+                "name": "numiko/form_ui",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "f837db8ad60554db2b3be08ecbf022bde259e6d1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-form_ui-2.1.0-213963.tar",
+                    "reference": "f837db8ad60554db2b3be08ecbf022bde259e6d1",
+                    "shasum": "c8ae5ed240563a63428dd1d8b6ad7e353977e766"
+                },
+                "time": "2022-09-05 10:08:34",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -35031,9 +35056,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "4f03d6faf1721af6de0ea4be98eacecbb85fb7a7"
+                    "reference": "2a15a155b6e31e3e6ac7b6f884828681d750b7a9"
                 },
-                "time": "2022-07-01 11:34:33",
+                "time": "2022-09-05 10:08:34",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -35835,6 +35860,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/link_template_formatter",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "b396d9b6969a10072bb0260c674f296d8c2c016d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-link_template_formatter-1.1.0-16c883.tar",
+                    "reference": "b396d9b6969a10072bb0260c674f296d8c2c016d",
+                    "shasum": "450e2bae54228978ccb5c4d2a0b28745a9e06ea0"
+                },
+                "time": "2022-09-05 10:14:46",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/link_template_formatter",
                 "version": "8.1.0",
@@ -35867,9 +35917,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/link-template-formatter.git",
-                    "reference": "432f89a1aaec67e6620e852fa1cdee9b2ef602d5"
+                    "reference": "674c89a46143f2e304005806bb6caa32e4989bba"
                 },
-                "time": "2021-10-19 12:28:10",
+                "time": "2022-09-05 10:14:46",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -36661,6 +36711,31 @@
                     "Drupal"
                 ]
             },
+            "2.2.0": {
+                "name": "numiko/media_url_formatter",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "4174b209719fe221cf4c734dcdc8333803865dbf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_url_formatter-2.2.0-ca69b9.tar",
+                    "reference": "4174b209719fe221cf4c734dcdc8333803865dbf",
+                    "shasum": "7c0bab8a7f4a495c5eca479de3fe41ac8c902180"
+                },
+                "time": "2022-09-05 10:16:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/media_url_formatter",
                 "version": "dev-8.x-1.x",
@@ -36687,9 +36762,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-url-formatter.git",
-                    "reference": "a45d196df4c753661344a55002aa6846250ba30c"
+                    "reference": "5828b7de40602c42cb0f28033416d80c70a543fd"
                 },
-                "time": "2021-10-04 10:20:02",
+                "time": "2022-09-05 10:16:26",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -40651,6 +40726,32 @@
                     "Drupal"
                 ]
             },
+            "2.3.0": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "6fe96f35d84bb86581f3db604bb9e190285bbdfd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_category_modal-2.3.0-27aa3c.tar",
+                    "reference": "6fe96f35d84bb86581f3db604bb9e190285bbdfd",
+                    "shasum": "f4bd07fb58d9a594e3533a2087156ed4c4590984"
+                },
+                "time": "2022-09-05 10:20:57",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
                 "version": "dev-master",
@@ -40658,9 +40759,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "569c178b8c7e35ecc158d32207e48c62852dce73"
+                    "reference": "7d03eb5e702d4a29f5c3fb75246871ebb3cd11a1"
                 },
-                "time": "2022-09-01 13:31:18",
+                "time": "2022-09-05 10:20:57",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
