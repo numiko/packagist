@@ -3202,6 +3202,33 @@
                     "Drupal"
                 ]
             },
+            "1.2.0": {
+                "name": "numiko/content_bulk_update",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "f6383a945d8382b872ad3cc882bcf811a938f0a3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-content_bulk_update-1.2.0-26e034.tar",
+                    "reference": "f6383a945d8382b872ad3cc882bcf811a938f0a3",
+                    "shasum": "1a0ff167082268bf83d732b487343b34bc78daa0"
+                },
+                "time": "2022-09-06 09:48:16",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/content_bulk_update",
                 "version": "dev-master",
@@ -3209,9 +3236,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content_bulk_update.git",
-                    "reference": "4d91541ca5f2b1485558aba4049a2ded2adc8265"
+                    "reference": "ed16b8e0c0f2471a7b61b1fc8ac9279c248da881"
                 },
-                "time": "2021-04-14 10:18:50",
+                "time": "2022-09-06 09:48:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3422,9 +3449,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/csp-per-page.git",
-                    "reference": "a386fbea1e7d55a4f26fb91b5b7720d9691b6324"
+                    "reference": "41b23940c07579ed8b1711a24dd8ca23a7e285f1"
                 },
-                "time": "2021-09-07 13:11:55",
+                "time": "2022-09-06 09:36:38",
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
@@ -3535,6 +3562,28 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/custom-block-permissions",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
+                    "reference": "ba58e40972464bd0d81e0e8ba4660a8a4673ef73"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-custom-block-permissions-1.1.0-592c92.tar",
+                    "reference": "ba58e40972464bd0d81e0e8ba4660a8a4673ef73",
+                    "shasum": "69c1d68730527dc4b2a3d2b3be876722859fbb9d"
+                },
+                "time": "2022-09-06 09:49:13",
+                "type": "drupal-module",
+                "description": "Allows custom block edit access",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/custom-block-permissions",
                 "version": "dev-main",
@@ -3542,9 +3591,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
-                    "reference": "f852fe26b2d775a5507755fa654ffd7177b4f41f"
+                    "reference": "4b9c62561295eaf5e8a0a50dc30909635e9d619d"
                 },
-                "time": "2022-03-17 15:17:56",
+                "time": "2022-09-06 09:49:13",
                 "type": "drupal-module",
                 "description": "Allows custom block edit access",
                 "keywords": [
@@ -33010,6 +33059,31 @@
                     "Drupal"
                 ]
             },
+            "8.2.2": {
+                "name": "numiko/entity_reference_view_display",
+                "version": "8.2.2",
+                "version_normalized": "8.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "5532398e039693794496a0e1a3d18e99ee462aad"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-entity_reference_view_display-8.2.2-a88c64.tar",
+                    "reference": "5532398e039693794496a0e1a3d18e99ee462aad",
+                    "shasum": "7f4c6e6b4e9c3186aa3ee4308ddbf3984a23547d"
+                },
+                "time": "2022-09-06 09:45:32",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/entity_reference_view_display",
                 "version": "dev-8.x-1.x",
@@ -35193,6 +35267,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/icon-menu",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "a8b2df323c2d01c15a96f6a4ad8f2f901e96adb4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-icon-menu-1.1.0-718b26.tar",
+                    "reference": "a8b2df323c2d01c15a96f6a4ad8f2f901e96adb4",
+                    "shasum": "d583dbd55d2de034388ae7b828ae5e983d1240c6"
+                },
+                "time": "2022-09-06 09:33:50",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.1": {
                 "name": "numiko/icon-menu",
                 "version": "8.1.1",
@@ -35300,9 +35399,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/icon-menu.git",
-                    "reference": "9905163be9306447aaffa7fb84e37dc9d17f4bd0"
+                    "reference": "48e9d07bdc221e2b8e6131dc4a76d39944d9bf3d"
                 },
-                "time": "2021-01-27 09:41:00",
+                "time": "2022-09-06 09:33:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -35733,13 +35832,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "51b15fb5e0a9fb02bc42111cfd3db183d8cdb13a"
+                    "reference": "e80c475035588edca9e0a84c7dafa83a4ce0bbe8"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2022-04-14 14:11:26",
+                "time": "2022-09-06 09:31:48",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             }
@@ -36043,6 +36142,36 @@
                     "Drupal"
                 ]
             },
+            "1.10.0": {
+                "name": "numiko/listings_filter",
+                "version": "1.10.0",
+                "version_normalized": "1.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "797abd7ffa2925c0925f81849cc9d89e1e64e2e3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-listings_filter-1.10.0-da474d.tar",
+                    "reference": "797abd7ffa2925c0925f81849cc9d89e1e64e2e3",
+                    "shasum": "363781d7bfe77aff46498ae271b2616322f844d4"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_image_styles": "^2.0",
+                    "drupal/jsonapi_search_api": "^1.0"
+                },
+                "time": "2022-09-06 09:40:11",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "1.2.0": {
                 "name": "numiko/listings_filter",
                 "version": "1.2.0",
@@ -36320,14 +36449,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "da46140d00a0310b4519fca8df132c2719300db5"
+                    "reference": "896fc5ea832c60dcf29dfe656779894a9601c75b"
                 },
                 "require": {
                     "drupal/jsonapi_extras": "^3.0",
                     "drupal/jsonapi_image_styles": "^2.0",
                     "drupal/jsonapi_search_api": "^1.0"
                 },
-                "time": "2022-08-22 14:16:31",
+                "time": "2022-09-06 09:40:11",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -45810,6 +45939,32 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/webform_settings",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform_settings.git",
+                    "reference": "f8fd4d75bb5ac63f4d478854fdc6e003ea8f6136"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-webform_settings-1.1.0-1c3c9e.tar",
+                    "reference": "f8fd4d75bb5ac63f4d478854fdc6e003ea8f6136",
+                    "shasum": "d098ced9b021347497c35145dae1125095661a59"
+                },
+                "time": "2022-09-06 09:51:08",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set sensible defaults for webform purge settings",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/webform_settings",
                 "version": "dev-master",
@@ -45817,9 +45972,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform_settings.git",
-                    "reference": "9470ee59ab99bb227830e174e6cf9f43f27a134c"
+                    "reference": "ccc7d9a81ae2312584c94018c51b4dc9ae179635"
                 },
-                "time": "2021-07-01 09:26:31",
+                "time": "2022-09-06 09:51:08",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
