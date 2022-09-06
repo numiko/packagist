@@ -33185,7 +33185,6 @@
                 },
                 "time": "2022-09-06 10:23:57",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -33365,6 +33364,31 @@
                     "Drupal"
                 ]
             },
+            "2.2.0": {
+                "name": "numiko/facets_attachment",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "920fc32c35cf85e0428a01db0e942085ca15eadc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-facets_attachment-2.2.0-754a15.tar",
+                    "reference": "920fc32c35cf85e0428a01db0e942085ca15eadc",
+                    "shasum": "16eb6feaeff2ccec1f87cd1a7a317116564690d8"
+                },
+                "time": "2022-09-06 10:27:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/facets_attachment",
                 "version": "8.1.0",
@@ -33513,6 +33537,25 @@
                     "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0"
                 },
                 "time": "2022-05-20 13:34:38",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/facets_attachment",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "f791eebb28af7e43bf164552cef97e661ec10876"
+                },
+                "time": "2022-09-06 10:27:49",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -40849,9 +40892,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "7c1dbdce61be463435f851bf0004434ecb36da85"
+                    "reference": "88490c331e653002b6b8c5c3972b311f587d2634"
                 },
-                "time": "2021-05-07 14:20:28",
+                "time": "2022-09-06 10:35:36",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },
@@ -45000,7 +45043,6 @@
                 },
                 "time": "2022-09-06 10:21:09",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
