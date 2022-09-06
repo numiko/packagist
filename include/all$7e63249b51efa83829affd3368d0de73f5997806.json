@@ -1,5 +1,201 @@
 {
     "packages": {
+        "drupal/node_boolean": {
+            "8.1.0": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "9e2a1dde3a6172bbfa3b330a0e2b9b1eec67fe75"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.0-5a47de.tar",
+                    "reference": "9e2a1dde3a6172bbfa3b330a0e2b9b1eec67fe75",
+                    "shasum": "bbd8e8d4d9862b73b3afa4d1e760a096c00e05a2"
+                },
+                "time": "2016-08-23 09:53:15",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
+            "8.1.1": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "e26ab261647490d85369b3fd1320e72bcd191950"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.1-f3fb92.tar",
+                    "reference": "e26ab261647490d85369b3fd1320e72bcd191950",
+                    "shasum": "0f206f4692b64c78dff2b70a49caba3d130347fa"
+                },
+                "time": "2017-03-02 13:56:37",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
+            "8.1.2": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "e98541eb23e1f5c769ddf0c49c6c8b87a039b8bb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.2-499f2d.tar",
+                    "reference": "e98541eb23e1f5c769ddf0c49c6c8b87a039b8bb",
+                    "shasum": "9978619fbc99b95a425ddf78f0aa4d708b2e4f44"
+                },
+                "time": "2017-03-16 15:58:25",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
+            "8.1.3": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.3",
+                "version_normalized": "8.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.3-f7c32d.tar",
+                    "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480",
+                    "shasum": "99393cec7f49a0be1ff77fa7e44edf3e9017ec04"
+                },
+                "time": "2017-04-04 10:49:49",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
+            "8.1.4": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.4",
+                "version_normalized": "8.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "34936b3393fb2f6157af4c0467f39442ba531bfc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.4-7167b1.tar",
+                    "reference": "34936b3393fb2f6157af4c0467f39442ba531bfc",
+                    "shasum": "030a23f22253d53435d24bf612174147ec6360d0"
+                },
+                "time": "2017-05-10 11:20:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "homepage": "https://www.drupal.org/project/block_boolean",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/block_boolean",
+                    "source": "http://cgit.drupalcode.org/block_boolean"
+                }
+            },
+            "8.1.9": {
+                "name": "drupal/node_boolean",
+                "version": "8.1.9",
+                "version_normalized": "8.1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "01dcead7b4003d0ddd53a074086741a9e6cc38c2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-node_boolean-8.1.9-b5a549.tar",
+                    "reference": "01dcead7b4003d0ddd53a074086741a9e6cc38c2",
+                    "shasum": "da81df7598407d105ddbab131d2fa1c30c224025"
+                },
+                "time": "2022-09-06 14:04:27",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-8.x-1.x": {
+                "name": "drupal/node_boolean",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "d01a8311356be411a4d8a5bb2c558fced374ed73"
+                },
+                "time": "2022-09-06 14:04:27",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "drupal/slice_jump_links": {
             "8.1.0": {
                 "name": "drupal/slice_jump_links",
@@ -3752,6 +3948,31 @@
                     "Drupal"
                 ]
             },
+            "3.0.2": {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "9a0cc15d567930c3b002d9ed77f8337def5e16a5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-custom-caption-filter-3.0.2-b5cc0c.tar",
+                    "reference": "9a0cc15d567930c3b002d9ed77f8337def5e16a5",
+                    "shasum": "b992209bd6135f1def41e9f687e1cabc21c2acec"
+                },
+                "time": "2022-09-06 14:18:14",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "3.1.0-beta1": {
                 "name": "numiko/custom-caption-filter",
                 "version": "3.1.0-beta1",
@@ -3906,6 +4127,25 @@
                     "reference": "60ca0532f8cd968543d3b495d0cc96f078b806ee"
                 },
                 "time": "2019-09-10 15:49:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/custom-caption-filter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "8e010b32b6c266cfbb4a6a9c6514dd99e50efa68"
+                },
+                "time": "2022-09-06 14:18:14",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -37940,182 +38180,6 @@
                 ]
             }
         },
-        "numiko/node_boolean": {
-            "8.1.0": {
-                "name": "numiko/node_boolean",
-                "version": "8.1.0",
-                "version_normalized": "8.1.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "9e2a1dde3a6172bbfa3b330a0e2b9b1eec67fe75"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-node_boolean-8.1.0-5a47de.tar",
-                    "reference": "9e2a1dde3a6172bbfa3b330a0e2b9b1eec67fe75",
-                    "shasum": "6dfb5701e758ebf040ddcbfc3abec7732d832403"
-                },
-                "time": "2016-08-23 09:53:15",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            },
-            "8.1.1": {
-                "name": "numiko/node_boolean",
-                "version": "8.1.1",
-                "version_normalized": "8.1.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "e26ab261647490d85369b3fd1320e72bcd191950"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-node_boolean-8.1.1-f3fb92.tar",
-                    "reference": "e26ab261647490d85369b3fd1320e72bcd191950",
-                    "shasum": "4971ab2a4929c38a1b8774aa8935c6064d7e42e6"
-                },
-                "time": "2017-03-02 13:56:37",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            },
-            "8.1.2": {
-                "name": "numiko/node_boolean",
-                "version": "8.1.2",
-                "version_normalized": "8.1.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "e98541eb23e1f5c769ddf0c49c6c8b87a039b8bb"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-node_boolean-8.1.2-499f2d.tar",
-                    "reference": "e98541eb23e1f5c769ddf0c49c6c8b87a039b8bb",
-                    "shasum": "82515fe899b23e8967858439fa9b270856e0a7d9"
-                },
-                "time": "2017-03-16 15:58:25",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            },
-            "8.1.3": {
-                "name": "numiko/node_boolean",
-                "version": "8.1.3",
-                "version_normalized": "8.1.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-node_boolean-8.1.3-f7c32d.tar",
-                    "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480",
-                    "shasum": "23bb8d78209118c75623e8d354434f35428e06bc"
-                },
-                "time": "2017-04-04 10:49:49",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            },
-            "8.1.4": {
-                "name": "numiko/node_boolean",
-                "version": "8.1.4",
-                "version_normalized": "8.1.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "34936b3393fb2f6157af4c0467f39442ba531bfc"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko-node_boolean-8.1.4-7167b1.tar",
-                    "reference": "34936b3393fb2f6157af4c0467f39442ba531bfc",
-                    "shasum": "da7157a46958ec729be61fdd8656696d4a417370"
-                },
-                "time": "2017-05-10 11:20:53",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            },
-            "dev-8.x-1.x": {
-                "name": "numiko/node_boolean",
-                "version": "dev-8.x-1.x",
-                "version_normalized": "dev-8.x-1.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
-                    "reference": "690d4bb73f8000e06f28a5bf87b0170c1ea6e703"
-                },
-                "time": "2020-06-02 14:07:04",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Condition plugin based on node boolean fields",
-                "homepage": "https://www.drupal.org/project/block_boolean",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/block_boolean",
-                    "source": "http://cgit.drupalcode.org/block_boolean"
-                }
-            }
-        },
         "numiko/numiadmin": {
             "0.1.0": {
                 "name": "numiko/numiadmin",
@@ -41238,6 +41302,25 @@
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             },
+            "1.2.0": {
+                "name": "numiko/personas",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "99ca72dd1a8853092a8af49ca93ff130402906bf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-personas-1.2.0-3ae0e5.tar",
+                    "reference": "99ca72dd1a8853092a8af49ca93ff130402906bf",
+                    "shasum": "123c7e1284233c82e92db9138d6222cb0a8a0caf"
+                },
+                "time": "2022-09-06 14:14:39",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
             "dev-master": {
                 "name": "numiko/personas",
                 "version": "dev-master",
@@ -41245,9 +41328,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-personas.git",
-                    "reference": "a09a00135c0f8c2699f871a74efa2db37d58ef7c"
+                    "reference": "d2115327e3f61d2a743aed851156dfcd3881ea53"
                 },
-                "time": "2022-04-27 10:53:57",
+                "time": "2022-09-06 14:14:39",
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             }
@@ -41779,7 +41862,6 @@
                 },
                 "time": "2022-09-06 13:53:25",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
