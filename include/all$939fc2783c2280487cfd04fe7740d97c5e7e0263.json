@@ -33168,6 +33168,32 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/facets_all_links",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "d62efd5a2f9393a70bf444d63ae0c5bf9664e92b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-facets_all_links-1.1.0-39749b.tar",
+                    "reference": "d62efd5a2f9393a70bf444d63ae0c5bf9664e92b",
+                    "shasum": "db3aa69ac9cf9af5331f26e807f127fb63f4d656"
+                },
+                "time": "2022-09-06 10:23:57",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/facets_all_links",
                 "version": "8.1.0",
@@ -33250,9 +33276,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-all-links.git",
-                    "reference": "7deb6a81b9178423e962615beec9cbd36c62ef8a"
+                    "reference": "4a798f4d759f2754f6725ebff8934763f21a8bea"
                 },
-                "time": "2022-05-24 10:16:26",
+                "time": "2022-09-06 10:23:57",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -36593,6 +36619,31 @@
                     "Drupal"
                 ]
             },
+            "3.1.0": {
+                "name": "numiko/media_linkit",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "91a3b3b90a1416fbe211cb333b0769f28c685317"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_linkit-3.1.0-b2310d.tar",
+                    "reference": "91a3b3b90a1416fbe211cb333b0769f28c685317",
+                    "shasum": "fa215a42d3be6115adb0e90e6df60a88431f0f1e"
+                },
+                "time": "2022-09-06 10:17:22",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/media_linkit",
                 "version": "dev-8.x-1.x",
@@ -36638,9 +36689,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-linkit.git",
-                    "reference": "0352300cd5fa6c15d9b5d23a5d89a4c148cda3fb"
+                    "reference": "93d7d96a7b28fb877b5935c21eac1650ac1b7577"
                 },
-                "time": "2021-08-26 10:55:17",
+                "time": "2022-09-06 10:17:22",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -37306,6 +37357,31 @@
                     "Drupal"
                 ]
             },
+            "1.1.0": {
+                "name": "numiko/media_wrapper_filter",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media_wrapper_filter.git",
+                    "reference": "601c43bdb532bb331de09094d96a654b72bbbc02"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_wrapper_filter-1.1.0-ad173e.tar",
+                    "reference": "601c43bdb532bb331de09094d96a654b72bbbc02",
+                    "shasum": "cc603ffdc26464f420b67724b82ca76fee5f464c"
+                },
+                "time": "2022-09-06 10:07:06",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for adding classes to the media wrapper",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/media_wrapper_filter",
                 "version": "dev-main",
@@ -37313,9 +37389,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media_wrapper_filter.git",
-                    "reference": "4f996c582d5b8be637685df4aee492da87271505"
+                    "reference": "c8958bd821dcaf23d2eb8f29336a40284aafde20"
                 },
-                "time": "2022-03-30 08:17:29",
+                "time": "2022-09-06 10:07:06",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -41495,6 +41571,25 @@
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             },
+            "1.1.0": {
+                "name": "numiko/responsive_image_class",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "f35cf8e58d124aa43ffb38ac073fd3e168d123d3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-responsive_image_class-1.1.0-633b31.tar",
+                    "reference": "f35cf8e58d124aa43ffb38ac073fd3e168d123d3",
+                    "shasum": "a1252c597644dec4ab0327167ea75185893fdc6b"
+                },
+                "time": "2022-09-06 10:19:29",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
+            },
             "dev-master": {
                 "name": "numiko/responsive_image_class",
                 "version": "dev-master",
@@ -41502,9 +41597,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "71dee5880192907f7e84cf614408a8cd761d68e0"
+                    "reference": "9be2dae2f4d9777b12666d21c528c874c787f1cf"
                 },
-                "time": "2021-07-07 08:17:17",
+                "time": "2022-09-06 10:19:29",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             }
@@ -44888,6 +44983,37 @@
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
             },
+            "8.2.1": {
+                "name": "numiko/twig_field_values",
+                "version": "8.2.1",
+                "version_normalized": "8.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "454502ff2ecd8a4ec6150b0fffb8ed5c932cecb6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-twig_field_values-8.2.1-162ec0.tar",
+                    "reference": "454502ff2ecd8a4ec6150b0fffb8ed5c932cecb6",
+                    "shasum": "eee08439292db695d72e9f0d3063e066b7c4e226"
+                },
+                "time": "2022-09-06 10:21:09",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            },
             "8.2.x-dev": {
                 "name": "numiko/twig_field_values",
                 "version": "8.2.x-dev",
@@ -44895,9 +45021,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "1b4d6e423bdf62490ea98d2d6c6d9791e25bb023"
+                    "reference": "c855fa3ec74082b50dfb9cfbc4875289421e789c"
                 },
-                "time": "2020-11-16 13:20:03",
+                "time": "2022-09-06 10:21:09",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -45443,6 +45569,31 @@
                     "Drupal"
                 ]
             },
+            "2.1.0": {
+                "name": "numiko/views-topup",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-topup.git",
+                    "reference": "9178d6c27356d725ae06d03ec83821930acf25a2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-views-topup-2.1.0-ea8882.tar",
+                    "reference": "9178d6c27356d725ae06d03ec83821930acf25a2",
+                    "shasum": "73588a711bf6c7a6cd184558311bd1d0660cbed5"
+                },
+                "time": "2022-09-06 10:04:40",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-8.x-1.x": {
                 "name": "numiko/views-topup",
                 "version": "dev-8.x-1.x",
@@ -45453,25 +45604,6 @@
                     "reference": "3e70fd29e0b5823160c319af0eaab49d86e18b6f"
                 },
                 "time": "2019-03-28 14:01:45",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Add a Top-up display block to views - allowing you to top-up one view block from another",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-coding-standards": {
-                "name": "numiko/views-topup",
-                "version": "dev-coding-standards",
-                "version_normalized": "dev-coding-standards",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/views-topup.git",
-                    "reference": "be90eab1f88febb4e981820cf3e5ae92e4f64612"
-                },
-                "time": "2018-06-29 16:01:45",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -45545,9 +45677,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/views-topup.git",
-                    "reference": "0f2a06d6ef4d22a3f7af340d3e980be0c84f8488"
+                    "reference": "0286b427e0ed3aa54ce9d0d54e023161a333a7d5"
                 },
-                "time": "2020-11-16 13:18:10",
+                "time": "2022-09-06 10:04:40",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -45956,7 +46088,6 @@
                 },
                 "time": "2022-09-06 09:51:08",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
