@@ -33763,6 +33763,33 @@
                     "source": "https://bitbucket.org/numiko/file-size-display"
                 }
             },
+            "1.1.0": {
+                "name": "numiko/file_size_display",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "b3a70a0a1b5b51a9f0295c5480d7ce8ab361fd52"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-file_size_display-1.1.0-32b698.tar",
+                    "reference": "b3a70a0a1b5b51a9f0295c5480d7ce8ab361fd52",
+                    "shasum": "fa7a9c6e68af2e7edc7b8d1eeb5b619223431ad6"
+                },
+                "time": "2022-09-06 09:17:01",
+                "type": "drupal-module",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
+            },
             "dev-master": {
                 "name": "numiko/file_size_display",
                 "version": "dev-master",
@@ -33770,9 +33797,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/file-size-display.git",
-                    "reference": "fdb11dc6987890a6a1003de938575b39df98e87c"
+                    "reference": "65226a761fa96f86255b82d22cafb29069d33149"
                 },
-                "time": "2021-10-06 08:03:39",
+                "time": "2022-09-06 09:17:01",
                 "type": "drupal-module",
                 "description": "Field formatter for files to nicely show file size",
                 "homepage": "http://numiko.com",
