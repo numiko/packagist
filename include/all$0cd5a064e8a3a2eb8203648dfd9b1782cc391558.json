@@ -41759,6 +41759,40 @@
             }
         },
         "numiko/sensible_email_validation": {
+            "5.0.0": {
+                "name": "numiko/sensible_email_validation",
+                "version": "5.0.0",
+                "version_normalized": "5.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "f33ef3b025045b92593ef8436eb7b6d220f1b8c8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-sensible_email_validation-5.0.0-de9365.tar",
+                    "reference": "f33ef3b025045b92593ef8436eb7b6d220f1b8c8",
+                    "shasum": "6dfb6bfd4a12052eba5d83f0befb2cf4c2f0d93c"
+                },
+                "require": {
+                    "egulias/email-validator": "^3.0"
+                },
+                "time": "2022-09-06 13:53:25",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "8.1.0": {
                 "name": "numiko/sensible_email_validation",
                 "version": "8.1.0",
@@ -41991,12 +42025,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "1c460609cc6be6e81e69838a4e613e3446a585a7"
+                    "reference": "4b26867aa166ea4236f3681e30ddb904ef40dc93"
                 },
                 "require": {
                     "egulias/email-validator": "^3.0"
                 },
-                "time": "2022-04-14 12:22:12",
+                "time": "2022-09-06 13:53:25",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -45227,6 +45261,31 @@
                     "Drupal"
                 ]
             },
+            "2.1.0": {
+                "name": "numiko/user_login_admin",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "c1257ac05977bb2fc9c1bd4cde40ccf0df5d0842"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-user_login_admin-2.1.0-fb8433.tar",
+                    "reference": "c1257ac05977bb2fc9c1bd4cde40ccf0df5d0842",
+                    "shasum": "e00874fd5b1df37f9dffce71480902386bb41273"
+                },
+                "time": "2022-09-06 13:49:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/user_login_admin",
                 "version": "dev-master",
@@ -45234,9 +45293,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/user-login-admin",
-                    "reference": "2e4b71c4a76ccc3ac61530927301519b33bd2fbe"
+                    "reference": "0bfa6707aee604c735256c93f08a498c6dd8460f"
                 },
-                "time": "2018-07-30 11:46:58",
+                "time": "2022-09-06 13:49:53",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
