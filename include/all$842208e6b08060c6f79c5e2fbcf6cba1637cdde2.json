@@ -31818,7 +31818,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "3bcfc9306c9b11ac50e60a1cd7ef049b1238e6f3"
+                    "reference": "3e908e475f9b124f753290e1c4cb6e2929d5efdd"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -31839,114 +31839,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-07-01 08:39:44",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 9 projects with composer"
-            },
-            "dev-feature/numibase-master-branch": {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "dev-feature/numibase-master-branch",
-                "version_normalized": "dev-feature/numibase-master-branch",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "78fe9cf44c6259df1c382f4931bc1909fafab087"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
-                    "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.2.*",
-                    "php": ">=7.3",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-09-08 09:43:18",
+                "time": "2022-09-12 09:09:50",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
