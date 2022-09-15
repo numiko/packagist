@@ -404,16 +404,22 @@
                     "Drupal"
                 ]
             },
-            "dev-8.x-1.x": {
+            "8.2.0": {
                 "name": "drupal/structured_data",
-                "version": "dev-8.x-1.x",
-                "version_normalized": "dev-8.x-1.x",
+                "version": "8.2.0",
+                "version_normalized": "8.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/structured-data.git",
-                    "reference": "a8263a06b5d5cdc2fd1bf3e1b17929b9b3151f06"
+                    "reference": "19f7b5103544a333b5e107bf3d464bf6364e335e"
                 },
-                "time": "2021-06-25 10:16:06",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal-structured_data-8.2.0-a929a2.tar",
+                    "reference": "19f7b5103544a333b5e107bf3d464bf6364e335e",
+                    "shasum": "17d2f473029f07da75b93e4c1052f2b5662efba7"
+                },
+                "time": "2022-09-15 08:03:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -423,16 +429,16 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/specify-breadcrumb-and-site-url": {
+            "dev-8.x-1.x": {
                 "name": "drupal/structured_data",
-                "version": "dev-feature/specify-breadcrumb-and-site-url",
-                "version_normalized": "dev-feature/specify-breadcrumb-and-site-url",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/structured-data.git",
-                    "reference": "45790476b029ed0e0c94cca8e0a03e388d32661f"
+                    "reference": "058362019180f129bea13358ac816a87458a4672"
                 },
-                "time": "2019-04-15 15:17:06",
+                "time": "2022-09-15 08:03:16",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
