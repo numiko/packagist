@@ -36087,6 +36087,46 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "2.1.1": {
+                "name": "numiko/integration_tests",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "1915bfb02b888de48e20ab57d37cecbdef0c9405"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-integration_tests-2.1.1-8edb18.tar",
+                    "reference": "1915bfb02b888de48e20ab57d37cecbdef0c9405",
+                    "shasum": "d68a4dbb1390af10ce7c336b283c068dacfa929e"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-09-20 13:30:01",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            "dev-master": {
+                "name": "numiko/integration_tests",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "ec2968728dee46d416c251ee355b6696df8ec149"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-09-20 13:30:01",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/boilerplate-tests": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/boilerplate-tests",
