@@ -36556,6 +36556,29 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "2.2.0": {
+                "name": "numiko/integration_tests",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "ca0a482b567aed4cad6f09fedd0d37645750b65a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-integration_tests-2.2.0-9dc307.tar",
+                    "reference": "ca0a482b567aed4cad6f09fedd0d37645750b65a",
+                    "shasum": "880fc5e1057a54375b089a46453a2b7f9460eb69"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-09-22 12:59:50",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-master": {
                 "name": "numiko/integration_tests",
                 "version": "dev-master",
@@ -36563,13 +36586,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "ec2968728dee46d416c251ee355b6696df8ec149"
+                    "reference": "6685888fa36508ed56ac08e5994d52d2828a3373"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2022-09-20 13:30:01",
+                "time": "2022-09-22 12:59:50",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
