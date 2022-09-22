@@ -45757,6 +45757,50 @@
                     "issues": "http://drupal.org/project/issues/twig_values",
                     "source": "http://cgit.drupalcode.org/twig_values"
                 }
+            },
+            "dev-main": {
+                "name": "numiko/twig_field_values",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "c855fa3ec74082b50dfb9cfbc4875289421e789c"
+                },
+                "time": "2022-09-06 10:21:09",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Values",
+                "homepage": "https://www.drupal.org/project/twig_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/twig_values",
+                    "source": "http://cgit.drupalcode.org/twig_values"
+                }
+            },
+            "dev-release/3.0": {
+                "name": "numiko/twig_field_values",
+                "version": "dev-release/3.0",
+                "version_normalized": "dev-release/3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "87602875300c3d908673bbb2e0a5f8181579875e"
+                },
+                "time": "2022-09-22 14:40:17",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Field Values",
+                "homepage": "https://bitbucket.org/numiko/twig-field-extensions",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/twig_smart_split": {
