@@ -23441,7 +23441,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "ebf7be23a60fea317990102b50e53aa966a763b6"
+                    "reference": "5d10ae6dc66e0702857f185c7055ec2037e101ed"
                 },
                 "require": {
                     "drupal/admin_toolbar": "*",
@@ -23517,12 +23517,15 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2022-09-23 15:32:24",
+                "time": "2022-09-23 17:39:18",
                 "type": "drupal-profile",
                 "extra": {
                     "patches": {
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/gin_toolbar": {
+                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
                         }
                     }
                 },
@@ -33675,7 +33678,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "a7ce18d3a8eed27ab018893fcc212cafaf29e6a7"
+                    "reference": "70861e104db3f55068668ece459093aa841efb14"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -33696,7 +33699,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-09-23 16:14:34",
+                "time": "2022-09-23 17:30:50",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
