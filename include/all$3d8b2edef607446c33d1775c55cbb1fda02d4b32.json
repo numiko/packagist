@@ -22650,7 +22650,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -33025,7 +33024,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
