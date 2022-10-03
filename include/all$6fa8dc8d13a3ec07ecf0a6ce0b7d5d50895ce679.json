@@ -44545,9 +44545,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "4ca072dec1dc13bc67c078e11728a1ed25cfd9bd"
+                    "reference": "869664886a3418b2d498d823ea72f2a63482af2e"
                 },
-                "time": "2021-11-02 12:27:17",
+                "time": "2022-10-03 15:10:05",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -44701,6 +44701,36 @@
                     "shasum": "6ffa0e119e859a95c60a29e5a28e8683773da452"
                 },
                 "time": "2021-11-02 12:27:17",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Slice entities",
+                "homepage": "https://www.drupal.org/project/slice",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/slice",
+                    "source": "http://cgit.drupalcode.org/slice"
+                }
+            },
+            "5.0.2": {
+                "name": "numiko/slice",
+                "version": "5.0.2",
+                "version_normalized": "5.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slices.git",
+                    "reference": "869664886a3418b2d498d823ea72f2a63482af2e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-slice-5.0.2-b71741.tar",
+                    "reference": "869664886a3418b2d498d823ea72f2a63482af2e",
+                    "shasum": "ecb971e15212d89b67ff4bcb74062fae8e5d2f71"
+                },
+                "time": "2022-10-03 15:10:05",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
