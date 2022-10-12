@@ -43563,6 +43563,25 @@
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             },
+            "1.2.0": {
+                "name": "numiko/responsive_image_class",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "40e110f99c7355ee920acfe7657c102d1e48503b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-responsive_image_class-1.2.0-3f7182.tar",
+                    "reference": "40e110f99c7355ee920acfe7657c102d1e48503b",
+                    "shasum": "e58686f4bcc43de704b625855d34c2c4e95b0390"
+                },
+                "time": "2022-10-12 10:38:45",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
+            },
             "1.2.0-beta1": {
                 "name": "numiko/responsive_image_class",
                 "version": "1.2.0-beta1",
@@ -43589,22 +43608,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "9be2dae2f4d9777b12666d21c528c874c787f1cf"
+                    "reference": "1d992a0ac37d08d235dbcbde10fab670bb3add6f"
                 },
-                "time": "2022-09-06 10:19:29",
-                "type": "drupal-module",
-                "description": "Field formatter for image field types to allow classes to be added."
-            },
-            "dev-feature/remove-alt": {
-                "name": "numiko/responsive_image_class",
-                "version": "dev-feature/remove-alt",
-                "version_normalized": "dev-feature/remove-alt",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "1a97d424bf5ad2aa93ea93984f4b347d2e27a60c"
-                },
-                "time": "2022-10-11 13:52:54",
+                "time": "2022-10-12 10:38:45",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             }
