@@ -37828,6 +37828,29 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "3.0.0-beta1": {
+                "name": "numiko/integration_tests",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "5c7ce21044579db46e442651caa1fa96ace5d153"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-integration_tests-3.0.0-beta1-957909.tar",
+                    "reference": "5c7ce21044579db46e442651caa1fa96ace5d153",
+                    "shasum": "adc942afd9639038e12db59b1f30a83eba294316"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-10-14 14:15:05",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-master": {
                 "name": "numiko/integration_tests",
                 "version": "dev-master",
@@ -37862,6 +37885,23 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "dev-feature/browser-tests": {
+                "name": "numiko/integration_tests",
+                "version": "dev-feature/browser-tests",
+                "version_normalized": "dev-feature/browser-tests",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "27622ed96f7b504db49c7486413b244a57185e8b"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-10-14 14:15:05",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/initial-commit": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/initial-commit",
@@ -37886,13 +37926,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "d1f23f0c35a0b5c18cd0df2231ff4146a9d71af4"
+                    "reference": "a5c502e9f2443af872ada1554dbfdeb3ec61a3aa"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2022-10-14 10:42:29",
+                "time": "2022-10-14 14:05:15",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
