@@ -37879,6 +37879,23 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "dev-feature/listing-filters": {
+                "name": "numiko/integration_tests",
+                "version": "dev-feature/listing-filters",
+                "version_normalized": "dev-feature/listing-filters",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "d1f23f0c35a0b5c18cd0df2231ff4146a9d71af4"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2022-10-14 10:42:29",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-release/2.0": {
                 "name": "numiko/integration_tests",
                 "version": "dev-release/2.0",
