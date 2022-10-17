@@ -33633,7 +33633,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "5dfe2391480604deb6fe2198128bb6ffffb5d434"
+                    "reference": "5bb3ad91538e3b05d676622389096bc99e406e36"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -33654,7 +33654,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-17 08:23:39",
+                "time": "2022-10-17 08:47:53",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -40622,6 +40622,25 @@
                     "reference": "365a0bde1faa233c7ed0bb6f384357b19b732979"
                 },
                 "time": "2022-09-12 10:17:22",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/demo_site": {
+                "name": "numiko/numibase",
+                "version": "dev-feature/demo_site",
+                "version_normalized": "dev-feature/demo_site",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "58cb1f20ba2ad8fb02e43040774125a7a7a0a909"
+                },
+                "time": "2022-09-12 13:57:53",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
