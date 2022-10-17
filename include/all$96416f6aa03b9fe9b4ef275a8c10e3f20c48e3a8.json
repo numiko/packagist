@@ -41151,6 +41151,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/demo_site_update": {
+                "name": "numiko/numibase",
+                "version": "dev-feature/demo_site_update",
+                "version_normalized": "dev-feature/demo_site_update",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "3c8d25286e2f062ea3f2ed6a817ec1a32cc6888a"
+                },
+                "time": "2022-10-17 16:14:30",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/install_profile_theme": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/install_profile_theme",
