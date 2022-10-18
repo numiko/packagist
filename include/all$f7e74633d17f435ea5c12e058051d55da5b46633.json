@@ -34355,7 +34355,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "8ab17aee8c84dd3f6689d51e57764d9d453b9615"
+                    "reference": "1c553bc3215d7ce746570ce5afecb8a1bbf4d5c5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -34447,7 +34447,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-18 09:23:12",
+                "time": "2022-10-18 09:54:04",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -41140,9 +41140,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "96f58d2972adafd2590d62658d12cefdf1aa8c16"
+                    "reference": "89deee1b6748afb38f05a2bcf48ecf6c5565a1c6"
                 },
-                "time": "2022-10-18 09:14:07",
+                "time": "2022-10-18 09:49:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
