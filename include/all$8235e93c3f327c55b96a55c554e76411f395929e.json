@@ -23140,9 +23140,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "cdc312040ebbbecc0d7d0eb9ce4c0c7d2a07aa85"
+                    "reference": "67fdfa559668b6fe812fd71ce1d3a0e4d7122e3f"
                 },
-                "time": "2022-10-18 07:56:20",
+                "time": "2022-10-18 08:51:32",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "dev-SITEKIT-219": {
+                "name": "numiko/d9-profile",
+                "version": "dev-SITEKIT-219",
+                "version_normalized": "dev-SITEKIT-219",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "729949cb54f42cea8d522f1cf0483c3468d4a692"
+                },
+                "time": "2022-10-18 08:27:50",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -34027,14 +34043,14 @@
                 ],
                 "description": "Project template for Drupal 9 projects with composer"
             },
-            "dev-SITEKIT-210": {
+            "dev-SITEKIT-137": {
                 "name": "numiko/drupal-9-composer-template",
-                "version": "dev-SITEKIT-210",
-                "version_normalized": "dev-SITEKIT-210",
+                "version": "dev-SITEKIT-137",
+                "version_normalized": "dev-SITEKIT-137",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "92754ab427b9efc721305f3eb9b2581e5117c63f"
+                    "reference": "d11fbf293fe350ed5c9170e7f75df392356f58f2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -34109,7 +34125,6 @@
                     "numiko/integration_tests": "^2.2",
                     "numiko/personas": "^1.2",
                     "numiko/responsive_image_class": "^1.2",
-                    "numiko/security_checker": "^1.0",
                     "numiko/slice_jump_links": "^8.4",
                     "numiko/twig_field_values": "^3.0",
                     "numiko/user_login_admin": "^2.1",
@@ -34126,7 +34141,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-17 20:27:30",
+                "time": "2022-10-18 08:33:24",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -34545,7 +34560,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "425d8976b2b7f73fab2557a6148bf3c5e2ff5a9c"
+                    "reference": "bfe432c9cc81a7320124461304e90273a8e9c6f8"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -34620,6 +34635,7 @@
                     "numiko/integration_tests": "^2.2",
                     "numiko/personas": "^1.2",
                     "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
                     "numiko/slice_jump_links": "^8.4",
                     "numiko/twig_field_values": "^3.0",
                     "numiko/user_login_admin": "^2.1",
@@ -34636,7 +34652,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-17 12:37:47",
+                "time": "2022-10-18 08:35:29",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -41348,9 +41364,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "3c8d25286e2f062ea3f2ed6a817ec1a32cc6888a"
+                    "reference": "2986d132d537508de339805d57456572fa4e8f22"
                 },
-                "time": "2022-10-17 16:14:30",
+                "time": "2022-10-18 08:51:06",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
