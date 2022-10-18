@@ -23055,6 +23055,28 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
+            "1.5.0-beta5": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta5",
+                "version_normalized": "1.5.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "3cf1a3bded70c8130735a2ab785d177cf9b539bd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-d9-profile-1.5.0-beta5-1f34b3.tar",
+                    "reference": "3cf1a3bded70c8130735a2ab785d177cf9b539bd",
+                    "shasum": "6a7f514004c41cc0d411bdac0f9e1ae2630b050e"
+                },
+                "time": "2022-10-18 14:44:11",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "dev-master": {
                 "name": "numiko/d9-profile",
                 "version": "dev-master",
@@ -34466,7 +34488,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -42289,9 +42310,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "fa9d0aef54267664a6db39c711b386a17eae1a09"
+                    "reference": "922083b21b10c409a3366feafb113553ba40027e"
                 },
-                "time": "2022-10-18 14:14:44",
+                "time": "2022-10-18 14:50:27",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
