@@ -23138,7 +23138,6 @@
                 },
                 "time": "2022-10-19 14:36:30",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23161,7 +23160,6 @@
                 },
                 "time": "2022-10-19 14:36:59",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -41868,6 +41866,53 @@
                     "GPL-2.0+"
                 ],
                 "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/media_gallery": {
+            "1.0.0": {
+                "name": "numiko/media_gallery",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "8e3cdd4e6c94d52115ec497d567e0d4fbc2ef6a0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-media_gallery-1.0.0-b2d43b.tar",
+                    "reference": "8e3cdd4e6c94d52115ec497d567e0d4fbc2ef6a0",
+                    "shasum": "a949868783715857a43dd5b600980c781714a680"
+                },
+                "time": "2022-10-19 14:54:27",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/media_gallery",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "e7a8a809d2ae37afffba60ea95092f1f175a79f9"
+                },
+                "time": "2022-10-19 14:54:27",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
                 "keywords": [
                     "Drupal"
                 ]
