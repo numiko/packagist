@@ -23798,9 +23798,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "d55c6d716adf7dd8fd573654433d6a9fa50db4b1"
+                    "reference": "025f6f629d6c8ff90c4ec37955eefd90acdc28e8"
                 },
-                "time": "2022-10-19 14:36:59",
+                "time": "2022-10-19 15:19:45",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -36974,7 +36974,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ff61cfd1c92c51bf60ee2bd78607aa78f8fdeee2"
+                    "reference": "d415cad0b6e5a5098022f1b84052c87d928988f0"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -37048,6 +37048,7 @@
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
                     "numiko/media_video_id": "^1.2",
                     "numiko/paragraphs_category_modal": "^2.3",
                     "numiko/personas": "^1.2",
@@ -37069,7 +37070,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-19 13:55:17",
+                "time": "2022-10-19 15:12:39",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -41889,7 +41890,6 @@
                 },
                 "time": "2022-10-19 14:54:27",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -43824,9 +43824,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f3013c3b27347d59ad237fbebed3f34a908c1d31"
+                    "reference": "9e52e1a191479b34551e0168159b1782eb88129e"
                 },
-                "time": "2022-10-18 10:08:48",
+                "time": "2022-10-19 15:13:20",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
