@@ -36974,7 +36974,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "d415cad0b6e5a5098022f1b84052c87d928988f0"
+                    "reference": "bce7855bffeb9ff57ed1f50bbcca04f4bd7b1cb7"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -37070,7 +37070,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-19 15:12:39",
+                "time": "2022-10-19 15:29:10",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -37110,9 +37110,6 @@
                         },
                         "drupal/easy_breadcrumb": {
                             "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
-                        },
-                        "drupal/gin_toolbar": {
-                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
                         },
                         "drupal/paragraphs": {
                             "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
@@ -43805,9 +43802,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "9e888913e5f1823370b702e7722f348c1fb4c7a5"
+                    "reference": "7705aedc42cfff96084b807be0ec6d9051c579ee"
                 },
-                "time": "2022-10-19 11:14:44",
+                "time": "2022-10-19 15:31:54",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -43824,9 +43821,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "9e52e1a191479b34551e0168159b1782eb88129e"
+                    "reference": "e296c129a03f39df5ea32b4ff9700914c0c921cf"
                 },
-                "time": "2022-10-19 15:13:20",
+                "time": "2022-10-19 15:26:23",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
