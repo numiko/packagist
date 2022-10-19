@@ -36326,7 +36326,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "c96c92d2afda25cf069b3f915bf9540b73272493"
+                    "reference": "60e57930313b35b1b438b83b4da431099b590b0c"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -36347,7 +36347,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-17 10:44:00",
+                "time": "2022-10-19 14:21:16",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
