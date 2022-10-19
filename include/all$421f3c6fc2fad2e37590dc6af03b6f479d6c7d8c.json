@@ -23710,9 +23710,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "1eeccf8d4940b95be845195c0c67214e422107a4"
+                    "reference": "07e2fe8c089c4828843aaedc80582ec8a1dcf346"
                 },
-                "time": "2022-10-19 09:49:29",
+                "time": "2022-10-19 11:20:42",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -36308,7 +36308,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "150506698e7f5679ea6bac63e6a7ad4a8a44d670"
+                    "reference": "0f52e4b0eb43824f077c9dcfcef826161c01c24a"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -36382,6 +36382,7 @@
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^2.2",
+                    "numiko/media_video_id": "^1.2",
                     "numiko/personas": "^1.2",
                     "numiko/responsive_image_class": "^1.2",
                     "numiko/security_checker": "^1.0",
@@ -36401,7 +36402,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-18 21:53:59",
+                "time": "2022-10-19 11:22:29",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -43087,9 +43088,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "97960a89d057426fa06d50745f743a369a3ad200"
+                    "reference": "9e888913e5f1823370b702e7722f348c1fb4c7a5"
                 },
-                "time": "2022-10-19 09:48:28",
+                "time": "2022-10-19 11:14:44",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
