@@ -45647,6 +45647,32 @@
                     "Drupal"
                 ]
             },
+            "2.4.0-beta1": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "2.4.0-beta1",
+                "version_normalized": "2.4.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "a49cee807ec86b90770594ee27f0daccdf606b81"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-paragraphs_category_modal-2.4.0-beta1-ecd74f.tar",
+                    "reference": "a49cee807ec86b90770594ee27f0daccdf606b81",
+                    "shasum": "69193f0f84a3bd79b8132dbba2f7ad08514d06d9"
+                },
+                "time": "2022-10-19 13:12:25",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_category_modal",
                 "version": "dev-master",
@@ -45657,6 +45683,25 @@
                     "reference": "be92d836c6c5e69ee1a0966b52aece299e489747"
                 },
                 "time": "2022-09-05 10:53:26",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/add-icons": {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "dev-feature/add-icons",
+                "version_normalized": "dev-feature/add-icons",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "fe46ac549cd68fc4043840ddd85b910cdcfe32de"
+                },
+                "time": "2022-10-19 13:12:25",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
