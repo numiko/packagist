@@ -45712,25 +45712,6 @@
                 "keywords": [
                     "Drupal"
                 ]
-            },
-            "dev-feature/add-icons": {
-                "name": "numiko/paragraphs_category_modal",
-                "version": "dev-feature/add-icons",
-                "version_normalized": "dev-feature/add-icons",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
-                    "reference": "fe46ac549cd68fc4043840ddd85b910cdcfe32de"
-                },
-                "time": "2022-10-19 13:12:25",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Paragraphs category modal - to enhance the modal widget with categories",
-                "keywords": [
-                    "Drupal"
-                ]
             }
         },
         "numiko/paragraphs_parent_revision_access": {
