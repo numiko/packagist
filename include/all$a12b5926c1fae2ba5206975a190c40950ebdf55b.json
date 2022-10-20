@@ -42373,9 +42373,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "2a6edd9f5a776e9d61376c3b6d5d0c161bec528b"
+                    "reference": "431cefaa1fc823baceacaafa65e40b0ce17a9e3b"
                 },
-                "time": "2022-10-20 16:07:01",
+                "time": "2022-10-20 16:43:10",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
