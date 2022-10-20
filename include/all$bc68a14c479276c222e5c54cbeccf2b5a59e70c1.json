@@ -23287,6 +23287,22 @@
                 ],
                 "description": "The Numiko D9 profile"
             },
+            "dev-SITEKIT-139": {
+                "name": "numiko/d9-profile",
+                "version": "dev-SITEKIT-139",
+                "version_normalized": "dev-SITEKIT-139",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "a0969669f8f2f25f84f0ecb9c8dcf71a3afce2a7"
+                },
+                "time": "2022-10-20 09:17:23",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "dev-SITEKIT-218": {
                 "name": "numiko/d9-profile",
                 "version": "dev-SITEKIT-218",
