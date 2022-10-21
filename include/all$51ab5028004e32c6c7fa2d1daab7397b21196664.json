@@ -50877,11 +50877,10 @@
                     "type": "tar",
                     "url": "https://numiko.github.io/packagist//dist/numiko-twig_field_values-3.0.2-d82a1a.tar",
                     "reference": "dc00a36a1a9b0f06ac2ecbf2701eae18341fb05f",
-                    "shasum": "e99b7bfacad556204f75d1895996b148d044e121"
+                    "shasum": "487592b5041e2e882f13cf7980c0913cea184e09"
                 },
                 "time": "2022-10-21 09:07:52",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
