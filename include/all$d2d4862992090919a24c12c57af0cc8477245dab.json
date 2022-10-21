@@ -23958,9 +23958,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "60e907efec9b53a4d00c739abc48874c35de8c58"
+                    "reference": "5eccc5388b611e5ab9f03de7478c0925ca5e8aa2"
                 },
-                "time": "2022-10-21 14:18:29",
+                "time": "2022-10-21 14:31:47",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -37098,7 +37098,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "60e57930313b35b1b438b83b4da431099b590b0c"
+                    "reference": "b8e72b75bc5d7c761f996c7bf9e7a382618f3fea"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -37119,7 +37119,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-19 14:21:16",
+                "time": "2022-10-21 14:45:53",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -37718,7 +37718,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ead4f8856ff98dfa8ded453c1e4227e9762159b9"
+                    "reference": "c4532c7a0c84baae06e6931ff14ed6365ddb8fc4"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -37815,7 +37815,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-21 13:04:29",
+                "time": "2022-10-21 14:46:21",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -44722,6 +44722,52 @@
                     "GPL-2.0+"
                 ],
                 "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
+        "numiko/numidemo": {
+            "1.0.0": {
+                "name": "numiko/numidemo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "a842806af1acd0d35d827700e2df54e012ac19f2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko-numidemo-1.0.0-3ac377.tar",
+                    "reference": "a842806af1acd0d35d827700e2df54e012ac19f2",
+                    "shasum": "58580af216474c58be2a54fbd0f82d7616babc59"
+                },
+                "time": "2022-10-21 14:42:40",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/numidemo",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "1be8f63f2aea647e51a6773cccf50ca6e41a1d60"
+                },
+                "time": "2022-10-21 14:42:40",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
                 "keywords": [
                     "Drupal"
                 ]
