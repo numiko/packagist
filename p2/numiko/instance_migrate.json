@@ -18,7 +18,6 @@
                 },
                 "time": "2017-08-17T11:15:14+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -49,7 +48,6 @@
                 },
                 "time": "2017-08-17T14:57:49+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -80,7 +78,6 @@
                 },
                 "time": "2017-08-30T14:02:33+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -111,7 +108,6 @@
                 },
                 "time": "2017-08-31T16:11:41+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,7 +138,6 @@
                 },
                 "time": "2017-09-25T10:42:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

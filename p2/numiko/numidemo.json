@@ -18,7 +18,6 @@
                 },
                 "time": "2022-10-21T14:42:40+00:00",
                 "type": "drupal-theme",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

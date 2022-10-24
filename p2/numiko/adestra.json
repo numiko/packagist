@@ -21,7 +21,6 @@
                 },
                 "time": "2021-07-01T09:42:09+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -48,7 +47,6 @@
                 },
                 "time": "2021-07-01T14:14:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -75,7 +73,6 @@
                 },
                 "time": "2021-08-10T08:02:17+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

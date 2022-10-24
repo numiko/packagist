@@ -21,7 +21,6 @@
                 },
                 "time": "2021-06-01T09:39:01+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "keywords": [
                     "Drupal"
                 ]
@@ -46,7 +45,6 @@
                 },
                 "time": "2021-07-07T10:01:21+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "keywords": [
                     "Drupal"
                 ]
@@ -71,7 +69,6 @@
                 },
                 "time": "2021-08-11T08:51:56+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "keywords": [
                     "Drupal"
                 ]

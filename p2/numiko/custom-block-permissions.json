@@ -18,7 +18,6 @@
                 },
                 "time": "2022-03-17T12:57:59+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allows custom block edit access",
                 "keywords": [
                     "Drupal"
@@ -41,7 +40,6 @@
                 },
                 "time": "2022-03-17T14:38:31+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allows custom block edit access",
                 "keywords": [
                     "Drupal"
@@ -64,7 +62,6 @@
                 },
                 "time": "2022-03-17T15:17:56+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allows custom block edit access",
                 "keywords": [
                     "Drupal"
@@ -87,7 +84,6 @@
                 },
                 "time": "2022-09-06T09:49:13+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allows custom block edit access",
                 "keywords": [
                     "Drupal"
