@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "numiko/user_login_admin": [
+            {
+                "name": "numiko/user_login_admin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "0bfa6707aee604c735256c93f08a498c6dd8460f"
+                },
+                "time": "2022-09-06T13:49:53+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/user_login_admin",
+                "version": "dev-release/2.0.0",
+                "version_normalized": "dev-release/2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "5b6fd33f739849dca4b1a91a5442cecd71715280"
+                },
+                "time": "2020-11-16T13:25:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

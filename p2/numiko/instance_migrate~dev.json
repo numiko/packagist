@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "numiko/instance_migrate": [
+            {
+                "name": "numiko/instance_migrate",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "c15b43db3903b6dc81d3bed0fb666c9358b40cae"
+                },
+                "time": "2017-09-25T10:42:40+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            }
+        ]
+    }
+}

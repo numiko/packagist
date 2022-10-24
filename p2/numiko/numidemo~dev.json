@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/numidemo": [
+            {
+                "name": "numiko/numidemo",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "5ca02064ce1b613562136178964f2b926ed56a4d"
+                },
+                "time": "2022-10-21T14:52:06+00:00",
+                "default-branch": true,
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

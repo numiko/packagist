@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/token_defaults": [
+            {
+                "name": "numiko/token_defaults",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-defaults",
+                    "reference": "83dd18bbc4db6ca75e6b8ea22bf49023b1568bbb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_defaults/numiko-token_defaults-1.0.0-8b9a81.tar",
+                    "reference": "83dd18bbc4db6ca75e6b8ea22bf49023b1568bbb",
+                    "shasum": "5b00deff7ab177f3f18ad2f628228747f3c7b94a"
+                },
+                "time": "2018-07-30T10:06:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Setup rewrites for tokens not found",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

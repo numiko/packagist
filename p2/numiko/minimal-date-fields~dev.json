@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/minimal-date-fields": [
+            {
+                "name": "numiko/minimal-date-fields",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimal-date-fields.git",
+                    "reference": "b177233aa889c248ba159e9513a243c58fe0e060"
+                },
+                "time": "2017-11-30T13:27:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add date fields for storing just year/month or year values only",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

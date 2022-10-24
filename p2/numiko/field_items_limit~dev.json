@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/field_items_limit": [
+            {
+                "name": "numiko/field_items_limit",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-items-limit",
+                    "reference": "7aa29de4f4e539725ebeb3e81260fda297e515e8"
+                },
+                "time": "2022-09-05T13:48:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Limit the number of items output through field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

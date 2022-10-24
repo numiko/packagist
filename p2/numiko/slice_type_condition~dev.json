@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/slice_type_condition": [
+            {
+                "name": "numiko/slice_type_condition",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "138a5138350e0396c22b012af8d489ea350f491e"
+                },
+                "time": "2017-01-17T11:56:53+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "drupal/yamlform2text": [
+            {
+                "name": "drupal/yamlform2text",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/yaml-form2text.git",
+                    "reference": "d06ecd7a82b6afa5fc1b145115c3171db72e0a18"
+                },
+                "time": "2016-10-25T09:32:54+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form2Text handler for YAML Form",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

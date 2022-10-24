@@ -1,0 +1,20 @@
+{
+    "packages": {
+        "numiko/security_checker": [
+            {
+                "name": "numiko/security_checker",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/security-checker.git",
+                    "reference": "ab3c39b0bb1863144dfcca2ff638575c35fdf75b"
+                },
+                "time": "2022-08-11T14:51:58+00:00",
+                "default-branch": true,
+                "type": "library",
+                "description": "Check composer.lock file for security updates"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/default_menu_link": [
+            {
+                "name": "numiko/default_menu_link",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/default-menu-link",
+                    "reference": "e566b848d26416c4266ed4017d04f9019bbd0396"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/default_menu_link/numiko-default_menu_link-1.0.0-17695a.tar",
+                    "reference": "e566b848d26416c4266ed4017d04f9019bbd0396",
+                    "shasum": "a5bcaa6d86525a96bfdbcd29a39ef1ff78c27c84"
+                },
+                "time": "2018-07-30T13:16:46+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Default the menu to be switched on per content type",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

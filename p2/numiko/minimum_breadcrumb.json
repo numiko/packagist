@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/minimum_breadcrumb": [
+            {
+                "name": "numiko/minimum_breadcrumb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimum-breadcrumb",
+                    "reference": "32a4551505eda2a9ffa31d3ef7097d92e223aa9c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/minimum_breadcrumb/numiko-minimum_breadcrumb-1.0.0-22180a.tar",
+                    "reference": "32a4551505eda2a9ffa31d3ef7097d92e223aa9c",
+                    "shasum": "5dc6928df57adc90142567bfabb773f612ad3f98"
+                },
+                "time": "2018-07-30T09:31:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Only shows breadcrumbs if more than n items are present",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

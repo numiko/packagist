@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "numiko/domain_path": [
+            {
+                "name": "numiko/domain_path",
+                "version": "dev-fix/current-domain-default-hack",
+                "version_normalized": "dev-fix/current-domain-default-hack",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "048c3d0d66c0c30f4288ae58fc15482d1ad3de7c"
+                },
+                "require": {
+                    "drupal/core": "~8.4"
+                },
+                "time": "2018-09-11T13:24:30+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/domain_path",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-path.git",
+                    "reference": "18e37f4620d45c6afe2e44e0691fdf02cf49a7ba"
+                },
+                "require": {
+                    "drupal/core": "~8.4"
+                },
+                "time": "2018-09-11T12:51:56+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allow the same path to be used across different domains",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "packages": {
+        "numiko/facets_all_links": [
+            {
+                "name": "numiko/facets_all_links",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "3bda804061793a9924ebc0b0f76b9674844f6492"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_all_links/numiko-facets_all_links-1.0.0-e7b0b5.tar",
+                    "reference": "3bda804061793a9924ebc0b0f76b9674844f6492",
+                    "shasum": "d0fa8af9f01a7bccc6e8fe74b9fca472497d1785"
+                },
+                "time": "2021-10-19T12:24:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/facets_all_links",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "4a798f4d759f2754f6725ebff8934763f21a8bea"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_all_links/numiko-facets_all_links-1.1.0-0ee405.tar",
+                    "reference": "4a798f4d759f2754f6725ebff8934763f21a8bea",
+                    "shasum": "0ecec6b03f89f754a43c0597ca01ff8e51f8c0d7"
+                },
+                "time": "2022-09-06T10:23:57+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/facets_all_links",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "b518f18a523015de8c10b0d4b219c87645461234"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.0-6be677.tar",
+                    "reference": "b518f18a523015de8c10b0d4b219c87645461234",
+                    "shasum": "5c56e6abbafdccfed543c4a689fa175132917442"
+                },
+                "time": "2017-02-21T21:32:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/facets_all_links",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "14c14aa60647b47fdd6fc6a2eb4ee0ec8b3e4b99"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.1-66eb99.tar",
+                    "reference": "14c14aa60647b47fdd6fc6a2eb4ee0ec8b3e4b99",
+                    "shasum": "951a5aa961fc7e0de053ca010aefdfb6e53bf431"
+                },
+                "time": "2017-03-10T15:41:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/facets_all_links",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-all-links.git",
+                    "reference": "0429a57445de4a3d38b0d90e0d4f306c6bfe09a4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.2-aeba8e.tar",
+                    "reference": "0429a57445de4a3d38b0d90e0d4f306c6bfe09a4",
+                    "shasum": "0e42242564addad9a17daeb22f188305d7afdd38"
+                },
+                "time": "2017-05-09T15:50:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Facet widget of links with an all option",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

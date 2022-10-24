@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/webform-field-selector": [
+            {
+                "name": "numiko/webform-field-selector",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-field-selector.git",
+                    "reference": "d76c97f24349e5bd10bd93250d2c339f9176f2c5"
+                },
+                "time": "2017-11-30T12:19:29+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add optional fields to a webform, selectable on a per instance basis",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

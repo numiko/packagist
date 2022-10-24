@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/minimum_breadcrumb": [
+            {
+                "name": "numiko/minimum_breadcrumb",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/minimum-breadcrumb",
+                    "reference": "32a4551505eda2a9ffa31d3ef7097d92e223aa9c"
+                },
+                "time": "2018-07-30T09:31:55+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Only shows breadcrumbs if more than n items are present",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

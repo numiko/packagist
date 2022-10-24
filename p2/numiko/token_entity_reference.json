@@ -1,0 +1,106 @@
+{
+    "packages": {
+        "numiko/token_entity_reference": [
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "f26d47a46881b693499c605de74a917c55d1ddd6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.0-afcb49.tar",
+                    "reference": "f26d47a46881b693499c605de74a917c55d1ddd6",
+                    "shasum": "0d910f2ea0a8498241faf5b893d3f2a96a2025b8"
+                },
+                "time": "2018-04-11T10:41:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "d9878bdecd2dc2337e4a86a761c90e7e96e5472e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.1-f1633f.tar",
+                    "reference": "d9878bdecd2dc2337e4a86a761c90e7e96e5472e",
+                    "shasum": "7301176f798bb21ff98d64742eb86825a58901a5"
+                },
+                "time": "2018-06-13T15:28:13+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "4ddde2ca9ee49b9c8590608ae71969eb9ac86ef7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.2-fabb94.tar",
+                    "reference": "4ddde2ca9ee49b9c8590608ae71969eb9ac86ef7",
+                    "shasum": "f73d7fea77274560de14efe21ebed0196a5ee724"
+                },
+                "time": "2018-06-29T15:44:53+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.1.0-4a58bf.tar",
+                    "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e",
+                    "shasum": "9625526f97a2353d0ced413b95caa538d7bb8e45"
+                },
+                "time": "2021-08-02T13:01:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

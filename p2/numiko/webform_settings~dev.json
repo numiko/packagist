@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/webform_settings": [
+            {
+                "name": "numiko/webform_settings",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform_settings.git",
+                    "reference": "ccc7d9a81ae2312584c94018c51b4dc9ae179635"
+                },
+                "time": "2022-09-06T09:51:08+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set sensible defaults for webform purge settings",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/paragraphs_category_modal": [
+            {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "be92d836c6c5e69ee1a0966b52aece299e489747"
+                },
+                "time": "2022-09-05T10:53:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

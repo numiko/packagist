@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "drupal/node_boolean": [
+            {
+                "name": "drupal/node_boolean",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/node-boolean-condition.git",
+                    "reference": "d01a8311356be411a4d8a5bb2c558fced374ed73"
+                },
+                "time": "2022-09-06T14:04:27+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin based on node boolean fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

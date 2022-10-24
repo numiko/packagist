@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/accessible_color_picker": [
+            {
+                "name": "numiko/accessible_color_picker",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
+                    "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829"
+                },
+                "time": "2021-07-20T15:43:40+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Provides a color picker which checks accessibility",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "packages": {
+        "numiko/instance_migrate": [
+            {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "27399766da22a78283f965aa48bd5d17977ee0e1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/instance_migrate/numiko-instance_migrate-8.1.0-2a8c75.tar",
+                    "reference": "27399766da22a78283f965aa48bd5d17977ee0e1",
+                    "shasum": "3be120ab99e780b5fa28d387129413c12136d99a"
+                },
+                "time": "2017-08-17T11:15:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
+            {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "86d497f7f71ba90bcd5795d39643e7196578f3ce"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/instance_migrate/numiko-instance_migrate-8.1.1-6798f6.tar",
+                    "reference": "86d497f7f71ba90bcd5795d39643e7196578f3ce",
+                    "shasum": "876ee96b01be7150dff1dfa02746ddafac26e40d"
+                },
+                "time": "2017-08-17T14:57:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
+            {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "ef86a485e01f567f4bd9519f7fe1cda410a2ce1e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/instance_migrate/numiko-instance_migrate-8.1.2-20406f.tar",
+                    "reference": "ef86a485e01f567f4bd9519f7fe1cda410a2ce1e",
+                    "shasum": "37b6d6dd3676281eba9d947550691e8febc2db6a"
+                },
+                "time": "2017-08-30T14:02:33+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
+            {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.3",
+                "version_normalized": "8.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "0e6cbabe003df56382eba3ab835c7e3c5cda8976"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/instance_migrate/numiko-instance_migrate-8.1.3-48da78.tar",
+                    "reference": "0e6cbabe003df56382eba3ab835c7e3c5cda8976",
+                    "shasum": "d19ee8cc0f6ceb4f6050acbb935fd28763abb324"
+                },
+                "time": "2017-08-31T16:11:41+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            },
+            {
+                "name": "numiko/instance_migrate",
+                "version": "8.1.4",
+                "version_normalized": "8.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/instance-migrate.git",
+                    "reference": "c15b43db3903b6dc81d3bed0fb666c9358b40cae"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/instance_migrate/numiko-instance_migrate-8.1.4-de3267.tar",
+                    "reference": "c15b43db3903b6dc81d3bed0fb666c9358b40cae",
+                    "shasum": "0d9024d96cf213b9893d0ef18cb61d34e67fba56"
+                },
+                "time": "2017-09-25T10:42:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Instance Migrate",
+                "homepage": "https://www.drupal.org/project/instance_migrate",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/instance_migrate",
+                    "source": "http://cgit.drupalcode.org/instance_migrate"
+                }
+            }
+        ]
+    }
+}

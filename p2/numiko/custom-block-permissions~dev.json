@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/custom-block-permissions": [
+            {
+                "name": "numiko/custom-block-permissions",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
+                    "reference": "4b9c62561295eaf5e8a0a50dc30909635e9d619d"
+                },
+                "time": "2022-09-06T09:49:13+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Allows custom block edit access",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

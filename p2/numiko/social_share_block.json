@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/social_share_block": [
+            {
+                "name": "numiko/social_share_block",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "bcf19c418944d4db56379770f6dfd929e7143150"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/social_share_block/numiko-social_share_block-1.0.1-b6f1f8.tar",
+                    "reference": "bcf19c418944d4db56379770f6dfd929e7143150",
+                    "shasum": "577605babfbea0c1428d342f578a50c042737908"
+                },
+                "time": "2021-07-09T14:34:32+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/social_share_block",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/social_share_block/numiko-social_share_block-1.0.2-9f9a8c.tar",
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81",
+                    "shasum": "0ba7e9bcaa08cce5bbde8c4f675a6f357da9ec80"
+                },
+                "time": "2021-07-12T07:08:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

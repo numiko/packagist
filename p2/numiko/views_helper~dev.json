@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/views_helper": [
+            {
+                "name": "numiko/views_helper",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-helper",
+                    "reference": "9e310946fc5cca9ff9acc45f5e12455b55a96cd1"
+                },
+                "time": "2018-07-30T10:16:34+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Show a list of all views and their associated exposed filter arguments",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/views_helper": [
+            {
+                "name": "numiko/views_helper",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-helper",
+                    "reference": "9e310946fc5cca9ff9acc45f5e12455b55a96cd1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/views_helper/numiko-views_helper-1.0.0-0034ee.tar",
+                    "reference": "9e310946fc5cca9ff9acc45f5e12455b55a96cd1",
+                    "shasum": "9935df6b5c6b1d26c58c6f8011dfef79c025bff4"
+                },
+                "time": "2018-07-30T10:16:34+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Show a list of all views and their associated exposed filter arguments",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

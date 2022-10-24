@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/numidemo": [
+            {
+                "name": "numiko/numidemo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "1be8f63f2aea647e51a6773cccf50ca6e41a1d60"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numidemo/numiko-numidemo-1.0.0-226aa8.tar",
+                    "reference": "1be8f63f2aea647e51a6773cccf50ca6e41a1d60",
+                    "shasum": "39f211c5b58d38c986b48e696ce74be438313513"
+                },
+                "time": "2022-10-21T14:42:40+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

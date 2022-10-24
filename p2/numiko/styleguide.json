@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "numiko/styleguide": [
+            {
+                "name": "numiko/styleguide",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/styleguide/numiko-styleguide-0.1.0-9ac1a4.tar",
+                    "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64",
+                    "shasum": "51f2e59c800bff1ede59d6ca193251fe9bbaafb2"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-06-01T09:39:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/styleguide",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "0a65aede57a4d45cd6ea8bdd6227812e63da09fb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/styleguide/numiko-styleguide-0.2.0-64da6f.tar",
+                    "reference": "0a65aede57a4d45cd6ea8bdd6227812e63da09fb",
+                    "shasum": "7e012a68e04503534428e1be5fad9ab0ec951d16"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-07-07T10:01:21+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/styleguide",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "a29175c8374e2f76d961052dea1f7e08b924768d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/styleguide/numiko-styleguide-0.3.0-826d03.tar",
+                    "reference": "a29175c8374e2f76d961052dea1f7e08b924768d",
+                    "shasum": "e65bdb24f3a4ddd7713c9db369ba3f901a254b51"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-08-11T08:51:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

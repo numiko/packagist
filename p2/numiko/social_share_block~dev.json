@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/social_share_block": [
+            {
+                "name": "numiko/social_share_block",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
+                },
+                "time": "2021-07-12T07:08:10+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

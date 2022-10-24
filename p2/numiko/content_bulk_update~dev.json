@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "numiko/content_bulk_update": [
+            {
+                "name": "numiko/content_bulk_update",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "ed16b8e0c0f2471a7b61b1fc8ac9279c248da881"
+                },
+                "time": "2022-09-06T09:48:16+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

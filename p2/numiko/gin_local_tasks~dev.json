@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/gin_local_tasks": [
+            {
+                "name": "numiko/gin_local_tasks",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/gin-local-tasks.git",
+                    "reference": "00519bf649b2678f630dd986e15eef3b16bb4884"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2021-04-15T10:11:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Add the local tasks menu to gin toolbar.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

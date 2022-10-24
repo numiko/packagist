@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "numiko/file_size_display": [
+            {
+                "name": "numiko/file_size_display",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "fdb11dc6987890a6a1003de938575b39df98e87c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/file_size_display/numiko-file_size_display-1.0.0-d5d0e9.tar",
+                    "reference": "fdb11dc6987890a6a1003de938575b39df98e87c",
+                    "shasum": "efa66f9f485f6b5855275ae178d095374c84cd37"
+                },
+                "time": "2021-10-06T08:03:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
+            },
+            {
+                "name": "numiko/file_size_display",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "65226a761fa96f86255b82d22cafb29069d33149"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/file_size_display/numiko-file_size_display-1.1.0-373b3a.tar",
+                    "reference": "65226a761fa96f86255b82d22cafb29069d33149",
+                    "shasum": "cf07ba9ab41dcf2aec0060aadc265fd1393a174e"
+                },
+                "time": "2022-09-06T09:17:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
+            }
+        ]
+    }
+}

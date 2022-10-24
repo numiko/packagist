@@ -1,0 +1,25 @@
+{
+    "packages": {
+        "numiko/styleguide": [
+            {
+                "name": "numiko/styleguide",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/styleguide.git",
+                    "reference": "a29175c8374e2f76d961052dea1f7e08b924768d"
+                },
+                "require": {
+                    "php": ">=7.3.0"
+                },
+                "time": "2021-08-11T08:51:56+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

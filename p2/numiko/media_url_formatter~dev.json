@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "numiko/media_url_formatter": [
+            {
+                "name": "numiko/media_url_formatter",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "f7abd103e8efcf151b71ab768dd8730647dba533"
+                },
+                "time": "2019-01-28T16:37:39+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_url_formatter",
+                "version": "dev-8.x-2.x",
+                "version_normalized": "dev-8.x-2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "5828b7de40602c42cb0f28033416d80c70a543fd"
+                },
+                "time": "2022-09-05T10:16:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_url_formatter",
+                "version": "dev-release/1.0.1",
+                "version_normalized": "dev-release/1.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "e428ef5117b53e921e75f5238e86d80fa0b16119"
+                },
+                "time": "2019-01-28T16:26:42+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

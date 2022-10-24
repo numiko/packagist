@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "numiko/accessible_color_picker": [
+            {
+                "name": "numiko/accessible_color_picker",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
+                    "reference": "e6b6fd1caab99ab4c11c947c1312f010aaf76dfe"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.1-4b3d75.tar",
+                    "reference": "e6b6fd1caab99ab4c11c947c1312f010aaf76dfe",
+                    "shasum": "1168464bc53c761f7fe94d5e1041e6906d4219b7"
+                },
+                "time": "2021-07-20T15:30:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides a color picker which checks accessibility",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/accessible_color_picker",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
+                    "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.2-d6ba5d.tar",
+                    "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829",
+                    "shasum": "1e07715c8757cb08e076be3d1e8b5972df3d42b7"
+                },
+                "time": "2021-07-20T15:43:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a color picker which checks accessibility",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

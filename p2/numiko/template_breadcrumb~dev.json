@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/template_breadcrumb": [
+            {
+                "name": "numiko/template_breadcrumb",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/template-breadcrumb",
+                    "reference": "38a13405ea2a4df0b7797bc2f3585b3ce4c06ef5"
+                },
+                "time": "2018-07-30T10:33:42+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enables the injection of breadcrumbs into the view mode",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

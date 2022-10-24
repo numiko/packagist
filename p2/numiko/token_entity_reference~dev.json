@@ -1,0 +1,25 @@
+{
+    "packages": {
+        "numiko/token_entity_reference": [
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e"
+                },
+                "time": "2021-08-02T13:01:49+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

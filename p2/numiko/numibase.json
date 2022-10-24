@@ -1,0 +1,188 @@
+{
+    "packages": {
+        "numiko/numibase": [
+            {
+                "name": "numiko/numibase",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "dee1f93e908b1d1bcd6503788784f1c76283c40c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-2.0.0-beta1-a56cec.tar",
+                    "reference": "dee1f93e908b1d1bcd6503788784f1c76283c40c",
+                    "shasum": "8a287d59a89c004d99d97e807f8dcbe232b8d32a"
+                },
+                "time": "2019-05-01T14:46:15+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "2.0.0-beta2",
+                "version_normalized": "2.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "5a8c72874414be4056ece61b6520bbb48372290f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-2.0.0-beta2-f85a36.tar",
+                    "reference": "5a8c72874414be4056ece61b6520bbb48372290f",
+                    "shasum": "8cf2ce7cca95f2b5472060a13e1da12ae30b61bd"
+                },
+                "time": "2019-05-03T11:05:51+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "2.0.0-beta3",
+                "version_normalized": "2.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "6fe613ff918d2c65f818221d2503496930304709"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-2.0.0-beta3-3bc14b.tar",
+                    "reference": "6fe613ff918d2c65f818221d2503496930304709",
+                    "shasum": "68880efeda20e054b1cb87c2012f5fe627aa22d1"
+                },
+                "time": "2019-05-03T11:23:44+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "2.0.0-beta4",
+                "version_normalized": "2.0.0.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "ae950ee782ce9a3f7d6f321c9912ffe50b867fe1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-2.0.0-beta4-2bf6d5.tar",
+                    "reference": "ae950ee782ce9a3f7d6f321c9912ffe50b867fe1",
+                    "shasum": "6eb22642b787f60546e91f46fdb1c75b263b7efd"
+                },
+                "time": "2020-11-16T14:31:26+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "528befbd466c57fbd39c2d3b80bc09868ed8326f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-8.1.0-ef3f98.tar",
+                    "reference": "528befbd466c57fbd39c2d3b80bc09868ed8326f",
+                    "shasum": "a83968c39c7dbf88d1056b26b0cd0475dd4fbe03"
+                },
+                "time": "2018-04-10T11:10:19+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-8.1.1-4b970c.tar",
+                    "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163",
+                    "shasum": "8aefaeacd0bd5e551fcf5235128a432b81909517"
+                },
+                "time": "2018-05-04T08:37:33+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "c03d9130469fa84a7f80beda9a8eb64926e2f7be"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-8.1.2-acecd2.tar",
+                    "reference": "c03d9130469fa84a7f80beda9a8eb64926e2f7be",
+                    "shasum": "82bc7c4b81fb6000609e305c9b1386092367c9c9"
+                },
+                "time": "2021-08-31T09:53:24+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

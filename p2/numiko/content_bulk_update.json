@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "numiko/content_bulk_update": [
+            {
+                "name": "numiko/content_bulk_update",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "a5c036bffe37f300b15b374960db0df31eb27751"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.0.0-ba7a54.tar",
+                    "reference": "a5c036bffe37f300b15b374960db0df31eb27751",
+                    "shasum": "382427d2b0ecdf1355464cac5c9881440f7cfdc7"
+                },
+                "time": "2021-04-06T11:40:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/content_bulk_update",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "4d91541ca5f2b1485558aba4049a2ded2adc8265"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.1.0-ffc868.tar",
+                    "reference": "4d91541ca5f2b1485558aba4049a2ded2adc8265",
+                    "shasum": "a2a55d628fed8b0711d12b5c9b157662106ab079"
+                },
+                "time": "2021-04-14T10:18:50+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/content_bulk_update",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content_bulk_update.git",
+                    "reference": "ed16b8e0c0f2471a7b61b1fc8ac9279c248da881"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.2.0-574ec3.tar",
+                    "reference": "ed16b8e0c0f2471a7b61b1fc8ac9279c248da881",
+                    "shasum": "1db74a30f8c56b908a4d9d19d0335609236c5fe2"
+                },
+                "time": "2022-09-06T09:48:16+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Content bulk actions for Content Moderation",
+                "keywords": [
+                    "Bulk Actions",
+                    "Content Moderation",
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

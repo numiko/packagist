@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "numiko/field_lock_multi_values": [
+            {
+                "name": "numiko/field_lock_multi_values",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "768b6a9e12eea3289372b63d565f5c46023dea47"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/field_lock_multi_values/numiko-field_lock_multi_values-0.1.1-dc3608.tar",
+                    "reference": "768b6a9e12eea3289372b63d565f5c46023dea47",
+                    "shasum": "66c0465b771a88de8145879e8020b5cbd51406af"
+                },
+                "time": "2016-07-29T14:06:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            }
+        ]
+    }
+}

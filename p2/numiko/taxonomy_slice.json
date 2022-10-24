@@ -1,0 +1,214 @@
+{
+    "packages": {
+        "numiko/taxonomy_slice": [
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "56efcb05cb813edfc10c84dc3ac6869f7c972e5f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.0.0-28f021.tar",
+                    "reference": "56efcb05cb813edfc10c84dc3ac6869f7c972e5f",
+                    "shasum": "d6afd762c43ccc7cdf20a91696072ea0f7b5d028"
+                },
+                "time": "2018-07-30T09:59:18+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "8cd696f7f85c1ebb70c0286864f70ced1a868d0f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.1.0-b698da.tar",
+                    "reference": "8cd696f7f85c1ebb70c0286864f70ced1a868d0f",
+                    "shasum": "ee0835bb8cd3877cde4f2df2c5a15904c20e6462"
+                },
+                "time": "2019-08-23T15:14:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "08fe44483eddca23ee64e6ac29932493b6bc957b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.0-f3f91c.tar",
+                    "reference": "08fe44483eddca23ee64e6ac29932493b6bc957b",
+                    "shasum": "68a19d15ca9d2eab2946b4a5afb6738eb155944d"
+                },
+                "time": "2019-08-29T13:45:35+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "3c5d801b38dfde811098ccad55dc4aba2ed8ba5e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.1-b459c0.tar",
+                    "reference": "3c5d801b38dfde811098ccad55dc4aba2ed8ba5e",
+                    "shasum": "3b10fe474c0ec0e83363eef0ddb5716aced7ba4b"
+                },
+                "time": "2019-10-07T10:38:04+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.2-beta1",
+                "version_normalized": "1.2.2.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta1-3a493f.tar",
+                    "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c",
+                    "shasum": "eb760207699114dc1f4df8ae3df832965e1ae0e3"
+                },
+                "time": "2019-11-28T14:50:32+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.2-beta2",
+                "version_normalized": "1.2.2.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "ff93a9af2582d49b78739a905b0d6ae098e8fb36"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta2-021305.tar",
+                    "reference": "ff93a9af2582d49b78739a905b0d6ae098e8fb36",
+                    "shasum": "eca509e802c84a6f3a90265151cab13f1b37327d"
+                },
+                "time": "2019-11-28T14:59:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "1.2.2-beta3",
+                "version_normalized": "1.2.2.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "23bddbb744c0d7f1ea9ee2029f1f070ccb9d9126"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta3-04763d.tar",
+                    "reference": "23bddbb744c0d7f1ea9ee2029f1f070ccb9d9126",
+                    "shasum": "9f2165571f9a37c1136fb9f796fa74c3d2d6cc0c"
+                },
+                "time": "2019-11-28T15:59:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/taxonomy_slice",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "ddbacd6e044f366f8cb428e41d795cec4c91fdf0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-2.0.0-f6af5e.tar",
+                    "reference": "ddbacd6e044f366f8cb428e41d795cec4c91fdf0",
+                    "shasum": "5de5db330e278c930a39e0ba6aa7624e849b2962"
+                },
+                "time": "2021-07-29T16:01:31+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

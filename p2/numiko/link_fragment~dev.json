@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/link_fragment": [
+            {
+                "name": "numiko/link_fragment",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "1c6f11177121d40e60618a9bda54313e1a086e7d"
+                },
+                "time": "2021-10-19T12:26:24+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

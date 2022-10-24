@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/entity-reference-revisions-context": [
+            {
+                "name": "numiko/entity-reference-revisions-context",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
+                    "reference": "17bf8654ffe2904973544260833ed1704ee3d74d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/entity-reference-revisions-context/numiko-entity-reference-revisions-context-1.0.0-ca5f8a.tar",
+                    "reference": "17bf8654ffe2904973544260833ed1704ee3d74d",
+                    "shasum": "36ddf9dcc62e9458fe2c08a68ab6a560a5dca494"
+                },
+                "time": "2017-11-30T13:07:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add data attributes to paragraphs to represent their position within a set of paragraphs",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/entity-reference-revisions-context",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-revisions-context.git",
+                    "reference": "b579f0b448e117c1b52f662437e19c3fdcf3ddf4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/entity-reference-revisions-context/numiko-entity-reference-revisions-context-1.1.0-7257a2.tar",
+                    "reference": "b579f0b448e117c1b52f662437e19c3fdcf3ddf4",
+                    "shasum": "1e1eaae3ec45394f76c1e140ece5b2351ed1a30d"
+                },
+                "time": "2021-09-10T14:34:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add data attributes to paragraphs to represent their position within a set of paragraphs",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

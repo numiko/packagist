@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/slice_type_condition": [
+            {
+                "name": "numiko/slice_type_condition",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "fb4d686ff29c3f9876ac2a7b7b028adf9e954353"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice_type_condition/numiko-slice_type_condition-8.1.0-43836c.tar",
+                    "reference": "fb4d686ff29c3f9876ac2a7b7b028adf9e954353",
+                    "shasum": "7d54dec79944b328af1e5b6a4e64078edf9149e3"
+                },
+                "time": "2017-01-16T17:47:31+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/slice_type_condition",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-type-condition.git",
+                    "reference": "f88e043e8998aac3d37852caa07c0074941e3f99"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice_type_condition/numiko-slice_type_condition-8.1.1-7dd7eb.tar",
+                    "reference": "f88e043e8998aac3d37852caa07c0074941e3f99",
+                    "shasum": "d9d5ca939b250aa7d248e100e1d485c89e08ab34"
+                },
+                "time": "2017-02-14T10:52:46+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Condition plugin for slice types.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

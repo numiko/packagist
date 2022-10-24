@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/views_string_length_sort": [
+            {
+                "name": "numiko/views_string_length_sort",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/views-string-length-sort",
+                    "reference": "9b04c5524831d66ca3dde6a502f9fd2307a37fe0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/views_string_length_sort/numiko-views_string_length_sort-1.0.0-cf6e4b.tar",
+                    "reference": "9b04c5524831d66ca3dde6a502f9fd2307a37fe0",
+                    "shasum": "9965b95ccabd6628dfe677b6b1f882280410bcaa"
+                },
+                "time": "2018-07-30T10:38:02+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add the ability to sort a view by string length",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

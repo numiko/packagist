@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/webform-dotmailer": [
+            {
+                "name": "numiko/webform-dotmailer",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform-dotmailer.git",
+                    "reference": "22214a645660eae9bc03167c85140c62d48e1768"
+                },
+                "time": "2017-11-30T12:29:55+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Webform feature to add a handler for Dotmailer for webform submissions",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "packages": {
+        "numiko/custom-caption-filter": [
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "de138ed21034a77a4bfda6667e32fce961359fbf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.0-2d8e9f.tar",
+                    "reference": "de138ed21034a77a4bfda6667e32fce961359fbf",
+                    "shasum": "7988a4dcc4bf56b3d453be3ec5474ff886263042"
+                },
+                "time": "2017-11-30T13:06:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "00fc0e668fc9abcb23ec86624d0e5d5d5db676aa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.1-4d7bdc.tar",
+                    "reference": "00fc0e668fc9abcb23ec86624d0e5d5d5db676aa",
+                    "shasum": "f9de786773761a0111af1e78578ee9d9ce767528"
+                },
+                "time": "2017-12-06T15:51:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "5b6607f86ab029f6fba08b7e3d49fd774367fb04"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.0-16eccd.tar",
+                    "reference": "5b6607f86ab029f6fba08b7e3d49fd774367fb04",
+                    "shasum": "596d90ade983c62e55f5a94cb6d51275f98a068c"
+                },
+                "time": "2018-08-28T09:21:58+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "481cf9afcccba66563c202f948fe2e016ce293be"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.1-f7a2cd.tar",
+                    "reference": "481cf9afcccba66563c202f948fe2e016ce293be",
+                    "shasum": "20e79e635d82be3803792f7a781ae542ee1dd66f"
+                },
+                "time": "2018-08-28T09:44:31+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "819573efe7ee850eb5f415225b9dfa32e25061d1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.0-6620cb.tar",
+                    "reference": "819573efe7ee850eb5f415225b9dfa32e25061d1",
+                    "shasum": "6947f752d2edc6abfefd6c441a2c00e3fb3cdf11"
+                },
+                "time": "2020-11-16T13:22:35+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "1e8c6b3071efffce37705f2965074498cd6b1e8a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.1-5de94a.tar",
+                    "reference": "1e8c6b3071efffce37705f2965074498cd6b1e8a",
+                    "shasum": "64a2d78d6b3a3de08608e0c851a63849446a7dd0"
+                },
+                "time": "2021-08-25T14:06:50+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "8e010b32b6c266cfbb4a6a9c6514dd99e50efa68"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.2-6922e1.tar",
+                    "reference": "8e010b32b6c266cfbb4a6a9c6514dd99e50efa68",
+                    "shasum": "bdeb17ee659a86a03841e22dafc8a30f7e823fee"
+                },
+                "time": "2022-09-06T14:18:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.1.0-beta1",
+                "version_normalized": "3.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "8ef2f66b6f765ef6e3fb7f81126923baa61bb1d0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta1-086c28.tar",
+                    "reference": "8ef2f66b6f765ef6e3fb7f81126923baa61bb1d0",
+                    "shasum": "ea7f445d0598721db933d7b0b2476592578f4d24"
+                },
+                "time": "2021-11-02T10:02:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "3.1.0-beta2",
+                "version_normalized": "3.1.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "fb4bb7e74149d3fad8136e36de87016b99d074a8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta2-80b5c7.tar",
+                    "reference": "fb4bb7e74149d3fad8136e36de87016b99d074a8",
+                    "shasum": "564db612344a0092a303eeed620268a6bc9db1cf"
+                },
+                "time": "2021-11-03T12:08:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "da750cdb6c820972141ae2d45c9cb8acdb772624"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.1-d3d888.tar",
+                    "reference": "da750cdb6c820972141ae2d45c9cb8acdb772624",
+                    "shasum": "b2b00d2712ba6106d045e9811a1e959cc03008f1"
+                },
+                "time": "2017-01-16T13:39:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "eb88166accfd8c9d9b2f5e537627ca33a4465c4e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.2-fc641e.tar",
+                    "reference": "eb88166accfd8c9d9b2f5e537627ca33a4465c4e",
+                    "shasum": "a283250e6a2afd28d6fa877c38ae3eab5e46f9d7"
+                },
+                "time": "2017-01-17T16:27:51+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/custom-caption-filter",
+                "version": "8.1.3",
+                "version_normalized": "8.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
+                    "reference": "eda0af46064d3170c5e2a38f34d4d66f2745862c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.3-091d47.tar",
+                    "reference": "eda0af46064d3170c5e2a38f34d4d66f2745862c",
+                    "shasum": "840aa142bb28e10a0e1c4e411703b83862bf12af"
+                },
+                "time": "2017-06-02T15:11:45+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Custom filter for captions",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

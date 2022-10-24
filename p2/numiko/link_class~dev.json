@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/link_class": [
+            {
+                "name": "numiko/link_class",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-class.git",
+                    "reference": "4202c8e355454753d50a0c9f38a5115381806289"
+                },
+                "time": "2021-09-02T14:06:22+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Formatter for adding classes to link fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

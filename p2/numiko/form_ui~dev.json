@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "numiko/form_ui": [
+            {
+                "name": "numiko/form_ui",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "8ddc7934dad60087da6e9b41d19dae52621c732c"
+                },
+                "time": "2020-08-28T08:00:58+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/form_ui",
+                "version": "dev-8.x-1.x-beta",
+                "version_normalized": "dev-8.x-1.x-beta",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "f1a8e6cb78d0d8d29dc084e63363f538b3da4302"
+                },
+                "time": "2017-03-10T13:03:18+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/form_ui",
+                "version": "dev-release/2.x",
+                "version_normalized": "dev-release/2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "306f106dc4ee21f589296907657eca0cb04a22f2"
+                },
+                "time": "2022-10-21T12:48:10+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

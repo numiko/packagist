@@ -1,0 +1,130 @@
+{
+    "packages": {
+        "numiko/migrate_group_ui": [
+            {
+                "name": "numiko/migrate_group_ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
+                    "reference": "af198283cad5f7cecf947da11988fcdfde04518f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migrate_group_ui/numiko-migrate_group_ui-1.0.0-313479.tar",
+                    "reference": "af198283cad5f7cecf947da11988fcdfde04518f",
+                    "shasum": "1d594e6fbd80a4c88ce82946cc67359a9d5b408a"
+                },
+                "time": "2021-10-11T10:46:13+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Modify migrate group listings to include ui run options",
+                "homepage": "https://www.drupal.org/project/migrate_group_ui",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/migrate_group_ui",
+                    "source": "http://cgit.drupalcode.org/migrate_group_ui"
+                }
+            },
+            {
+                "name": "numiko/migrate_group_ui",
+                "version": "8.2.0",
+                "version_normalized": "8.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
+                    "reference": "782ce8aeb2328f54aab8163f78c33916f3362312"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migrate_group_ui/numiko-migrate_group_ui-8.2.0-b71fb4.tar",
+                    "reference": "782ce8aeb2328f54aab8163f78c33916f3362312",
+                    "shasum": "d3ca136b15ecc4d07024f6df9c3ba242af16c112"
+                },
+                "time": "2016-09-26T15:12:52+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Modify migrate group listings to include ui run options",
+                "homepage": "https://www.drupal.org/project/migrate_group_ui",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/migrate_group_ui",
+                    "source": "http://cgit.drupalcode.org/migrate_group_ui"
+                }
+            },
+            {
+                "name": "numiko/migrate_group_ui",
+                "version": "8.2.1",
+                "version_normalized": "8.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
+                    "reference": "5019f874144363bdfffe8ba6ae2a2655e88a925d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migrate_group_ui/numiko-migrate_group_ui-8.2.1-c2710b.tar",
+                    "reference": "5019f874144363bdfffe8ba6ae2a2655e88a925d",
+                    "shasum": "82c57f33a4b2f54f07f2465bfa5991937654e997"
+                },
+                "time": "2017-09-07T10:49:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Modify migrate group listings to include ui run options",
+                "homepage": "https://www.drupal.org/project/migrate_group_ui",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/migrate_group_ui",
+                    "source": "http://cgit.drupalcode.org/migrate_group_ui"
+                }
+            },
+            {
+                "name": "numiko/migrate_group_ui",
+                "version": "8.3.0",
+                "version_normalized": "8.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migrate-group-ui.git",
+                    "reference": "e22f1bd6ecfd501283f6706a184462ddb6439c6e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migrate_group_ui/numiko-migrate_group_ui-8.3.0-ed6595.tar",
+                    "reference": "e22f1bd6ecfd501283f6706a184462ddb6439c6e",
+                    "shasum": "ddedd92518bb16cced9642b1c41f0980b6093830"
+                },
+                "time": "2021-04-22T14:35:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Modify migrate group listings to include ui run options",
+                "homepage": "https://www.drupal.org/project/migrate_group_ui",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/migrate_group_ui",
+                    "source": "http://cgit.drupalcode.org/migrate_group_ui"
+                }
+            }
+        ]
+    }
+}

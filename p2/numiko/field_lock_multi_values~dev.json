@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "numiko/field_lock_multi_values": [
+            {
+                "name": "numiko/field_lock_multi_values",
+                "version": "8.x-dev",
+                "version_normalized": "8.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "768b6a9e12eea3289372b63d565f5c46023dea47"
+                },
+                "time": "2016-07-29T14:06:39+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            },
+            {
+                "name": "numiko/field_lock_multi_values",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/field-lock-multi-values.git",
+                    "reference": "8424fda56bddedd454f32fe1bd8da8834197b953"
+                },
+                "time": "2016-08-23T09:52:26+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define permissions for multi field operations",
+                "homepage": "https://www.drupal.org/project/field_lock_multi_values",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/field_lock_multi_values",
+                    "source": "http://cgit.drupalcode.org/field_lock_multi_values"
+                }
+            }
+        ]
+    }
+}

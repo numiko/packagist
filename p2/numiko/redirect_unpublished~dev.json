@@ -1,0 +1,20 @@
+{
+    "packages": {
+        "numiko/redirect_unpublished": [
+            {
+                "name": "numiko/redirect_unpublished",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
+                    "reference": "cc2af3eac57d3acd1cfcfaae1fa748a3a7395dd7"
+                },
+                "time": "2019-03-14T17:24:20+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Redirect unpublished nodes if they have a redirect"
+            }
+        ]
+    }
+}

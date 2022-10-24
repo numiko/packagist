@@ -1,0 +1,106 @@
+{
+    "packages": {
+        "numiko/numiko_security_review": [
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "be51ceb3d2424846a695d825a0edfe91d83fd2ca"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.2.0-963330.tar",
+                    "reference": "be51ceb3d2424846a695d825a0edfe91d83fd2ca",
+                    "shasum": "334dc99b0da42d73b0ce888bcfce011acfa9bdbd"
+                },
+                "time": "2021-05-04T14:52:16+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "844635b39ee6d03f8e58697b879e4e29596a145c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.3.0-fe6b32.tar",
+                    "reference": "844635b39ee6d03f8e58697b879e4e29596a145c",
+                    "shasum": "31fa52330472de4fd451016f3b8c53619605be66"
+                },
+                "time": "2021-05-04T15:26:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "61a09c79f308af50a5dd7b7844acfbe3d067b080"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.4.0-6584b2.tar",
+                    "reference": "61a09c79f308af50a5dd7b7844acfbe3d067b080",
+                    "shasum": "c400fa0cc624816acd81d6de775936072463c51a"
+                },
+                "time": "2021-05-05T12:52:43+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "fe7410b818daf6051128c675cbac5a7c13184c1e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.5.0-5876e2.tar",
+                    "reference": "fe7410b818daf6051128c675cbac5a7c13184c1e",
+                    "shasum": "d8da68d9f60661b8d9727fd75cea50dc65f1a4d1"
+                },
+                "time": "2021-05-06T10:26:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.6.0-203209.tar",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc",
+                    "shasum": "2b00087bdda4be3756a4e051a9f11471978f41a6"
+                },
+                "time": "2022-10-21T10:36:41+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            }
+        ]
+    }
+}

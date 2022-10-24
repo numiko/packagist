@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "drupal/yamlform2text": [
+            {
+                "name": "drupal/yamlform2text",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/yaml-form2text.git",
+                    "reference": "ade3b4b31481ad353d63b4fbafa462189323c5be"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.0-72b245.tar",
+                    "reference": "ade3b4b31481ad353d63b4fbafa462189323c5be",
+                    "shasum": "50fa86ce761f8c6ab6828b785007610c75d43717"
+                },
+                "time": "2016-10-21T13:13:52+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form2Text handler for YAML Form",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "drupal/yamlform2text",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/yaml-form2text.git",
+                    "reference": "3585ebfc96963b1ce9b5d00e9feb088cbee8f290"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.1-1cbc92.tar",
+                    "reference": "3585ebfc96963b1ce9b5d00e9feb088cbee8f290",
+                    "shasum": "b802a25013833affac8aa96d7989bab8a115cbf8"
+                },
+                "time": "2016-10-21T14:39:34+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form2Text handler for YAML Form",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "drupal/yamlform2text",
+                "version": "8.1.2",
+                "version_normalized": "8.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/yaml-form2text.git",
+                    "reference": "d06ecd7a82b6afa5fc1b145115c3171db72e0a18"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.2-113c67.tar",
+                    "reference": "d06ecd7a82b6afa5fc1b145115c3171db72e0a18",
+                    "shasum": "a7502b6106a14f0399b9a02c57e2d32fdf51b901"
+                },
+                "time": "2016-10-25T09:32:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form2Text handler for YAML Form",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

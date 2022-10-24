@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "numiko/link_template_formatter": [
+            {
+                "name": "numiko/link_template_formatter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "432f89a1aaec67e6620e852fa1cdee9b2ef602d5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/link_template_formatter/numiko-link_template_formatter-1.0.0-e9efdf.tar",
+                    "reference": "432f89a1aaec67e6620e852fa1cdee9b2ef602d5",
+                    "shasum": "fdef6c23d8153384c1354be11325e1d562de770c"
+                },
+                "time": "2021-10-19T12:28:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/link_template_formatter",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "674c89a46143f2e304005806bb6caa32e4989bba"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/link_template_formatter/numiko-link_template_formatter-1.1.0-d7edbd.tar",
+                    "reference": "674c89a46143f2e304005806bb6caa32e4989bba",
+                    "shasum": "287e428038b9a37e6e27fcedddd7ee37f52248e7"
+                },
+                "time": "2022-09-05T10:14:46+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/link_template_formatter",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-template-formatter.git",
+                    "reference": "5e956b9e2aba47f4072e75aa42ec13fe7639b206"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/link_template_formatter/numiko-link_template_formatter-8.1.0-24aa2f.tar",
+                    "reference": "5e956b9e2aba47f4072e75aa42ec13fe7639b206",
+                    "shasum": "d961bc012476a61984006705efd6360706c9b1e8"
+                },
+                "time": "2017-02-21T21:49:04+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "A formatter for link and file fields exposing a template",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

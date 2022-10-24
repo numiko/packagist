@@ -1,0 +1,136 @@
+{
+    "packages": {
+        "numiko/reference_views_filter": [
+            {
+                "name": "numiko/reference_views_filter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "374f073e0b41c546570646934230ca45fb611546"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-1.0.0-a0c76d.tar",
+                    "reference": "374f073e0b41c546570646934230ca45fb611546",
+                    "shasum": "3e6c6f7b47831ef7bf86712802dfdbb7e3e57f05"
+                },
+                "time": "2017-07-27T11:26:00+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/reference_views_filter",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "60637f79a2854f1da31a49a42970f5dd880bc695"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-1.0.1-cbd5a5.tar",
+                    "reference": "60637f79a2854f1da31a49a42970f5dd880bc695",
+                    "shasum": "57c8d0965e0d1215ddb40bceb6d81ac508a70710"
+                },
+                "time": "2018-06-29T15:36:19+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/reference_views_filter",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "f7590f0aaf3de9fa58c5a0597b1a0f539b3d1584"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-1.0.2-3c011f.tar",
+                    "reference": "f7590f0aaf3de9fa58c5a0597b1a0f539b3d1584",
+                    "shasum": "856e51e0496a6b8528d42600ebb64ba5ef18f6b8"
+                },
+                "time": "2019-03-04T15:42:24+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/reference_views_filter",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "87105b49f103528578ab68c5ec9bb2102db6fc3f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-2.0.0-257116.tar",
+                    "reference": "87105b49f103528578ab68c5ec9bb2102db6fc3f",
+                    "shasum": "0f8e8bc73ae5a2159c9399dd3d3d817cb5afb767"
+                },
+                "time": "2021-08-24T08:19:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/reference_views_filter",
+                "version": "8.1.0-beta1",
+                "version_normalized": "8.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "8a0b5706542ae7b20d6fb9c4a97d9a78d0770e52"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-8.1.0-beta1-68cf2e.tar",
+                    "reference": "8a0b5706542ae7b20d6fb9c4a97d9a78d0770e52",
+                    "shasum": "9c3cf74a558dcbe5fa6d45bf607a5844a0022758"
+                },
+                "time": "2016-09-06T14:34:24+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

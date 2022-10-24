@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/dotmailer": [
+            {
+                "name": "numiko/dotmailer",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/dotmailer.git",
+                    "reference": "9115c0358fadffecf93d201873273e87b605ed37"
+                },
+                "time": "2019-05-14T10:55:28+00:00",
+                "default-branch": true,
+                "type": "library",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Client library for the dotMailer v2 (REST) API.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

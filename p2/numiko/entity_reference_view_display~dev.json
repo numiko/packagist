@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "numiko/entity_reference_view_display": [
+            {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "3663a7428c17422976831478db09aef482ddd5e4"
+                },
+                "time": "2018-05-15T12:10:35+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-8.x-2.x",
+                "version_normalized": "dev-8.x-2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "5322f158a47f3bbeb89926b90306e5fcd99633eb"
+                },
+                "time": "2021-03-23T11:25:12+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/entity_reference_view_display",
+                "version": "dev-feature/fill-blocks",
+                "version_normalized": "dev-feature/fill-blocks",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
+                    "reference": "2e05de86ff90a7452ccbba42fb0633660dc55f5b"
+                },
+                "time": "2018-05-15T09:32:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An entity reference for View Displays",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

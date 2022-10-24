@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/facets_default": [
+            {
+                "name": "numiko/facets_default",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-default.git",
+                    "reference": "1757983fd6381c304ac9319a2eb001376d6a658a"
+                },
+                "time": "2021-09-02T13:58:10+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set a default active facet",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

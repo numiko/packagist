@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/random_number_field": [
+            {
+                "name": "numiko/random_number_field",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/random-number-field",
+                    "reference": "68e4847a63329b6d9f6480ca7c1645b94ee750fb"
+                },
+                "time": "2018-07-30T10:23:48+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Define a field type to be populated with a random number each time new content is created.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

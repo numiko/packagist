@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/link_fragment": [
+            {
+                "name": "numiko/link_fragment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "52d284a33f6b66150e2b7587cb5a9b42120dd489"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/link_fragment/numiko-link_fragment-1.0.0-8d59b9.tar",
+                    "reference": "52d284a33f6b66150e2b7587cb5a9b42120dd489",
+                    "shasum": "5329e5d4879565dbf64443fc1062b42d529dee21"
+                },
+                "time": "2017-06-02T10:51:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/link_fragment",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/link-fragment.git",
+                    "reference": "1c6f11177121d40e60618a9bda54313e1a086e7d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/link_fragment/numiko-link_fragment-1.0.1-098876.tar",
+                    "reference": "1c6f11177121d40e60618a9bda54313e1a086e7d",
+                    "shasum": "2fd9c68a8362e47337c27635060b70fd3b20b956"
+                },
+                "time": "2021-10-19T12:26:24+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add url fragments to links",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

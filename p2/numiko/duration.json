@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/duration": [
+            {
+                "name": "numiko/duration",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/duration.git",
+                    "reference": "8ff6c1b44eb022baa377d4a88d13165bc68a4867"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/duration/numiko-duration-8.1.0-3c657a.tar",
+                    "reference": "8ff6c1b44eb022baa377d4a88d13165bc68a4867",
+                    "shasum": "12140f9f7f46bb4e019dd0253e316c8ab9870051"
+                },
+                "time": "2016-12-02T15:59:34+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Video duration field formatter",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

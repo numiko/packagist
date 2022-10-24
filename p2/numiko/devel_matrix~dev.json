@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/devel_matrix": [
+            {
+                "name": "numiko/devel_matrix",
+                "version": "dev-8.x-1.x",
+                "version_normalized": "dev-8.x-1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/devel-matrix.git",
+                    "reference": "f3fed4a342f478302fcfc1e4f03b3f212bf22f1f"
+                },
+                "time": "2020-07-13T09:40:30+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "View development reports for comparing field setups",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

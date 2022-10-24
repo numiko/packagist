@@ -1,0 +1,110 @@
+{
+    "packages": {
+        "numiko/media_responsive_thumbnail": [
+            {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "6c4462689c87a4ad477cf43287126a5dde37cf1d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.0.0-e674b6.tar",
+                    "reference": "6c4462689c87a4ad477cf43287126a5dde37cf1d",
+                    "shasum": "6da850a699d6e5596ccc8029586aff778f5494cd"
+                },
+                "time": "2018-07-31T12:40:24+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "021bf3a746fa312793af7be64d8b56fbbcc97d94"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.1.0-692a74.tar",
+                    "reference": "021bf3a746fa312793af7be64d8b56fbbcc97d94",
+                    "shasum": "960abba0fc015d5f602e7afafa7f72578c606293"
+                },
+                "time": "2021-08-02T12:56:51+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "4fea972800e801b75d5c6f375999e98a0ae13f80"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.0-a904c4.tar",
+                    "reference": "4fea972800e801b75d5c6f375999e98a0ae13f80",
+                    "shasum": "12b7ff78e37b85024bb377a2a9ab6fd6aeac91be"
+                },
+                "time": "2017-03-29T12:16:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "8.1.1",
+                "version_normalized": "8.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "80ca72cd982d5279b56e70f60bc5d81c3f41d615"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.1-723b10.tar",
+                    "reference": "80ca72cd982d5279b56e70f60bc5d81c3f41d615",
+                    "shasum": "3e92817bfde80cbe9dba10a954f3343fc1055d4c"
+                },
+                "time": "2017-10-23T14:54:45+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

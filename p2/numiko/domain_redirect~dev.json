@@ -1,0 +1,103 @@
+{
+    "packages": {
+        "numiko/domain_redirect": [
+            {
+                "name": "numiko/domain_redirect",
+                "version": "dev-8.1.3-beta",
+                "version_normalized": "dev-8.1.3-beta",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "0bc818c2b0b35d8c45b2adfb0be18150fe3f59a8"
+                },
+                "time": "2017-10-25T17:12:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            {
+                "name": "numiko/domain_redirect",
+                "version": "dev-feature/fix-fatal-error",
+                "version_normalized": "dev-feature/fix-fatal-error",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "07640de16ec31ab1e8a20e5dc5d7c84994111002"
+                },
+                "time": "2020-02-18T17:10:54+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            {
+                "name": "numiko/domain_redirect",
+                "version": "dev-feature/fix-update-hook",
+                "version_normalized": "dev-feature/fix-update-hook",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "5c4664374137b9ac3b1123af9e8f462b21b77a2f"
+                },
+                "time": "2018-11-15T11:48:13+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            {
+                "name": "numiko/domain_redirect",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "1601ba974b4ab8f2a3874b3a227d3e53c915dd57"
+                },
+                "time": "2021-11-24T09:47:16+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            }
+        ]
+    }
+}
