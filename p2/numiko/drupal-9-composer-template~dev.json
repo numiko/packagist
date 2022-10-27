@@ -306,7 +306,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "26646684875598c0211e98bd4cc4ed696bd26d98"
+                    "reference": "3af5dea508ff0b75d03e53676273b94c0bf3e7b9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -404,7 +404,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-21T16:40:55+00:00",
+                "time": "2022-10-27T10:25:39+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -708,12 +708,12 @@
             },
             {
                 "name": "numiko/drupal-9-composer-template",
-                "version": "dev-release/1.5.1",
-                "version_normalized": "dev-release/1.5.1",
+                "version": "dev-release/1.6.0",
+                "version_normalized": "dev-release/1.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "a5c42d1f722e068ff18a893f1ecaf89cba54d4b5"
+                    "reference": "ad2adf7f21cde8d4cb5efe7d413b5912476115c7"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -781,8 +781,7 @@
                     "drupal/webform": "^6.1",
                     "drush/drush": "^10.3",
                     "numiko/csp_per_page": "*",
-                    "numiko/custom-caption-filter": "^3.0",
-                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/d9-profile": "^1.6.0",
                     "numiko/entity_reference_view_display": "*",
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
@@ -811,7 +810,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-22T21:17:14+00:00",
+                "time": "2022-10-27T12:53:16+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
