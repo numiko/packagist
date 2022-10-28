@@ -75,6 +75,30 @@
             },
             {
                 "name": "numiko/domain_redirect",
+                "version": "dev-hotfix/domain-aware-hash",
+                "version_normalized": "dev-hotfix/domain-aware-hash",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "ef5eb1c854d0d2ea63c0a0945a67228e4464891a"
+                },
+                "time": "2022-10-28T09:26:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
+            {
+                "name": "numiko/domain_redirect",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
