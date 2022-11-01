@@ -420,6 +420,37 @@
                     "issues": "https://www.drupal.org/project/issues/domain_redirect",
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
+            },
+            {
+                "name": "numiko/domain_redirect",
+                "version": "8.2.3",
+                "version_normalized": "8.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "95a218afeaab0a982e3fde228fb26fcdd793faf3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.2.3-6ab3bc.tar",
+                    "reference": "95a218afeaab0a982e3fde228fb26fcdd793faf3",
+                    "shasum": "67dcee8a853a781debde4c90a6d92588f7596c87"
+                },
+                "time": "2022-11-01T15:16:36+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
             }
         ]
     }
