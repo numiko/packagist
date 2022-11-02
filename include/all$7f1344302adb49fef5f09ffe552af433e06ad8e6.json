@@ -42137,6 +42137,54 @@
                 ]
             }
         },
+        "numiko/glossary": {
+            "1.0.0": {
+                "name": "numiko/glossary",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "84ab5bbd887defd5fee06fe83e2dfe3e33d69586"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/glossary/numiko-glossary-1.0.0-1050dc.tar",
+                    "reference": "84ab5bbd887defd5fee06fe83e2dfe3e33d69586",
+                    "shasum": "8111fa6b1e22892d018774df9af9d24072dcdfa6"
+                },
+                "time": "2022-11-02T14:58:31+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/glossary",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "84ab5bbd887defd5fee06fe83e2dfe3e33d69586"
+                },
+                "time": "2022-11-02T14:58:31+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/icon-menu": {
             "1.0.0": {
                 "name": "numiko/icon-menu",
@@ -48724,6 +48772,44 @@
                     "reference": "f7590f0aaf3de9fa58c5a0597b1a0f539b3d1584"
                 },
                 "time": "2019-03-04T15:42:24+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-hotfix/check-array-before-access": {
+                "name": "numiko/reference_views_filter",
+                "version": "dev-hotfix/check-array-before-access",
+                "version_normalized": "dev-hotfix/check-array-before-access",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "5ee80cbaafb9e6d9cf4bd730df178d6ea3364957"
+                },
+                "time": "2022-11-02T08:56:26+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/reference_views_filter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "87105b49f103528578ab68c5ec9bb2102db6fc3f"
+                },
+                "time": "2021-08-24T08:19:56+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ad0fc7cdb491e20fc3ca0ad105f603abdc02aa8c.json": {
-            "sha1": "ad0fc7cdb491e20fc3ca0ad105f603abdc02aa8c"
+        "include/all$7f1344302adb49fef5f09ffe552af433e06ad8e6.json": {
+            "sha1": "7f1344302adb49fef5f09ffe552af433e06ad8e6"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -44,6 +44,7 @@
         "numiko/file_size_display",
         "numiko/form_ui",
         "numiko/gin_local_tasks",
+        "numiko/glossary",
         "numiko/icon-menu",
         "numiko/instance_migrate",
         "numiko/integration_tests",
