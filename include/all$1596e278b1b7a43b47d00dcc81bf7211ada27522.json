@@ -45745,6 +45745,25 @@
                     "Drupal"
                 ]
             },
+            "dev-fix/social-media-url-output": {
+                "name": "numiko/numidemo",
+                "version": "dev-fix/social-media-url-output",
+                "version_normalized": "dev-fix/social-media-url-output",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "e323b71dbfb215f1dc10ac52edb806aa5b19d129"
+                },
+                "time": "2022-11-03T12:45:54+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/numidemo",
                 "version": "dev-main",
