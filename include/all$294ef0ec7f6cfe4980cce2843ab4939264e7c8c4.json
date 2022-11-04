@@ -23423,6 +23423,28 @@
                 },
                 "time": "2022-11-04T14:17:29+00:00",
                 "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.6.0-beta2": {
+                "name": "numiko/d9-profile",
+                "version": "1.6.0-beta2",
+                "version_normalized": "1.6.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "afb417735353caebbc908508fd1467454e3eee7f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/d9-profile/numiko-d9-profile-1.6.0-beta2-a599d0.tar",
+                    "reference": "afb417735353caebbc908508fd1467454e3eee7f",
+                    "shasum": "0243c0b78f363499bba45fdb711236a2011e0fe7"
+                },
+                "time": "2022-11-04T16:07:16+00:00",
+                "type": "drupal-profile",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
@@ -23439,22 +23461,6 @@
                     "reference": "6d81f734234e1a0394571eae0a4647450ee91429"
                 },
                 "time": "2022-11-04T14:17:29+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            "dev-SITEKIT-156": {
-                "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-156",
-                "version_normalized": "dev-SITEKIT-156",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "9f95c8aee36293393ef7b29bef8bf25ffb99cd0e"
-                },
-                "time": "2022-11-04T10:48:52+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -23995,9 +24001,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "3b922e423943bf21e6ca1ca3af20a16aed14d3d3"
+                    "reference": "afb417735353caebbc908508fd1467454e3eee7f"
                 },
-                "time": "2022-11-03T20:51:06+00:00",
+                "time": "2022-11-04T16:07:16+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -38316,7 +38322,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46017,45 +46022,32 @@
                 },
                 "time": "2022-11-03T12:45:54+00:00",
                 "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.2": {
+                "name": "numiko/numidemo",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numidemo/numiko-numidemo-1.0.2-759207.tar",
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385",
+                    "shasum": "f5b81e6505b7fec0e6e909069368e4a74c478164"
+                },
+                "time": "2022-11-04T15:54:23+00:00",
+                "type": "drupal-theme",
                 "installation-source": "source",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The numiko demo theme",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-SITEKIT-139": {
-                "name": "numiko/numidemo",
-                "version": "dev-SITEKIT-139",
-                "version_normalized": "dev-SITEKIT-139",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "b2d7cd7572f3a863f42eca702185629b9493ed4e"
-                },
-                "time": "2022-11-04T14:05:54+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The numiko demo theme",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-SITEKIT-156": {
-                "name": "numiko/numidemo",
-                "version": "dev-SITEKIT-156",
-                "version_normalized": "dev-SITEKIT-156",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "c09ca8462a1ccb53302793eebe13b10fccd42ede"
-                },
-                "time": "2022-11-04T10:55:16+00:00",
-                "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -46071,9 +46063,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "c111e62445d067b01c98c871848e6b7c7d54b9e2"
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385"
                 },
-                "time": "2022-11-03T20:59:35+00:00",
+                "time": "2022-11-04T15:54:23+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -50206,6 +50198,32 @@
                     "Drupal"
                 ]
             },
+            "1.8.0": {
+                "name": "numiko/site_alerts",
+                "version": "1.8.0",
+                "version_normalized": "1.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "78fdace7f8106e25d0a2ff0aba278db1341477ef"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_alerts/numiko-site_alerts-1.8.0-33283c.tar",
+                    "reference": "78fdace7f8106e25d0a2ff0aba278db1341477ef",
+                    "shasum": "504115e18c77e2a4133972661563e9c368eaae89"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-11-04T15:51:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/path_based_site_alert": {
                 "name": "numiko/site_alerts",
                 "version": "dev-feature/path_based_site_alert",
@@ -50251,12 +50269,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "36347e306eebb771a2c247fe6d0f63b9be0b7881"
+                    "reference": "f0e3568e112b7bd02dff40e2866e9441ef808652"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2022-09-05T13:14:04+00:00",
+                "time": "2022-11-04T16:02:58+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",

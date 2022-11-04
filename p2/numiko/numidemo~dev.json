@@ -3,52 +3,14 @@
         "numiko/numidemo": [
             {
                 "name": "numiko/numidemo",
-                "version": "dev-SITEKIT-139",
-                "version_normalized": "dev-SITEKIT-139",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "b2d7cd7572f3a863f42eca702185629b9493ed4e"
-                },
-                "time": "2022-11-04T14:05:54+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The numiko demo theme",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numidemo",
-                "version": "dev-SITEKIT-156",
-                "version_normalized": "dev-SITEKIT-156",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "c09ca8462a1ccb53302793eebe13b10fccd42ede"
-                },
-                "time": "2022-11-04T10:55:16+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The numiko demo theme",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numidemo",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "c111e62445d067b01c98c871848e6b7c7d54b9e2"
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385"
                 },
-                "time": "2022-11-03T20:59:35+00:00",
+                "time": "2022-11-04T15:54:23+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [

@@ -46,12 +46,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "36347e306eebb771a2c247fe6d0f63b9be0b7881"
+                    "reference": "f0e3568e112b7bd02dff40e2866e9441ef808652"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2022-09-05T13:14:04+00:00",
+                "time": "2022-11-04T16:02:58+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",

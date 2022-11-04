@@ -43,6 +43,31 @@
                 },
                 "time": "2022-11-03T12:45:54+00:00",
                 "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numidemo",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numidemo/numiko-numidemo-1.0.2-759207.tar",
+                    "reference": "6a67576d649acd37ea8dff9fc28e99f0823bc385",
+                    "shasum": "f5b81e6505b7fec0e6e909069368e4a74c478164"
+                },
+                "time": "2022-11-04T15:54:23+00:00",
+                "type": "drupal-theme",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
