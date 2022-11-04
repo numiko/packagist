@@ -8650,7 +8650,6 @@
                 },
                 "time": "2022-11-04T16:53:21+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

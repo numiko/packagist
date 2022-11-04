@@ -9879,7 +9879,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
