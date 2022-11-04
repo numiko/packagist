@@ -522,7 +522,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ad2adf7f21cde8d4cb5efe7d413b5912476115c7"
+                    "reference": "1e9b265482e4108f01dbf0fe7504724d678cbb8d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -566,6 +566,7 @@
                     "drupal/menu_block": "^1.8",
                     "drupal/metatag": "^1.22",
                     "drupal/minifyhtml": "^2.0",
+                    "drupal/moderated_content_bulk_publish": "^2.0",
                     "drupal/node_boolean": "^1.10",
                     "drupal/node_revision_delete": "^1.0",
                     "drupal/paragraphs": "^1.15",
@@ -619,7 +620,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-27T12:53:16+00:00",
+                "time": "2022-11-03T20:55:09+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,

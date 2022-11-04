@@ -3,14 +3,33 @@
         "numiko/numidemo": [
             {
                 "name": "numiko/numidemo",
-                "version": "dev-fix/social-media-url-output",
-                "version_normalized": "dev-fix/social-media-url-output",
+                "version": "dev-SITEKIT-139",
+                "version_normalized": "dev-SITEKIT-139",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "e323b71dbfb215f1dc10ac52edb806aa5b19d129"
+                    "reference": "b2d7cd7572f3a863f42eca702185629b9493ed4e"
                 },
-                "time": "2022-11-03T12:45:54+00:00",
+                "time": "2022-11-04T14:05:54+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numidemo",
+                "version": "dev-SITEKIT-156",
+                "version_normalized": "dev-SITEKIT-156",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "c09ca8462a1ccb53302793eebe13b10fccd42ede"
+                },
+                "time": "2022-11-04T10:55:16+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -27,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "5ca02064ce1b613562136178964f2b926ed56a4d"
+                    "reference": "c111e62445d067b01c98c871848e6b7c7d54b9e2"
                 },
-                "time": "2022-10-21T14:52:06+00:00",
+                "time": "2022-11-03T20:59:35+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [

@@ -3,6 +3,38 @@
         "numiko/d9-profile": [
             {
                 "name": "numiko/d9-profile",
+                "version": "dev-SITEKIT-139",
+                "version_normalized": "dev-SITEKIT-139",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "6d81f734234e1a0394571eae0a4647450ee91429"
+                },
+                "time": "2022-11-04T14:17:29+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "dev-SITEKIT-156",
+                "version_normalized": "dev-SITEKIT-156",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "9f95c8aee36293393ef7b29bef8bf25ffb99cd0e"
+                },
+                "time": "2022-11-04T10:48:52+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
                 "version": "dev-feature/drop_dev_module_dependencies",
                 "version_normalized": "dev-feature/drop_dev_module_dependencies",
                 "source": {
@@ -535,9 +567,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "4a72db087629a0bea723f02ffbabecb52185cdfd"
+                    "reference": "3b922e423943bf21e6ca1ca3af20a16aed14d3d3"
                 },
-                "time": "2022-10-27T12:37:38+00:00",
+                "time": "2022-11-03T20:51:06+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
