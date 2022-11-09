@@ -20,6 +20,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/glossary",
+                "version": "dev-task/add-data-tile",
+                "version_normalized": "dev-task/add-data-tile",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "9574243236bdd8b47866a31e7fdbeea5f76d1b6c"
+                },
+                "time": "2022-11-09T17:04:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
