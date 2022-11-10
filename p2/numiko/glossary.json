@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/glossary",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/glossary/numiko-glossary-1.1.0-b64d00.tar",
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400",
+                    "shasum": "c4bdb479063ce8d00135cd6c00ebe779e7ff4d17"
+                },
+                "time": "2022-11-10T13:05:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

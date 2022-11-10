@@ -43068,18 +43068,24 @@
                     "Drupal"
                 ]
             },
-            "dev-main": {
+            "1.1.0": {
                 "name": "numiko/glossary",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "84ab5bbd887defd5fee06fe83e2dfe3e33d69586"
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
                 },
-                "time": "2022-11-02T14:58:31+00:00",
-                "default-branch": true,
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/glossary/numiko-glossary-1.1.0-b64d00.tar",
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400",
+                    "shasum": "c4bdb479063ce8d00135cd6c00ebe779e7ff4d17"
+                },
+                "time": "2022-11-10T13:05:42+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -43088,16 +43094,17 @@
                     "Drupal"
                 ]
             },
-            "dev-task/add-data-tile": {
+            "dev-main": {
                 "name": "numiko/glossary",
-                "version": "dev-task/add-data-tile",
-                "version_normalized": "dev-task/add-data-tile",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "9574243236bdd8b47866a31e7fdbeea5f76d1b6c"
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
                 },
-                "time": "2022-11-09T17:04:05+00:00",
+                "time": "2022-11-10T13:05:42+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

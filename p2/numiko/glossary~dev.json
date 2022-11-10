@@ -8,29 +8,10 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "84ab5bbd887defd5fee06fe83e2dfe3e33d69586"
+                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
                 },
-                "time": "2022-11-02T14:58:31+00:00",
+                "time": "2022-11-10T13:05:42+00:00",
                 "default-branch": true,
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Provide a glossary of terms for use inline",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/glossary",
-                "version": "dev-task/add-data-tile",
-                "version_normalized": "dev-task/add-data-tile",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "9574243236bdd8b47866a31e7fdbeea5f76d1b6c"
-                },
-                "time": "2022-11-09T17:04:05+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
