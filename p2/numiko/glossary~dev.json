@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
+                    "reference": "1eb777676169a4c08f15e880173d3f82ee7cd770"
                 },
-                "time": "2022-11-10T13:05:42+00:00",
+                "time": "2022-11-10T14:49:21+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

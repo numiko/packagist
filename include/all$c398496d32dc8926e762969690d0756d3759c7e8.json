@@ -43085,6 +43085,31 @@
                 },
                 "time": "2022-11-10T13:05:42+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.1.1": {
+                "name": "numiko/glossary",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "1eb777676169a4c08f15e880173d3f82ee7cd770"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/glossary/numiko-glossary-1.1.1-949af6.tar",
+                    "reference": "1eb777676169a4c08f15e880173d3f82ee7cd770",
+                    "shasum": "ce291fbba188a4517553d2aa0bdbfaa0694a89eb"
+                },
+                "time": "2022-11-10T14:49:21+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
@@ -43101,9 +43126,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/glossary.git",
-                    "reference": "3bcd99c0bf3e2dca89135b09b6348f32d5608400"
+                    "reference": "1eb777676169a4c08f15e880173d3f82ee7cd770"
                 },
-                "time": "2022-11-10T13:05:42+00:00",
+                "time": "2022-11-10T14:49:21+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
