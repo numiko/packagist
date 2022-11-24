@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-preview.git",
-                    "reference": "8e62d0938f269566affb8c0bc410b0af777cc81e"
+                    "reference": "3b0fa8ac1c988e17865d73e70f2d3bd5a43d9481"
                 },
-                "time": "2017-10-05T13:36:54+00:00",
+                "time": "2022-11-24T10:59:16+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -47,9 +47,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-preview.git",
-                    "reference": "e0a7f6f7956d0591c37eb1e3fe117b70ff14c4be"
+                    "reference": "a57fe35aa1e1f9e39600b1b5a586133ed7679fe9"
                 },
-                "time": "2021-08-24T08:13:24+00:00",
+                "time": "2022-11-24T10:54:28+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
