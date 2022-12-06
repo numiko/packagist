@@ -278,6 +278,32 @@
             },
             {
                 "name": "numiko/site_alerts",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "6294749faae66eb1d17854ee8fa29b547d4ee628"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_alerts/numiko-site_alerts-2.0.0-b16570.tar",
+                    "reference": "6294749faae66eb1d17854ee8fa29b547d4ee628",
+                    "shasum": "7ae8b635c715ef19f003eb14c6fd3aabe14ff16d"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-12-02T11:10:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_alerts",
                 "version": "2.0.0-beta1",
                 "version_normalized": "2.0.0.0-beta1",
                 "source": {
