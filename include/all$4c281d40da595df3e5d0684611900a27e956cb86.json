@@ -51281,25 +51281,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/plugins": {
-                "name": "numiko/site_alerts",
-                "version": "dev-feature/plugins",
-                "version_normalized": "dev-feature/plugins",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "146272394ce668881e073b8efa033d5485eac0d6"
-                },
-                "require": {
-                    "php": ">=5.6.0"
-                },
-                "time": "2022-12-07T18:10:52+00:00",
-                "type": "drupal-module",
-                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-feature/revisionable": {
                 "name": "numiko/site_alerts",
                 "version": "dev-feature/revisionable",
@@ -51338,6 +51319,25 @@
                     "Drupal"
                 ]
             },
+            "dev-hotfix/module-dependency": {
+                "name": "numiko/site_alerts",
+                "version": "dev-hotfix/module-dependency",
+                "version_normalized": "dev-hotfix/module-dependency",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "6b8105602554abe41dcc0a66af6b2e341d561196"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2022-12-15T11:46:34+00:00",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/site_alerts",
                 "version": "dev-master",
@@ -51345,12 +51345,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "f0e3568e112b7bd02dff40e2866e9441ef808652"
+                    "reference": "1c1fb5406bb25120d6a93119ee9b0ac462cd08ce"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2022-11-04T16:02:58+00:00",
+                "time": "2022-12-15T11:45:36+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
@@ -54122,6 +54122,66 @@
                 "description": "Add a twig extension to intelligently divide content into multiple chunks",
                 "keywords": [
                     "Drupal"
+                ]
+            }
+        },
+        "numiko/twig_vite_asset": {
+            "1.0.0": {
+                "name": "numiko/twig_vite_asset",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-vite-asset.git",
+                    "reference": "9a6b95f7f1902b0aaf97636bfc22ba8ed0bf07b5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_vite_asset/numiko-twig_vite_asset-1.0.0-d141db.tar",
+                    "reference": "9a6b95f7f1902b0aaf97636bfc22ba8ed0bf07b5",
+                    "shasum": "b3ca5ff22e1b22d852d1486c15265e696f702ac2"
+                },
+                "require": {
+                    "drupal/core": "^9.3 || ^10.0",
+                    "php": ">=7.3",
+                    "twig/twig": "^2.12 || ^3.3.8"
+                },
+                "time": "2022-12-15T14:21:16+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides a twig function to get the Vite asset from a given source URL.",
+                "keywords": [
+                    "Drupal",
+                    "Twig"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/twig_vite_asset",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-vite-asset.git",
+                    "reference": "9a6b95f7f1902b0aaf97636bfc22ba8ed0bf07b5"
+                },
+                "require": {
+                    "drupal/core": "^9.3 || ^10.0",
+                    "php": ">=7.3",
+                    "twig/twig": "^2.12 || ^3.3.8"
+                },
+                "time": "2022-12-15T14:21:16+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides a twig function to get the Vite asset from a given source URL.",
+                "keywords": [
+                    "Drupal",
+                    "Twig"
                 ]
             }
         },
