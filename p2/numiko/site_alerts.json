@@ -446,7 +446,6 @@
                 },
                 "time": "2023-01-03T09:16:11+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
                     "Drupal"
