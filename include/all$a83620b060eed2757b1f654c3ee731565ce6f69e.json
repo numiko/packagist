@@ -50259,7 +50259,6 @@
                 },
                 "time": "2023-01-12T08:21:13+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Maps existing user accounts to SAML account."
             },
             "dev-main": {
@@ -50302,7 +50301,6 @@
                 },
                 "time": "2023-01-12T08:54:47+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Maps user persona from a SAML authenticated user to a local Drupal user account."
             },
             "dev-main": {
