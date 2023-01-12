@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "numiko/saml_user_persona": [
+            {
+                "name": "numiko/saml_user_persona",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-user-persona.git",
+                    "reference": "13eacb504c7f0ff885b30d88abb8f772c7efc065"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*",
+                    "numiko/personas": "*"
+                },
+                "time": "2023-01-12T08:54:47+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Maps user persona from a SAML authenticated user to a local Drupal user account."
+            }
+        ]
+    }
+}

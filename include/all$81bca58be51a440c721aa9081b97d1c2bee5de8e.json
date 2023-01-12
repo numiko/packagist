@@ -50238,6 +50238,92 @@
                 "description": "Field formatter for image field types to allow classes to be added."
             }
         },
+        "numiko/saml_existing_users": {
+            "1.0.0": {
+                "name": "numiko/saml_existing_users",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-existing-users.git",
+                    "reference": "05e0d6a2a22e1ee84540ce50a1634c8f4032ea62"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/saml_existing_users/numiko-saml_existing_users-1.0.0-bb2b8d.tar",
+                    "reference": "05e0d6a2a22e1ee84540ce50a1634c8f4032ea62",
+                    "shasum": "6957bd31489059b9b6257ab8039fb04779fca086"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*"
+                },
+                "time": "2023-01-12T08:21:13+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Maps existing user accounts to SAML account."
+            },
+            "dev-main": {
+                "name": "numiko/saml_existing_users",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-existing-users.git",
+                    "reference": "05e0d6a2a22e1ee84540ce50a1634c8f4032ea62"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*"
+                },
+                "time": "2023-01-12T08:21:13+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Maps existing user accounts to SAML account."
+            }
+        },
+        "numiko/saml_user_persona": {
+            "1.0.1": {
+                "name": "numiko/saml_user_persona",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-user-persona.git",
+                    "reference": "13eacb504c7f0ff885b30d88abb8f772c7efc065"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/saml_user_persona/numiko-saml_user_persona-1.0.1-014c51.tar",
+                    "reference": "13eacb504c7f0ff885b30d88abb8f772c7efc065",
+                    "shasum": "a4ceaa2981af1747009461302081dd710b967aae"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*",
+                    "numiko/personas": "*"
+                },
+                "time": "2023-01-12T08:54:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Maps user persona from a SAML authenticated user to a local Drupal user account."
+            },
+            "dev-main": {
+                "name": "numiko/saml_user_persona",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-user-persona.git",
+                    "reference": "13eacb504c7f0ff885b30d88abb8f772c7efc065"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*",
+                    "numiko/personas": "*"
+                },
+                "time": "2023-01-12T08:54:47+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Maps user persona from a SAML authenticated user to a local Drupal user account."
+            }
+        },
         "numiko/search_api_exclude": {
             "2.0.0": {
                 "name": "numiko/search_api_exclude",

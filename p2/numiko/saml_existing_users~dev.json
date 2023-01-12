@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/saml_existing_users": [
+            {
+                "name": "numiko/saml_existing_users",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/saml-existing-users.git",
+                    "reference": "05e0d6a2a22e1ee84540ce50a1634c8f4032ea62"
+                },
+                "require": {
+                    "drupal/simplesamlphp_auth": "*"
+                },
+                "time": "2023-01-12T08:21:13+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Maps existing user accounts to SAML account."
+            }
+        ]
+    }
+}
