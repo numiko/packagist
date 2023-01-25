@@ -43936,6 +43936,54 @@
                 "description": "Functional Test With Whole Site Config"
             }
         },
+        "numiko/limit_entity_reference_items": {
+            "1.0.0": {
+                "name": "numiko/limit_entity_reference_items",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
+                    "reference": "dec47e2e17f8eed29dd1ff22466a645f16ae2902"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/limit_entity_reference_items/numiko-limit_entity_reference_items-1.0.0-aef5f8.tar",
+                    "reference": "dec47e2e17f8eed29dd1ff22466a645f16ae2902",
+                    "shasum": "d1ec3a456def5710980af46bee6d04329426e45c"
+                },
+                "time": "2023-01-25T17:49:07+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allows an entity reference field to have a minimum and maximum number of items set",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/limit_entity_reference_items",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
+                    "reference": "dec47e2e17f8eed29dd1ff22466a645f16ae2902"
+                },
+                "time": "2023-01-25T17:49:07+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allows an entity reference field to have a minimum and maximum number of items set",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/link_class": {
             "1.0.0": {
                 "name": "numiko/link_class",

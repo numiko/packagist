@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$abaed2edede76f441b9cebcd6358b758b8d08316.json": {
-            "sha1": "abaed2edede76f441b9cebcd6358b758b8d08316"
+        "include/all$6b2b914c825e818ac65957aacfefe40349d73a30.json": {
+            "sha1": "6b2b914c825e818ac65957aacfefe40349d73a30"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -48,6 +48,7 @@
         "numiko/icon-menu",
         "numiko/instance_migrate",
         "numiko/integration_tests",
+        "numiko/limit_entity_reference_items",
         "numiko/link_class",
         "numiko/link_fragment",
         "numiko/link_template_formatter",
