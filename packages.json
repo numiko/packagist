@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f36256c6b1a15933551c9f6e581881fc9285db5d.json": {
-            "sha1": "f36256c6b1a15933551c9f6e581881fc9285db5d"
+        "include/all$80cd9ffd2b57143edc06fa5cf47401a1cf017c76.json": {
+            "sha1": "80cd9ffd2b57143edc06fa5cf47401a1cf017c76"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -69,6 +69,7 @@
         "numiko/numidemo",
         "numiko/numiko-media-profile",
         "numiko/numiko_security_review",
+        "numiko/occurrence",
         "numiko/paragraphs_category_modal",
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",
