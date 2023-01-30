@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform-dotmailer.git",
-                    "reference": "22214a645660eae9bc03167c85140c62d48e1768"
+                    "reference": "c9189fb72d17c6cefb8594294fc644944f3f0b28"
                 },
-                "time": "2017-11-30T12:29:55+00:00",
+                "time": "2023-01-30T12:27:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
