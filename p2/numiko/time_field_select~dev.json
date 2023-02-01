@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/time_field_select": [
+            {
+                "name": "numiko/time_field_select",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/time-field-select.git",
+                    "reference": "5692c1dbb935028e9c5774a7cf8c8c4e1eb2086f"
+                },
+                "time": "2023-02-01T17:25:15+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field widget for allowing a time select on a string field",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

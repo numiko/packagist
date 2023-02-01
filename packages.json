@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$373a27c59fe160e9e156e768b6941eefa61c5578.json": {
-            "sha1": "373a27c59fe160e9e156e768b6941eefa61c5578"
+        "include/all$67166da5b818ea9a958b468753dbcc8062fe1f6c.json": {
+            "sha1": "67166da5b818ea9a958b468753dbcc8062fe1f6c"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -93,6 +93,7 @@
         "numiko/styleguide",
         "numiko/taxonomy_slice",
         "numiko/template_breadcrumb",
+        "numiko/time_field_select",
         "numiko/token_defaults",
         "numiko/token_entity_reference",
         "numiko/twig_field_values",

@@ -53842,6 +53842,54 @@
                 ]
             }
         },
+        "numiko/time_field_select": {
+            "1.0.0": {
+                "name": "numiko/time_field_select",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/time-field-select.git",
+                    "reference": "5692c1dbb935028e9c5774a7cf8c8c4e1eb2086f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/time_field_select/numiko-time_field_select-1.0.0-cb2c53.tar",
+                    "reference": "5692c1dbb935028e9c5774a7cf8c8c4e1eb2086f",
+                    "shasum": "340409b06ff95beae4e24b8c5a866206714fa631"
+                },
+                "time": "2023-02-01T17:25:15+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field widget for allowing a time select on a string field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/time_field_select",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/time-field-select.git",
+                    "reference": "5692c1dbb935028e9c5774a7cf8c8c4e1eb2086f"
+                },
+                "time": "2023-02-01T17:25:15+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field widget for allowing a time select on a string field",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/token_defaults": {
             "1.0.0": {
                 "name": "numiko/token_defaults",
