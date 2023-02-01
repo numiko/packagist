@@ -53860,7 +53860,6 @@
                 },
                 "time": "2023-02-01T17:25:15+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
