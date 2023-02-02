@@ -43962,6 +43962,25 @@
                     "Drupal"
                 ]
             },
+            "dev-fix/allow-err-fields": {
+                "name": "numiko/limit_entity_reference_items",
+                "version": "dev-fix/allow-err-fields",
+                "version_normalized": "dev-fix/allow-err-fields",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
+                    "reference": "876a57a2884c7fdce7e060a16713e16d4378a7c8"
+                },
+                "time": "2023-02-02T15:33:03+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allows an entity reference field to have a minimum and maximum number of items set",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/limit_entity_reference_items",
                 "version": "dev-main",
@@ -44734,14 +44753,20 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/api": {
+            "3.0.0-beta4": {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/api",
-                "version_normalized": "dev-feature/api",
+                "version": "3.0.0-beta4",
+                "version_normalized": "3.0.0.0-beta4",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "012f10d7bdcbb7d4ab3fc2e7028bc4eda0b1c1ef"
+                    "reference": "f6f0fc7ff83a85230a8fc984c17810d5a0c09f26"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-3.0.0-beta4-2b16d3.tar",
+                    "reference": "f6f0fc7ff83a85230a8fc984c17810d5a0c09f26",
+                    "shasum": "d984fad1d9acdb9b5c667a9579335a3467d609a3"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -44750,7 +44775,34 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2022-11-30T12:16:58+00:00",
+                "time": "2023-02-02T15:19:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/api": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/api",
+                "version_normalized": "dev-feature/api",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "f6f0fc7ff83a85230a8fc984c17810d5a0c09f26"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-02-02T15:19:55+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -49458,6 +49510,64 @@
                     "Drupal"
                 ]
             },
+            "1.0.0-beta2": {
+                "name": "numiko/occurrence",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "01be961a9cd6d8627339e712b1a5f8445f8a5c8e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.0-beta2-3418f5.tar",
+                    "reference": "01be961a9cd6d8627339e712b1a5f8445f8a5c8e",
+                    "shasum": "4eff08f7df9adaedc151a81dfd22d4f376ff8746"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-02-02T12:01:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.0-beta3": {
+                "name": "numiko/occurrence",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.0-beta3-3bbfff.tar",
+                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7",
+                    "shasum": "40a4ae7fa1a9973af7aafd52e8b3ad42ba2688b6"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-02-02T12:21:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-release/1.0.0": {
                 "name": "numiko/occurrence",
                 "version": "dev-release/1.0.0",
@@ -49465,12 +49575,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "f965f70f24ed7541fecfa3e0d33c244e60dc14ef"
+                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2023-01-30T11:09:07+00:00",
+                "time": "2023-02-02T12:21:14+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

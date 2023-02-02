@@ -28,6 +28,64 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/occurrence",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "01be961a9cd6d8627339e712b1a5f8445f8a5c8e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.0-beta2-3418f5.tar",
+                    "reference": "01be961a9cd6d8627339e712b1a5f8445f8a5c8e",
+                    "shasum": "4eff08f7df9adaedc151a81dfd22d4f376ff8746"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-02-02T12:01:22+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/occurrence",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.0-beta3-3bbfff.tar",
+                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7",
+                    "shasum": "40a4ae7fa1a9973af7aafd52e8b3ad42ba2688b6"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-02-02T12:21:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
