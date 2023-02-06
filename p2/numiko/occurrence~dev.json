@@ -3,17 +3,18 @@
         "numiko/occurrence": [
             {
                 "name": "numiko/occurrence",
-                "version": "dev-release/1.0.0",
-                "version_normalized": "dev-release/1.0.0",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "be4aae9c2a8ccdda598598734a7a558ea14ef9a7"
+                    "reference": "78ce442a3f7ca6f9a2805ebdfdf94c72996e8c0e"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2023-02-02T12:21:14+00:00",
+                "time": "2023-02-06T10:19:05+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

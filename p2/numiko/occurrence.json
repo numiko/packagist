@@ -3,6 +3,35 @@
         "numiko/occurrence": [
             {
                 "name": "numiko/occurrence",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "78ce442a3f7ca6f9a2805ebdfdf94c72996e8c0e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.0-efa6f2.tar",
+                    "reference": "78ce442a3f7ca6f9a2805ebdfdf94c72996e8c0e",
+                    "shasum": "4f56150a944605c544741f1a854bafd1c42d1269"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-02-06T10:19:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/occurrence",
                 "version": "1.0.0-beta1",
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
