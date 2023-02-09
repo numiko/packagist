@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/search_exclude_moderation": [
+            {
+                "name": "numiko/search_exclude_moderation",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_exclude_moderation/numiko-search_exclude_moderation-1.0.0-beta1-947d12.tar",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8",
+                    "shasum": "d9a80a26990eaf67eeb80140c9051827bcf0aa74"
+                },
+                "time": "2023-02-03T16:33:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/search_exclude_moderation",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "df5d1cc9dae0c3c77c14962b1ca449009c501db7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_exclude_moderation/numiko-search_exclude_moderation-1.0.1-4de02c.tar",
+                    "reference": "df5d1cc9dae0c3c77c14962b1ca449009c501db7",
+                    "shasum": "df4069da0cb95a8b9d067d18219d63e1bd32f460"
+                },
+                "time": "2023-02-09T08:50:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

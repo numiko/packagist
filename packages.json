@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d6d5e08dbe7d7d04ce011af4084ef6aae9a4dba0.json": {
-            "sha1": "d6d5e08dbe7d7d04ce011af4084ef6aae9a4dba0"
+        "include/all$3570b627045cce723369eb4b5ca62f4620d02e78.json": {
+            "sha1": "3570b627045cce723369eb4b5ca62f4620d02e78"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -80,8 +80,8 @@
         "numiko/responsive_image_class",
         "numiko/saml_existing_users",
         "numiko/saml_user_persona",
-        "numiko/search-exclude-moderation",
         "numiko/search_api_exclude",
+        "numiko/search_exclude_moderation",
         "numiko/security_checker",
         "numiko/sensible_email_validation",
         "numiko/simple_domain_path",

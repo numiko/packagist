@@ -50711,54 +50711,6 @@
                 "description": "Maps user persona from a SAML authenticated user to a local Drupal user account."
             }
         },
-        "numiko/search-exclude-moderation": {
-            "1.0.0-beta1": {
-                "name": "numiko/search-exclude-moderation",
-                "version": "1.0.0-beta1",
-                "version_normalized": "1.0.0.0-beta1",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
-                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/search-exclude-moderation/numiko-search-exclude-moderation-1.0.0-beta1-947d12.tar",
-                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8",
-                    "shasum": "15f3b831684d05d03b8c44ecacf5ef9b2f8f7801"
-                },
-                "time": "2023-02-03T16:33:47+00:00",
-                "type": "drupal-module",
-                "installation-source": "source",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Search Exclude Moderation.",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-main": {
-                "name": "numiko/search-exclude-moderation",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
-                    "reference": "509d8d26c93315cb67e3f4949941194ddf6d32e8"
-                },
-                "time": "2023-02-09T08:36:01+00:00",
-                "default-branch": true,
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Search Exclude Moderation.",
-                "keywords": [
-                    "Drupal"
-                ]
-            }
-        },
         "numiko/search_api_exclude": {
             "2.0.0": {
                 "name": "numiko/search_api_exclude",
@@ -50835,6 +50787,80 @@
                 "support": {
                     "issues": "https://www.drupal.org/project/issues/search_api_exclude"
                 }
+            }
+        },
+        "numiko/search_exclude_moderation": {
+            "1.0.0-beta1": {
+                "name": "numiko/search_exclude_moderation",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_exclude_moderation/numiko-search_exclude_moderation-1.0.0-beta1-947d12.tar",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8",
+                    "shasum": "d9a80a26990eaf67eeb80140c9051827bcf0aa74"
+                },
+                "time": "2023-02-03T16:33:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.1": {
+                "name": "numiko/search_exclude_moderation",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "df5d1cc9dae0c3c77c14962b1ca449009c501db7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_exclude_moderation/numiko-search_exclude_moderation-1.0.1-4de02c.tar",
+                    "reference": "df5d1cc9dae0c3c77c14962b1ca449009c501db7",
+                    "shasum": "df4069da0cb95a8b9d067d18219d63e1bd32f460"
+                },
+                "time": "2023-02-09T08:50:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/search_exclude_moderation",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "df5d1cc9dae0c3c77c14962b1ca449009c501db7"
+                },
+                "time": "2023-02-09T08:50:01+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/security_checker": {
