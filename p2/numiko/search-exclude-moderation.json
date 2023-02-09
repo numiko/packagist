@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/search-exclude-moderation": [
+            {
+                "name": "numiko/search-exclude-moderation",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search-exclude-moderation/numiko-search-exclude-moderation-1.0.0-beta1-947d12.tar",
+                    "reference": "06275492f9555e6abfd6b12b59d563dff2fceff8",
+                    "shasum": "15f3b831684d05d03b8c44ecacf5ef9b2f8f7801"
+                },
+                "time": "2023-02-03T16:33:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}
