@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/linkit_field_formatter": [
+            {
+                "name": "numiko/linkit_field_formatter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
+                    "reference": "cc35bb84c03ab197a8a2d1206b898fd500cb62d8"
+                },
+                "time": "2023-02-15T15:40:59+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field formatter for outputting separate link and title for linkit (link) fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

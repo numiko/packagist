@@ -44299,6 +44299,54 @@
                 ]
             }
         },
+        "numiko/linkit_field_formatter": {
+            "1.0.0": {
+                "name": "numiko/linkit_field_formatter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
+                    "reference": "cc35bb84c03ab197a8a2d1206b898fd500cb62d8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/linkit_field_formatter/numiko-linkit_field_formatter-1.0.0-8d54ea.tar",
+                    "reference": "cc35bb84c03ab197a8a2d1206b898fd500cb62d8",
+                    "shasum": "76ec84b1f32a419aa2f04685a5be1bfd68ee2b97"
+                },
+                "time": "2023-02-15T15:40:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field formatter for outputting separate link and title for linkit (link) fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/linkit_field_formatter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
+                    "reference": "cc35bb84c03ab197a8a2d1206b898fd500cb62d8"
+                },
+                "time": "2023-02-15T15:40:59+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Field formatter for outputting separate link and title for linkit (link) fields",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/listings_filter": {
             "1.0.0": {
                 "name": "numiko/listings_filter",
@@ -50863,7 +50911,6 @@
                 },
                 "time": "2023-02-15T11:24:50+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
