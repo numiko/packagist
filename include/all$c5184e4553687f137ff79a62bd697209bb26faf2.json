@@ -45250,7 +45250,6 @@
                 },
                 "time": "2023-02-16T11:58:28+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -47138,9 +47137,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "83c47f94ffbae0ba6433fa3446aaac18871dfcf2"
+                    "reference": "b9fb8b3049ab53521112b1ce6727506ef8692eca"
                 },
-                "time": "2022-10-21T14:54:35+00:00",
+                "time": "2023-02-16T14:33:28+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -47160,25 +47159,6 @@
                     "reference": "84f9d3e8b64f2bad33a087963db4d5708be0e163"
                 },
                 "time": "2018-05-04T08:37:33+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-fix/vite-libraries": {
-                "name": "numiko/numibase",
-                "version": "dev-fix/vite-libraries",
-                "version_normalized": "dev-fix/vite-libraries",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "c6f0c5e32933ec6271e32ca96c9ce2835b045411"
-                },
-                "time": "2023-01-26T11:16:05+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
