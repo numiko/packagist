@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-linkit.git",
-                    "reference": "93d7d96a7b28fb877b5935c21eac1650ac1b7577"
+                    "reference": "6fe3290bec368a4ba8c424c39750aac1c6a12cfc"
                 },
-                "time": "2022-09-06T10:17:22+00:00",
+                "time": "2023-02-16T11:58:28+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
