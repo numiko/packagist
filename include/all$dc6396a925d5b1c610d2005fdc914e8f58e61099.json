@@ -54444,6 +54444,49 @@
                     "Drupal"
                 ]
             },
+            "1.2.0-beta1": {
+                "name": "numiko/token_entity_reference",
+                "version": "1.2.0-beta1",
+                "version_normalized": "1.2.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "aab373e0c851cd208d0c84691f0d1b965d088037"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.2.0-beta1-21c01c.tar",
+                    "reference": "aab373e0c851cd208d0c84691f0d1b965d088037",
+                    "shasum": "02071f73d0226d73ae1428a56a23b59771edd522"
+                },
+                "time": "2023-02-20T15:09:02+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-hotfix/handler-settings": {
+                "name": "numiko/token_entity_reference",
+                "version": "dev-hotfix/handler-settings",
+                "version_normalized": "dev-hotfix/handler-settings",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "aab373e0c851cd208d0c84691f0d1b965d088037"
+                },
+                "time": "2023-02-20T15:09:02+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/token_entity_reference",
                 "version": "dev-master",
