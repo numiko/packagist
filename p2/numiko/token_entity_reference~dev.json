@@ -3,32 +3,14 @@
         "numiko/token_entity_reference": [
             {
                 "name": "numiko/token_entity_reference",
-                "version": "dev-hotfix/handler-settings",
-                "version_normalized": "dev-hotfix/handler-settings",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "aab373e0c851cd208d0c84691f0d1b965d088037"
-                },
-                "time": "2023-02-20T15:09:02+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/token_entity_reference",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e"
+                    "reference": "96766f02dfc0b69c3dc55e3a6f13b05dd4db9def"
                 },
-                "time": "2021-08-02T13:01:49+00:00",
+                "time": "2023-02-21T09:04:17+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
