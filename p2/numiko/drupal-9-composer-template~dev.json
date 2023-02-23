@@ -715,7 +715,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "e49bccfb6ac7ef04f05498de4e407e7b390990ab"
+                    "reference": "3e5c4019af84e1ee69993df10a504d85d64cc92f"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -814,7 +814,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2023-02-21T17:29:41+00:00",
+                "time": "2023-02-23T14:34:27+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -854,9 +854,6 @@
                         },
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
-                        },
-                        "drupal/easy_breadcrumb": {
-                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
                         },
                         "drupal/paragraphs": {
                             "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
