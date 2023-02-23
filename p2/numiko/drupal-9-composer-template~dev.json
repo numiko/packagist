@@ -715,7 +715,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "3e5c4019af84e1ee69993df10a504d85d64cc92f"
+                    "reference": "63ff37b4d9da5dc2e43662362a1044233d6f8d01"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -766,6 +766,7 @@
                     "drupal/pathauto": "^1.11",
                     "drupal/redirect": "^1.8",
                     "drupal/redis": "^1.5",
+                    "drupal/responsive_table_filter": "^2.0",
                     "drupal/scheduler": "^1.4",
                     "drupal/scheduler_content_moderation_integration": "^1.4",
                     "drupal/schema_metatag": "^2.3",
@@ -814,7 +815,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2023-02-23T14:34:27+00:00",
+                "time": "2023-02-23T15:54:12+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
