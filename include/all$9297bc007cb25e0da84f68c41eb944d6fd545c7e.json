@@ -23538,6 +23538,29 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
+            "1.7.0-beta2": {
+                "name": "numiko/d9-profile",
+                "version": "1.7.0-beta2",
+                "version_normalized": "1.7.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "6f4d45f521164d40e787f58f83183fea93d4be0b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/d9-profile/numiko-d9-profile-1.7.0-beta2-f6178a.tar",
+                    "reference": "6f4d45f521164d40e787f58f83183fea93d4be0b",
+                    "shasum": "05a8c7cd95822545701fa132271b1d131d3359fe"
+                },
+                "time": "2023-02-23T14:51:14+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "dev-feature/drop_dev_module_dependencies": {
                 "name": "numiko/d9-profile",
                 "version": "dev-feature/drop_dev_module_dependencies",
@@ -24088,9 +24111,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "1ce7ba24f0591f9007e345de101d2cd374d36529"
+                    "reference": "6f4d45f521164d40e787f58f83183fea93d4be0b"
                 },
-                "time": "2023-02-23T14:10:22+00:00",
+                "time": "2023-02-23T14:51:14+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -39825,7 +39848,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
