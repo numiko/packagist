@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "f6f0fc7ff83a85230a8fc984c17810d5a0c09f26"
+                    "reference": "8a6184f673a83d34bddaee3d1e971c1655bafbfc"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -17,7 +17,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-02-02T15:19:55+00:00",
+                "time": "2023-02-24T13:54:31+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
