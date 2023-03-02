@@ -45536,6 +45536,30 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "3.0.0-beta2": {
+                "name": "numiko/integration_tests",
+                "version": "3.0.0-beta2",
+                "version_normalized": "3.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "95642dd8fd736eb6125e32b929e1fb32dc582c92"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.0.0-beta2-90b1ce.tar",
+                    "reference": "95642dd8fd736eb6125e32b929e1fb32dc582c92",
+                    "shasum": "04229081269fcb19fcebe20971b4145642910f58"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2023-03-02T10:33:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/boilerplate-tests": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/boilerplate-tests",
@@ -45560,13 +45584,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "27622ed96f7b504db49c7486413b244a57185e8b"
+                    "reference": "95642dd8fd736eb6125e32b929e1fb32dc582c92"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2022-10-14T14:15:05+00:00",
+                "time": "2023-03-02T10:33:55+00:00",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
