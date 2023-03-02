@@ -25738,7 +25738,6 @@
                 },
                 "time": "2023-03-02T15:06:31+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Creates a sitemap for each domain"
             },
             "dev-master": {
@@ -45600,6 +45599,29 @@
                 },
                 "time": "2023-03-02T10:43:10+00:00",
                 "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            "3.0.0-beta4": {
+                "name": "numiko/integration_tests",
+                "version": "3.0.0-beta4",
+                "version_normalized": "3.0.0.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "8734588fb3a408dcff122f79ee88083c96649112"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.0.0-beta4-5ce423.tar",
+                    "reference": "8734588fb3a408dcff122f79ee88083c96649112",
+                    "shasum": "47998e768e3b60f1bbee281e160138eae788f779"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2023-03-02T15:20:40+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             },
@@ -45627,13 +45649,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "c0fad6512247f59ea9801b16ae6afed7b30d047e"
+                    "reference": "8734588fb3a408dcff122f79ee88083c96649112"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^1.5"
                 },
-                "time": "2023-03-02T10:43:10+00:00",
+                "time": "2023-03-02T15:20:40+00:00",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
