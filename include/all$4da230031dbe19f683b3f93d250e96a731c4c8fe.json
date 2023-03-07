@@ -56938,6 +56938,54 @@
                 ]
             }
         },
+        "numiko/username_sanitize": {
+            "1.0.0": {
+                "name": "numiko/username_sanitize",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "686f872b49be363be295bb54f467961a0c11dddd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/username_sanitize/numiko-username_sanitize-1.0.0-a2e14c.tar",
+                    "reference": "686f872b49be363be295bb54f467961a0c11dddd",
+                    "shasum": "9128f47d47c6e34d2542b57141dd6911bae2171a"
+                },
+                "time": "2023-03-07T14:21:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-master": {
+                "name": "numiko/username_sanitize",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "686f872b49be363be295bb54f467961a0c11dddd"
+                },
+                "time": "2023-03-07T14:21:03+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/views-topup": {
             "1.0.0": {
                 "name": "numiko/views-topup",

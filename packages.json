@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f1a07a7df725911c153d280a99fbb133a0d66576.json": {
-            "sha1": "f1a07a7df725911c153d280a99fbb133a0d66576"
+        "include/all$4da230031dbe19f683b3f93d250e96a731c4c8fe.json": {
+            "sha1": "4da230031dbe19f683b3f93d250e96a731c4c8fe"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -102,6 +102,7 @@
         "numiko/twig_smart_split",
         "numiko/twig_vite_asset",
         "numiko/user_login_admin",
+        "numiko/username_sanitize",
         "numiko/views-topup",
         "numiko/views_helper",
         "numiko/views_string_length_sort",
