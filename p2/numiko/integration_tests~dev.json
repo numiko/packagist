@@ -37,6 +37,23 @@
             },
             {
                 "name": "numiko/integration_tests",
+                "version": "dev-feature/d10-compatibility",
+                "version_normalized": "dev-feature/d10-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "10d72f3c501ab5bafa4d0474d114871c64facb43"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2023-03-10T11:04:38+00:00",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
                 "version": "dev-feature/initial-commit",
                 "version_normalized": "dev-feature/initial-commit",
                 "source": {
