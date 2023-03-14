@@ -42,13 +42,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "10d72f3c501ab5bafa4d0474d114871c64facb43"
+                    "reference": "6842780f92aad9699f4321c6419538a170e00796"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
-                    "weitzman/drupal-test-traits": "^1.5"
+                    "weitzman/drupal-test-traits": "^2.0"
                 },
-                "time": "2023-03-10T11:04:38+00:00",
+                "time": "2023-03-14T15:39:41+00:00",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
