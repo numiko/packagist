@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
-                    "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829"
+                    "reference": "f3b335fc7e3f3aebfd1dddd47b73716787b54be8"
                 },
-                "time": "2021-07-20T15:43:40+00:00",
+                "time": "2023-03-14T15:14:45+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides a color picker which checks accessibility",

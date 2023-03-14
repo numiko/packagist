@@ -144,6 +144,31 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/token_entity_reference",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-2.0.0-104974.tar",
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44",
+                    "shasum": "ece1a947af5d3e80c9241a4f010240d0e645929a"
+                },
+                "time": "2023-03-14T15:18:13+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

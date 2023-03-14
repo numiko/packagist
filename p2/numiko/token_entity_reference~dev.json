@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "96766f02dfc0b69c3dc55e3a6f13b05dd4db9def"
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44"
                 },
-                "time": "2023-02-21T09:04:17+00:00",
+                "time": "2023-03-14T15:18:13+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

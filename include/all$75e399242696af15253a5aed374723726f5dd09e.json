@@ -880,6 +880,29 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/accessible_color_picker",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
+                    "reference": "f3b335fc7e3f3aebfd1dddd47b73716787b54be8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-2.0.0-a42bd9.tar",
+                    "reference": "f3b335fc7e3f3aebfd1dddd47b73716787b54be8",
+                    "shasum": "ace932ff27155fd4fb003ed73d746f911f891a5f"
+                },
+                "time": "2023-03-14T15:14:45+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a color picker which checks accessibility",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/accessible_color_picker",
                 "version": "dev-master",
@@ -887,9 +910,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
-                    "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829"
+                    "reference": "f3b335fc7e3f3aebfd1dddd47b73716787b54be8"
                 },
-                "time": "2021-07-20T15:43:40+00:00",
+                "time": "2023-03-14T15:14:45+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides a color picker which checks accessibility",
@@ -3678,6 +3701,26 @@
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
             },
+            "8.5.0": {
+                "name": "numiko/csp_per_page",
+                "version": "8.5.0",
+                "version_normalized": "8.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "e3b749529b5aff7d646ea8210a7846dba6b10d9e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/csp_per_page/numiko-csp_per_page-8.5.0-4a79fe.tar",
+                    "reference": "e3b749529b5aff7d646ea8210a7846dba6b10d9e",
+                    "shasum": "fe8f9632070e2ab5f75b85e0029a4c898a0d51ab"
+                },
+                "time": "2023-03-14T15:21:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Set a strict CSP on specific paths and content types"
+            },
             "dev-8.x.3-x": {
                 "name": "numiko/csp_per_page",
                 "version": "dev-8.x.3-x",
@@ -3724,9 +3767,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/csp-per-page.git",
-                    "reference": "41b23940c07579ed8b1711a24dd8ca23a7e285f1"
+                    "reference": "e3b749529b5aff7d646ea8210a7846dba6b10d9e"
                 },
-                "time": "2022-09-06T09:36:38+00:00",
+                "time": "2023-03-14T15:21:10+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
@@ -46773,6 +46816,39 @@
                     "Drupal"
                 ]
             },
+            "3.0.0-beta6": {
+                "name": "numiko/listings_filter",
+                "version": "3.0.0-beta6",
+                "version_normalized": "3.0.0.0-beta6",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8c2893f6a06b919605744e1c5534e0297a292c34"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-3.0.0-beta6-96a54f.tar",
+                    "reference": "8c2893f6a06b919605744e1c5534e0297a292c34",
+                    "shasum": "0e8845f59dd4b4cb2ea7ed652dee1104171dd090"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-03-14T15:24:26+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "3.1.0-beta1": {
                 "name": "numiko/listings_filter",
                 "version": "3.1.0-beta1",
@@ -46876,7 +46952,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "8a6184f673a83d34bddaee3d1e971c1655bafbfc"
+                    "reference": "8c2893f6a06b919605744e1c5534e0297a292c34"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -46885,7 +46961,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-02-24T13:54:31+00:00",
+                "time": "2023-03-14T15:24:26+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -48155,6 +48231,32 @@
                     "Drupal"
                 ]
             },
+            "2.0.0-beta2": {
+                "name": "numiko/menu_block_view_modes",
+                "version": "2.0.0-beta2",
+                "version_normalized": "2.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "a56c624dc80464a3270e375639a9fb94509705eb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/menu_block_view_modes/numiko-menu_block_view_modes-2.0.0-beta2-5d2d36.tar",
+                    "reference": "a56c624dc80464a3270e375639a9fb94509705eb",
+                    "shasum": "b77e48ffdf5d9b98a208e3345773628cbab56d9f"
+                },
+                "time": "2023-03-14T15:16:58+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/menu_block_view_modes",
                 "version": "8.1.0",
@@ -48326,9 +48428,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
-                    "reference": "e457b31c82b0c630ad61005453ce3bab4e14de9a"
+                    "reference": "a56c624dc80464a3270e375639a9fb94509705eb"
                 },
-                "time": "2023-01-03T12:23:52+00:00",
+                "time": "2023-03-14T15:16:58+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -56508,6 +56610,31 @@
                     "Drupal"
                 ]
             },
+            "2.0.0": {
+                "name": "numiko/token_entity_reference",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/token-entity-reference.git",
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/token_entity_reference/numiko-token_entity_reference-2.0.0-104974.tar",
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44",
+                    "shasum": "ece1a947af5d3e80c9241a4f010240d0e645929a"
+                },
+                "time": "2023-03-14T15:18:13+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/token_entity_reference",
                 "version": "dev-master",
@@ -56515,9 +56642,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/token-entity-reference.git",
-                    "reference": "96766f02dfc0b69c3dc55e3a6f13b05dd4db9def"
+                    "reference": "c6bfb97ba7221b3b97ab0fc98bfaf9176fdcff44"
                 },
-                "time": "2023-02-21T09:04:17+00:00",
+                "time": "2023-03-14T15:18:13+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
