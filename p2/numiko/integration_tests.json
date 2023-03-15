@@ -393,6 +393,30 @@
             },
             {
                 "name": "numiko/integration_tests",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "c782063f1e3e7068e5eb3cf81d35b00646058ef7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.1.0-20ef69.tar",
+                    "reference": "c782063f1e3e7068e5eb3cf81d35b00646058ef7",
+                    "shasum": "df9f05ecf7e33cc3fadcd0a5e54b65ab287a80d6"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^1.5"
+                },
+                "time": "2023-03-15T12:06:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
                 "version": "3.1.0-beta1",
                 "version_normalized": "3.1.0.0-beta1",
                 "source": {
@@ -435,6 +459,30 @@
                 },
                 "time": "2023-03-14T15:39:41+00:00",
                 "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "5ed0502430814938c5728136c86969fb98de2327"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.2.0-b114ec.tar",
+                    "reference": "5ed0502430814938c5728136c86969fb98de2327",
+                    "shasum": "7fcb425687214c298f3c14a4426a39a595ad324f"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2023-03-15T14:17:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             }
         ]
