@@ -412,7 +412,6 @@
                 },
                 "time": "2023-03-15T12:06:10+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             },
             {
@@ -482,7 +481,6 @@
                 },
                 "time": "2023-03-15T14:17:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             }
         ]
