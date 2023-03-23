@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/security-checker.git",
-                    "reference": "ab3c39b0bb1863144dfcca2ff638575c35fdf75b"
+                    "reference": "1de5999f4da92ff52c50d19dc1cdb553b41d2bf5"
                 },
-                "time": "2022-08-11T14:51:58+00:00",
+                "time": "2023-03-23T12:01:16+00:00",
                 "default-branch": true,
                 "type": "library",
                 "description": "Check composer.lock file for security updates"
