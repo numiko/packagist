@@ -47098,6 +47098,39 @@
                     "Drupal"
                 ]
             },
+            "3.1.0-beta6": {
+                "name": "numiko/listings_filter",
+                "version": "3.1.0-beta6",
+                "version_normalized": "3.1.0.0-beta6",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "3a4c542d6fb14e70aa96ef7173d54cae5c0b193b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-3.1.0-beta6-8a0dac.tar",
+                    "reference": "3a4c542d6fb14e70aa96ef7173d54cae5c0b193b",
+                    "shasum": "03f07fa8221cb80a82ee61ef49135799ff238a66"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-04-16T21:22:02+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/api": {
                 "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
@@ -47131,7 +47164,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "54c605e7a39d3624566cd02e8d54b193098c7479"
+                    "reference": "3a4c542d6fb14e70aa96ef7173d54cae5c0b193b"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -47140,7 +47173,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-03-28T13:15:14+00:00",
+                "time": "2023-04-16T21:22:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
