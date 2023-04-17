@@ -8745,6 +8745,29 @@
             },
             {
                 "name": "numiko/d9-profile",
+                "version": "1.7.0-alpha1",
+                "version_normalized": "1.7.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "dfc0a1a89f55aa0fe2f8d97d62b76186c97928d7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/d9-profile/numiko-d9-profile-1.7.0-alpha1-e95019.tar",
+                    "reference": "dfc0a1a89f55aa0fe2f8d97d62b76186c97928d7",
+                    "shasum": "8e4c8f13e5b8ee6882eed783f6d953b7c32b0e00"
+                },
+                "time": "2023-02-21T16:03:56+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
                 "version": "1.7.0-beta1",
                 "version_normalized": "1.7.0.0-beta1",
                 "source": {
