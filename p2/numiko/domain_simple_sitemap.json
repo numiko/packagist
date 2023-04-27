@@ -38,6 +38,26 @@
                 "time": "2023-03-02T15:06:31+00:00",
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
+            },
+            {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "6608a9f9bd860b0571aa73072a7bec82888cb7f2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.0.0-8fbfa3.tar",
+                    "reference": "6608a9f9bd860b0571aa73072a7bec82888cb7f2",
+                    "shasum": "c8487fa04a2c4591258ef498a9a133f9c3630bd4"
+                },
+                "time": "2023-04-27T12:56:35+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
             }
         ]
     }

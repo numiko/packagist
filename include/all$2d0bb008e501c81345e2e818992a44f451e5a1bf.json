@@ -25803,6 +25803,39 @@
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
             },
+            "2.0.0": {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "6608a9f9bd860b0571aa73072a7bec82888cb7f2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.0.0-8fbfa3.tar",
+                    "reference": "6608a9f9bd860b0571aa73072a7bec82888cb7f2",
+                    "shasum": "c8487fa04a2c4591258ef498a9a133f9c3630bd4"
+                },
+                "time": "2023-04-27T12:56:35+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
+            },
+            "dev-feature/drupal-10": {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "dev-feature/drupal-10",
+                "version_normalized": "dev-feature/drupal-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "6608a9f9bd860b0571aa73072a7bec82888cb7f2"
+                },
+                "time": "2023-04-27T12:56:35+00:00",
+                "type": "drupal-module",
+                "description": "Creates a sitemap for each domain"
+            },
             "dev-master": {
                 "name": "numiko/domain_simple_sitemap",
                 "version": "dev-master",
@@ -53855,6 +53888,65 @@
                     "php": ">=5.6.0"
                 },
                 "time": "2022-05-20T13:22:23+00:00",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "3.0.0": {
+                "name": "numiko/simple_domain_path",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "069799cf4349a4f4ed9add466d5a29d0c43a21dd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-3.0.0-e7a01b.tar",
+                    "reference": "069799cf4349a4f4ed9add466d5a29d0c43a21dd",
+                    "shasum": "b49ba42c8a3e40ff647967dcae50b1591a5a3b36"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2023-04-27T12:54:23+00:00",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/drupal-10": {
+                "name": "numiko/simple_domain_path",
+                "version": "dev-feature/drupal-10",
+                "version_normalized": "dev-feature/drupal-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "069799cf4349a4f4ed9add466d5a29d0c43a21dd"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2023-04-27T12:54:23+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
