@@ -75,7 +75,6 @@
                 },
                 "time": "2023-04-27T13:41:33+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Creates a sitemap for each domain"
             }
         ]
