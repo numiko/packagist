@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-personas.git",
-                    "reference": "6486b09e20e6d7934de29deb539774daec154089"
+                    "reference": "32d182e0589555f50b7c7ef02dcf4255235dd636"
                 },
-                "time": "2022-10-20T08:49:06+00:00",
+                "time": "2023-05-01T21:07:22+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
