@@ -25841,6 +25841,26 @@
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
             },
+            "2.0.2": {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "cffa2065dc161491f8c4d859d72770401a118606"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.0.2-94fb0d.tar",
+                    "reference": "cffa2065dc161491f8c4d859d72770401a118606",
+                    "shasum": "9dfef18f0049c03e72bde767c3e92b116b0deefc"
+                },
+                "time": "2023-05-02T13:33:38+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
+            },
             "dev-feature/drupal-10": {
                 "name": "numiko/domain_simple_sitemap",
                 "version": "dev-feature/drupal-10",
@@ -25848,9 +25868,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
-                    "reference": "70534886d19f8f40fbe2c5b81b7f8e4635a13d88"
+                    "reference": "cffa2065dc161491f8c4d859d72770401a118606"
                 },
-                "time": "2023-04-27T13:41:33+00:00",
+                "time": "2023-05-02T13:33:38+00:00",
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
             },
@@ -52565,7 +52585,6 @@
                 },
                 "time": "2023-05-01T21:07:22+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             },
             "dev-master": {

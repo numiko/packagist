@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
-                    "reference": "70534886d19f8f40fbe2c5b81b7f8e4635a13d88"
+                    "reference": "cffa2065dc161491f8c4d859d72770401a118606"
                 },
-                "time": "2023-04-27T13:41:33+00:00",
+                "time": "2023-05-02T13:33:38+00:00",
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
             },

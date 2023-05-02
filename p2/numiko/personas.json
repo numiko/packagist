@@ -151,7 +151,6 @@
                 },
                 "time": "2023-05-01T21:07:22+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             }
         ]
