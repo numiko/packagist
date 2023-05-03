@@ -25877,7 +25877,6 @@
                 },
                 "time": "2023-05-03T14:21:09+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Creates a sitemap for each domain"
             },
             "2.1.0": {
@@ -25897,7 +25896,6 @@
                 },
                 "time": "2023-05-03T17:32:55+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Creates a sitemap for each domain"
             },
             "dev-master": {
@@ -53406,7 +53404,6 @@
                 },
                 "time": "2023-05-03T17:30:55+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
