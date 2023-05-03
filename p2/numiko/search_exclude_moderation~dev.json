@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
-                    "reference": "bb39ad47c47a79d427e48c8e944c1274d68b88ea"
+                    "reference": "c1ff289d49d7eb5755a791340de448f69ea9d532"
                 },
-                "time": "2023-02-15T11:24:50+00:00",
+                "time": "2023-05-03T17:30:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

@@ -3,27 +3,14 @@
         "numiko/domain_simple_sitemap": [
             {
                 "name": "numiko/domain_simple_sitemap",
-                "version": "dev-feature/drupal-10",
-                "version_normalized": "dev-feature/drupal-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
-                    "reference": "cffa2065dc161491f8c4d859d72770401a118606"
-                },
-                "time": "2023-05-02T13:33:38+00:00",
-                "type": "drupal-module",
-                "description": "Creates a sitemap for each domain"
-            },
-            {
-                "name": "numiko/domain_simple_sitemap",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
-                    "reference": "f695c5cae8a34c14e055ed259d522132985a4690"
+                    "reference": "638e7f5f965b10e1d0ce938836983bf1ebc83249"
                 },
-                "time": "2023-03-02T15:06:31+00:00",
+                "time": "2023-05-03T17:32:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"

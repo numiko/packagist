@@ -95,6 +95,46 @@
                 "time": "2023-05-02T13:33:38+00:00",
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
+            },
+            {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "5d923b4849036fe04d2ece22ceafd45cae31f0e7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.0.3-4c2ce1.tar",
+                    "reference": "5d923b4849036fe04d2ece22ceafd45cae31f0e7",
+                    "shasum": "582859e817f925a0eccf89c29035c72fd289e498"
+                },
+                "time": "2023-05-03T14:21:09+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
+            },
+            {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "638e7f5f965b10e1d0ce938836983bf1ebc83249"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.1.0-3203b1.tar",
+                    "reference": "638e7f5f965b10e1d0ce938836983bf1ebc83249",
+                    "shasum": "582859e817f925a0eccf89c29035c72fd289e498"
+                },
+                "time": "2023-05-03T17:32:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
             }
         ]
     }
