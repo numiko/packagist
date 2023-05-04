@@ -25898,6 +25898,26 @@
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
             },
+            "2.1.1": {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "181f248881b8a7277a1a55ed62f2a1a324c2118a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_simple_sitemap/numiko-domain_simple_sitemap-2.1.1-438d06.tar",
+                    "reference": "181f248881b8a7277a1a55ed62f2a1a324c2118a",
+                    "shasum": "4ebebe6496570b6d49ab3de4ff8d35f390131be8"
+                },
+                "time": "2023-05-04T07:55:57+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Creates a sitemap for each domain"
+            },
             "dev-master": {
                 "name": "numiko/domain_simple_sitemap",
                 "version": "dev-master",
@@ -25905,9 +25925,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
-                    "reference": "638e7f5f965b10e1d0ce938836983bf1ebc83249"
+                    "reference": "181f248881b8a7277a1a55ed62f2a1a324c2118a"
                 },
-                "time": "2023-05-03T17:32:55+00:00",
+                "time": "2023-05-04T07:55:57+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
