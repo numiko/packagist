@@ -50585,7 +50585,6 @@
                 },
                 "time": "2023-05-10T13:26:19+00:00",
                 "type": "drupal-theme",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
