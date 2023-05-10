@@ -75,6 +75,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/numidemo",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "2289b15f18ff578d8477c0c77948f9a1d19d1307"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numidemo/numiko-numidemo-2.0.0-beta1-45f821.tar",
+                    "reference": "2289b15f18ff578d8477c0c77948f9a1d19d1307",
+                    "shasum": "bb4f04491738dc77f2c775ac17fb2e4e39be1dc7"
+                },
+                "time": "2023-05-10T13:26:19+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

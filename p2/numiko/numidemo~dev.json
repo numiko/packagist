@@ -3,6 +3,25 @@
         "numiko/numidemo": [
             {
                 "name": "numiko/numidemo",
+                "version": "dev-feature/stable9",
+                "version_normalized": "dev-feature/stable9",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numidemo.git",
+                    "reference": "2289b15f18ff578d8477c0c77948f9a1d19d1307"
+                },
+                "time": "2023-05-10T13:26:19+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The numiko demo theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numidemo",
                 "version": "dev-feature/status",
                 "version_normalized": "dev-feature/status",
                 "source": {
