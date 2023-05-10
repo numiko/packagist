@@ -903,7 +903,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "e194dbdea3c9dbe4b20e52c321ba5dbd4e68cb2b"
+                    "reference": "e36f5f1d63728a666fb90de9d989d2385ae36c4a"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -971,7 +971,7 @@
                     "drupal/webform": "^6.2@beta",
                     "drush/drush": "^11.0",
                     "numiko/csp_per_page": "*",
-                    "numiko/d9-profile": "^1.7.0",
+                    "numiko/d9-profile": "^2.0.0",
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^3.2",
@@ -1002,7 +1002,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2023-05-10T13:11:52+00:00",
+                "time": "2023-05-10T13:18:05+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
