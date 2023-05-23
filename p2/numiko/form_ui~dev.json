@@ -41,6 +41,25 @@
             },
             {
                 "name": "numiko/form_ui",
+                "version": "dev-feature/media_lib_tweaks",
+                "version_normalized": "dev-feature/media_lib_tweaks",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "4865c540ca52f3ee6c8fbc841ec5eb44c8ff3d54"
+                },
+                "time": "2023-05-23T10:39:14+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/form_ui",
                 "version": "dev-release/2.x",
                 "version_normalized": "dev-release/2.x",
                 "source": {
