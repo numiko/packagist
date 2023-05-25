@@ -59033,6 +59033,54 @@
                 ]
             }
         },
+        "numiko/view_sort_title_length": {
+            "1.0.0": {
+                "name": "numiko/view_sort_title_length",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
+                    "reference": "ceaf4c9fdca5d1b0337f3d8782cd2330dac635f3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_sort_title_length/numiko-view_sort_title_length-1.0.0-b5a609.tar",
+                    "reference": "ceaf4c9fdca5d1b0337f3d8782cd2330dac635f3",
+                    "shasum": "8af3e0bb9729e72bc3321f71e7a41490bc42be77"
+                },
+                "time": "2023-05-25T14:45:34+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a view sort plugin to order by title length",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-main": {
+                "name": "numiko/view_sort_title_length",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
+                    "reference": "ceaf4c9fdca5d1b0337f3d8782cd2330dac635f3"
+                },
+                "time": "2023-05-25T14:45:34+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a view sort plugin to order by title length",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        },
         "numiko/views-topup": {
             "1.0.0": {
                 "name": "numiko/views-topup",

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e5b4456128b181f7a0005fa0f73dacc3f1d19044.json": {
-            "sha1": "e5b4456128b181f7a0005fa0f73dacc3f1d19044"
+        "include/all$314f3d60aef6241d03114c13f636655728243363.json": {
+            "sha1": "314f3d60aef6241d03114c13f636655728243363"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -103,6 +103,7 @@
         "numiko/twig_vite_asset",
         "numiko/user_login_admin",
         "numiko/username_sanitize",
+        "numiko/view_sort_title_length",
         "numiko/views-topup",
         "numiko/views_helper",
         "numiko/views_string_length_sort",
