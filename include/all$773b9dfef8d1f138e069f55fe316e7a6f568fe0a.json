@@ -53448,6 +53448,35 @@
                     "Drupal"
                 ]
             },
+            "1.0.2": {
+                "name": "numiko/occurrence",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "5318c288500a1d46ecc2b8fd74ea97482c5d9c09"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.2-c78f2c.tar",
+                    "reference": "5318c288500a1d46ecc2b8fd74ea97482c5d9c09",
+                    "shasum": "aedba67881f8ddf1c3da97144a67b2eaabb7ae32"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-06-05T10:56:09+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/occurrence",
                 "version": "dev-master",
@@ -53455,12 +53484,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "b1a5ebd61ba3eefd3ce9511109820d107071b615"
+                    "reference": "5318c288500a1d46ecc2b8fd74ea97482c5d9c09"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2023-03-13T15:05:04+00:00",
+                "time": "2023-06-05T10:56:09+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
