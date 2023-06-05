@@ -48597,6 +48597,32 @@
                     "Drupal"
                 ]
             },
+            "1.2.0": {
+                "name": "numiko/media_gallery",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "134690db6cf284bd8a35233a8848874c5d0745c6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_gallery/numiko-media_gallery-1.2.0-22809a.tar",
+                    "reference": "134690db6cf284bd8a35233a8848874c5d0745c6",
+                    "shasum": "f42081d9ac76830d6f125fcb1de1b7d859918c2c"
+                },
+                "time": "2023-06-05T13:43:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/media-gallery-view-modes": {
                 "name": "numiko/media_gallery",
                 "version": "dev-feature/media-gallery-view-modes",
@@ -48607,6 +48633,25 @@
                     "reference": "8308b437c1d2b888385072a853308d8b9af79410"
                 },
                 "time": "2023-02-08T19:07:48+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/responsive-image-attributes": {
+                "name": "numiko/media_gallery",
+                "version": "dev-feature/responsive-image-attributes",
+                "version_normalized": "dev-feature/responsive-image-attributes",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "134690db6cf284bd8a35233a8848874c5d0745c6"
+                },
+                "time": "2023-06-05T13:43:08+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -53468,7 +53513,6 @@
                 },
                 "time": "2023-06-05T10:56:09+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -59079,6 +59123,51 @@
                     "shasum": "8af3e0bb9729e72bc3321f71e7a41490bc42be77"
                 },
                 "time": "2023-05-25T14:45:34+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a view sort plugin to order by title length",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.1.0-beta1": {
+                "name": "numiko/view_sort_title_length",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
+                    "reference": "30c58bac1477c8332dee0b54c6511ab8fdb88605"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_sort_title_length/numiko-view_sort_title_length-1.1.0-beta1-fec0c1.tar",
+                    "reference": "30c58bac1477c8332dee0b54c6511ab8fdb88605",
+                    "shasum": "a7950da8346d12ce4d021858903064aca238e6ee"
+                },
+                "time": "2023-06-05T13:55:46+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a view sort plugin to order by title length",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/ungrouped": {
+                "name": "numiko/view_sort_title_length",
+                "version": "dev-feature/ungrouped",
+                "version_normalized": "dev-feature/ungrouped",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
+                    "reference": "30c58bac1477c8332dee0b54c6511ab8fdb88605"
+                },
+                "time": "2023-06-05T13:55:46+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

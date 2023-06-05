@@ -22,6 +22,25 @@
             },
             {
                 "name": "numiko/media_gallery",
+                "version": "dev-feature/responsive-image-attributes",
+                "version_normalized": "dev-feature/responsive-image-attributes",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "134690db6cf284bd8a35233a8848874c5d0745c6"
+                },
+                "time": "2023-06-05T13:43:08+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_gallery",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
