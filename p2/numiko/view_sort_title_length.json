@@ -28,6 +28,32 @@
             },
             {
                 "name": "numiko/view_sort_title_length",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
+                    "reference": "bd6345b2facbb25f652a0456513da4df600f9155"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_sort_title_length/numiko-view_sort_title_length-1.1.0-0718fd.tar",
+                    "reference": "bd6345b2facbb25f652a0456513da4df600f9155",
+                    "shasum": "116e49b6250aa1d20386ac82153c8d9e3526307b"
+                },
+                "time": "2023-06-06T08:17:46+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a view sort plugin to order by title length",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/view_sort_title_length",
                 "version": "1.1.0-beta1",
                 "version_normalized": "1.1.0.0-beta1",
                 "source": {
