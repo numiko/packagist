@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "1c7c08ca3d32d67e42cb088bbde5bb6056a0c2b6"
+                    "reference": "7ef82045d975c066ac28224df86e0fc45f3ec2b9"
                 },
-                "time": "2023-06-07T15:51:11+00:00",
+                "time": "2023-06-07T21:39:09+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
