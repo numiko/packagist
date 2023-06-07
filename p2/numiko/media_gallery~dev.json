@@ -3,6 +3,25 @@
         "numiko/media_gallery": [
             {
                 "name": "numiko/media_gallery",
+                "version": "dev-feature/gallery-data-plugins",
+                "version_normalized": "dev-feature/gallery-data-plugins",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "1c7c08ca3d32d67e42cb088bbde5bb6056a0c2b6"
+                },
+                "time": "2023-06-07T15:51:11+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_gallery",
                 "version": "dev-feature/media-gallery-view-modes",
                 "version_normalized": "dev-feature/media-gallery-view-modes",
                 "source": {
@@ -22,33 +41,14 @@
             },
             {
                 "name": "numiko/media_gallery",
-                "version": "dev-feature/responsive-image-attributes",
-                "version_normalized": "dev-feature/responsive-image-attributes",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "134690db6cf284bd8a35233a8848874c5d0745c6"
-                },
-                "time": "2023-06-05T13:43:08+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Add additional data when a 'gallery' view mode is in use",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/media_gallery",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "2366f8b4c2688fb899a1f3690bb3c48b60ae26f8"
+                    "reference": "8eea44fee45965fb40387612c9c4f41e51d4f69c"
                 },
-                "time": "2023-02-09T09:01:42+00:00",
+                "time": "2023-06-07T15:47:32+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
