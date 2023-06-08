@@ -29,6 +29,32 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/api-additional-field-data",
+                "version_normalized": "dev-feature/api-additional-field-data",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "e82ac8f6d7fed134f7c955f43cd38ea8f02a5d58"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-06-08T18:45:22+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/api-query",
                 "version_normalized": "dev-feature/api-query",
                 "source": {
