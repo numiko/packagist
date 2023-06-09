@@ -48500,32 +48500,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/api-additional-field-data": {
-                "name": "numiko/listings_filter",
-                "version": "dev-feature/api-additional-field-data",
-                "version_normalized": "dev-feature/api-additional-field-data",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "4eef470204b1ecaa3b12ee737b0f61b174262564"
-                },
-                "require": {
-                    "drupal/core": "^9.4 || ^10.0",
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24",
-                    "webmozart/path-util": "^2.1.0"
-                },
-                "time": "2023-06-09T08:48:52+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-feature/api-query": {
                 "name": "numiko/listings_filter",
                 "version": "dev-feature/api-query",
@@ -48533,7 +48507,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "3a4c542d6fb14e70aa96ef7173d54cae5c0b193b"
+                    "reference": "1901cdf64fd4d3980a1fa8a3b311e4544c541706"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -48542,7 +48516,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-04-16T21:22:02+00:00",
+                "time": "2023-06-09T15:16:21+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -48744,7 +48718,6 @@
                 },
                 "time": "2023-06-09T14:13:18+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
