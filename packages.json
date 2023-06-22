@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0ffb4718cdf3290becfabb03c797f75dfc177611.json": {
-            "sha1": "0ffb4718cdf3290becfabb03c797f75dfc177611"
+        "include/all$1b4f9670fea33a191f2c2891260bc17ec371775a.json": {
+            "sha1": "1b4f9670fea33a191f2c2891260bc17ec371775a"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -34,6 +34,7 @@
         "numiko/enforceuserlogincsrf",
         "numiko/entity-reference-revisions-context",
         "numiko/entity_embed_ckeditor",
+        "numiko/entity_jobs",
         "numiko/entity_reference_view_display",
         "numiko/facets_all_links",
         "numiko/facets_attachment",
