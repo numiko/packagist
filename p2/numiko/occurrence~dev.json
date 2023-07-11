@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "0787758222bfee9bb1bdfede7ce67cdc874e291a"
+                    "reference": "d8915635c97f213f8f96e14453d169de72da910a"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2023-07-10T14:50:16+00:00",
+                "time": "2023-07-11T11:54:16+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
