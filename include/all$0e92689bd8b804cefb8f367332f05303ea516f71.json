@@ -54938,6 +54938,36 @@
                     "issues": "https://www.drupal.org/project/issues/search_api_exclude"
                 }
             },
+            "2.0.1": {
+                "name": "numiko/search_api_exclude",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-api-exclude.git",
+                    "reference": "81a322336f9d322023770dc352b139769d7f3778"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_api_exclude/numiko-search_api_exclude-2.0.1-6d5e09.tar",
+                    "reference": "81a322336f9d322023770dc352b139769d7f3778",
+                    "shasum": "2e0e7c880e0a35d874a4322892415fc8b18dd66b"
+                },
+                "time": "2023-07-17T10:48:26+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Search API Exclude module allows users to prevent certain nodes from being indexed.",
+                "homepage": "https://www.drupal.org/project/search_api_exclude",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/search_api_exclude"
+                }
+            },
             "dev-master": {
                 "name": "numiko/search_api_exclude",
                 "version": "dev-master",
@@ -54945,9 +54975,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/search-api-exclude.git",
-                    "reference": "afc898ea830873110b0f48d9ac8b94444c6ac28c"
+                    "reference": "81a322336f9d322023770dc352b139769d7f3778"
                 },
-                "time": "2019-11-21T13:32:23+00:00",
+                "time": "2023-07-17T10:48:26+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -58398,7 +58428,6 @@
                 },
                 "time": "2023-07-17T10:36:36+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -59472,7 +59501,6 @@
                 },
                 "time": "2023-07-17T10:44:39+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

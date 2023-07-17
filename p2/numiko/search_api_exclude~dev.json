@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/search-api-exclude.git",
-                    "reference": "afc898ea830873110b0f48d9ac8b94444c6ac28c"
+                    "reference": "81a322336f9d322023770dc352b139769d7f3778"
                 },
-                "time": "2019-11-21T13:32:23+00:00",
+                "time": "2023-07-17T10:48:26+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
