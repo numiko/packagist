@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/username_sanitize",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "16d37b43fa3a34ff1183796bb3b32f3b86c4a934"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/username_sanitize/numiko-username_sanitize-1.0.1-200b14.tar",
+                    "reference": "16d37b43fa3a34ff1183796bb3b32f3b86c4a934",
+                    "shasum": "42cfebe292e4a11a692fd574f914df79f082024d"
+                },
+                "time": "2023-07-17T10:44:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

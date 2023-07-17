@@ -58381,6 +58381,32 @@
                     "Drupal"
                 ]
             },
+            "2.0.1": {
+                "name": "numiko/taxonomy_slice",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "3de6bb28da3c5701f22230926c2acfb58eefc4b9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-2.0.1-81fabf.tar",
+                    "reference": "3de6bb28da3c5701f22230926c2acfb58eefc4b9",
+                    "shasum": "fe087f0354a272c32ead776c3e1b0f78fe7222b1"
+                },
+                "time": "2023-07-17T10:36:36+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/optional-columns": {
                 "name": "numiko/taxonomy_slice",
                 "version": "dev-feature/optional-columns",
@@ -58407,9 +58433,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/taxonomy-slice",
-                    "reference": "ddbacd6e044f366f8cb428e41d795cec4c91fdf0"
+                    "reference": "3de6bb28da3c5701f22230926c2acfb58eefc4b9"
                 },
-                "time": "2021-07-29T16:01:31+00:00",
+                "time": "2023-07-17T10:36:36+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -59429,6 +59455,32 @@
                     "Drupal"
                 ]
             },
+            "1.0.1": {
+                "name": "numiko/username_sanitize",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "16d37b43fa3a34ff1183796bb3b32f3b86c4a934"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/username_sanitize/numiko-username_sanitize-1.0.1-200b14.tar",
+                    "reference": "16d37b43fa3a34ff1183796bb3b32f3b86c4a934",
+                    "shasum": "42cfebe292e4a11a692fd574f914df79f082024d"
+                },
+                "time": "2023-07-17T10:44:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/username_sanitize",
                 "version": "dev-master",
@@ -59436,9 +59488,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/username-sanitize.git",
-                    "reference": "686f872b49be363be295bb54f467961a0c11dddd"
+                    "reference": "16d37b43fa3a34ff1183796bb3b32f3b86c4a934"
                 },
-                "time": "2023-03-07T14:21:03+00:00",
+                "time": "2023-07-17T10:44:39+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
