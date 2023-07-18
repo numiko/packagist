@@ -61,6 +61,25 @@
             },
             {
                 "name": "numiko/descendants_menu_block",
+                "version": "dev-8.x-4.x",
+                "version_normalized": "dev-8.x-4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "a7f99721b14b443cc5197f91c65d8b22dc3add7d"
+                },
+                "time": "2023-07-18T09:03:43+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/descendants_menu_block",
                 "version": "dev-feature/active-trail-root",
                 "version_normalized": "dev-feature/active-trail-root",
                 "source": {
