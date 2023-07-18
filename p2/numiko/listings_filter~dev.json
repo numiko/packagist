@@ -81,6 +81,32 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/bundle",
+                "version_normalized": "dev-feature/bundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "c3b866b921081d137869b230020ba4d7833453b5"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-07-18T14:38:23+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
