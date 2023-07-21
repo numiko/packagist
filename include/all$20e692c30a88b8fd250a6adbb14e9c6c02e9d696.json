@@ -48632,7 +48632,6 @@
                 },
                 "time": "2023-07-21T09:26:42+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -48729,7 +48728,6 @@
                 },
                 "time": "2023-07-21T09:11:36+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -48809,6 +48807,32 @@
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-task/add-keyword-required-property": {
+                "name": "numiko/listings_filter",
+                "version": "dev-task/add-keyword-required-property",
+                "version_normalized": "dev-task/add-keyword-required-property",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "6e46123c7b407551e50471dad0d8a1af0aaa7f57"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-07-21T15:55:52+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
                 ],
                 "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
                 "keywords": [
