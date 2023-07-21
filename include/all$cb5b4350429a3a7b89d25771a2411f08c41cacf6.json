@@ -48608,6 +48608,39 @@
                     "Drupal"
                 ]
             },
+            "3.2.0": {
+                "name": "numiko/listings_filter",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8f79b0f6a6c78bab5c95afbd2dc3816dfa915eb7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-3.2.0-5daa42.tar",
+                    "reference": "8f79b0f6a6c78bab5c95afbd2dc3816dfa915eb7",
+                    "shasum": "0fddf3f3a00d1ea572384b59aa6f9d75e608af69"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-07-21T09:26:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "3.2.0-beta1": {
                 "name": "numiko/listings_filter",
                 "version": "3.2.0-beta1",
@@ -48672,14 +48705,20 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/api": {
+            "3.2.0-beta3": {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/api",
-                "version_normalized": "dev-feature/api",
+                "version": "3.2.0-beta3",
+                "version_normalized": "3.2.0.0-beta3",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "8c2893f6a06b919605744e1c5534e0297a292c34"
+                    "reference": "8a51e58c75eccb7394bd05f46ad2eeb384eb2faf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-3.2.0-beta3-c48a4e.tar",
+                    "reference": "8a51e58c75eccb7394bd05f46ad2eeb384eb2faf",
+                    "shasum": "641d45e1fd3e04a4901ae715c815aaf8e14acf8f"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -48688,8 +48727,9 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-03-14T15:24:26+00:00",
+                "time": "2023-07-21T09:11:36+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -48698,14 +48738,14 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/api-query": {
+            "dev-feature/api": {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/api-query",
-                "version_normalized": "dev-feature/api-query",
+                "version": "dev-feature/api",
+                "version_normalized": "dev-feature/api",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "5d74d4d83f99987e596b68ba9a3e2d609b4590f1"
+                    "reference": "8f79b0f6a6c78bab5c95afbd2dc3816dfa915eb7"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -48714,7 +48754,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-06-13T09:51:56+00:00",
+                "time": "2023-07-21T09:26:42+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -48741,32 +48781,6 @@
                     "webmozart/path-util": "^2.1.0"
                 },
                 "time": "2022-11-10T15:08:53+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/bundle": {
-                "name": "numiko/listings_filter",
-                "version": "dev-feature/bundle",
-                "version_normalized": "dev-feature/bundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "cb47523ef3f8ab2b6afcdf5433f754e8d171dad7"
-                },
-                "require": {
-                    "drupal/core": "^9.4 || ^10.0",
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24",
-                    "webmozart/path-util": "^2.1.0"
-                },
-                "time": "2023-07-20T13:47:51+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
