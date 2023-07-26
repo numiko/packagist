@@ -59882,6 +59882,31 @@
                 },
                 "time": "2023-07-26T14:15:26+00:00",
                 "type": "drupal-module",
+                "description": "Adds the functionality to create an extra view mode.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.0.2": {
+                "name": "numiko/view_mode_switcher",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_mode_switcher/numiko-view_mode_switcher-1.0.2-2512f1.tar",
+                    "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa",
+                    "shasum": "fd181fbd9ffcf26ec70877bf19a60d696c6f96a9"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2023-07-26T14:58:51+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "description": "Adds the functionality to create an extra view mode.",
                 "keywords": [
@@ -59895,12 +59920,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
-                    "reference": "f4b301b79c5a35dfe2e6e5887d85e0f0a0fe5aac"
+                    "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2023-07-26T14:15:26+00:00",
+                "time": "2023-07-26T14:58:51+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Adds the functionality to create an extra view mode.",
