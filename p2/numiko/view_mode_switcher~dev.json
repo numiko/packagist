@@ -7,7 +7,7 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
                 },
                 "require": {

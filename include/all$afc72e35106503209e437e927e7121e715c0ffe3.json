@@ -58399,6 +58399,32 @@
                     "Drupal"
                 ]
             },
+            "1.0.3": {
+                "name": "numiko/social_share_block",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/social_share_block/numiko-social_share_block-1.0.3-2c645c.tar",
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f",
+                    "shasum": "8112eb0c56dc7dfb402e4cac3d9b2b85f4888bc0"
+                },
+                "time": "2023-08-04T11:47:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/social_share_block",
                 "version": "dev-master",
@@ -58406,9 +58432,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/social-share-block.git",
-                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f"
                 },
-                "time": "2021-07-12T07:08:10+00:00",
+                "time": "2023-08-04T11:47:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -59887,7 +59913,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "f4b301b79c5a35dfe2e6e5887d85e0f0a0fe5aac"
                 },
                 "dist": {
@@ -59912,7 +59938,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
                 },
                 "dist": {
@@ -59937,7 +59963,7 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
                 },
                 "require": {

@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "f4b301b79c5a35dfe2e6e5887d85e0f0a0fe5aac"
                 },
                 "dist": {
@@ -32,7 +32,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/view_mode_switcher.git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
                     "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
                 },
                 "dist": {

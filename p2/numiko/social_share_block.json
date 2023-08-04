@@ -50,6 +50,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/social_share_block",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/social-share-block.git",
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/social_share_block/numiko-social_share_block-1.0.3-2c645c.tar",
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f",
+                    "shasum": "8112eb0c56dc7dfb402e4cac3d9b2b85f4888bc0"
+                },
+                "time": "2023-08-04T11:47:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Social share links within in a block",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/social-share-block.git",
-                    "reference": "ef04d488de303d351933a941ab8dab6dceff7e81"
+                    "reference": "6af84630961d8c216eb56282398c8e96b8fe3b5f"
                 },
-                "time": "2021-07-12T07:08:10+00:00",
+                "time": "2023-08-04T11:47:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
