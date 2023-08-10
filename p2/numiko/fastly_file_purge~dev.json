@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/fastly-file-purge.git",
-                    "reference": "054396a4822bf94c06ba82799debc4a022a565b8"
+                    "reference": "b3018b70824a214d9e49f788a0c4d6ce5f231242"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2022-08-05T08:44:21+00:00",
+                "time": "2023-08-10T07:59:13+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Purge Fastly file urls when file is replaced or deleted.",
