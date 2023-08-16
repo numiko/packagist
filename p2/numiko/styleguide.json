@@ -93,7 +93,6 @@
                 },
                 "time": "2023-08-16T11:15:41+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "keywords": [
                     "Drupal"
                 ]
