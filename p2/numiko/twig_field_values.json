@@ -96,7 +96,6 @@
                 },
                 "time": "2023-08-23T12:13:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
