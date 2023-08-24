@@ -104,6 +104,32 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-task/add-exclude-field-logic",
+                "version_normalized": "dev-task/add-exclude-field-logic",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8f79b0f6a6c78bab5c95afbd2dc3816dfa915eb7"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-07-21T09:26:42+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-task/add-keyword-required-property",
                 "version_normalized": "dev-task/add-keyword-required-property",
                 "source": {
