@@ -39,6 +39,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/media_responsive_thumbnail",
+                "version": "dev-release/3.0",
+                "version_normalized": "dev-release/3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-responsive-thumbnail.git",
+                    "reference": "f243a1136751af5b4920ba7081e50df3c9226ddc"
+                },
+                "time": "2023-09-06T14:50:41+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Media Responsive Thumbnail",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
