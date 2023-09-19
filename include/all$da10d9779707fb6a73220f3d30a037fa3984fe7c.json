@@ -25770,6 +25770,37 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "8.3.0": {
+                "name": "numiko/domain_redirect",
+                "version": "8.3.0",
+                "version_normalized": "8.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "1db7a3b27b44655c061d029b3974412ccd509f0b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.3.0-46f567.tar",
+                    "reference": "1db7a3b27b44655c061d029b3974412ccd509f0b",
+                    "shasum": "0b78590c0b1aedc7b37a39f44acf31fd668327e0"
+                },
+                "time": "2023-09-19T19:09:28+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-8.1.3-beta": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-8.1.3-beta",
@@ -25849,9 +25880,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "5cac34f888406c527ae8ee2c5de1e0edaa6bf154"
+                    "reference": "1db7a3b27b44655c061d029b3974412ccd509f0b"
                 },
-                "time": "2022-11-14T10:45:07+00:00",
+                "time": "2023-09-19T19:09:28+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
