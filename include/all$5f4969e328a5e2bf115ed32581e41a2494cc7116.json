@@ -54567,6 +54567,35 @@
                     "Drupal"
                 ]
             },
+            "1.0.6": {
+                "name": "numiko/occurrence",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "f6b6f329a7796388f7bba512c98e30b108b591b8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/occurrence/numiko-occurrence-1.0.6-e6efda.tar",
+                    "reference": "f6b6f329a7796388f7bba512c98e30b108b591b8",
+                    "shasum": "07c9e52924403b22696736e3452140a2d5bcef79"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2023-09-22T09:23:19+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/invalidate-cache": {
                 "name": "numiko/occurrence",
                 "version": "dev-feature/invalidate-cache",
@@ -54596,12 +54625,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "13d3c33f9b3be4a80303a0acc56b192cfce7054a"
+                    "reference": "f6b6f329a7796388f7bba512c98e30b108b591b8"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2023-07-18T09:28:28+00:00",
+                "time": "2023-09-22T09:23:19+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
