@@ -100,6 +100,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/search_exclude_moderation",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "4d8f716bc7a94bd31d5475a54ac1d4e96bef7aba"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/search_exclude_moderation/numiko-search_exclude_moderation-1.1.1-c2a6f6.tar",
+                    "reference": "4d8f716bc7a94bd31d5475a54ac1d4e96bef7aba",
+                    "shasum": "e6204c9ed802bd245838b611198e75378f8c1b69"
+                },
+                "time": "2023-09-26T14:10:11+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
