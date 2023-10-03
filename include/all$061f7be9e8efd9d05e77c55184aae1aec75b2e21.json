@@ -51913,6 +51913,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/single-directory-components": {
+                "name": "numiko/numibase",
+                "version": "dev-feature/single-directory-components",
+                "version_normalized": "dev-feature/single-directory-components",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "124bbe1fc9a207f04c0d38ae7dfc66107bb90b53"
+                },
+                "time": "2023-10-03T12:44:38+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/stable9": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/stable9",
