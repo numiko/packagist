@@ -1024,6 +1024,33 @@
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
             },
+            "3.0.0": {
+                "name": "numiko/adestra",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "4c4b42d183d074278fa1967e42b772e93e4ec69a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/adestra/numiko-adestra-3.0.0-d99a07.tar",
+                    "reference": "4c4b42d183d074278fa1967e42b772e93e4ec69a",
+                    "shasum": "822ded02210c131cb67e750a043e25f0e04a5923"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.5.2"
+                },
+                "time": "2023-10-05T14:55:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            },
             "dev-master": {
                 "name": "numiko/adestra",
                 "version": "dev-master",
@@ -49382,6 +49409,32 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/use-facet-conditions": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/use-facet-conditions",
+                "version_normalized": "dev-feature/use-facet-conditions",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "7de119b8b136054f6555680130dfe6441e2bb7da"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-10-05T15:02:30+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/listings_filter",
                 "version": "dev-master",
@@ -49425,6 +49478,32 @@
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/4.0.0": {
+                "name": "numiko/listings_filter",
+                "version": "dev-release/4.0.0",
+                "version_normalized": "dev-release/4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8f79b0f6a6c78bab5c95afbd2dc3816dfa915eb7"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-07-21T09:26:42+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
                 ],
                 "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
                 "keywords": [
