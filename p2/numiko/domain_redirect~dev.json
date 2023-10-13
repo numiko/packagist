@@ -80,9 +80,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "55091b80d7ba958c64127f35b8562e6beb183979"
+                    "reference": "4390dce852ed302f17e9a9c4d84be67c15091266"
                 },
-                "time": "2023-10-11T16:08:01+00:00",
+                "time": "2023-10-13T11:02:59+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

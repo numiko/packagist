@@ -25923,6 +25923,37 @@
                     "source": "http://cgit.drupalcode.org/domain_redirect"
                 }
             },
+            "8.3.1-beta1": {
+                "name": "numiko/domain_redirect",
+                "version": "8.3.1-beta1",
+                "version_normalized": "8.3.1.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
+                    "reference": "4390dce852ed302f17e9a9c4d84be67c15091266"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.3.1-beta1-f12833.tar",
+                    "reference": "4390dce852ed302f17e9a9c4d84be67c15091266",
+                    "shasum": "8e0353474ed18302be8645eabe91609d31502809"
+                },
+                "time": "2023-10-13T11:02:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Domain-aware redirects",
+                "homepage": "https://www.drupal.org/project/domain_redirect",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
+                    "source": "http://cgit.drupalcode.org/domain_redirect"
+                }
+            },
             "dev-8.1.3-beta": {
                 "name": "numiko/domain_redirect",
                 "version": "dev-8.1.3-beta",
@@ -26002,9 +26033,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "55091b80d7ba958c64127f35b8562e6beb183979"
+                    "reference": "4390dce852ed302f17e9a9c4d84be67c15091266"
                 },
-                "time": "2023-10-11T16:08:01+00:00",
+                "time": "2023-10-13T11:02:59+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -46111,7 +46142,6 @@
                 },
                 "time": "2023-10-13T08:59:23+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
