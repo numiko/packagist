@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/paragraphs_parent_revision_access",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
+                    "reference": "98a6744a56ffea5aa789d9abd5baf5e738a46daa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_parent_revision_access/numiko-paragraphs_parent_revision_access-2.0.0-7bc1e9.tar",
+                    "reference": "98a6744a56ffea5aa789d9abd5baf5e738a46daa",
+                    "shasum": "e5a603835e7c4eb95c44d4b4004c4b8d8472e078"
+                },
+                "time": "2023-10-17T07:39:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access handler for paragraphs when working with Content Moderation",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

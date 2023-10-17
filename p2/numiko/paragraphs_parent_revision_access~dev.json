@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
-                    "reference": "8fea786a3751ffb074b048060f9c3cdbef881a72"
+                    "reference": "98a6744a56ffea5aa789d9abd5baf5e738a46daa"
                 },
-                "time": "2022-03-04T10:45:36+00:00",
+                "time": "2023-10-17T07:39:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
