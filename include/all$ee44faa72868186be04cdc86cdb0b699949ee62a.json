@@ -60669,6 +60669,31 @@
                 },
                 "time": "2023-10-25T14:34:45+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "2.0.3": {
+                "name": "numiko/twig_smart_split",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "3f157f9b9057c51b73b3f5a01951a228b3ca7e85"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_smart_split/numiko-twig_smart_split-2.0.3-068564.tar",
+                    "reference": "3f157f9b9057c51b73b3f5a01951a228b3ca7e85",
+                    "shasum": "497f467235d4dcba01fbbf377cf81da0b92d0d6c"
+                },
+                "time": "2023-10-25T14:48:59+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
