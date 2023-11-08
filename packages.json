@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$def7aea0074bcfd1e41191879468990a7ef45ac7.json": {
-            "sha1": "def7aea0074bcfd1e41191879468990a7ef45ac7"
+        "include/all$9d45ea1a900ad9720b172430b41d572ac28ec674.json": {
+            "sha1": "9d45ea1a900ad9720b172430b41d572ac28ec674"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -101,6 +101,7 @@
         "numiko/token_defaults",
         "numiko/token_entity_reference",
         "numiko/twig_field_values",
+        "numiko/twig_media",
         "numiko/twig_smart_split",
         "numiko/twig_vite_asset",
         "numiko/user_login_admin",
