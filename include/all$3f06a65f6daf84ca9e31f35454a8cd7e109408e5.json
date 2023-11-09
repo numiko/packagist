@@ -60595,6 +60595,32 @@
                 },
                 "time": "2023-11-09T10:38:31+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Media allows for the rendering of media images directly in template",
+                "homepage": "https://bitbucket.org/numiko/twig-media",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "1.1.0": {
+                "name": "numiko/twig_media",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-media.git",
+                    "reference": "3b887c8f3e1018c2f8e754d6e9e03992804dc073"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_media/numiko-twig_media-1.1.0-ab2f43.tar",
+                    "reference": "3b887c8f3e1018c2f8e754d6e9e03992804dc073",
+                    "shasum": "3436c12f0aa046e1a31e4a10832379490d1ad964"
+                },
+                "time": "2023-11-09T15:40:48+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
@@ -60612,9 +60638,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "af2f970d3cc450e4f7645b611d77eb2aafd944ae"
+                    "reference": "3b887c8f3e1018c2f8e754d6e9e03992804dc073"
                 },
-                "time": "2023-11-09T10:38:31+00:00",
+                "time": "2023-11-09T15:40:48+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

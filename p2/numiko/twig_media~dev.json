@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "af2f970d3cc450e4f7645b611d77eb2aafd944ae"
+                    "reference": "3b887c8f3e1018c2f8e754d6e9e03992804dc073"
                 },
-                "time": "2023-11-09T10:38:31+00:00",
+                "time": "2023-11-09T15:40:48+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
