@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$82ec2fb23ac85f833c1cabe61eb85c47b560571d.json": {
-            "sha1": "82ec2fb23ac85f833c1cabe61eb85c47b560571d"
+        "include/all$d3a3cb70da64bc4e17508cd3fff6dd798b189059.json": {
+            "sha1": "d3a3cb70da64bc4e17508cd3fff6dd798b189059"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -40,6 +40,7 @@
         "numiko/facets_attachment",
         "numiko/facets_default",
         "numiko/fastly_file_purge",
+        "numiko/feedback_form",
         "numiko/field_items_limit",
         "numiko/field_lock_multi_values",
         "numiko/file_size_display",
