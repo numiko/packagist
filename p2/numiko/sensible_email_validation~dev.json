@@ -62,12 +62,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "4b26867aa166ea4236f3681e30ddb904ef40dc93"
+                    "reference": "9a90bb3f09e0e88aa0be685960a5673ad7de8973"
                 },
                 "require": {
-                    "egulias/email-validator": "^3.0"
+                    "egulias/email-validator": "^4.0"
                 },
-                "time": "2022-09-06T13:53:25+00:00",
+                "time": "2023-11-17T14:19:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

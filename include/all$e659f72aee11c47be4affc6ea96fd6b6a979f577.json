@@ -56510,18 +56510,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "4b26867aa166ea4236f3681e30ddb904ef40dc93"
+                    "reference": "9a90bb3f09e0e88aa0be685960a5673ad7de8973"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/sensible_email_validation/numiko-sensible_email_validation-5.1.0-29013c.tar",
-                    "reference": "4b26867aa166ea4236f3681e30ddb904ef40dc93",
-                    "shasum": "90d6ec1e43d6639c1a2ea142994b8b6aa5c4bec2"
+                    "url": "https://numiko.github.io/packagist/dist/numiko/sensible_email_validation/numiko-sensible_email_validation-5.1.0-9b7c6d.tar",
+                    "reference": "9a90bb3f09e0e88aa0be685960a5673ad7de8973",
+                    "shasum": "a09719d27eceadcf84eac6289d19c4ffd7a133b6"
                 },
                 "require": {
-                    "egulias/email-validator": "^3.0"
+                    "egulias/email-validator": "^4.0"
                 },
-                "time": "2022-09-06T13:53:25+00:00",
+                "time": "2023-11-17T14:19:55+00:00",
                 "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
@@ -56796,12 +56796,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "4b26867aa166ea4236f3681e30ddb904ef40dc93"
+                    "reference": "9a90bb3f09e0e88aa0be685960a5673ad7de8973"
                 },
                 "require": {
-                    "egulias/email-validator": "^3.0"
+                    "egulias/email-validator": "^4.0"
                 },
-                "time": "2022-09-06T13:53:25+00:00",
+                "time": "2023-11-17T14:19:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
