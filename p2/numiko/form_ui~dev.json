@@ -41,33 +41,14 @@
             },
             {
                 "name": "numiko/form_ui",
-                "version": "dev-feature/sticky-secondary",
-                "version_normalized": "dev-feature/sticky-secondary",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "28ad768061a32018df4cf7bda85e684249401602"
-                },
-                "time": "2023-11-23T11:58:46+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/form_ui",
                 "version": "dev-release/2.x",
                 "version_normalized": "dev-release/2.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "f048165d9b84aeadf7846b0e975c2bf53914a5a2"
+                    "reference": "cb4a4b0f4fb1f7075033d964a1ce8af2615ae6dc"
                 },
-                "time": "2023-11-22T14:17:17+00:00",
+                "time": "2023-11-23T14:16:56+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
