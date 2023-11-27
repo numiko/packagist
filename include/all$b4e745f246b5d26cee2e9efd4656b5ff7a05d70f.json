@@ -46321,6 +46321,32 @@
                     "Drupal"
                 ]
             },
+            "2.5.0-beta1": {
+                "name": "numiko/form_ui",
+                "version": "2.5.0-beta1",
+                "version_normalized": "2.5.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "cdef4a19cb05559deea8dc4d7b56b2867530bcaa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/form_ui/numiko-form_ui-2.5.0-beta1-768283.tar",
+                    "reference": "cdef4a19cb05559deea8dc4d7b56b2867530bcaa",
+                    "shasum": "dd24b37669c1743757719b839ac0395877625c86"
+                },
+                "time": "2023-11-27T11:00:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -46975,6 +47001,25 @@
                     "reference": "f1a8e6cb78d0d8d29dc084e63363f538b3da4302"
                 },
                 "time": "2017-03-10T13:03:18+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-fix/tfa-password-reset": {
+                "name": "numiko/form_ui",
+                "version": "dev-fix/tfa-password-reset",
+                "version_normalized": "dev-fix/tfa-password-reset",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "cdef4a19cb05559deea8dc4d7b56b2867530bcaa"
+                },
+                "time": "2023-11-27T11:00:08+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
