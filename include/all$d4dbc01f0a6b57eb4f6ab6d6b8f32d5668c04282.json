@@ -61388,6 +61388,32 @@
                     "Drupal"
                 ]
             },
+            "1.0.3": {
+                "name": "numiko/view_mode_switcher",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
+                    "reference": "7388bc92335b124d7537e2661006a028d50c07e6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_mode_switcher/numiko-view_mode_switcher-1.0.3-2615c8.tar",
+                    "reference": "7388bc92335b124d7537e2661006a028d50c07e6",
+                    "shasum": "16adb25b3ab2ec04572653d0acd7c6bb0442326d"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2023-11-30T13:47:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Adds the functionality to create an extra view mode.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/view_mode_switcher",
                 "version": "dev-main",
@@ -61395,12 +61421,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
-                    "reference": "658fb47bdfbe526420431dc851ef84833fe3eaaa"
+                    "reference": "7388bc92335b124d7537e2661006a028d50c07e6"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2023-07-26T14:58:51+00:00",
+                "time": "2023-11-30T13:47:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Adds the functionality to create an extra view mode.",
