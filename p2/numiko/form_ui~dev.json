@@ -41,33 +41,14 @@
             },
             {
                 "name": "numiko/form_ui",
-                "version": "dev-fix/tfa-password-reset",
-                "version_normalized": "dev-fix/tfa-password-reset",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "cdef4a19cb05559deea8dc4d7b56b2867530bcaa"
-                },
-                "time": "2023-11-27T11:00:08+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/form_ui",
                 "version": "dev-release/2.x",
                 "version_normalized": "dev-release/2.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "f11bf6926497eb05a6203290294e4c40a4be6c03"
+                    "reference": "dd2e125edbd464a2a29736ca9fe9580b144a8a80"
                 },
-                "time": "2023-11-24T11:28:04+00:00",
+                "time": "2023-12-04T12:07:58+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
