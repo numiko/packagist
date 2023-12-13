@@ -49795,7 +49795,6 @@
                 },
                 "time": "2023-12-13T16:05:59+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -49863,7 +49862,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "faee135475848b90c67d80cd5e86e92e5da36896"
+                    "reference": "47339904898525d999c3f47ab38e2dca13ffe217"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -49872,7 +49871,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2023-12-13T16:05:59+00:00",
+                "time": "2023-12-13T17:02:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
