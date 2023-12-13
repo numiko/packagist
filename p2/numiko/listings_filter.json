@@ -1012,7 +1012,6 @@
                 },
                 "time": "2023-12-13T15:14:36+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -1044,6 +1043,38 @@
                     "webmozart/path-util": "^2.1.0"
                 },
                 "time": "2023-12-13T15:44:54+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
+                "version": "4.1.0-alpha3",
+                "version_normalized": "4.1.0.0-alpha3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "faee135475848b90c67d80cd5e86e92e5da36896"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-4.1.0-alpha3-b9b566.tar",
+                    "reference": "faee135475848b90c67d80cd5e86e92e5da36896",
+                    "shasum": "b133953766da5581e472409ce65c45935e64d9fe"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2023-12-13T16:05:59+00:00",
                 "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
