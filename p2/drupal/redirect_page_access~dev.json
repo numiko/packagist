@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "drupal/redirect_page_access": [
+            {
+                "name": "drupal/redirect_page_access",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-page-access.git",
+                    "reference": "8fb375f09e4ead6537d4a79e7e671b4ecac04439"
+                },
+                "time": "2023-12-14T09:14:59+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Redirect pages to an alternative page based on bundle or field value"
+            }
+        ]
+    }
+}

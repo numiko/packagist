@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$fed92d49bae861a1e77a79955b372bab5abde0ab.json": {
-            "sha1": "fed92d49bae861a1e77a79955b372bab5abde0ab"
+        "include/all$330ba34d66993629a0ac680965268f0fc3fd8169.json": {
+            "sha1": "330ba34d66993629a0ac680965268f0fc3fd8169"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
     "available-packages": [
         "drupal/node_boolean",
+        "drupal/redirect_page_access",
         "drupal/structured_data",
         "drupal/webform_ajax",
         "drupal/yamlform2text",
