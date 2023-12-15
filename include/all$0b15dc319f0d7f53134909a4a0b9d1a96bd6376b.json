@@ -57904,20 +57904,27 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/access-check": {
+            "2.3.0": {
                 "name": "numiko/site_alerts",
-                "version": "dev-feature/access-check",
-                "version_normalized": "dev-feature/access-check",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "ca46ec6784c668721715ad724e5e53a3ec4e2035"
+                    "reference": "f2ea54ba8485a354354659fa37aaeb8ce52747ff"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_alerts/numiko-site_alerts-2.3.0-b73ee6.tar",
+                    "reference": "f2ea54ba8485a354354659fa37aaeb8ce52747ff",
+                    "shasum": "c7343fe5984bc2889fcf76ad945c1783817d4f54"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2023-12-07T11:02:46+00:00",
+                "time": "2023-12-15T10:53:54+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
                 "keywords": [
                     "Drupal"
@@ -57987,12 +57994,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "d8b3fdb874f25f9f7ef9a8c3892d6e6ef8b6ec94"
+                    "reference": "f2ea54ba8485a354354659fa37aaeb8ce52747ff"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2023-01-03T09:16:11+00:00",
+                "time": "2023-12-15T10:53:54+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
