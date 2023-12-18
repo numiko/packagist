@@ -3,6 +3,22 @@
         "drupal/redirect_page_access": [
             {
                 "name": "drupal/redirect_page_access",
+                "version": "dev-IBET-125",
+                "version_normalized": "dev-IBET-125",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-page-access.git",
+                    "reference": "d172f78bfdfab316ba9835ab92b043586fec1522"
+                },
+                "time": "2023-12-18T14:32:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Redirect pages to an alternative page based on bundle or field value"
+            },
+            {
+                "name": "drupal/redirect_page_access",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
