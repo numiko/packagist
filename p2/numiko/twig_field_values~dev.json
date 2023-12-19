@@ -51,6 +51,26 @@
             },
             {
                 "name": "numiko/twig_field_values",
+                "version": "dev-IBET-126",
+                "version_normalized": "dev-IBET-126",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "4abb19c6423db5d9131a6d7ed1ac9db12db8fd81"
+                },
+                "time": "2023-12-19T12:14:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Field Values",
+                "homepage": "https://bitbucket.org/numiko/twig-field-extensions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/twig_field_values",
                 "version": "dev-feature/paragraphs",
                 "version_normalized": "dev-feature/paragraphs",
                 "source": {
