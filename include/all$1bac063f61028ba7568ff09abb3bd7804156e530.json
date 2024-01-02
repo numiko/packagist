@@ -48736,18 +48736,24 @@
                     "Drupal"
                 ]
             },
-            "dev-main": {
+            "1.0.1": {
                 "name": "numiko/linkit_field_formatter",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
-                    "reference": "cc35bb84c03ab197a8a2d1206b898fd500cb62d8"
+                    "reference": "572fd4a76f7a372742193d57af9f9911ca13420d"
                 },
-                "time": "2023-02-15T15:40:59+00:00",
-                "default-branch": true,
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/linkit_field_formatter/numiko-linkit_field_formatter-1.0.1-51e1d8.tar",
+                    "reference": "572fd4a76f7a372742193d57af9f9911ca13420d",
+                    "shasum": "4e43d6e2683f78948b81bd9fb25101e40674222f"
+                },
+                "time": "2024-01-02T09:17:54+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -48756,16 +48762,17 @@
                     "Drupal"
                 ]
             },
-            "dev-task/linkit-6.1-and-druapl10-compatibility": {
+            "dev-main": {
                 "name": "numiko/linkit_field_formatter",
-                "version": "dev-task/linkit-6.1-and-druapl10-compatibility",
-                "version_normalized": "dev-task/linkit-6.1-and-druapl10-compatibility",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
-                    "reference": "147576bc5802f2f54e8cfecb70bb1af645fc420a"
+                    "reference": "572fd4a76f7a372742193d57af9f9911ca13420d"
                 },
-                "time": "2023-11-28T09:08:49+00:00",
+                "time": "2024-01-02T09:17:54+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
