@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-page-access.git",
-                    "reference": "6d64d5dbb6a87a5794191db119a4ad8d5dc2ef20"
+                    "reference": "6521ef9e79ee7faed4b95de9cc8a8b3d8d1592b5"
                 },
-                "time": "2024-01-03T09:24:17+00:00",
+                "time": "2024-01-03T13:47:53+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
