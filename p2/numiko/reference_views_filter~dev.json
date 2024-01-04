@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/reference-views-filter.git",
-                    "reference": "e49f7dc3c997af1384eef9fbb1a21cf2a9d29ad7"
+                    "reference": "969c4a0b3b7e3bb85883e2cf5282ffcc4bcdf9f7"
                 },
-                "time": "2022-11-02T15:52:54+00:00",
+                "time": "2024-01-04T11:38:09+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

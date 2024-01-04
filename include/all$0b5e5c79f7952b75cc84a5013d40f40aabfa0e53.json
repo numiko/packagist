@@ -51295,7 +51295,6 @@
                 },
                 "time": "2024-01-04T11:25:15+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -56279,6 +56278,32 @@
                     "Drupal"
                 ]
             },
+            "2.0.2": {
+                "name": "numiko/reference_views_filter",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "969c4a0b3b7e3bb85883e2cf5282ffcc4bcdf9f7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reference_views_filter/numiko-reference_views_filter-2.0.2-f65d93.tar",
+                    "reference": "969c4a0b3b7e3bb85883e2cf5282ffcc4bcdf9f7",
+                    "shasum": "5ff27580e7e31b5886f87d40cc8f268327cf943e"
+                },
+                "time": "2024-01-04T11:38:09+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0-beta1": {
                 "name": "numiko/reference_views_filter",
                 "version": "8.1.0-beta1",
@@ -56330,9 +56355,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/reference-views-filter.git",
-                    "reference": "e49f7dc3c997af1384eef9fbb1a21cf2a9d29ad7"
+                    "reference": "969c4a0b3b7e3bb85883e2cf5282ffcc4bcdf9f7"
                 },
-                "time": "2022-11-02T15:52:54+00:00",
+                "time": "2024-01-04T11:38:09+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
