@@ -58,6 +58,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/media_video_preview",
+                "version": "dev-release/4.0",
+                "version_normalized": "dev-release/4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "39b26fad0650e90442dc3e4c01e13f10ce2286f5"
+                },
+                "time": "2024-01-04T11:25:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

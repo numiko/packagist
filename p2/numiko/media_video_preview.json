@@ -78,6 +78,32 @@
             },
             {
                 "name": "numiko/media_video_preview",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "39b26fad0650e90442dc3e4c01e13f10ce2286f5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_video_preview/numiko-media_video_preview-4.0.0-368de8.tar",
+                    "reference": "39b26fad0650e90442dc3e4c01e13f10ce2286f5",
+                    "shasum": "fd5601647764279ade35d12fd00a1dbc3b72af50"
+                },
+                "time": "2024-01-04T11:25:15+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_video_preview",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "source": {
