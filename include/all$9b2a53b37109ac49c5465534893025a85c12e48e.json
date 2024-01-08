@@ -50385,6 +50385,51 @@
                     "Drupal"
                 ]
             },
+            "1.4.0-beta1": {
+                "name": "numiko/media_gallery",
+                "version": "1.4.0-beta1",
+                "version_normalized": "1.4.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "bd2e8534f040131b36bcdae15faf1f7d68b34016"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_gallery/numiko-media_gallery-1.4.0-beta1-0775a3.tar",
+                    "reference": "bd2e8534f040131b36bcdae15faf1f7d68b34016",
+                    "shasum": "9b63b66aa128feb43f96455072b0bb0be0f71939"
+                },
+                "time": "2024-01-08T11:43:30+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/image-styles-select-options": {
+                "name": "numiko/media_gallery",
+                "version": "dev-feature/image-styles-select-options",
+                "version_normalized": "dev-feature/image-styles-select-options",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "bd2e8534f040131b36bcdae15faf1f7d68b34016"
+                },
+                "time": "2024-01-08T11:43:30+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/media-gallery-view-modes": {
                 "name": "numiko/media_gallery",
                 "version": "dev-feature/media-gallery-view-modes",
