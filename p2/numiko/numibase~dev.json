@@ -98,14 +98,14 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-feature/sdc-menu-wip",
-                "version_normalized": "dev-feature/sdc-menu-wip",
+                "version": "dev-feature/sdc-menus",
+                "version_normalized": "dev-feature/sdc-menus",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f9c48e4c575748b0fccf85f04b7b846f3f8012c4"
+                    "reference": "e2fede5f4521fba8335f3d69be67c4afbc51833f"
                 },
-                "time": "2023-11-23T16:19:05+00:00",
+                "time": "2024-01-17T17:39:55+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -122,9 +122,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2efb22af26051de458ab385b50e912350be17bd2"
+                    "reference": "5e735d4d70f918388c08b6ad525bf3dd6b325819"
                 },
-                "time": "2023-11-14T11:42:19+00:00",
+                "time": "2024-01-17T14:33:00+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
