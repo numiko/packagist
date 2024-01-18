@@ -52837,25 +52837,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/sdc-from-repo": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/sdc-from-repo",
-                "version_normalized": "dev-feature/sdc-from-repo",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2e500b3517b13277262e7625bdf9f1a9081ec9a0"
-                },
-                "time": "2023-11-13T15:55:52+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-feature/sdc-menus": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/sdc-menus",
