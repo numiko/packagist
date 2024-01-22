@@ -49985,7 +49985,6 @@
                 },
                 "time": "2024-01-22T10:52:50+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -50082,6 +50081,39 @@
                 },
                 "time": "2023-12-13T16:05:59+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "4.1.1": {
+                "name": "numiko/listings_filter",
+                "version": "4.1.1",
+                "version_normalized": "4.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "7cccbc08c8b4e72ed455ae335542cbbe09df9eb7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-4.1.1-1c5f3b.tar",
+                    "reference": "7cccbc08c8b4e72ed455ae335542cbbe09df9eb7",
+                    "shasum": "d9641cf1106c03f09d388592c4a04b8682f80396"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2024-01-22T15:48:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -50224,7 +50256,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "ecb0fcce6248d9608b59062b1af9239c37204289"
+                    "reference": "7cccbc08c8b4e72ed455ae335542cbbe09df9eb7"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -50233,7 +50265,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-01-22T10:52:50+00:00",
+                "time": "2024-01-22T15:48:59+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -52693,6 +52725,32 @@
                     "Drupal"
                 ]
             },
+            "3.0.0-beta1": {
+                "name": "numiko/numibase",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "12a2ca4e01364927d6e51707c2f891e518476cdf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-3.0.0-beta1-b61e56.tar",
+                    "reference": "12a2ca4e01364927d6e51707c2f891e518476cdf",
+                    "shasum": "801c8e45ffafceaf239bd9426fad7cecd6aeb96d"
+                },
+                "time": "2024-01-22T15:53:25+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/numibase",
                 "version": "8.1.0",
@@ -52851,9 +52909,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "e2fede5f4521fba8335f3d69be67c4afbc51833f"
+                    "reference": "ac4d1ffadd31ed06b068d7539d88da60d71eefc6"
                 },
-                "time": "2024-01-17T17:39:55+00:00",
+                "time": "2024-01-22T15:48:59+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -52950,6 +53008,25 @@
                     "reference": "ae950ee782ce9a3f7d6f321c9912ffe50b867fe1"
                 },
                 "time": "2020-11-16T14:31:26+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-release/3.x": {
+                "name": "numiko/numibase",
+                "version": "dev-release/3.x",
+                "version_normalized": "dev-release/3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "12a2ca4e01364927d6e51707c2f891e518476cdf"
+                },
+                "time": "2024-01-22T15:53:25+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"

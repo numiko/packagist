@@ -103,6 +103,32 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "12a2ca4e01364927d6e51707c2f891e518476cdf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/numibase/numiko-numibase-3.0.0-beta1-b61e56.tar",
+                    "reference": "12a2ca4e01364927d6e51707c2f891e518476cdf",
+                    "shasum": "801c8e45ffafceaf239bd9426fad7cecd6aeb96d"
+                },
+                "time": "2024-01-22T15:53:25+00:00",
+                "type": "drupal-theme",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "source": {
