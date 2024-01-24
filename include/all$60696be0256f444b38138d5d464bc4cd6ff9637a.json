@@ -46522,6 +46522,32 @@
                     "Drupal"
                 ]
             },
+            "2.5.1": {
+                "name": "numiko/form_ui",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "7bfd0de2cde216562359a3e22ae74266157ea2d8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/form_ui/numiko-form_ui-2.5.1-99d821.tar",
+                    "reference": "7bfd0de2cde216562359a3e22ae74266157ea2d8",
+                    "shasum": "1d591cef94e0e229cef8e48a0f22d64158c4ecc2"
+                },
+                "time": "2024-01-24T10:46:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -47185,25 +47211,6 @@
                     "Drupal"
                 ]
             },
-            "dev-fix/form-actions-overlap-entity-browser": {
-                "name": "numiko/form_ui",
-                "version": "dev-fix/form-actions-overlap-entity-browser",
-                "version_normalized": "dev-fix/form-actions-overlap-entity-browser",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "70080ea89ee4d5d6e9d7fe445600c5887ccfe06b"
-                },
-                "time": "2024-01-23T16:13:15+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-release/2.x": {
                 "name": "numiko/form_ui",
                 "version": "dev-release/2.x",
@@ -47211,9 +47218,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "dd2e125edbd464a2a29736ca9fe9580b144a8a80"
+                    "reference": "7bfd0de2cde216562359a3e22ae74266157ea2d8"
                 },
-                "time": "2023-12-04T12:07:58+00:00",
+                "time": "2024-01-24T10:46:47+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -61454,9 +61461,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "fa2cefdfa3791f6b98a54d9c1edc60178f29e843"
+                    "reference": "9dec9a26f220addcd15d48f0d0c49652c976a4c0"
                 },
-                "time": "2023-04-18T20:59:51+00:00",
+                "time": "2024-01-24T09:41:37+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -61474,9 +61481,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "4bcbdb38112860b6f90459b530763611a42706b6"
+                    "reference": "004fcd84a4cb94745a9a1fbdf43cbd354e18dd1a"
                 },
-                "time": "2023-08-23T12:13:25+00:00",
+                "time": "2024-01-24T08:47:15+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

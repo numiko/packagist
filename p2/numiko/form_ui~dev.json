@@ -41,33 +41,14 @@
             },
             {
                 "name": "numiko/form_ui",
-                "version": "dev-fix/form-actions-overlap-entity-browser",
-                "version_normalized": "dev-fix/form-actions-overlap-entity-browser",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "70080ea89ee4d5d6e9d7fe445600c5887ccfe06b"
-                },
-                "time": "2024-01-23T16:13:15+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Form UI Improvements",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/form_ui",
                 "version": "dev-release/2.x",
                 "version_normalized": "dev-release/2.x",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "dd2e125edbd464a2a29736ca9fe9580b144a8a80"
+                    "reference": "7bfd0de2cde216562359a3e22ae74266157ea2d8"
                 },
-                "time": "2023-12-04T12:07:58+00:00",
+                "time": "2024-01-24T10:46:47+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
