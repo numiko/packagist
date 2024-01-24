@@ -46539,7 +46539,6 @@
                 },
                 "time": "2024-01-24T10:46:47+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -52933,9 +52932,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "07803683fa61c28b06ec7218f9c00d6ec14ccd9b"
+                    "reference": "f8e80e30dc70c38137914665e4bdf7e091e2aefd"
                 },
-                "time": "2024-01-23T17:44:34+00:00",
+                "time": "2024-01-24T17:32:30+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
