@@ -50146,6 +50146,39 @@
                     "Drupal"
                 ]
             },
+            "4.1.2": {
+                "name": "numiko/listings_filter",
+                "version": "4.1.2",
+                "version_normalized": "4.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "0a624226d7e4d4165e6a74600ed86e7cf4573fcc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-4.1.2-39552b.tar",
+                    "reference": "0a624226d7e4d4165e6a74600ed86e7cf4573fcc",
+                    "shasum": "d165aa09c5bbd51e6a5e323d61c96c957a929ea5"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2024-01-29T15:01:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/api": {
                 "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
@@ -50280,7 +50313,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "7cccbc08c8b4e72ed455ae335542cbbe09df9eb7"
+                    "reference": "0a624226d7e4d4165e6a74600ed86e7cf4573fcc"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -50289,7 +50322,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-01-22T15:48:59+00:00",
+                "time": "2024-01-29T15:01:05+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -61617,7 +61650,6 @@
                 },
                 "time": "2024-01-29T10:22:49+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -61654,9 +61686,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "0630ae591b2af73622c099ce386c2885920a4abe"
+                    "reference": "fb616b7bd9eab3b6f9c4a9bfefb1ff234ecfa8dc"
                 },
-                "time": "2024-01-09T10:10:19+00:00",
+                "time": "2024-01-29T10:31:06+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
