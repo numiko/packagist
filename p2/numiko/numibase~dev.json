@@ -98,6 +98,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/sdc-menus-native-dropdown",
+                "version_normalized": "dev-feature/sdc-menus-native-dropdown",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "4561a7100abfaa942e2a2c867a773ce134e734ac"
+                },
+                "time": "2024-01-31T09:58:43+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/single-directory-components",
                 "version_normalized": "dev-feature/single-directory-components",
                 "source": {
