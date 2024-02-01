@@ -53005,9 +53005,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "4561a7100abfaa942e2a2c867a773ce134e734ac"
+                    "reference": "c56e44b584349ff56c71b3754a0f8b77dafab780"
                 },
-                "time": "2024-01-31T09:58:43+00:00",
+                "time": "2024-02-01T16:59:43+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -56921,6 +56921,19 @@
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             },
+            "dev-fix-UOLREBLD-765": {
+                "name": "numiko/responsive_image_class",
+                "version": "dev-fix-UOLREBLD-765",
+                "version_normalized": "dev-fix-UOLREBLD-765",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "85b41c9998127f8b4456ac82a23376b9691b7429"
+                },
+                "time": "2024-02-01T10:24:45+00:00",
+                "type": "drupal-module",
+                "description": "Field formatter for image field types to allow classes to be added."
+            },
             "dev-master": {
                 "name": "numiko/responsive_image_class",
                 "version": "dev-master",
@@ -56928,9 +56941,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "a3a97a78a28185f7958376ac8fae8302e3ed6228"
+                    "reference": "23c387939546c75bd866bd080a000ef94bdcfd6f"
                 },
-                "time": "2023-07-31T10:42:10+00:00",
+                "time": "2024-02-01T16:20:24+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
