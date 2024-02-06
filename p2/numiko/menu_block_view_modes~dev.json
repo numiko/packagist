@@ -47,9 +47,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
-                    "reference": "d639603ce1dadccdd3ceb5114524ea74ee37e6a0"
+                    "reference": "7dffb9ef00d3940daf6770315d8e755f115ba8de"
                 },
-                "time": "2024-02-06T16:18:02+00:00",
+                "time": "2024-02-06T18:22:05+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
