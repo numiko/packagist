@@ -18,6 +18,28 @@
                 },
                 "time": "2024-02-14T10:25:47+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allows site alerts to be shown on a single domain"
+            },
+            {
+                "name": "numiko/domain_site_alert",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-site-alert.git",
+                    "reference": "1579253f63a01804e8c63b2e0d7f41d143e85194"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_site_alert/numiko-domain_site_alert-1.0.1-e61a11.tar",
+                    "reference": "1579253f63a01804e8c63b2e0d7f41d143e85194",
+                    "shasum": "a071a62397ed4bd28a472cc8e99eb8d264fe77ff"
+                },
+                "time": "2024-02-14T16:11:48+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
