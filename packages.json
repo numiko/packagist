@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$c846398a04805a2d9589245088dbff79c5dfe0db.json": {
-            "sha1": "c846398a04805a2d9589245088dbff79c5dfe0db"
+        "include/all$a140ff7a128b074b01dce81b956fc52cf43c5a3c.json": {
+            "sha1": "a140ff7a128b074b01dce81b956fc52cf43c5a3c"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -28,6 +28,7 @@
         "numiko/domain_path",
         "numiko/domain_redirect",
         "numiko/domain_simple_sitemap",
+        "numiko/domain_site_alert",
         "numiko/dotmailer",
         "numiko/drupal-8-composer-template",
         "numiko/drupal-9-composer-template",
