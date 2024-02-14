@@ -26373,6 +26373,29 @@
             }
         },
         "numiko/domain_site_alert": {
+            "1.0.0": {
+                "name": "numiko/domain_site_alert",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-site-alert.git",
+                    "reference": "aa441a7adc459878a67eacc8970fc7ad8e2022e2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_site_alert/numiko-domain_site_alert-1.0.0-90b5fa.tar",
+                    "reference": "aa441a7adc459878a67eacc8970fc7ad8e2022e2",
+                    "shasum": "93d7c3a117ebebf0381bdb3dc409f0d1004df5ce"
+                },
+                "time": "2024-02-14T10:25:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Allows site alerts to be shown on a single domain"
+            },
             "dev-main": {
                 "name": "numiko/domain_site_alert",
                 "version": "dev-main",
