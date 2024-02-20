@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-jobs.git",
-                    "reference": "dea7e0deaad003947dd1dde9986b949e187b1985"
+                    "reference": "19c673300b8bc39bbeb256501bb654dac5cb9ba2"
                 },
-                "time": "2024-02-19T16:42:21+00:00",
+                "time": "2024-02-20T09:21:30+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
