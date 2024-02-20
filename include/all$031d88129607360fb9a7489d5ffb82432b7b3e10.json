@@ -48672,7 +48672,6 @@
                 },
                 "time": "2024-02-20T14:44:08+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             },
             "3.3.0-beta1": {
