@@ -71,6 +71,23 @@
             },
             {
                 "name": "numiko/integration_tests",
+                "version": "dev-feature/persona-domains",
+                "version_normalized": "dev-feature/persona-domains",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "3237a334598714e9bfeec4d6fff6e14aa08dc71f"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2024-02-20T10:11:30+00:00",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {

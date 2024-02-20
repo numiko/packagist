@@ -44696,7 +44696,6 @@
                 },
                 "time": "2024-02-20T09:21:30+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -48652,6 +48651,30 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "3.3.0-beta1": {
+                "name": "numiko/integration_tests",
+                "version": "3.3.0-beta1",
+                "version_normalized": "3.3.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "3237a334598714e9bfeec4d6fff6e14aa08dc71f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.3.0-beta1-01ed93.tar",
+                    "reference": "3237a334598714e9bfeec4d6fff6e14aa08dc71f",
+                    "shasum": "7c0e56d709e2258a1a029f8a74b5edca9bda7e21"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2024-02-20T10:11:30+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/boilerplate-tests": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/boilerplate-tests",
@@ -48717,6 +48740,23 @@
                     "weitzman/drupal-test-traits": "^1.5"
                 },
                 "time": "2022-10-14T14:31:36+00:00",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            "dev-feature/persona-domains": {
+                "name": "numiko/integration_tests",
+                "version": "dev-feature/persona-domains",
+                "version_normalized": "dev-feature/persona-domains",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "3237a334598714e9bfeec4d6fff6e14aa08dc71f"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2024-02-20T10:11:30+00:00",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
