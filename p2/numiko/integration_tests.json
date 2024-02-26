@@ -550,7 +550,6 @@
                 },
                 "time": "2024-02-26T14:38:19+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             }
         ]
