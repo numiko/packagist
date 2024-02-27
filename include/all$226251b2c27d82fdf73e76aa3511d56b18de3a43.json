@@ -59687,7 +59687,6 @@
                 },
                 "time": "2024-02-27T13:36:04+00:00",
                 "type": "drupal-custom-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
