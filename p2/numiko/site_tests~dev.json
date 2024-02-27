@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "a6b8e2ef5b94fb76364c63e819a9b4d59fe2e861"
+                    "reference": "daadf82564da78f6924140c3f739ad978abc41b3"
                 },
                 "require": {
                     "numiko/integration_tests": "*"
                 },
-                "time": "2024-02-27T11:07:20+00:00",
+                "time": "2024-02-27T11:36:20+00:00",
                 "default-branch": true,
-                "type": "custom-module",
+                "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
