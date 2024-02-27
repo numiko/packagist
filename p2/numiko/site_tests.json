@@ -50,6 +50,32 @@
                 },
                 "time": "2024-02-27T11:36:20+00:00",
                 "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_tests",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "f32a2333be905bf4c7372ab9abdac46a634e47b1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_tests/numiko-site_tests-1.0.2-39ca0f.tar",
+                    "reference": "f32a2333be905bf4c7372ab9abdac46a634e47b1",
+                    "shasum": "255e1e90ecd1ed97151708956b8309749d3ff80d"
+                },
+                "time": "2024-02-27T13:36:04+00:00",
+                "type": "drupal-custom-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
