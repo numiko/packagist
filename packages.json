@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$dfb3957eb8f9b72bff5323c1ab1da30382ce05e6.json": {
-            "sha1": "dfb3957eb8f9b72bff5323c1ab1da30382ce05e6"
+        "include/all$32622b1144d3014fed80554e866f12d66d5ed4c7.json": {
+            "sha1": "32622b1144d3014fed80554e866f12d66d5ed4c7"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -32,6 +32,7 @@
         "numiko/dotmailer",
         "numiko/drupal-8-composer-template",
         "numiko/drupal-9-composer-template",
+        "numiko/drupal-composer-template",
         "numiko/duration",
         "numiko/enforceuserlogincsrf",
         "numiko/entity-reference-revisions-context",

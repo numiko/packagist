@@ -1,20 +1,20 @@
 {
     "packages": {
-        "numiko/drupal-9-composer-template": [
+        "numiko/drupal-composer-template": [
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.0.0-beta1",
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "4118c639fd1552b7748770dee20c953a0db0c454"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.0.0-beta1-65e8e4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.0.0-beta1-65e8e4.tar",
                     "reference": "4118c639fd1552b7748770dee20c953a0db0c454",
-                    "shasum": "17f560b15beec165d9fa674b36f67918efcec4a0"
+                    "shasum": "25ad0b7a92035ac8c186843de8c20f3aac32a932"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -76,6 +76,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -113,19 +114,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.0.0-beta2",
                 "version_normalized": "1.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "5a7e23df47d742a2424ac9f393353f2bc7ed8b09"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.0.0-beta2-af457e.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.0.0-beta2-af457e.tar",
                     "reference": "5a7e23df47d742a2424ac9f393353f2bc7ed8b09",
-                    "shasum": "f6d9b2656b55f9dedd3e929ce2d7d001ddf8798b"
+                    "shasum": "5105ffc709b237e259629e946a01d7b38f929a4e"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -189,6 +190,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -226,19 +228,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.0.0-beta3",
                 "version_normalized": "1.0.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "a34f6e9de17f25685509d866a04db06892cd1cc5"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.0.0-beta3-527155.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.0.0-beta3-527155.tar",
                     "reference": "a34f6e9de17f25685509d866a04db06892cd1cc5",
-                    "shasum": "8051b8711ddfa75c0ab0bab679ed22177289cc63"
+                    "shasum": "0fdd2cc10374695011eea0e67ef59bc7b56c8148"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -302,6 +304,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -339,19 +342,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.0.0-beta4",
                 "version_normalized": "1.0.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "0451efe3e63ba03d468fb07de97eaa07d55898f4"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.0.0-beta4-d4528b.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.0.0-beta4-d4528b.tar",
                     "reference": "0451efe3e63ba03d468fb07de97eaa07d55898f4",
-                    "shasum": "4695c96fddb8b194abb5f1bbdd281014e44f6f4c"
+                    "shasum": "ed28a0697e2594c7b9f2455ca651df15e8306d10"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -415,6 +418,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -452,19 +456,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0",
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "140241622f98e2620cb057a3d7a40d57b978d448"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-d9eb8a.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-d9eb8a.tar",
                     "reference": "140241622f98e2620cb057a3d7a40d57b978d448",
-                    "shasum": "bb3babcf281664121563772dd752edc38d2b8ab1"
+                    "shasum": "a991dd642a22b7edc3deda1419ad4f9594a23414"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -528,6 +532,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -565,19 +570,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta1",
                 "version_normalized": "1.1.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "4ba8f35da0c1419931b2ba88c548cc6a0033f79e"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta1-e68570.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta1-e68570.tar",
                     "reference": "4ba8f35da0c1419931b2ba88c548cc6a0033f79e",
-                    "shasum": "dbd40fa100b29ca40ce65f873b0c15c80fc1098f"
+                    "shasum": "b48abac8c694398499e36b2f23829a11c5b872d7"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -641,6 +646,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -678,19 +684,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta10",
                 "version_normalized": "1.1.0.0-beta10",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "39cdfa83e4ea8e299908444cb10323f014889b8f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta10-8b7c11.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta10-8b7c11.tar",
                     "reference": "39cdfa83e4ea8e299908444cb10323f014889b8f",
-                    "shasum": "5acf78aec0729e61733b3960b7387138e4d6447d"
+                    "shasum": "68590bc1517d3681bdf4d9e85469d10d9d9fc6c5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -754,6 +760,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -791,19 +798,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta11",
                 "version_normalized": "1.1.0.0-beta11",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "7408862d464317bd0edaf299e0c88142265fa765"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta11-226c67.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta11-226c67.tar",
                     "reference": "7408862d464317bd0edaf299e0c88142265fa765",
-                    "shasum": "d3a35968d93c338f9f861392ff357e9cfbd98c70"
+                    "shasum": "43f65e1f2c6def2e74867155ae01413f5444cfb9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -867,6 +874,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -904,19 +912,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta12",
                 "version_normalized": "1.1.0.0-beta12",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "41e6cc0523ca639dc52722a91be81b64c49a2075"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta12-b451b7.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta12-b451b7.tar",
                     "reference": "41e6cc0523ca639dc52722a91be81b64c49a2075",
-                    "shasum": "afeaffea2d0cdca493c2d29a215bcaca874a4e39"
+                    "shasum": "37165925acbbef2435223ece26bd1bc5cef8c1cb"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -980,6 +988,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1017,19 +1026,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta13",
                 "version_normalized": "1.1.0.0-beta13",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "c48459fbde89ee97f13fb547bf6d1c9c2bc5c14e"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta13-550f7c.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta13-550f7c.tar",
                     "reference": "c48459fbde89ee97f13fb547bf6d1c9c2bc5c14e",
-                    "shasum": "3ca8c29c41f5f322ca3b423b661fd666105f54a9"
+                    "shasum": "1e2728cfc6fc33cbd1b3ee9e54d8406258ad5c22"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1093,6 +1102,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1130,19 +1140,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta14",
                 "version_normalized": "1.1.0.0-beta14",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "9c5add48deb82b0bec14425cff0b8c156b524948"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta14-75009f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta14-75009f.tar",
                     "reference": "9c5add48deb82b0bec14425cff0b8c156b524948",
-                    "shasum": "0c6170b0ee53c4d0a5a3cb234cc29f6e15ebb85c"
+                    "shasum": "56049792088dfcf7b268e78dc113ec5401433a58"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1206,6 +1216,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1243,19 +1254,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta15",
                 "version_normalized": "1.1.0.0-beta15",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "140241622f98e2620cb057a3d7a40d57b978d448"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta15-d9eb8a.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta15-d9eb8a.tar",
                     "reference": "140241622f98e2620cb057a3d7a40d57b978d448",
-                    "shasum": "62347db6b3c5e80deae53c50a6dd73f199a8d361"
+                    "shasum": "a991dd642a22b7edc3deda1419ad4f9594a23414"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1319,6 +1330,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1356,19 +1368,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta2",
                 "version_normalized": "1.1.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "6fc302d69b2fc71d785cf47762c7842ab78672b0"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta2-2d14db.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta2-2d14db.tar",
                     "reference": "6fc302d69b2fc71d785cf47762c7842ab78672b0",
-                    "shasum": "e80560f75f8cd9b8a602dadcc7b706399b581c42"
+                    "shasum": "36281e55a04b663333e11a6b211bf9578b91f24b"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1432,6 +1444,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1469,19 +1482,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta3",
                 "version_normalized": "1.1.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "841f465ffeb6523c07cc594280aef77004073b49"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta3-3982a7.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta3-3982a7.tar",
                     "reference": "841f465ffeb6523c07cc594280aef77004073b49",
-                    "shasum": "24761e1012528b0cc32ae2f05be7344215079c67"
+                    "shasum": "2d5d9de53ef04564c682514c144ef6dbaafaf8f3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1545,6 +1558,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1582,19 +1596,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta4",
                 "version_normalized": "1.1.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "e87b78a1cf6fbb9f00812c9b2fed77e641cf593f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta4-a73a7f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta4-a73a7f.tar",
                     "reference": "e87b78a1cf6fbb9f00812c9b2fed77e641cf593f",
-                    "shasum": "8f195a7f3dd7293fe40e5b9c852a622d65ae8785"
+                    "shasum": "37d39716a8b77f07d1b07132efe1bb2e91278a0d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1658,6 +1672,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1695,19 +1710,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta5",
                 "version_normalized": "1.1.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "08003f020528fa74157ac978b3526fd150d58e0c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta5-f3854f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta5-f3854f.tar",
                     "reference": "08003f020528fa74157ac978b3526fd150d58e0c",
-                    "shasum": "5b5bc308148e5d628293366f6b55811c72723780"
+                    "shasum": "2d3d3b6081edb8d6bceeb8944660633386c434c8"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1771,6 +1786,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1808,19 +1824,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta6",
                 "version_normalized": "1.1.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "d2210371fcca0a64a409e01ec84f30cdcd9eacb9"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta6-fa79f3.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta6-fa79f3.tar",
                     "reference": "d2210371fcca0a64a409e01ec84f30cdcd9eacb9",
-                    "shasum": "bac95223991ae013efbade9b45bfb420fa2c0a98"
+                    "shasum": "e5842aeb941c5f1ed24291694aa757513f1d9a94"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -1884,6 +1900,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -1921,19 +1938,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta7",
                 "version_normalized": "1.1.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "abd68140da70c798b760fcb0e7f165e0ee5c23c8"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta7-c0c266.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta7-c0c266.tar",
                     "reference": "abd68140da70c798b760fcb0e7f165e0ee5c23c8",
-                    "shasum": "6bb57c4757066c9649deee022a6a13577ca9cfff"
+                    "shasum": "4114d11fa914e1b468cb5b06ab6fa92416e8dd43"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2002,6 +2019,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2039,19 +2057,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta8",
                 "version_normalized": "1.1.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "ae1da533898bdf7b8c7706b503fb3d18175b9d84"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta8-d2091b.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta8-d2091b.tar",
                     "reference": "ae1da533898bdf7b8c7706b503fb3d18175b9d84",
-                    "shasum": "cf290dddc21851b3a9fd3839f66355bdd42a47f6"
+                    "shasum": "1e048323f4d87ca8ab6b7ed6c0a27c02869ef6a0"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2115,6 +2133,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2152,19 +2171,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.0-beta9",
                 "version_normalized": "1.1.0.0-beta9",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "35a37785e475d463a52300ddf2ee94dd927f3f6b"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.0-beta9-d0adeb.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.0-beta9-d0adeb.tar",
                     "reference": "35a37785e475d463a52300ddf2ee94dd927f3f6b",
-                    "shasum": "d92b9b89adaf0dfb9ac40932ee02f6b0747b1f0a"
+                    "shasum": "e8e53ad9a87d4f7642d97e4e1e199cee708bb159"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2228,6 +2247,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2265,19 +2285,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.1",
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "5f54c0fe16b8c2394177bf3fcc4dfdd3a0aa1488"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.1-cc181f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.1-cc181f.tar",
                     "reference": "5f54c0fe16b8c2394177bf3fcc4dfdd3a0aa1488",
-                    "shasum": "5d9bba5a8ed97d9696e0d46674413408066b4eaa"
+                    "shasum": "5123a9871212d7332e780789b907a14224e675a5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2341,6 +2361,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2378,19 +2399,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2",
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "a2b9f213e749db38d88e28d11cc2fc1afcf534ef"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-928a89.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-928a89.tar",
                     "reference": "a2b9f213e749db38d88e28d11cc2fc1afcf534ef",
-                    "shasum": "15e7494e44ae77bc940abd15427883c930af0abe"
+                    "shasum": "686934b5eaec8bb5e33915b5e9c010e27c37f8e8"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2454,6 +2475,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2491,19 +2513,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2-beta1",
                 "version_normalized": "1.1.2.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "6c0893a5c33a2d9e664c0b3806a65bc580cad323"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-beta1-c37db4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-beta1-c37db4.tar",
                     "reference": "6c0893a5c33a2d9e664c0b3806a65bc580cad323",
-                    "shasum": "a0ec21af23568a1099703c8c5b9b8b00c9a3d082"
+                    "shasum": "ddcbf720e76a611920df09d8b4a29d560d3d94c6"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2567,6 +2589,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2604,19 +2627,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2-beta2",
                 "version_normalized": "1.1.2.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "c92f3f90a85d5f4e01f571d5cba78a8970e1ee21"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-beta2-9b0659.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-beta2-9b0659.tar",
                     "reference": "c92f3f90a85d5f4e01f571d5cba78a8970e1ee21",
-                    "shasum": "42aef0c1d2136d5f88b2e36f3d464301c8ad6fec"
+                    "shasum": "872db1cb74d0b98fc7cc163f9b8e8adaa2d02159"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2680,6 +2703,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2717,19 +2741,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2-beta3",
                 "version_normalized": "1.1.2.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "29512b78123aaae6a4639b25640f677d2a149269"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-beta3-f9c9f4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-beta3-f9c9f4.tar",
                     "reference": "29512b78123aaae6a4639b25640f677d2a149269",
-                    "shasum": "d65e1cdb20060571cbc911be0394b6642cd120ec"
+                    "shasum": "eac1631b4f58b46c5851f52f99a4202bb08ec101"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2793,6 +2817,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2830,19 +2855,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2-beta4",
                 "version_normalized": "1.1.2.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3038b88bf2b0e31be91785735bc98d3fa3e8c768"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-beta4-c87c62.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-beta4-c87c62.tar",
                     "reference": "3038b88bf2b0e31be91785735bc98d3fa3e8c768",
-                    "shasum": "cf99e784ccef3363a5ffe02585ff3e9763e1d70b"
+                    "shasum": "257eb1396705822af72b7667ba4afdf1bae650e4"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -2906,6 +2931,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -2943,19 +2969,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.1.2-beta5",
                 "version_normalized": "1.1.2.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "a2b9f213e749db38d88e28d11cc2fc1afcf534ef"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.1.2-beta5-928a89.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.1.2-beta5-928a89.tar",
                     "reference": "a2b9f213e749db38d88e28d11cc2fc1afcf534ef",
-                    "shasum": "381a022d54517ba7b0e27098458dde93779ce10d"
+                    "shasum": "330cc26fc8f179d824f819a30f19b38ddd34c1e2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3019,6 +3045,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3056,19 +3083,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0",
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "074319d2e214f7c9accb0a52c62c4457ee739dc2"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-bbf622.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-bbf622.tar",
                     "reference": "074319d2e214f7c9accb0a52c62c4457ee739dc2",
-                    "shasum": "71b244d948f63595584557253c783c71b2cd5ece"
+                    "shasum": "dfcc418572e2eb23d56f5e413ba08aa22bf12d84"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3132,6 +3159,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3169,19 +3197,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta1",
                 "version_normalized": "1.2.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "5d5aaeffd9f89e7b68f80534cd28289575cd6cae"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta1-71e906.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta1-71e906.tar",
                     "reference": "5d5aaeffd9f89e7b68f80534cd28289575cd6cae",
-                    "shasum": "ba7519f0c4d693d651c6254337c7874676316bbe"
+                    "shasum": "d9b0e82480582283cd7ee3f519ed5254b9872fcc"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3245,6 +3273,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3282,19 +3311,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta2",
                 "version_normalized": "1.2.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "6d05fe73588d9e8eb1179823dfb042bf28634f70"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta2-424ff7.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta2-424ff7.tar",
                     "reference": "6d05fe73588d9e8eb1179823dfb042bf28634f70",
-                    "shasum": "e51cabfc1f036aa01da96cf4b57ab24c6f641632"
+                    "shasum": "b928ef88cdcca3878036b71e318cecc19483f3f3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3358,6 +3387,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3395,19 +3425,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta3",
                 "version_normalized": "1.2.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "e7e51299553fbe24bf167df357d72dd9b005ceb1"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta3-efe05b.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta3-efe05b.tar",
                     "reference": "e7e51299553fbe24bf167df357d72dd9b005ceb1",
-                    "shasum": "917cc2e40e1009152b2bb2830ea17f34c9c64b38"
+                    "shasum": "50a0cec4e955e932dc9d47dfca5058c1586630fc"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3471,6 +3501,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3508,19 +3539,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta4",
                 "version_normalized": "1.2.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "1e5356c9777f8c4d766a4b781aec69807995fcec"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta4-a68a7a.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta4-a68a7a.tar",
                     "reference": "1e5356c9777f8c4d766a4b781aec69807995fcec",
-                    "shasum": "148b25b2a1b436bff79d7c38a285b7a6e54b849a"
+                    "shasum": "5ba58065ffb47994dee499e4cf7c157dbca9d447"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3584,6 +3615,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3621,19 +3653,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta5",
                 "version_normalized": "1.2.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "89b3a6a5fa4d1c3b14a923be689974a4c06f0e1e"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta5-44a1c0.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta5-44a1c0.tar",
                     "reference": "89b3a6a5fa4d1c3b14a923be689974a4c06f0e1e",
-                    "shasum": "2a7d622922691877ee9bd3f48fc1eddc7664073e"
+                    "shasum": "ac250bd473942fb7d5034f7e7df1893a8952b88b"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3697,6 +3729,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3734,19 +3767,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta6",
                 "version_normalized": "1.2.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "dc6e06ec1a0319e308c6a03b74ffdf43713a2cad"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta6-92b001.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta6-92b001.tar",
                     "reference": "dc6e06ec1a0319e308c6a03b74ffdf43713a2cad",
-                    "shasum": "dea2d5d1cbb8faed2f064ab68d9be8034ca5d482"
+                    "shasum": "3b9f26700a570f71f3f93ebd813b854271b9c51d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3810,6 +3843,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3847,19 +3881,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta7",
                 "version_normalized": "1.2.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "02bf252ba2d88a1d87f1cf0abfcdbd93958e7b27"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta7-4e3927.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta7-4e3927.tar",
                     "reference": "02bf252ba2d88a1d87f1cf0abfcdbd93958e7b27",
-                    "shasum": "cfd1a6ceada3b6fcbbfb224b73687134479b36ba"
+                    "shasum": "961c3594215bd6537d4f8d14f3111c41fad95a08"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -3923,6 +3957,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -3960,19 +3995,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.2.0-beta8",
                 "version_normalized": "1.2.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "074319d2e214f7c9accb0a52c62c4457ee739dc2"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.2.0-beta8-bbf622.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.2.0-beta8-bbf622.tar",
                     "reference": "074319d2e214f7c9accb0a52c62c4457ee739dc2",
-                    "shasum": "c990145aaff5f78004b684642b5e3c821edbebae"
+                    "shasum": "3f7544edd50631fa45631544dae0b6a5d3f026e9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4036,6 +4071,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4073,19 +4109,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.0-beta1",
                 "version_normalized": "1.3.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "d5c903fbab0eaddda36a3c5345363b3a624201e2"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.0-beta1-c59e11.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.0-beta1-c59e11.tar",
                     "reference": "d5c903fbab0eaddda36a3c5345363b3a624201e2",
-                    "shasum": "5cab07fa941eca028ab0de886d5aabf1b1d01626"
+                    "shasum": "404a897288a515eb22545fbd359df8dfaf1f9324"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4149,6 +4185,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4186,19 +4223,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.0-beta2",
                 "version_normalized": "1.3.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "439186380f6799630c35828b1554350e858d930c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.0-beta2-d6e4fe.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.0-beta2-d6e4fe.tar",
                     "reference": "439186380f6799630c35828b1554350e858d930c",
-                    "shasum": "2da37ce9d1102f78f3446754980a206792fedcb3"
+                    "shasum": "ff4e6d6e814c11bf05d0763bb571263c779992db"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4262,6 +4299,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4299,19 +4337,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.0-beta3",
                 "version_normalized": "1.3.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "ea9c90509581accd59059ab1da421aad955216e6"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.0-beta3-c179de.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.0-beta3-c179de.tar",
                     "reference": "ea9c90509581accd59059ab1da421aad955216e6",
-                    "shasum": "38e61d8a738f1c403274fe4956db406239c5674c"
+                    "shasum": "8c97e7e7756298ccdd15c07688f1e1600b3c2e23"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4375,6 +4413,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4412,19 +4451,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.0-beta4",
                 "version_normalized": "1.3.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3e908e475f9b124f753290e1c4cb6e2929d5efdd"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.0-beta4-9fa2a4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.0-beta4-9fa2a4.tar",
                     "reference": "3e908e475f9b124f753290e1c4cb6e2929d5efdd",
-                    "shasum": "00ec50336a525056c9675c7a3eafddcd4660f97b"
+                    "shasum": "3503e1f112ae884f03fa29574a3ea79a8b83f974"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4488,6 +4527,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4525,19 +4565,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.1",
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3e908e475f9b124f753290e1c4cb6e2929d5efdd"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.1-9fa2a4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.1-9fa2a4.tar",
                     "reference": "3e908e475f9b124f753290e1c4cb6e2929d5efdd",
-                    "shasum": "bab6dd5c1c27692f1bc064f41b9b82a54af2dc3b"
+                    "shasum": "637514ccbd67f934ee323c9be5530518324fbc8e"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4601,6 +4641,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4638,19 +4679,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.3.2",
                 "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "66e4d2ee22552f7c3879f749056ab58664ac971b"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.3.2-7e51fa.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.3.2-7e51fa.tar",
                     "reference": "66e4d2ee22552f7c3879f749056ab58664ac971b",
-                    "shasum": "5f2f4b7aa4d5aaa180248241dec9d2e5ed6aceb3"
+                    "shasum": "3ca79258803ee3e5e516e706115f52816d6ce5c6"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4714,6 +4755,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4751,19 +4793,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.4.0",
                 "version_normalized": "1.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "397aa6dc8298b692fb3a264f9dbb3931f8f710de"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.0-4ea88d.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.0-4ea88d.tar",
                     "reference": "397aa6dc8298b692fb3a264f9dbb3931f8f710de",
-                    "shasum": "726affb4b05ff3df7fe8a169a0b539c749179e52"
+                    "shasum": "0858887e0e58e5a2839eb995c912a34052a6bca9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4827,6 +4869,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4864,19 +4907,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.4.0-beta1",
                 "version_normalized": "1.4.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "128db5a179b85126651e543f7b43d5cd71eda1b4"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.0-beta1-4658d7.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.0-beta1-4658d7.tar",
                     "reference": "128db5a179b85126651e543f7b43d5cd71eda1b4",
-                    "shasum": "5e4bf1eff7458bb18b21afd74c4354a6d18938c8"
+                    "shasum": "23d24a9dfa62a0b82485db5bc3de18a9089a89df"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -4940,6 +4983,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -4977,471 +5021,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.4.1",
                 "version_normalized": "1.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "e1248d76178e06078e48db6e1adcdc53a855a12c"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.1-cb6956.tar",
-                    "reference": "e1248d76178e06078e48db6e1adcdc53a855a12c",
-                    "shasum": "aef4ea7472a7acd77415780f06f2c8dca99ed529"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
-                    "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.4.*",
-                    "php": ">=7.3",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-09-29T09:22:42+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 9 projects with composer"
-            },
-            {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "1.4.1-beta1",
-                "version_normalized": "1.4.1.0-beta1",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "b6e32b83e52c592fce7a9bee2fd72351ef6d59f1"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.1-beta1-15f874.tar",
-                    "reference": "b6e32b83e52c592fce7a9bee2fd72351ef6d59f1",
-                    "shasum": "5358e5c7d8cd0831a7e7ce6a38f66a4324eb7e15"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
-                    "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.4.*",
-                    "php": ">=7.3",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-09-23T14:51:12+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 9 projects with composer"
-            },
-            {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "1.4.1-beta2",
-                "version_normalized": "1.4.1.0-beta2",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "77d2ef91c507a3bcd9a60345f11cb2fc46fb6814"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.1-beta2-eafa81.tar",
-                    "reference": "77d2ef91c507a3bcd9a60345f11cb2fc46fb6814",
-                    "shasum": "bd0383cea3b593cf7c338005019ef44193bbda47"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
-                    "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.4.*",
-                    "php": ">=7.3",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-09-23T15:33:40+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 9 projects with composer"
-            },
-            {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "1.4.1-beta3",
-                "version_normalized": "1.4.1.0-beta3",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "a7ce18d3a8eed27ab018893fcc212cafaf29e6a7"
-                },
-                "dist": {
-                    "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.1-beta3-cbaace.tar",
-                    "reference": "a7ce18d3a8eed27ab018893fcc212cafaf29e6a7",
-                    "shasum": "4823cf4cc630a8862dfa515f2f0228d3eca5750b"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
-                    "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.4.*",
-                    "php": ">=7.3",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-09-23T16:14:34+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "",
-                        "role": ""
-                    }
-                ],
-                "description": "Project template for Drupal 9 projects with composer"
-            },
-            {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "1.4.1-beta4",
-                "version_normalized": "1.4.1.0-beta4",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "70861e104db3f55068668ece459093aa841efb14"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.4.1-beta4-113509.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.1-113509.tar",
                     "reference": "70861e104db3f55068668ece459093aa841efb14",
-                    "shasum": "8e909b0d57faa4b5e4aac6b85b95eaeb5d946514"
+                    "shasum": "f97a7c4f1d7375231e2decb92b783a27d588c469"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -5505,6 +5097,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -5542,19 +5135,475 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
+                "version": "1.4.1-beta1",
+                "version_normalized": "1.4.1.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
+                    "reference": "b6e32b83e52c592fce7a9bee2fd72351ef6d59f1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.1-beta1-15f874.tar",
+                    "reference": "b6e32b83e52c592fce7a9bee2fd72351ef6d59f1",
+                    "shasum": "355c6e9bf5831a5768361d64fb230c625c87c312"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.4.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-09-23T14:51:12+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
+            {
+                "name": "numiko/drupal-composer-template",
+                "version": "1.4.1-beta2",
+                "version_normalized": "1.4.1.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
+                    "reference": "77d2ef91c507a3bcd9a60345f11cb2fc46fb6814"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.1-beta2-eafa81.tar",
+                    "reference": "77d2ef91c507a3bcd9a60345f11cb2fc46fb6814",
+                    "shasum": "ac0c3b6f20b145560d787c7f487f97117a6e533a"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.4.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-09-23T15:33:40+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
+            {
+                "name": "numiko/drupal-composer-template",
+                "version": "1.4.1-beta3",
+                "version_normalized": "1.4.1.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
+                    "reference": "a7ce18d3a8eed27ab018893fcc212cafaf29e6a7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.1-beta3-cbaace.tar",
+                    "reference": "a7ce18d3a8eed27ab018893fcc212cafaf29e6a7",
+                    "shasum": "21824ef2dfb98413561ce9bdce0cc87ea9b1a3ca"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.4.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-09-23T16:14:34+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
+            {
+                "name": "numiko/drupal-composer-template",
+                "version": "1.4.1-beta4",
+                "version_normalized": "1.4.1.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
+                    "reference": "70861e104db3f55068668ece459093aa841efb14"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.4.1-beta4-113509.tar",
+                    "reference": "70861e104db3f55068668ece459093aa841efb14",
+                    "shasum": "875681d94af078cbefbda05b9acc02b763106eb7"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.0",
+                    "drupal/core-recommended": "^9.0",
+                    "drush/drush": "^10.3",
+                    "numiko/d9-profile": "1.4.*",
+                    "php": ">=7.3",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-09-23T17:30:50+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/development.services.yml": {
+                                "mode": "replace",
+                                "path": "files/example.development.services.yml",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/example.settings.local.php": {
+                                "mode": "replace",
+                                "path": "files/example.settings.local.php",
+                                "overwrite": false
+                            },
+                            "[web-root]/sites/default/default.settings.php": {
+                                "append": "files/example.settings.php",
+                                "overwrite": false
+                            }
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "",
+                        "role": ""
+                    }
+                ],
+                "description": "Project template for Drupal 9 projects with composer"
+            },
+            {
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0",
                 "version_normalized": "1.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-5bd730.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-5bd730.tar",
                     "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb",
-                    "shasum": "231fb18a4b5cebd47947240392c19084578fd0d0"
+                    "shasum": "fb96d450b59eac62f9f2d6721ac789ea04971ff7"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -5701,6 +5750,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -5740,19 +5790,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta1",
                 "version_normalized": "1.5.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "5dfe2391480604deb6fe2198128bb6ffffb5d434"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta1-8d41c4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta1-8d41c4.tar",
                     "reference": "5dfe2391480604deb6fe2198128bb6ffffb5d434",
-                    "shasum": "2c1dfcf35750058926f545bdd3410e106d544123"
+                    "shasum": "406bf9f76acd04be284d8d87cc177433c73d4a6d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -5816,6 +5866,7 @@
                         ]
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -5854,19 +5905,19 @@
                 "description": "Project template for Drupal 9 projects with composer"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta10",
                 "version_normalized": "1.5.0.0-beta10",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "71cf275b38a97d589ee3fe9f97547f6d1e5f0ffe"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta10-717c4f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta10-717c4f.tar",
                     "reference": "71cf275b38a97d589ee3fe9f97547f6d1e5f0ffe",
-                    "shasum": "277265e2dc636188603b729660e221e328195cdc"
+                    "shasum": "2f34c2b94a94cc1c4c03dd7011456a51fffe9ca5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6005,6 +6056,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -6044,19 +6096,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta11",
                 "version_normalized": "1.5.0.0-beta11",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "150506698e7f5679ea6bac63e6a7ad4a8a44d670"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta11-25ee5d.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta11-25ee5d.tar",
                     "reference": "150506698e7f5679ea6bac63e6a7ad4a8a44d670",
-                    "shasum": "2a2105b7b416d6c4842ee8fbade00d7827a925d3"
+                    "shasum": "19060e464b2bd86b240519aa64acb9906a5fc1ae"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6195,6 +6247,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -6234,19 +6287,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta12",
                 "version_normalized": "1.5.0.0-beta12",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "0f52e4b0eb43824f077c9dcfcef826161c01c24a"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta12-69b8a2.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta12-69b8a2.tar",
                     "reference": "0f52e4b0eb43824f077c9dcfcef826161c01c24a",
-                    "shasum": "b14d8d19f015efa62a623ca8df247cbd66ef73f6"
+                    "shasum": "3d5c3ecb1ef036f64e39ba955418bcd69e2074dd"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6386,6 +6439,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -6425,19 +6479,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta13",
                 "version_normalized": "1.5.0.0-beta13",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "7d5fd826cc28931cd084fda9944d5de94abef376"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta13-5227b8.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta13-5227b8.tar",
                     "reference": "7d5fd826cc28931cd084fda9944d5de94abef376",
-                    "shasum": "6389a90ec8e98acac111e3da4ba6979fa1c2ef3b"
+                    "shasum": "7ffcde4d213d43f552593c364c2f41a5b8c773ba"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6578,6 +6632,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -6617,19 +6672,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta14",
                 "version_normalized": "1.5.0.0-beta14",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "ff61cfd1c92c51bf60ee2bd78607aa78f8fdeee2"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta14-8d01d3.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta14-8d01d3.tar",
                     "reference": "ff61cfd1c92c51bf60ee2bd78607aa78f8fdeee2",
-                    "shasum": "b4d2a01b3681a14ed83d03c7e08ea87789dd73ae"
+                    "shasum": "a62ea45edf4f83b63aa60120d3404e4d2f2ecea3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6773,6 +6828,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -6812,19 +6868,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta15",
                 "version_normalized": "1.5.0.0-beta15",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "bce7855bffeb9ff57ed1f50bbcca04f4bd7b1cb7"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta15-76ed53.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta15-76ed53.tar",
                     "reference": "bce7855bffeb9ff57ed1f50bbcca04f4bd7b1cb7",
-                    "shasum": "886f0a0fdc0a6fb398535e3b1ef490cd0a46b553"
+                    "shasum": "caa3872e6ff5a36f0875bcd7bdd2bc3b969e1ea8"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -6966,6 +7022,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7005,19 +7062,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta16",
                 "version_normalized": "1.5.0.0-beta16",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "4cd83cd008be97935205521c1188ed315a028802"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta16-c125cc.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta16-c125cc.tar",
                     "reference": "4cd83cd008be97935205521c1188ed315a028802",
-                    "shasum": "c5ea6b79a18d1e8c51074deda2454410f378a46b"
+                    "shasum": "ea86b4993a7cff076acd035e5f784ab773a990d2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -7160,6 +7217,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7199,19 +7257,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta17",
                 "version_normalized": "1.5.0.0-beta17",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "ead4f8856ff98dfa8ded453c1e4227e9762159b9"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta17-ad66af.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta17-ad66af.tar",
                     "reference": "ead4f8856ff98dfa8ded453c1e4227e9762159b9",
-                    "shasum": "50b6be384fe132936cbab3dff86610d319d5a6f8"
+                    "shasum": "cd7e9cfdab3242ac5ec0df5bd8d210a2945f403f"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -7357,6 +7415,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7396,19 +7455,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta18",
                 "version_normalized": "1.5.0.0-beta18",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "c4532c7a0c84baae06e6931ff14ed6365ddb8fc4"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta18-723042.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta18-723042.tar",
                     "reference": "c4532c7a0c84baae06e6931ff14ed6365ddb8fc4",
-                    "shasum": "69518f63d89e14943387da27becde896e75ee5fa"
+                    "shasum": "0c1b7029eeca63acb21b8ced3b8a33eb620c1fc5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -7554,6 +7613,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7593,19 +7653,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta19",
                 "version_normalized": "1.5.0.0-beta19",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta19-5bd730.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta19-5bd730.tar",
                     "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb",
-                    "shasum": "2230652ab58d056125402422a07e989945546081"
+                    "shasum": "c44791ed22649e3efcb54fb0acae8e09d0c3b272"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -7752,6 +7812,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7791,19 +7852,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta2",
                 "version_normalized": "1.5.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "425d8976b2b7f73fab2557a6148bf3c5e2ff5a9c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta2-f8d890.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta2-f8d890.tar",
                     "reference": "425d8976b2b7f73fab2557a6148bf3c5e2ff5a9c",
-                    "shasum": "a12139c3dd99395420594d812480e7e1534f2470"
+                    "shasum": "02aca129f2541306a9a35ee8b9829f9354c177d3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -7948,6 +8009,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -7986,19 +8048,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta3",
                 "version_normalized": "1.5.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "1c553bc3215d7ce746570ce5afecb8a1bbf4d5c5"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta3-990c72.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta3-990c72.tar",
                     "reference": "1c553bc3215d7ce746570ce5afecb8a1bbf4d5c5",
-                    "shasum": "711d025cdd452aa2ca032c1172977f7210de29dd"
+                    "shasum": "d53bb5ab2f408d214e176e107881b6303029f268"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -8144,6 +8206,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -8182,19 +8245,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta4",
                 "version_normalized": "1.5.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "13ae5ef9b836fde44ff56ff415e75f65afd7d28f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta4-b35b6b.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta4-b35b6b.tar",
                     "reference": "13ae5ef9b836fde44ff56ff415e75f65afd7d28f",
-                    "shasum": "49b7bb5ea6c809187e014dd8ec3930dbf133211d"
+                    "shasum": "a9384cc9cc101f3cef4b9daa4e6323496d024a19"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -8329,6 +8392,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -8367,19 +8431,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta5",
                 "version_normalized": "1.5.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "091da046074228f2683aaa4177f070d667589b4f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta5-75f6eb.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta5-75f6eb.tar",
                     "reference": "091da046074228f2683aaa4177f070d667589b4f",
-                    "shasum": "a61b0516f3d927be0627927976d884c76d268f6a"
+                    "shasum": "c2a71c2889e55d9b4f42b8ae04be067eeb4df710"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -8526,6 +8590,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -8564,19 +8629,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta6",
                 "version_normalized": "1.5.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3ee7848fb51451c6b3e3cc3ab21d07dd9fff2de9"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta6-9497b9.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta6-9497b9.tar",
                     "reference": "3ee7848fb51451c6b3e3cc3ab21d07dd9fff2de9",
-                    "shasum": "aa8bf5809b884f6904ec53398675e938417d7a65"
+                    "shasum": "c151bcec15b355133e09da94ed9eb4b7ecd7e99c"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -8715,6 +8780,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -8753,19 +8819,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta7",
                 "version_normalized": "1.5.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "da4e5b92e67474d8e4a856fca2e5256a95af553a"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta7-eca356.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta7-eca356.tar",
                     "reference": "da4e5b92e67474d8e4a856fca2e5256a95af553a",
-                    "shasum": "b4912a0e31914868ea6768074ac5c7235234d33c"
+                    "shasum": "9aa332d2ad6dc291992249d04593f428ca155600"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -8904,6 +8970,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -8943,19 +9010,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta8",
                 "version_normalized": "1.5.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "bfef25872a28c9b1e2e3202c644456772d87c0ed"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta8-c5628b.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta8-c5628b.tar",
                     "reference": "bfef25872a28c9b1e2e3202c644456772d87c0ed",
-                    "shasum": "9504f1a6611c6ce845291a3bb7768ceb78c97218"
+                    "shasum": "8ce3de638287c58eb129062eaea072a6625f233d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -9094,6 +9161,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -9134,19 +9202,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.0-beta9",
                 "version_normalized": "1.5.0.0-beta9",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "6a59818bfcaa9572eca620bf6dc948471db5590c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta9-039a2c.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.0-beta9-039a2c.tar",
                     "reference": "6a59818bfcaa9572eca620bf6dc948471db5590c",
-                    "shasum": "84db5a549fcc5f7aeeb99c12f1e9440eb7e5974d"
+                    "shasum": "54b65d85f1793a83727a1d646e76c43573dbb9c3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -9285,6 +9353,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -9324,19 +9393,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.1",
                 "version_normalized": "1.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3af5dea508ff0b75d03e53676273b94c0bf3e7b9"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.1-d04f38.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.1-d04f38.tar",
                     "reference": "3af5dea508ff0b75d03e53676273b94c0bf3e7b9",
-                    "shasum": "26ffb8768adc529a7499d6164c4c8ca2afd125e3"
+                    "shasum": "5df30c8b964a7d64bfa354ba23b26958947715a9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -9483,6 +9552,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -9522,19 +9592,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.5.1-beta1",
                 "version_normalized": "1.5.1.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "b0b8208447d24e1542fcb65fd7f9a91c264148b2"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.1-beta1-97ce34.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.5.1-beta1-97ce34.tar",
                     "reference": "b0b8208447d24e1542fcb65fd7f9a91c264148b2",
-                    "shasum": "3a51debe677c84853130e09ca2c5aa84274d3ae6"
+                    "shasum": "7d2a9fb23a4eb13465dfce5bf4a15e17ef13b53d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -9681,6 +9751,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -9720,19 +9791,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.6.0",
                 "version_normalized": "1.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "1c1d38dce7684cc8d261d13d6d29a231dbd2e972"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.6.0-242e01.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.6.0-242e01.tar",
                     "reference": "1c1d38dce7684cc8d261d13d6d29a231dbd2e972",
-                    "shasum": "f02cf4a8357c46c4287286e0ac0487b2cf653882"
+                    "shasum": "c2b38d7ec7869ef4db972affb0b00ccde634a294"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -9879,6 +9950,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -9918,19 +9990,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.6.0-beta1",
                 "version_normalized": "1.6.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "1e9b265482e4108f01dbf0fe7504724d678cbb8d"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.6.0-beta1-e72a0f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.6.0-beta1-e72a0f.tar",
                     "reference": "1e9b265482e4108f01dbf0fe7504724d678cbb8d",
-                    "shasum": "22c95d9a284833dda65c420abe0cc64cca678442"
+                    "shasum": "d31b00a7df0298f898c71419e738bedad06c911c"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -10077,6 +10149,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -10116,19 +10189,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.6.0-beta2",
                 "version_normalized": "1.6.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "d4ac14d63baedcdc9ac4a18f63ec42cedc5daf16"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.6.0-beta2-69ffea.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.6.0-beta2-69ffea.tar",
                     "reference": "d4ac14d63baedcdc9ac4a18f63ec42cedc5daf16",
-                    "shasum": "decb0b1d4c7709690b5cab593578c1e4750359c5"
+                    "shasum": "fd258756064421fb02bfd5410fb5688a87db1245"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -10275,6 +10348,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -10314,19 +10388,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.6.1-beta1",
                 "version_normalized": "1.6.1.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "fc894b4d13b7320d37ba8b4826e9001d05709d84"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.6.1-beta1-af7ae0.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.6.1-beta1-af7ae0.tar",
                     "reference": "fc894b4d13b7320d37ba8b4826e9001d05709d84",
-                    "shasum": "1eecac0c32829ff4801d85ad738714183a909407"
+                    "shasum": "4c004a22449cbcd8b9831e36fe55b39d1cb4aaae"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -10474,6 +10548,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -10513,19 +10588,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0",
                 "version_normalized": "1.7.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "21b81e5b0b1dbaa06049c2b997bd7a7ab4889b28"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-704b8f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-704b8f.tar",
                     "reference": "21b81e5b0b1dbaa06049c2b997bd7a7ab4889b28",
-                    "shasum": "6d037661df3f9ca353573808b838b749f9ff8965"
+                    "shasum": "4721989f67b8bf5cc513d5476522ec2a6a9bc7fc"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -10670,6 +10745,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -10709,19 +10785,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta1",
                 "version_normalized": "1.7.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "b2bc24a7decca7249aa531ca7e99e10e527b5e3c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta1-be2b9a.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta1-be2b9a.tar",
                     "reference": "b2bc24a7decca7249aa531ca7e99e10e527b5e3c",
-                    "shasum": "85614d1972a0bb304cd60fcd27cbc7def031a345"
+                    "shasum": "9217f2fb4d909429e54625f328771966f2ea58c3"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -10868,6 +10944,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -10907,19 +10984,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta2",
                 "version_normalized": "1.7.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "c15dd5d2ba1e16ea3de05daad594df5e4c8a3f88"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta2-93e3b4.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta2-93e3b4.tar",
                     "reference": "c15dd5d2ba1e16ea3de05daad594df5e4c8a3f88",
-                    "shasum": "54c53d0c9a4c35f64b167e17d5e335f42841a4e0"
+                    "shasum": "bd7855b8fd3881152e9905399e096765e2aaa5cd"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -11066,6 +11143,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -11105,19 +11183,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta3",
                 "version_normalized": "1.7.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "e49bccfb6ac7ef04f05498de4e407e7b390990ab"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta3-1cc546.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta3-1cc546.tar",
                     "reference": "e49bccfb6ac7ef04f05498de4e407e7b390990ab",
-                    "shasum": "16f7e1d9669f25986a74df209fa029b4de577444"
+                    "shasum": "5b85fae81979455ca5728c2007ead586bf69a3b4"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -11265,6 +11343,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -11304,19 +11383,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta4",
                 "version_normalized": "1.7.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "3e5c4019af84e1ee69993df10a504d85d64cc92f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta4-470f45.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta4-470f45.tar",
                     "reference": "3e5c4019af84e1ee69993df10a504d85d64cc92f",
-                    "shasum": "c9e047d3c9318e8e191050109697c4a08279ed29"
+                    "shasum": "2d9ae61e0e8a263e3545d67f46670c0de8bf49b9"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -11461,6 +11540,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -11500,19 +11580,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta5",
                 "version_normalized": "1.7.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "63ff37b4d9da5dc2e43662362a1044233d6f8d01"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta5-d3dfd0.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta5-d3dfd0.tar",
                     "reference": "63ff37b4d9da5dc2e43662362a1044233d6f8d01",
-                    "shasum": "38b2e9922f78a970763ea5eefb7b8fccd637e68c"
+                    "shasum": "f4310243bf42473d46c824eb05e833507adbcd9a"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -11658,6 +11738,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -11697,19 +11778,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta6",
                 "version_normalized": "1.7.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "83dc5b67e34b3fa007891948f2cba1bec86b4ad5"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta6-1c716c.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta6-1c716c.tar",
                     "reference": "83dc5b67e34b3fa007891948f2cba1bec86b4ad5",
-                    "shasum": "f539f639bf77df4512b0fab56efc372818d31460"
+                    "shasum": "9bbdc5ff7d428c9b1e82d1936d8c685a870cd3d2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -11854,6 +11935,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -11893,19 +11975,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "1.7.0-beta7",
                 "version_normalized": "1.7.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "21b81e5b0b1dbaa06049c2b997bd7a7ab4889b28"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.7.0-beta7-704b8f.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-1.7.0-beta7-704b8f.tar",
                     "reference": "21b81e5b0b1dbaa06049c2b997bd7a7ab4889b28",
-                    "shasum": "a27b238cd899d0dc28a461a0562b262078245e1d"
+                    "shasum": "5cab20a8ea0a797945646430fe95566c70d2436f"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -12050,6 +12132,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -12089,19 +12172,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "2.0.0",
                 "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "dab9f687243a84eef6db26b9451c45cbc7ca332c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-2.0.0-ae6cea.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-2.0.0-ae6cea.tar",
                     "reference": "dab9f687243a84eef6db26b9451c45cbc7ca332c",
-                    "shasum": "2a54ba9f83226c34ecdfb0636744b26b8143998e"
+                    "shasum": "699b82d62450db3a547a331555cf04f9254442a7"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -12246,6 +12329,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -12285,19 +12369,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "2.0.0-beta1",
                 "version_normalized": "2.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "e194dbdea3c9dbe4b20e52c321ba5dbd4e68cb2b"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-2.0.0-beta1-daeba2.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-2.0.0-beta1-daeba2.tar",
                     "reference": "e194dbdea3c9dbe4b20e52c321ba5dbd4e68cb2b",
-                    "shasum": "676a6a9abcbb26b9f39aa72f3b4fdf56a3ffe73e"
+                    "shasum": "760d40774cd13faf19ffeb601502eead4048f2ed"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -12442,6 +12526,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -12481,19 +12566,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "2.0.0-beta2",
                 "version_normalized": "2.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "e36f5f1d63728a666fb90de9d989d2385ae36c4a"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-2.0.0-beta2-b52821.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-2.0.0-beta2-b52821.tar",
                     "reference": "e36f5f1d63728a666fb90de9d989d2385ae36c4a",
-                    "shasum": "be6189499e41d943e0e6bd4238ae584dae33a009"
+                    "shasum": "9e1160a8ec0f73e2aea4a65cedbd8379eef1b0ad"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -12638,6 +12723,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -12677,19 +12763,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "2.0.0-beta3",
                 "version_normalized": "2.0.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "84d0b15ba7bdb3595ff7d07b9e598aa9129d37f5"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-2.0.0-beta3-ff9819.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-2.0.0-beta3-ff9819.tar",
                     "reference": "84d0b15ba7bdb3595ff7d07b9e598aa9129d37f5",
-                    "shasum": "4b195424335f3b9302d4a12250668ecbde871e0e"
+                    "shasum": "11d27264158401efc275e382c6135c7fbc4a07c6"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -12834,6 +12920,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -12873,19 +12960,19 @@
                 "description": "Drupal composer project"
             },
             {
-                "name": "numiko/drupal-9-composer-template",
+                "name": "numiko/drupal-composer-template",
                 "version": "2.0.0-beta4",
                 "version_normalized": "2.0.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
                     "reference": "dab9f687243a84eef6db26b9451c45cbc7ca332c"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-2.0.0-beta4-ae6cea.tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-2.0.0-beta4-ae6cea.tar",
                     "reference": "dab9f687243a84eef6db26b9451c45cbc7ca332c",
-                    "shasum": "0b7537cb9eb85ef293dab5b9c3d311270568353c"
+                    "shasum": "55b5932cea7db03b10194f0a809ca39536866ead"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -13030,6 +13117,7 @@
                         }
                     }
                 },
+                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -13055,6 +13143,198 @@
                         "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
                         "bash scripts/composer/download-docker",
                         "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Numiko",
+                        "role": ""
+                    }
+                ],
+                "description": "Drupal composer project"
+            },
+            {
+                "name": "numiko/drupal-composer-template",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
+                    "reference": "becc2896efd1b7845d125121551dc87d8cf54a07"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-composer-template/numiko-drupal-composer-template-3.0.0-6aa264.tar",
+                    "reference": "becc2896efd1b7845d125121551dc87d8cf54a07",
+                    "shasum": "8da241736fcfcbb72fa3abadfe1e6dfdf3181b30"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/ckeditor_link_styles": "^1.0",
+                    "drupal/ckeditor_quote": "^3.0",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^2.0@alpha",
+                    "drupal/core-composer-scaffold": "^10.2",
+                    "drupal/core-recommended": "^10.2",
+                    "drupal/cshs": "^4.0",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/entity_reference_unpublished": "^2.0",
+                    "drupal/entity_type_clone": "^4.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^2.0",
+                    "drupal/focal_point": "^2.0",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^2.0",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_admin_per_menu": "^1.5",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/menu_link_weight": "^1.0",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/moderated_content_bulk_publish": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_read_time": "^1.13",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/paragraphs_ee": "^10.0",
+                    "drupal/password_policy": "^4.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/quick_node_clone": "^1.18",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/responsive_table_filter": "^2.0",
+                    "drupal/scheduler": "^2.0",
+                    "drupal/scheduler_content_moderation_integration": "^2.0@beta",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^2.0",
+                    "drupal/stage_file_proxy": "^2.0",
+                    "drupal/time_field": "^2.1",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/vite": "^1.0",
+                    "drupal/webform": "^6.2",
+                    "drush/drush": "^12",
+                    "numiko/csp_per_page": "*",
+                    "numiko/form_ui": "^2.5",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^3.2",
+                    "numiko/limit_entity_reference_items": "^1.3.3",
+                    "numiko/listings_filter": "^4.1",
+                    "numiko/media_gallery": "^1.3.1",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/numidemo": "^2.0",
+                    "numiko/personas": "^1.3",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/search_exclude_moderation": "^1.0",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^2.3.0",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/twig_media": "^1.1",
+                    "numiko/twig_vite_asset": "^1.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
+                    "platformsh/config-reader": "^2.4",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^10.2",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2024-02-28T10:16:03+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
+                        ]
+                    },
+                    "patches": []
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master"
                     ]
                 },
                 "license": [
