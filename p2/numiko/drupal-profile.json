@@ -40,7 +40,6 @@
                 },
                 "time": "2024-02-28T15:44:05+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

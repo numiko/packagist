@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "37f2e390f71dcb04d04e6127dc480abe605d0d0d"
+                    "reference": "a448aff44f2d0d696268e420f0f962c0e3f7a034"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -78,20 +78,21 @@
                     "drupal/vite": "^1.0",
                     "drupal/webform": "^6.2",
                     "drush/drush": "^12",
-                    "numiko/csp_per_page": "*",
+                    "numiko/csp_per_page": "^8.5",
+                    "numiko/drupal-profile": "^3.0",
                     "numiko/form_ui": "^2.5",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^3.2",
-                    "numiko/limit_entity_reference_items": "^1.3.3",
+                    "numiko/limit_entity_reference_items": "^1.3",
                     "numiko/listings_filter": "^4.1",
-                    "numiko/media_gallery": "^1.3.1",
+                    "numiko/media_gallery": "^1.3",
                     "numiko/media_video_id": "^1.2",
                     "numiko/numidemo": "^2.0",
                     "numiko/personas": "^1.3",
                     "numiko/responsive_image_class": "^1.2",
                     "numiko/search_exclude_moderation": "^1.0",
                     "numiko/security_checker": "^1.0",
-                    "numiko/site_alerts": "^2.3.0",
+                    "numiko/site_alerts": "^2.3",
                     "numiko/slice_jump_links": "^8.4",
                     "numiko/twig_field_values": "^3.0",
                     "numiko/twig_media": "^1.1",
@@ -111,7 +112,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-02-28T15:33:13+00:00",
+                "time": "2024-02-28T16:18:32+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
