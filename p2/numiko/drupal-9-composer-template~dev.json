@@ -198,7 +198,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "5388aaf9cb562408761bce2e552802556dfecb0e"
+                    "reference": "8c7c5f6a8a524e237014b90479c9cecb0eb4bfcd"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -301,7 +301,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-02-26T13:38:49+00:00",
+                "time": "2024-02-28T09:47:23+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -360,7 +360,9 @@
                     "post-create-project-cmd": [
                         "Composer\\Config::disableProcessTimeout",
                         "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
-                        "bash scripts/composer/theme-install"
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
+                        "bash scripts/composer/clone-and-detatch git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master"
                     ]
                 },
                 "license": [
@@ -969,7 +971,6 @@
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
                 "time": "2023-07-26T08:39:12+00:00",
-                "default-branch": true,
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
