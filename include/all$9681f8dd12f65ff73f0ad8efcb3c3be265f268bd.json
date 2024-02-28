@@ -44287,7 +44287,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44401,7 +44400,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44515,7 +44513,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44629,7 +44626,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44743,7 +44739,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44857,7 +44852,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -44971,7 +44965,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45085,7 +45078,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45199,7 +45191,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45313,7 +45304,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45427,7 +45417,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45541,7 +45530,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45655,7 +45643,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45769,7 +45756,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45883,7 +45869,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -45997,7 +45982,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46111,7 +46095,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46230,7 +46213,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46344,7 +46326,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46458,7 +46439,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46572,7 +46552,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46686,7 +46665,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46800,7 +46778,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -46914,7 +46891,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47028,7 +47004,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47142,7 +47117,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47256,7 +47230,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47370,7 +47343,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47484,7 +47456,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47598,7 +47569,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47712,7 +47682,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47826,7 +47795,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47940,7 +47908,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48054,7 +48021,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48168,7 +48134,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48282,7 +48247,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48396,7 +48360,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48510,7 +48473,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48624,7 +48586,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48738,7 +48699,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48852,7 +48812,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -48966,7 +48925,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49080,7 +49038,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49194,7 +49151,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49308,7 +49264,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49422,7 +49377,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49536,7 +49490,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49650,7 +49603,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49764,7 +49716,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -49961,7 +49912,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -50077,7 +50027,6 @@
                         ]
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -50267,7 +50216,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -50458,7 +50406,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -50650,7 +50597,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -50843,7 +50789,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -51039,7 +50984,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -51233,7 +51177,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -51428,7 +51371,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -51626,7 +51568,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -51824,7 +51765,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52023,7 +51963,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52220,7 +52159,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52417,7 +52355,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52603,7 +52540,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52801,7 +52737,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -52991,7 +52926,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -53181,7 +53115,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -53372,7 +53305,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -53564,7 +53496,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -53763,7 +53694,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -53962,7 +53892,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -54161,7 +54090,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -54360,7 +54288,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -54559,7 +54486,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -54759,7 +54685,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -54956,7 +54881,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -55155,7 +55079,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -55354,7 +55277,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -55554,7 +55476,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -55751,7 +55672,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -55949,7 +55869,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -56146,7 +56065,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -56343,7 +56261,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -56540,7 +56457,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -56737,7 +56653,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -56934,7 +56849,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -57131,7 +57045,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -57328,7 +57241,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -57519,7 +57431,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -58124,6 +58035,48 @@
                     }
                 ],
                 "description": "Drupal composer project"
+            }
+        },
+        "numiko/drupal-profile": {
+            "3.0.0-beta1": {
+                "name": "numiko/drupal-profile",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "fc4fdc4af193a5210a17465afdda487e3fcd9d8f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-profile/numiko-drupal-profile-3.0.0-beta1-d13c55.tar",
+                    "reference": "fc4fdc4af193a5210a17465afdda487e3fcd9d8f",
+                    "shasum": "574fab664efd084d70b9838a264a626642dba9c5"
+                },
+                "time": "2024-02-28T14:16:07+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "dev-release/3.0": {
+                "name": "numiko/drupal-profile",
+                "version": "dev-release/3.0",
+                "version_normalized": "dev-release/3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "fc4fdc4af193a5210a17465afdda487e3fcd9d8f"
+                },
+                "time": "2024-02-28T14:16:07+00:00",
+                "default-branch": true,
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
             }
         },
         "numiko/duration": {

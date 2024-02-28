@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$32622b1144d3014fed80554e866f12d66d5ed4c7.json": {
-            "sha1": "32622b1144d3014fed80554e866f12d66d5ed4c7"
+        "include/all$9681f8dd12f65ff73f0ad8efcb3c3be265f268bd.json": {
+            "sha1": "9681f8dd12f65ff73f0ad8efcb3c3be265f268bd"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -33,6 +33,7 @@
         "numiko/drupal-8-composer-template",
         "numiko/drupal-9-composer-template",
         "numiko/drupal-composer-template",
+        "numiko/drupal-profile",
         "numiko/duration",
         "numiko/enforceuserlogincsrf",
         "numiko/entity-reference-revisions-context",
