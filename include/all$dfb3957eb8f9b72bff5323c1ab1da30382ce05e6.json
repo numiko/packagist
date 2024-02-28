@@ -24002,7 +24002,6 @@
                 },
                 "time": "2024-02-28T14:16:07+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -42606,7 +42605,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -47691,7 +47689,6 @@
                 },
                 "time": "2024-02-28T10:31:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -49540,7 +49537,6 @@
                 },
                 "time": "2024-02-28T10:30:50+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Functional Test With Whole Site Config"
             },
             "3.3.1-beta1": {
