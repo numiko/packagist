@@ -57431,7 +57431,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -58061,6 +58060,29 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
+            "3.0.0-beta2": {
+                "name": "numiko/drupal-profile",
+                "version": "3.0.0-beta2",
+                "version_normalized": "3.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "4f3aec37ede4f4ef427765886fb6c84461c00fab"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-profile/numiko-drupal-profile-3.0.0-beta2-4e1938.tar",
+                    "reference": "4f3aec37ede4f4ef427765886fb6c84461c00fab",
+                    "shasum": "5ad956bde98681f94c2b82f320963e9fb7bcbc53"
+                },
+                "time": "2024-02-28T15:44:05+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "dev-release/3.0": {
                 "name": "numiko/drupal-profile",
                 "version": "dev-release/3.0",
@@ -58068,9 +58090,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "fc4fdc4af193a5210a17465afdda487e3fcd9d8f"
+                    "reference": "4f3aec37ede4f4ef427765886fb6c84461c00fab"
                 },
-                "time": "2024-02-28T14:16:07+00:00",
+                "time": "2024-02-28T15:44:05+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "license": [
