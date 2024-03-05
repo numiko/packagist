@@ -25,6 +25,29 @@
             },
             {
                 "name": "drupal/redirect_page_access",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-page-access.git",
+                    "reference": "54948717f1ff4c19c068705805a357168e0ac979"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/drupal/redirect_page_access/drupal-redirect_page_access-1.1.0-4241e3.tar",
+                    "reference": "54948717f1ff4c19c068705805a357168e0ac979",
+                    "shasum": "8288201fb494539cd17f7cc8c9825a122b0c2437"
+                },
+                "time": "2024-03-05T20:55:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Redirect pages to an alternative page based on bundle or field value"
+            },
+            {
+                "name": "drupal/redirect_page_access",
                 "version": "1.1.0-beta1",
                 "version_normalized": "1.1.0.0-beta1",
                 "source": {

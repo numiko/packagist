@@ -24,9 +24,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-page-access.git",
-                    "reference": "8fb375f09e4ead6537d4a79e7e671b4ecac04439"
+                    "reference": "54948717f1ff4c19c068705805a357168e0ac979"
                 },
-                "time": "2023-12-14T09:14:59+00:00",
+                "time": "2024-03-05T20:55:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
