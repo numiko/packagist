@@ -1332,7 +1332,6 @@
                 },
                 "time": "2024-03-27T20:25:30+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
