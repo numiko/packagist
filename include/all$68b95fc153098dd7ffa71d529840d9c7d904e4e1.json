@@ -64559,6 +64559,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/query-plugin": {
+                "name": "numiko/listing_template",
+                "version": "dev-feature/query-plugin",
+                "version_normalized": "dev-feature/query-plugin",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listing-template.git",
+                    "reference": "9268f2d7c3b8402980e0dbb21747af4e51d9ca94"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2024-04-05T11:38:36+00:00",
+                "type": "drupal-module",
+                "description": "Provides a twig filter to display entities retrieved from the listing API.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/listing_template",
                 "version": "dev-main",
@@ -66005,7 +66024,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "b319954bce416b679e251d55d6c5efa87bf26ce2"
+                    "reference": "083c2018669599cd865fc30a1be8e7b273fed474"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -66014,7 +66033,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-03-27T20:24:26+00:00",
+                "time": "2024-04-05T10:42:34+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -66024,14 +66043,14 @@
                     "Drupal"
                 ]
             },
-            "dev-fix/missing-original-object": {
+            "dev-feature/query-plugin": {
                 "name": "numiko/listings_filter",
-                "version": "dev-fix/missing-original-object",
-                "version_normalized": "dev-fix/missing-original-object",
+                "version": "dev-feature/query-plugin",
+                "version_normalized": "dev-feature/query-plugin",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "4d622248ef1687a216f98cbaeabf15ef276c4ffe"
+                    "reference": "66ae50cdd4da27aa7687d109ca3f07e8d4a374ec"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -66040,7 +66059,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-03-28T14:44:39+00:00",
+                "time": "2024-04-05T11:31:06+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -66224,6 +66243,30 @@
                     "numiko/listings_filter": "^4.2.0"
                 },
                 "time": "2024-03-14T15:23:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds support for queries using a pinecone search_api index",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/query-plugin": {
+                "name": "numiko/listings_filter_pinecone",
+                "version": "dev-feature/query-plugin",
+                "version_normalized": "dev-feature/query-plugin",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter-pinecone.git",
+                    "reference": "85b1e5647341f72c259cadfbc47070c3c4d9e139"
+                },
+                "require": {
+                    "drupal/openai": "1.0.x-dev#e2cfeaf29c4e46401586d936f2dc04015bcaad7d",
+                    "drupal/search_api_ai": "1.0.x-dev#4445c809b173315805ff47522e1d34b25ef7f8aa",
+                    "numiko/listings_filter": "^4.2.0"
+                },
+                "time": "2024-04-05T11:35:48+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -76234,9 +76277,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "5b4e4f0c57f2b3d64c3acb02148c3ed14f53e077"
+                    "reference": "12b27e0a9d0ee55ff8940d0ae76565a35f434a50"
                 },
-                "time": "2024-03-28T14:57:40+00:00",
+                "time": "2024-04-05T08:09:13+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
