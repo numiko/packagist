@@ -66283,6 +66283,37 @@
                     "Drupal"
                 ]
             },
+            "0.3.0-beta1": {
+                "name": "numiko/listings_filter_pinecone",
+                "version": "0.3.0-beta1",
+                "version_normalized": "0.3.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter-pinecone.git",
+                    "reference": "85b1e5647341f72c259cadfbc47070c3c4d9e139"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter_pinecone/numiko-listings_filter_pinecone-0.3.0-beta1-5b65cc.tar",
+                    "reference": "85b1e5647341f72c259cadfbc47070c3c4d9e139",
+                    "shasum": "c9b43602c57291c2b18733d19f2deab606bfbb9a"
+                },
+                "require": {
+                    "drupal/openai": "1.0.x-dev#e2cfeaf29c4e46401586d936f2dc04015bcaad7d",
+                    "drupal/search_api_ai": "1.0.x-dev#4445c809b173315805ff47522e1d34b25ef7f8aa",
+                    "numiko/listings_filter": "^4.2.0"
+                },
+                "time": "2024-04-05T11:35:48+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds support for queries using a pinecone search_api index",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/query-plugin": {
                 "name": "numiko/listings_filter_pinecone",
                 "version": "dev-feature/query-plugin",
