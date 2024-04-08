@@ -64559,6 +64559,32 @@
                     "Drupal"
                 ]
             },
+            "1.1.0-beta1": {
+                "name": "numiko/listing_template",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listing-template.git",
+                    "reference": "9268f2d7c3b8402980e0dbb21747af4e51d9ca94"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listing_template/numiko-listing_template-1.1.0-beta1-6f65f0.tar",
+                    "reference": "9268f2d7c3b8402980e0dbb21747af4e51d9ca94",
+                    "shasum": "89554ebca59d5d52ec8a96cbbde214c35716af5a"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2024-04-05T11:38:36+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a twig filter to display entities retrieved from the listing API.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/query-plugin": {
                 "name": "numiko/listing_template",
                 "version": "dev-feature/query-plugin",
@@ -65939,6 +65965,39 @@
                     "Drupal"
                 ]
             },
+            "4.3.0-beta5": {
+                "name": "numiko/listings_filter",
+                "version": "4.3.0-beta5",
+                "version_normalized": "4.3.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "1a4bee0a00e4bea888bbe7161bd62508a16837be"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-4.3.0-beta5-fadfb3.tar",
+                    "reference": "1a4bee0a00e4bea888bbe7161bd62508a16837be",
+                    "shasum": "283962c6e869cdb98056ea8aa881992302391112"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2024-04-08T10:31:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/api": {
                 "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
@@ -66024,7 +66083,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "083c2018669599cd865fc30a1be8e7b273fed474"
+                    "reference": "1a4bee0a00e4bea888bbe7161bd62508a16837be"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -66033,33 +66092,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-04-05T10:42:34+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/query-plugin": {
-                "name": "numiko/listings_filter",
-                "version": "dev-feature/query-plugin",
-                "version_normalized": "dev-feature/query-plugin",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "66ae50cdd4da27aa7687d109ca3f07e8d4a374ec"
-                },
-                "require": {
-                    "drupal/core": "^9.4 || ^10.0",
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24",
-                    "webmozart/path-util": "^2.1.0"
-                },
-                "time": "2024-04-05T11:31:06+00:00",
+                "time": "2024-04-08T10:31:39+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
