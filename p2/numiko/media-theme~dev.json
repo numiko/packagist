@@ -3,6 +3,25 @@
         "numiko/media-theme": [
             {
                 "name": "numiko/media-theme",
+                "version": "dev-feature/config-menu",
+                "version_normalized": "dev-feature/config-menu",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-theme.git",
+                    "reference": "2851d38957e559b4f564f5b9a18a34e505a08936"
+                },
+                "time": "2024-04-09T14:21:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Helper utilities for media theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media-theme",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
