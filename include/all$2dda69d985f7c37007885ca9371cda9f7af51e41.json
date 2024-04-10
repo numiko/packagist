@@ -63902,6 +63902,30 @@
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
             },
+            "3.4.0": {
+                "name": "numiko/integration_tests",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "dd0de11510e9e4f8ae50b98244cff0d5b9405b7c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-3.4.0-7dccca.tar",
+                    "reference": "dd0de11510e9e4f8ae50b98244cff0d5b9405b7c",
+                    "shasum": "2dd4205fe981c3163500601f8db3173d97c08adc"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2024-04-10T12:37:20+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Functional Test With Whole Site Config"
+            },
             "dev-feature/boilerplate-tests": {
                 "name": "numiko/integration_tests",
                 "version": "dev-feature/boilerplate-tests",
@@ -63977,13 +64001,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "3e07d09d5d3e2410e2c341b140b933a3f5781fda"
+                    "reference": "dd0de11510e9e4f8ae50b98244cff0d5b9405b7c"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^2.0"
                 },
-                "time": "2024-02-28T10:30:50+00:00",
+                "time": "2024-04-10T12:37:20+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
