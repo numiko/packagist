@@ -28,6 +28,32 @@
             },
             {
                 "name": "numiko/media-theme",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-theme.git",
+                    "reference": "1a3f1cc7ac42bc28407a737b860a0909a146203b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media-theme/numiko-media-theme-1.1.0-e99539.tar",
+                    "reference": "1a3f1cc7ac42bc28407a737b860a0909a146203b",
+                    "shasum": "c92832c2a4988c85f64b068d0ea44f10682038fb"
+                },
+                "time": "2024-04-12T14:34:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Helper utilities for media theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media-theme",
                 "version": "1.1.0-beta1",
                 "version_normalized": "1.1.0.0-beta1",
                 "source": {
