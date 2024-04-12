@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
-                    "reference": "cc2af3eac57d3acd1cfcfaae1fa748a3a7395dd7"
+                    "reference": "5fbe3c3a28850f904e9f7a04563c9ce5eb19a8e8"
                 },
-                "time": "2019-03-14T17:24:20+00:00",
+                "time": "2024-04-12T15:22:10+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Redirect unpublished nodes if they have a redirect"
