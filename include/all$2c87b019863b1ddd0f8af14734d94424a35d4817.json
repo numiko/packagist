@@ -58414,7 +58414,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -66656,6 +66655,32 @@
                     "Drupal"
                 ]
             },
+            "1.1.1": {
+                "name": "numiko/media-theme",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-theme.git",
+                    "reference": "7dc39afa9a1fe2cbb25635d8edefd5edb4be3f09"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media-theme/numiko-media-theme-1.1.1-12574d.tar",
+                    "reference": "7dc39afa9a1fe2cbb25635d8edefd5edb4be3f09",
+                    "shasum": "41950daacdcbf75caa416658a51b5354b97daf8e"
+                },
+                "time": "2024-04-24T11:26:30+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Helper utilities for media theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/config-menu": {
                 "name": "numiko/media-theme",
                 "version": "dev-feature/config-menu",
@@ -66682,9 +66707,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-theme.git",
-                    "reference": "1a3f1cc7ac42bc28407a737b860a0909a146203b"
+                    "reference": "7dc39afa9a1fe2cbb25635d8edefd5edb4be3f09"
                 },
-                "time": "2024-04-12T14:34:55+00:00",
+                "time": "2024-04-24T11:26:30+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
