@@ -60,6 +60,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/alignment",
+                "version_normalized": "dev-feature/alignment",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "fd84385d419764a46720b307aa5b0a83a16ceffb"
+                },
+                "time": "2024-05-01T10:27:22+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/demo_site_update",
                 "version_normalized": "dev-feature/demo_site_update",
                 "source": {
