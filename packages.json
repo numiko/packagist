@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$cc4ea8d5548ec3ba6d5e2d59bd8af4bd8bf0131f.json": {
-            "sha1": "cc4ea8d5548ec3ba6d5e2d59bd8af4bd8bf0131f"
+        "include/all$2174c75d65114c3169c2abf547c053f83af67445.json": {
+            "sha1": "2174c75d65114c3169c2abf547c053f83af67445"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -84,6 +84,7 @@
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",
         "numiko/pet-importer",
+        "numiko/purge_url_queuer",
         "numiko/random_number_field",
         "numiko/redirect_unpublished",
         "numiko/reference_views_filter",
