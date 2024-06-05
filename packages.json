@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0f424ab7d2811d92f7d23dcbdddd8def1d3a1311.json": {
-            "sha1": "0f424ab7d2811d92f7d23dcbdddd8def1d3a1311"
+        "include/all$f48100a5eed131b2929f35c77274cd3ee5cd905f.json": {
+            "sha1": "f48100a5eed131b2929f35c77274cd3ee5cd905f"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -16,6 +16,7 @@
         "numiko/adestra",
         "numiko/collections-api",
         "numiko/content_bulk_update",
+        "numiko/content_dashboards",
         "numiko/csp_per_page",
         "numiko/custom-block-permissions",
         "numiko/custom-caption-filter",

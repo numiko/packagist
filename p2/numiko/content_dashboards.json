@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/content_dashboards": [
+            {
+                "name": "numiko/content_dashboards",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-dashboards.git",
+                    "reference": "581ce8c4d7a4ab4c81fde840721d74e393c95e6d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_dashboards/numiko-content_dashboards-1.0.0-beta1-6841b5.tar",
+                    "reference": "581ce8c4d7a4ab4c81fde840721d74e393c95e6d",
+                    "shasum": "cfcda286474a45c6e1b7fd154ec593e533c67252"
+                },
+                "time": "2024-05-31T14:27:12+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Adds content dashboards to be used / modified for a project",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}

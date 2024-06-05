@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/content_dashboards": [
+            {
+                "name": "numiko/content_dashboards",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-dashboards.git",
+                    "reference": "377863fea14dbf01b7f2d32ee475f0262a4bc74d"
+                },
+                "time": "2024-06-05T14:03:21+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Adds content dashboards to be used / modified for a project",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}
