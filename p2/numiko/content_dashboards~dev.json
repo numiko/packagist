@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-dashboards.git",
-                    "reference": "377863fea14dbf01b7f2d32ee475f0262a4bc74d"
+                    "reference": "0608d8a66222b48509ea157a59053e7c569cd37b"
                 },
-                "time": "2024-06-05T14:03:21+00:00",
+                "time": "2024-06-05T14:34:43+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
