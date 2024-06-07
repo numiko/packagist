@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$53c996c9eed66778510442453a956376933089c0.json": {
-            "sha1": "53c996c9eed66778510442453a956376933089c0"
+        "include/all$4ae2c18cc95575fd074fec3d4e8c0b23f6256017.json": {
+            "sha1": "4ae2c18cc95575fd074fec3d4e8c0b23f6256017"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -98,6 +98,7 @@
         "numiko/sensible_email_validation",
         "numiko/simple_domain_path",
         "numiko/site_alerts",
+        "numiko/site_settings",
         "numiko/site_tests",
         "numiko/slice",
         "numiko/slice_jump_links",
