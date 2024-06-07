@@ -60,36 +60,17 @@
             },
             {
                 "name": "numiko/site_alerts",
-                "version": "dev-hotfix/add-node-cache-tags-to-block",
-                "version_normalized": "dev-hotfix/add-node-cache-tags-to-block",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "5dbe434982078d6a8917156dd670b2c558f7e3f0"
-                },
-                "require": {
-                    "php": ">=5.6.0"
-                },
-                "time": "2024-06-03T15:49:08+00:00",
-                "type": "drupal-module",
-                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/site_alerts",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-alerts.git",
-                    "reference": "8a6bea16eeeb9cf570e08f869b426866d5a39361"
+                    "reference": "4916b4c6fa7f59008fa099a58a626bdbe31aa1e0"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2024-06-03T16:07:46+00:00",
+                "time": "2024-06-07T08:18:27+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
