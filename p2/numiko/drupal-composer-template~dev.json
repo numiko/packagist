@@ -194,7 +194,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "5385296f39aedcff12b2434db205b394706ee70b"
+                    "reference": "dec2bf5b7dfd122e170e185875d06e95b04d111d"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -280,6 +280,7 @@
                     "numiko/search_exclude_moderation": "^1.0",
                     "numiko/security_checker": "^1.0",
                     "numiko/site_alerts": "^2.3",
+                    "numiko/site_settings": "^1.1",
                     "numiko/slice_jump_links": "^8.4",
                     "numiko/twig_field_values": "^3.0",
                     "numiko/twig_media": "^1.1",
@@ -299,7 +300,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-06-04T13:43:29+00:00",
+                "time": "2024-06-07T14:25:02+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
