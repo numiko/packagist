@@ -13223,7 +13223,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -13418,7 +13417,6 @@
                     },
                     "patches": []
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
