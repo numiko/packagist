@@ -98,6 +98,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/layout-refactor",
+                "version_normalized": "dev-feature/layout-refactor",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "7908b18003ceb3fcabd984d1f560a5c198354254"
+                },
+                "time": "2024-06-11T14:24:22+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/sitekit",
                 "version_normalized": "dev-feature/sitekit",
                 "source": {
