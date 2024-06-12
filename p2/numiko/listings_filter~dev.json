@@ -112,7 +112,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "6ea383c2a57db558baec2184d5a593d2255c5ebd"
+                    "reference": "e04a8fb4e68b02ac028a4244378b38b35cdfa815"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -121,7 +121,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-06-11T14:57:58+00:00",
+                "time": "2024-06-12T08:04:33+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -187,7 +187,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "a3052cf1bd99e04c4a5372eed7dc7042a4d88fa8"
+                    "reference": "fc45ff8db22d719acfa427fe3da958390d22ed89"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
@@ -196,7 +196,7 @@
                     "drupal/search_api": "~1.24",
                     "webmozart/path-util": "^2.1.0"
                 },
-                "time": "2024-03-14T09:43:48+00:00",
+                "time": "2024-06-12T08:33:46+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"

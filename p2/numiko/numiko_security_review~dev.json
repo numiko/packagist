@@ -3,6 +3,19 @@
         "numiko/numiko_security_review": [
             {
                 "name": "numiko/numiko_security_review",
+                "version": "dev-IBET-158",
+                "version_normalized": "dev-IBET-158",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "fff685a200ff956b2f9fdb22be8ad8b4e7bf5095"
+                },
+                "time": "2024-06-12T14:46:57+00:00",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
