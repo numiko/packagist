@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "57f6d4a9cffe5556d5bda506bdff2e16824793a6"
+                    "reference": "3974c0bd9be9cfe8e4d07eaeda37b62d8b12f32f"
                 },
-                "time": "2024-06-13T15:54:12+00:00",
+                "time": "2024-06-14T15:37:11+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },
