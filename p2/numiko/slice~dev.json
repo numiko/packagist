@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "869664886a3418b2d498d823ea72f2a63482af2e"
+                    "reference": "3a063bfdb84f631cfe19d5a9800c050b29198465"
                 },
-                "time": "2022-10-03T15:10:05+00:00",
+                "time": "2024-06-17T15:59:30+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
