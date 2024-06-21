@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$5faf2b68967ccacf5f4e41017de3cd2da02f58ee.json": {
-            "sha1": "5faf2b68967ccacf5f4e41017de3cd2da02f58ee"
+        "include/all$307521783c1e17c8ea8ade19d7d518c98cadf02e.json": {
+            "sha1": "307521783c1e17c8ea8ade19d7d518c98cadf02e"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -63,6 +63,7 @@
         "numiko/listings_filter",
         "numiko/listings_filter_pinecone",
         "numiko/media-theme",
+        "numiko/media_code_embed",
         "numiko/media_gallery",
         "numiko/media_linkit",
         "numiko/media_responsive_thumbnail",
