@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-url-formatter.git",
-                    "reference": "5828b7de40602c42cb0f28033416d80c70a543fd"
+                    "reference": "641421a6ff7664cea12f65a5181be2cc83b8d4f7"
                 },
-                "time": "2022-09-05T10:16:26+00:00",
+                "time": "2024-06-21T14:37:41+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
