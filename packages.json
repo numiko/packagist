@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$199980d5e28b143d37c4e035cded91fcebfb10b4.json": {
-            "sha1": "199980d5e28b143d37c4e035cded91fcebfb10b4"
+        "include/all$ae69ec81915e9a6ba1847f2e121ebfce91ff4834.json": {
+            "sha1": "ae69ec81915e9a6ba1847f2e121ebfce91ff4834"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -72,6 +72,7 @@
         "numiko/media_video_preview",
         "numiko/media_wrapper_filter",
         "numiko/menu_block_view_modes",
+        "numiko/menu_ui_access",
         "numiko/migrate_group_ui",
         "numiko/minimal-date-fields",
         "numiko/minimum_breadcrumb",
