@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ae69ec81915e9a6ba1847f2e121ebfce91ff4834.json": {
-            "sha1": "ae69ec81915e9a6ba1847f2e121ebfce91ff4834"
+        "include/all$3cbb2561cd0a04a932931fdf34653b78ff71eb27.json": {
+            "sha1": "3cbb2561cd0a04a932931fdf34653b78ff71eb27"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -66,6 +66,7 @@
         "numiko/media_code_embed",
         "numiko/media_gallery",
         "numiko/media_linkit",
+        "numiko/media_remote_file",
         "numiko/media_responsive_thumbnail",
         "numiko/media_url_formatter",
         "numiko/media_video_id",
