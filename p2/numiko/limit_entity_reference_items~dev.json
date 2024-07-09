@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
-                    "reference": "040c1c40ef21e29a62ca34e5ac06580bac45ab0d"
+                    "reference": "80df397b7d76487e459c63b8ddff3f401dbc400c"
                 },
-                "time": "2024-01-11T08:50:10+00:00",
+                "time": "2024-07-09T11:00:18+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
