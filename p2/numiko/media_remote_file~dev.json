@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-remote-file.git",
-                    "reference": "cfd66038e1a333fed70f170fae36af8ab8a5b790"
+                    "reference": "845810e00d1ee81ecce6eaa7f3e3f8abe59839d6"
                 },
                 "require": {
                     "drupal/core": "^10.0"
                 },
-                "time": "2024-07-09T13:15:20+00:00",
+                "time": "2024-07-09T13:20:01+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Add remote video file urls as media"
