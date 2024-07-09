@@ -65,7 +65,6 @@
                 },
                 "time": "2024-07-09T13:20:01+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Add remote video file urls as media"
             }
         ]
