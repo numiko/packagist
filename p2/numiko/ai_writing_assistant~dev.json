@@ -1,0 +1,20 @@
+{
+    "packages": {
+        "numiko/ai_writing_assistant": [
+            {
+                "name": "numiko/ai_writing_assistant",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-writing-assistant.git",
+                    "reference": "d00dbe279e7af9a750ba188861abdd4d3348c4ec"
+                },
+                "time": "2024-07-11T08:05:39+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Drupal 10 module with AI prototypes"
+            }
+        ]
+    }
+}
