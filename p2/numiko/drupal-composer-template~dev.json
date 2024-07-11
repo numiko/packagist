@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "5cb60283b79e33b00c0a27a7fbfc10beda32f56b"
+                    "reference": "ba74e8fc6a15d537d6a6b9183068406ae482dfcf"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -81,6 +81,7 @@
                     "drupal/vite": "^1.0",
                     "drupal/webform": "^6.2",
                     "drush/drush": "^12",
+                    "numiko/ckeditor_lazysizes_support": "^1.0",
                     "numiko/csp_per_page": "^8.5",
                     "numiko/drupal-profile": "^3.0",
                     "numiko/form_ui": "^2.5",
@@ -88,9 +89,9 @@
                     "numiko/integration_tests": "^3.2",
                     "numiko/limit_entity_reference_items": "^1.3",
                     "numiko/listings_filter": "^4.1",
-                    "numiko/media_code_embed": "dev-main",
+                    "numiko/media_code_embed": "^1.0",
                     "numiko/media_gallery": "^1.3",
-                    "numiko/media_remote_file": "^1.0",
+                    "numiko/media_remote_file": "^1.2",
                     "numiko/media_video_id": "^1.2",
                     "numiko/numidemo": "^2.0",
                     "numiko/personas": "^1.3",
@@ -118,7 +119,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-07-11T11:16:11+00:00",
+                "time": "2024-07-11T11:25:17+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
