@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "5f066d3d2a45e417e66a4851094cb8c39715739e"
+                    "reference": "3f7abb6677e89edbc1e0c9d21dc7e0f7542bbdc4"
                 },
-                "time": "2024-07-09T16:47:23+00:00",
+                "time": "2024-07-11T19:00:08+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "license": [

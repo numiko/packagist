@@ -583,9 +583,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "8856c29c9a4472f260282bfc54bc777925b9088b"
+                    "reference": "7e82464637c8e2badc585c4896deb6a9cdb6e977"
                 },
-                "time": "2024-06-25T21:31:51+00:00",
+                "time": "2024-07-11T18:58:46+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
