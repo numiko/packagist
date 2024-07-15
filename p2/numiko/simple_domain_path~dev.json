@@ -29,6 +29,32 @@
             },
             {
                 "name": "numiko/simple_domain_path",
+                "version": "dev-feature/multiple-domain",
+                "version_normalized": "dev-feature/multiple-domain",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "914bcf30e8b442f76139ea1b4dcc28a5498cc5d4"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2024-07-15T15:33:31+00:00",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/simple_domain_path",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
