@@ -3,43 +3,17 @@
         "numiko/simple_domain_path": [
             {
                 "name": "numiko/simple_domain_path",
-                "version": "dev-feature/drupal-10",
-                "version_normalized": "dev-feature/drupal-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "069799cf4349a4f4ed9add466d5a29d0c43a21dd"
-                },
-                "require": {
-                    "php": ">=5.6.0"
-                },
-                "time": "2023-04-27T12:54:23+00:00",
-                "type": "drupal-module",
-                "extra": {
-                    "drush": {
-                        "services": {
-                            "drush.services.yml": "^9"
-                        }
-                    }
-                },
-                "description": "Allow paths per-domain",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/simple_domain_path",
                 "version": "dev-feature/multiple-domain",
                 "version_normalized": "dev-feature/multiple-domain",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "914bcf30e8b442f76139ea1b4dcc28a5498cc5d4"
+                    "reference": "432d7a409a23933a201bf9442d05c03fd0126190"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2024-07-15T15:33:31+00:00",
+                "time": "2024-07-16T10:52:46+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
@@ -60,13 +34,39 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "9ba48656f6cd43eccd77ed1f03aa49024d85cd96"
+                    "reference": "3663c48c9456e24736db7e67f8a7351b5111bc21"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2022-05-20T13:22:23+00:00",
+                "time": "2024-07-16T11:36:16+00:00",
                 "default-branch": true,
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/simple_domain_path",
+                "version": "dev-release/4.0",
+                "version_normalized": "dev-release/4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "3663c48c9456e24736db7e67f8a7351b5111bc21"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2024-07-16T11:36:16+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
