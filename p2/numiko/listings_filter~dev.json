@@ -81,6 +81,32 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/listings-without-a-paragraph",
+                "version_normalized": "dev-feature/listings-without-a-paragraph",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "8ce8ca34d4d97cd013628752c126c446a9009423"
+                },
+                "require": {
+                    "drupal/core": "^9.4 || ^10.0",
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24",
+                    "webmozart/path-util": "^2.1.0"
+                },
+                "time": "2024-07-17T12:25:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-fix/crash-content-type",
                 "version_normalized": "dev-fix/crash-content-type",
                 "source": {
