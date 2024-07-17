@@ -236,6 +236,39 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/simple_domain_path",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "ad8c2f96afeba05ae4aba23ea7ec7fe31d035140"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-4.0.0-9a2eed.tar",
+                    "reference": "ad8c2f96afeba05ae4aba23ea7ec7fe31d035140",
+                    "shasum": "5d7ab53df26ceb1f5a1b9694ef8ea42d075c9734"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2024-07-17T08:58:15+00:00",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

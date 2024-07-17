@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "432d7a409a23933a201bf9442d05c03fd0126190"
+                    "reference": "b5b2872348f96780d6bef67172ca2b1d7b1801af"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2024-07-16T10:52:46+00:00",
+                "time": "2024-07-17T08:56:58+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "3663c48c9456e24736db7e67f8a7351b5111bc21"
+                    "reference": "ad8c2f96afeba05ae4aba23ea7ec7fe31d035140"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2024-07-16T11:36:16+00:00",
+                "time": "2024-07-17T08:58:15+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
