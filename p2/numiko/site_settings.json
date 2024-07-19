@@ -93,6 +93,31 @@
                 },
                 "time": "2024-07-18T10:18:46+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides site settings for the Drupal application.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_settings",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-settings.git",
+                    "reference": "3b00516224c978ff5e56f86b1350ca360178bf6f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_settings/numiko-site_settings-2.0.0-beta1-fe68bb.tar",
+                    "reference": "3b00516224c978ff5e56f86b1350ca360178bf6f",
+                    "shasum": "84317d12e7ae24bce82318e61cefbfd965d1e7d3"
+                },
+                "time": "2024-07-19T10:10:19+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
