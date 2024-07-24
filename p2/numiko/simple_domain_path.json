@@ -296,7 +296,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
