@@ -65,9 +65,28 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f98fb0016be77bc03c04fe727b582473298234a8"
+                    "reference": "d2810bb296616a29a1635cf9b4c1fc5aa12c0e98"
                 },
-                "time": "2024-07-24T13:29:44+00:00",
+                "time": "2024-07-25T09:03:55+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "dev-SKP-36",
+                "version_normalized": "dev-SKP-36",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "6ad2dcccc9d554fe86c82884fadc46feee7db938"
+                },
+                "time": "2024-07-24T20:22:57+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -125,25 +144,6 @@
                     "reference": "7a7736e14e096c0c7ba80bd9be44ca116a83a3a1"
                 },
                 "time": "2021-04-01T11:09:06+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
-                "version": "dev-feature/layout-refactor",
-                "version_normalized": "dev-feature/layout-refactor",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "7908b18003ceb3fcabd984d1f560a5c198354254"
-                },
-                "time": "2024-06-11T14:24:22+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
