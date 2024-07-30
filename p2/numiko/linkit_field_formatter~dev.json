@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/linkit-field-formatter.git",
-                    "reference": "572fd4a76f7a372742193d57af9f9911ca13420d"
+                    "reference": "e3aa5891e70d15d74098df7c8bae360aa30b7f3c"
                 },
-                "time": "2024-01-02T09:17:54+00:00",
+                "time": "2024-07-30T09:32:51+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
