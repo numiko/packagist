@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "eaa35b45508b5f1cca1e447da5e35d9ca5c6e104"
+                    "reference": "bc81e75014a63dfaf634b64c595b3d6bcb545e59"
                 },
-                "time": "2024-07-30T13:22:41+00:00",
+                "time": "2024-07-31T10:55:22+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -68,25 +68,6 @@
                     "reference": "9274757536edb73d41b8dc88a53ae053798ef4ba"
                 },
                 "time": "2024-07-18T12:40:35+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-36",
-                "version_normalized": "dev-SKP-36",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "b4a6131e3c3f0157af61564bc2bcc7d456430e5a"
-                },
-                "time": "2024-07-30T16:08:34+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -160,9 +141,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "9047f933152a60c1f53d09cb4707536544e92cb9"
+                    "reference": "1e5e0527500a3a8c743a3f0e20cecbeaa06add18"
                 },
-                "time": "2024-07-30T08:53:32+00:00",
+                "time": "2024-07-31T08:26:04+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"

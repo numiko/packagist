@@ -3,6 +3,25 @@
         "numiko/simple_domain_path": [
             {
                 "name": "numiko/simple_domain_path",
+                "version": "dev-feature/d11-experiments",
+                "version_normalized": "dev-feature/d11-experiments",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "e8072568984eb6811e06ad1689d51556293ed3eb"
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-07-31T07:42:38+00:00",
+                "type": "drupal-module",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/simple_domain_path",
                 "version": "dev-feature/domains-list",
                 "version_normalized": "dev-feature/domains-list",
                 "source": {
