@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "e8072568984eb6811e06ad1689d51556293ed3eb"
+                    "reference": "58badc521833a3fdbc719e644d9bc5d8e3c1544e"
                 },
                 "require": {
                     "php": ">=8.1.0"
                 },
-                "time": "2024-07-31T07:42:38+00:00",
+                "time": "2024-07-31T12:38:35+00:00",
                 "type": "drupal-module",
                 "description": "Allow paths per-domain",
                 "keywords": [
