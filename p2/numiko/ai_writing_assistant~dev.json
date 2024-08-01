@@ -21,13 +21,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/ai-writing-assistant.git",
-                    "reference": "b05ec448f4fa7f380aad47244e8fb4756e3bca40"
+                    "reference": "04322e53003640200c836435767a53269867fa34"
                 },
                 "require": {
                     "drupal/ai": "^1.0@alpha",
                     "php": ">=8.1.0"
                 },
-                "time": "2024-08-01T13:38:27+00:00",
+                "time": "2024-08-01T15:27:46+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Drupal 10 module with AI prototypes"

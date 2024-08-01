@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "ba74e8fc6a15d537d6a6b9183068406ae482dfcf"
+                    "reference": "98a545677e59915bae90a98e0086ae6d1a0adbba"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -64,7 +64,7 @@
                     "drupal/quick_node_clone": "^1.18",
                     "drupal/redirect": "^1.8",
                     "drupal/redis": "^1.5",
-                    "drupal/responsive_table_filter": "^2.0",
+                    "drupal/responsive_table_filter": "^2.1",
                     "drupal/scheduler": "^2.0",
                     "drupal/scheduler_content_moderation_integration": "^2.0@beta",
                     "drupal/schema_metatag": "^2.3",
@@ -119,7 +119,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-07-11T11:25:17+00:00",
+                "time": "2024-08-01T15:33:49+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
