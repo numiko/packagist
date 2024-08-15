@@ -22,6 +22,29 @@
                 "time": "2024-06-21T14:16:55+00:00",
                 "type": "drupal-module",
                 "description": "Embed unrestricted HTML code in a restricted media type"
+            },
+            {
+                "name": "numiko/media_code_embed",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-code-embed.git",
+                    "reference": "2c3d62eeae9b3ec41cc04c484f0ce610c7bbe7a9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_code_embed/numiko-media_code_embed-1.1.0-df7f83.tar",
+                    "reference": "2c3d62eeae9b3ec41cc04c484f0ce610c7bbe7a9",
+                    "shasum": "13f32843d806ec0a266d29080c7569c99ea9a10e"
+                },
+                "require": {
+                    "drupal/core": "^10.0"
+                },
+                "time": "2024-08-15T08:04:32+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Embed unrestricted HTML code in a restricted media type"
             }
         ]
     }
