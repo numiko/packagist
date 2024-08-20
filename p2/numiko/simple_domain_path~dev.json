@@ -74,6 +74,25 @@
             },
             {
                 "name": "numiko/simple_domain_path",
+                "version": "dev-fix/uol-issues",
+                "version_normalized": "dev-fix/uol-issues",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "54352b641ecda62625ccfaa66f40dc70f29c64cc"
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-08-20T11:59:32+00:00",
+                "type": "drupal-module",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/simple_domain_path",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
