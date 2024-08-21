@@ -79,13 +79,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "54352b641ecda62625ccfaa66f40dc70f29c64cc"
+                    "reference": "6a74e0bde61c7648a60f99a4af0498e7ba57aa65"
                 },
                 "require": {
-                    "php": ">=8.1.0"
+                    "php": ">=5.6.0"
                 },
-                "time": "2024-08-20T11:59:32+00:00",
+                "time": "2024-08-21T09:10:18+00:00",
                 "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
