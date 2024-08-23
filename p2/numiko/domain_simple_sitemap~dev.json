@@ -14,6 +14,19 @@
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Creates a sitemap for each domain"
+            },
+            {
+                "name": "numiko/domain_simple_sitemap",
+                "version": "dev-task/amend-readme-steps",
+                "version_normalized": "dev-task/amend-readme-steps",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "04f2cf3429fe3200f23bffaf5b913b82f99eb615"
+                },
+                "time": "2024-08-23T08:24:17+00:00",
+                "type": "drupal-module",
+                "description": "Creates a sitemap for each domain"
             }
         ]
     }

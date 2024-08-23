@@ -22,14 +22,14 @@
             },
             {
                 "name": "numiko/icon-menu",
-                "version": "dev-feature/suggestion",
-                "version_normalized": "dev-feature/suggestion",
+                "version": "dev-feature/twig",
+                "version_normalized": "dev-feature/twig",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/icon-menu.git",
-                    "reference": "9bb0bb996c16ac6f5f349852b0e634a2edbffae6"
+                    "reference": "0358b5c8071698d9731ee332b470a652104bb9fe"
                 },
-                "time": "2024-07-25T10:56:21+00:00",
+                "time": "2024-08-23T11:00:42+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -66,9 +66,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/icon-menu.git",
-                    "reference": "48e9d07bdc221e2b8e6131dc4a76d39944d9bf3d"
+                    "reference": "615693e0a1bbf9684e07978d2690f1e5e56a6e53"
                 },
-                "time": "2022-09-06T09:33:50+00:00",
+                "time": "2024-08-23T11:02:23+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
