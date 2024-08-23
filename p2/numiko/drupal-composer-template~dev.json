@@ -206,7 +206,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "96222f374bdeac3ea1c45effe5f7e034b0b45513"
+                    "reference": "71aba9360adcba5f7635866def44eab5354e49b5"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -293,7 +293,7 @@
                     "numiko/media_code_embed": "^1.0",
                     "numiko/media_gallery": "^1.3",
                     "numiko/media_remote_file": "^1.2",
-                    "numiko/media_video_id": "^1.2",
+                    "numiko/media_video_id": "^1.3",
                     "numiko/numidemo": "^2.0",
                     "numiko/personas": "^1.3",
                     "numiko/responsive_image_class": "^1.2",
@@ -320,7 +320,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-08-23T14:43:14+00:00",
+                "time": "2024-08-23T15:26:54+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -357,7 +357,10 @@
                     },
                     "patches": {
                         "drupal/core": {
-                            "[3456202] PHPUnit tests: Support form actions being outside of a form": "https://git.drupalcode.org/project/drupal/-/merge_requests/8482/diffs.patch"
+                            "[3456202] PHPUnit tests: Support form actions being outside of a form": "https://git.drupalcode.org/project/drupal/-/merge_requests/8838/diffs.patch"
+                        },
+                        "drupal/field_group": {
+                            "[3395375] Duplicated required marks in field tabs with Gin admin theme": "https://www.drupal.org/files/issues/2024-08-06/3395375-6.patch"
                         }
                     }
                 },
