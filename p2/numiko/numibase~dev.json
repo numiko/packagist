@@ -41,6 +41,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-SKP-203",
+                "version_normalized": "dev-SKP-203",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "6d7a5cc27c5cc0dfde6f44f4bebed394d747c3d0"
+                },
+                "time": "2024-09-04T10:44:10+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-SKP-47",
                 "version_normalized": "dev-SKP-47",
                 "source": {
