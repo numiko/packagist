@@ -96,9 +96,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "ba1e93a54830efc04c7dac23ee3f98c622ec29b7"
+                    "reference": "3454d2cbf55a50ee053c0b74e29a9c1ad3671ab7"
                 },
-                "time": "2024-09-04T13:02:01+00:00",
+                "time": "2024-09-04T13:06:00+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
