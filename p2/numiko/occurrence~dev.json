@@ -30,12 +30,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/occurrences.git",
-                    "reference": "8f095025aa56596d4fcc7a72aafb4665e05628ca"
+                    "reference": "7d0cd2772c3e94277a69d42da474288591facf24"
                 },
                 "require": {
                     "drupal/time_field": "^2.1"
                 },
-                "time": "2024-07-24T09:29:16+00:00",
+                "time": "2024-09-11T09:21:00+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
