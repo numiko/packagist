@@ -3,6 +3,22 @@
         "numiko/media_code_embed": [
             {
                 "name": "numiko/media_code_embed",
+                "version": "dev-hotfix/text-format",
+                "version_normalized": "dev-hotfix/text-format",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-code-embed.git",
+                    "reference": "fc8e5b6aac27a1b4f63b8ba9a84ee9273a6b42c8"
+                },
+                "require": {
+                    "drupal/core": "^10.0"
+                },
+                "time": "2024-09-11T10:13:53+00:00",
+                "type": "drupal-module",
+                "description": "Embed unrestricted HTML code in a restricted media type"
+            },
+            {
+                "name": "numiko/media_code_embed",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
