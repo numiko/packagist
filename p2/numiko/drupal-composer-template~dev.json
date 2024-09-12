@@ -206,7 +206,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "07238651132ce9f3dac830b421125bd953a44213"
+                    "reference": "52dead334847d9210c48880aeb4699fb604102da"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -320,7 +320,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-09-12T11:40:13+00:00",
+                "time": "2024-09-12T15:40:45+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -387,8 +387,8 @@
                         "Composer\\Config::disableProcessTimeout",
                         "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master",
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko feature/sitekit",
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework feature/sitekit",
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main",
                         "bash scripts/composer/add-js-import js/apps/vue-listings"
                     ]
@@ -411,7 +411,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "1cdd8adcfdd06f8ef8094bbd7cd9cc57f418523f"
+                    "reference": "36c6ee7d1bc2c7594623273137a6890b5212cb34"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -525,7 +525,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-09-11T08:45:43+00:00",
+                "time": "2024-09-12T15:42:29+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -593,9 +593,10 @@
                         "Composer\\Config::disableProcessTimeout",
                         "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main"
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko feature/sitekit",
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework feature/sitekit",
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main",
+                        "bash scripts/composer/add-js-import js/apps/vue-listings"
                     ]
                 },
                 "license": [
