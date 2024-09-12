@@ -198,7 +198,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "74ffac9601a411d4b8ad4a966154828e8237f3cb"
+                    "reference": "3b5a5b7de1cc0d7e6a5918afcbfb24bd504c28dd"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -312,7 +312,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2024-09-11T08:04:50+00:00",
+                "time": "2024-09-12T11:37:28+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -381,7 +381,8 @@
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
                         "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main"
+                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main",
+                        "bash scripts/composer/add-js-import js/apps/vue-listings"
                     ]
                 },
                 "license": [
