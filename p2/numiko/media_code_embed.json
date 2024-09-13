@@ -65,7 +65,6 @@
                 },
                 "time": "2024-09-13T08:26:49+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Embed unrestricted HTML code in a restricted media type"
             }
         ]
