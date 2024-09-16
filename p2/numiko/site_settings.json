@@ -200,6 +200,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/site_settings",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-settings.git",
+                    "reference": "dc88e08e7fa04ed8d5aa120f908f5de7a452a797"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_settings/numiko-site_settings-2.3.0-9f6c18.tar",
+                    "reference": "dc88e08e7fa04ed8d5aa120f908f5de7a452a797",
+                    "shasum": "d4a57e02a08d06731ecd6785d6756dc3973b2e78"
+                },
+                "time": "2024-09-11T10:12:00+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides site settings for the Drupal application.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
