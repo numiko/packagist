@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "a753519a723aeaae4896d0be92d09f580aaf4e08"
+                    "reference": "6d3d8502e7f1ccb5802f14289d0766009797978a"
                 },
-                "time": "2024-09-19T15:46:22+00:00",
+                "time": "2024-10-01T15:57:22+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
