@@ -234,6 +234,33 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/twig_media",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-media.git",
+                    "reference": "338921fc23a48953466e81e26759007d3ce7f952"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_media/numiko-twig_media-2.0.0-5e1b1a.tar",
+                    "reference": "338921fc23a48953466e81e26759007d3ce7f952",
+                    "shasum": "e5d456cc58e7136220076e32adf843aa9a0e48b6"
+                },
+                "time": "2024-10-04T21:14:27+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Media allows for the rendering of media images directly in template",
+                "homepage": "https://bitbucket.org/numiko/twig-media",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
