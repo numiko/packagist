@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "b67e89d428c4f8fef0abbbc325381f00f1ce0283"
+                    "reference": "92e39a2c274993b489c8c7e530d8b2abae2d86f9"
                 },
-                "time": "2024-09-23T17:38:56+00:00",
+                "time": "2024-10-10T09:26:34+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
