@@ -178,6 +178,32 @@
             },
             {
                 "name": "numiko/media_gallery",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-gallery.git",
+                    "reference": "f535757fb981a618d6bfaed56507952dcb6b69d8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_gallery/numiko-media_gallery-1.4.0-0d1134.tar",
+                    "reference": "f535757fb981a618d6bfaed56507952dcb6b69d8",
+                    "shasum": "d16cd9379944589897f03983350e2e9dd339070f"
+                },
+                "time": "2024-10-11T14:38:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add additional data when a 'gallery' view mode is in use",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_gallery",
                 "version": "1.4.0-beta1",
                 "version_normalized": "1.4.0.0-beta1",
                 "source": {
