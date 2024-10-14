@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e9bc6ed88d6b7bd63224e48c86c23a517355d738.json": {
-            "sha1": "e9bc6ed88d6b7bd63224e48c86c23a517355d738"
+        "include/all$e669545947b02911de9b637d394264a149464f8b.json": {
+            "sha1": "e669545947b02911de9b637d394264a149464f8b"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -15,6 +15,7 @@
         "numiko/adestra",
         "numiko/ai_writing_assistant",
         "numiko/ckeditor_lazysizes_support",
+        "numiko/cloudflare-recipe",
         "numiko/collections-api",
         "numiko/content_bulk_update",
         "numiko/content_dashboards",
