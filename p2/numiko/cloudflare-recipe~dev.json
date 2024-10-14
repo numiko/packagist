@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/cloudflare.git",
-                    "reference": "d107359dc2f4bd034a53a29de0667860e8c5c620"
+                    "reference": "1db9556db73d32cb00e6bbabd6c473a9b5a999bb"
                 },
                 "require": {
                     "drupal/cloudflare": "^2.0@beta",
@@ -16,7 +16,7 @@
                     "drupal/purge": "^3.0",
                     "numiko/purge_url_queuer": "^1.0"
                 },
-                "time": "2024-10-14T09:46:00+00:00",
+                "time": "2024-10-14T10:03:04+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
