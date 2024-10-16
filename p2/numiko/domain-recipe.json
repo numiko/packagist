@@ -84,6 +84,36 @@
                 },
                 "time": "2024-10-16T11:54:58+00:00",
                 "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Domain setup"
+            },
+            {
+                "name": "numiko/domain-recipe",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain.git",
+                    "reference": "ae233da2a22f86326fe994d88786e1a87d7c4821"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain-recipe/numiko-domain-recipe-1.0.0-beta4-d3f27d.tar",
+                    "reference": "ae233da2a22f86326fe994d88786e1a87d7c4821",
+                    "shasum": "d14b23cb41364c378ec9aa0b31a7ea12a87e0432"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.4",
+                    "drupal/domain": "^2.0@beta",
+                    "numiko/domain_redirect": "^8.4",
+                    "numiko/domain_simple_sitemap": "^2.1",
+                    "numiko/domain_site_alert": "^1.0",
+                    "numiko/simple_domain_path": "^4"
+                },
+                "time": "2024-10-16T13:50:13+00:00",
+                "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
