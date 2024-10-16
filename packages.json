@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$c1ecbd287da36660b593d553271fabc082dd9456.json": {
-            "sha1": "c1ecbd287da36660b593d553271fabc082dd9456"
+        "include/all$8d2f94b752facc3bf0f9cee4dbdc02dce88ef846.json": {
+            "sha1": "8d2f94b752facc3bf0f9cee4dbdc02dce88ef846"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -27,6 +27,7 @@
         "numiko/default_menu_link",
         "numiko/descendants_menu_block",
         "numiko/devel_matrix",
+        "numiko/domain-recipe",
         "numiko/domain_access_blocking",
         "numiko/domain_path",
         "numiko/domain_redirect",

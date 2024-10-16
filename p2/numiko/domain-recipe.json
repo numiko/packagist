@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "numiko/domain-recipe": [
+            {
+                "name": "numiko/domain-recipe",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain.git",
+                    "reference": "144856678772ba8fa62831aac881969048274571"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain-recipe/numiko-domain-recipe-1.0.0-beta1-54683c.tar",
+                    "reference": "144856678772ba8fa62831aac881969048274571",
+                    "shasum": "560e54cded9f9d9b67bbc185fbe4b1aadc89f216"
+                },
+                "require": {
+                    "drupal/domain": "^2.0@beta",
+                    "numiko/domain_redirect": "^8.4",
+                    "numiko/domain_simple_sitemap": "^2.1",
+                    "numiko/domain_site_alert": "^1.0",
+                    "numiko/simple_domain_path": "^4"
+                },
+                "time": "2024-10-16T08:47:50+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Domain setup"
+            },
+            {
+                "name": "numiko/domain-recipe",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain.git",
+                    "reference": "723127c9b5b63c6972314a04fa3ec9a9a6a759c0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/domain-recipe/numiko-domain-recipe-1.0.0-beta2-4f25ad.tar",
+                    "reference": "723127c9b5b63c6972314a04fa3ec9a9a6a759c0",
+                    "shasum": "51fc722bc41e1f981f73300732d08358f802597a"
+                },
+                "require": {
+                    "drupal/domain": "^2.0@beta",
+                    "numiko/domain_redirect": "^8.4",
+                    "numiko/domain_simple_sitemap": "^2.1",
+                    "numiko/domain_site_alert": "^1.0",
+                    "numiko/simple_domain_path": "^4"
+                },
+                "time": "2024-10-16T08:49:23+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Domain setup"
+            }
+        ]
+    }
+}
