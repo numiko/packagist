@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain.git",
-                    "reference": "ae233da2a22f86326fe994d88786e1a87d7c4821"
+                    "reference": "fe6f9b2659b9e73b2c67bf020af54b365948012f"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.4",
@@ -18,7 +18,7 @@
                     "numiko/domain_site_alert": "^1.0",
                     "numiko/simple_domain_path": "^4"
                 },
-                "time": "2024-10-16T13:50:13+00:00",
+                "time": "2024-10-16T15:18:40+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
