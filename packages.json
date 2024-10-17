@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$16f4d9cdff7eea14202732809f2103ebced635d1.json": {
-            "sha1": "16f4d9cdff7eea14202732809f2103ebced635d1"
+        "include/all$44c22ecf8602d4169275db7546a1095e7a9c121c.json": {
+            "sha1": "44c22ecf8602d4169275db7546a1095e7a9c121c"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -88,6 +88,7 @@
         "numiko/numiko-media-profile",
         "numiko/numiko_security_review",
         "numiko/occurrence",
+        "numiko/openid-azure-recipe",
         "numiko/paragraphs_category_modal",
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",

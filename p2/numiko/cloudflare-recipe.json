@@ -165,7 +165,6 @@
                 },
                 "time": "2024-10-17T13:16:45+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -195,7 +194,6 @@
                 },
                 "time": "2024-10-17T13:25:24+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],

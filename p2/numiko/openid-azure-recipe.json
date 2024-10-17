@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "numiko/openid-azure-recipe": [
+            {
+                "name": "numiko/openid-azure-recipe",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/openid-azure.git",
+                    "reference": "acebefe791caa79d8030414b230205377eeeef57"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/openid-azure-recipe/numiko-openid-azure-recipe-1.0.0-beta1-d49f32.tar",
+                    "reference": "acebefe791caa79d8030414b230205377eeeef57",
+                    "shasum": "ea34a7a2383f2161ae21ce09d2a3c7cd8753a40b"
+                },
+                "require": {
+                    "cweagans/composer-patches": "^2",
+                    "drupal/openid_connect": "^3.0",
+                    "drupal/openid_connect_windows_aad": "^2.0"
+                },
+                "time": "2024-10-17T14:17:23+00:00",
+                "type": "drupal-recipe",
+                "extra": {
+                    "patches": {
+                        "drupal/openid_connect": {
+                            "[3357538] Impossible to set password when creating account": "https://www.drupal.org/files/issues/2023-05-02/openid_connect-3357538-7.patch"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for OpenID Azure Setup"
+            }
+        ]
+    }
+}
