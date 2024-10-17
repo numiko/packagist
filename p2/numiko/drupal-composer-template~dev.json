@@ -1195,7 +1195,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "0dd5588941b3f5c192d9c54c3e1bccda84311401"
+                    "reference": "af829e159338b229f2e23c9cbfe9bfbb363abdb2"
                 },
                 "require": {
                     "composer/installers": "^1.9",

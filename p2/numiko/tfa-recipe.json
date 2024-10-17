@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "numiko/tfa-recipe": [
+            {
+                "name": "numiko/tfa-recipe",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/tfa.git",
+                    "reference": "1568b6d1111487bf054dbe774f9119b66f7b14d7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/tfa-recipe/numiko-tfa-recipe-1.0.0-beta1-129787.tar",
+                    "reference": "1568b6d1111487bf054dbe774f9119b66f7b14d7",
+                    "shasum": "5cfa395d6ed8cf69e01f242679fee90470d68c84"
+                },
+                "require": {
+                    "drupal/real_aes": "^2.6",
+                    "drupal/tfa": "^1.9"
+                },
+                "time": "2024-10-17T10:24:01+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for TFA setup"
+            }
+        ]
+    }
+}
