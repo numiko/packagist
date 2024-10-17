@@ -8,15 +8,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/cloudflare.git",
-                    "reference": "b5a967d315a68f5f5569468b8c5de78f36453dfb"
+                    "reference": "e6016392cec8de7de8cd3cc68c130dcb29b1ea06"
                 },
                 "require": {
                     "drupal/cloudflare": "^2.0@beta",
                     "drupal/core": "^10.3",
+                    "drupal/page_cache_query_ignore": "^2.3",
                     "drupal/purge": "^3.0",
                     "numiko/purge_url_queuer": "^1.0"
                 },
-                "time": "2024-10-17T12:57:16+00:00",
+                "time": "2024-10-17T13:25:24+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

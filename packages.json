@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$92b761c8ee6a12de374a1e00caec290eab9a1e59.json": {
-            "sha1": "92b761c8ee6a12de374a1e00caec290eab9a1e59"
+        "include/all$16f4d9cdff7eea14202732809f2103ebced635d1.json": {
+            "sha1": "16f4d9cdff7eea14202732809f2103ebced635d1"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -16,6 +16,7 @@
         "numiko/ai_writing_assistant",
         "numiko/ckeditor_lazysizes_support",
         "numiko/cloudflare-recipe",
+        "numiko/cloudflare-turnstile-recipe",
         "numiko/collections-api",
         "numiko/content_bulk_update",
         "numiko/content_dashboards",

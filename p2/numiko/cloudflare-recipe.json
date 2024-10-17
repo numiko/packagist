@@ -136,6 +136,65 @@
                 },
                 "time": "2024-10-17T12:57:16+00:00",
                 "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Cloudflare setup"
+            },
+            {
+                "name": "numiko/cloudflare-recipe",
+                "version": "1.0.0-beta6",
+                "version_normalized": "1.0.0.0-beta6",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/cloudflare.git",
+                    "reference": "1e610738a8d8c841ca271e96c8cf6d1f9984fdc7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/cloudflare-recipe/numiko-cloudflare-recipe-1.0.0-beta6-9d9753.tar",
+                    "reference": "1e610738a8d8c841ca271e96c8cf6d1f9984fdc7",
+                    "shasum": "eff758d9993a43943d9a379f4dd5f4ee24bdae7c"
+                },
+                "require": {
+                    "drupal/cloudflare": "^2.0@beta",
+                    "drupal/core": "^10.3",
+                    "drupal/page_cache_query_ignore": "^2.3",
+                    "drupal/purge": "^3.0",
+                    "numiko/purge_url_queuer": "^1.0"
+                },
+                "time": "2024-10-17T13:16:45+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Cloudflare setup"
+            },
+            {
+                "name": "numiko/cloudflare-recipe",
+                "version": "1.0.0-beta7",
+                "version_normalized": "1.0.0.0-beta7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/cloudflare.git",
+                    "reference": "e6016392cec8de7de8cd3cc68c130dcb29b1ea06"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/cloudflare-recipe/numiko-cloudflare-recipe-1.0.0-beta7-fe1b4a.tar",
+                    "reference": "e6016392cec8de7de8cd3cc68c130dcb29b1ea06",
+                    "shasum": "26e7236264b1552accbe0153f443645b3164e057"
+                },
+                "require": {
+                    "drupal/cloudflare": "^2.0@beta",
+                    "drupal/core": "^10.3",
+                    "drupal/page_cache_query_ignore": "^2.3",
+                    "drupal/purge": "^3.0",
+                    "numiko/purge_url_queuer": "^1.0"
+                },
+                "time": "2024-10-17T13:25:24+00:00",
+                "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"

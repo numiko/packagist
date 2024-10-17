@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/cloudflare-turnstile-recipe": [
+            {
+                "name": "numiko/cloudflare-turnstile-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/cloudflare-turnstile.git",
+                    "reference": "6a0360bd25561ce298502cd9e86b081ce0ef6992"
+                },
+                "require": {
+                    "drupal/turnstile": "^1.1"
+                },
+                "time": "2024-10-17T13:38:27+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Cloudflare Turnstile Setup"
+            }
+        ]
+    }
+}
