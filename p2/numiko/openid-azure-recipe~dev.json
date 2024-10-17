@@ -8,14 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/openid-azure.git",
-                    "reference": "acebefe791caa79d8030414b230205377eeeef57"
+                    "reference": "51db8cf47852589f0f041a2f3a5f986901b6a540"
                 },
                 "require": {
-                    "cweagans/composer-patches": "^2",
                     "drupal/openid_connect": "^3.0",
                     "drupal/openid_connect_windows_aad": "^2.0"
                 },
-                "time": "2024-10-17T14:17:23+00:00",
+                "time": "2024-10-17T14:25:46+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "extra": {
