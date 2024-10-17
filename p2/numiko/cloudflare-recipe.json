@@ -112,6 +112,35 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "An Drupal recipe for Cloudflare setup"
+            },
+            {
+                "name": "numiko/cloudflare-recipe",
+                "version": "1.0.0-beta5",
+                "version_normalized": "1.0.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/cloudflare.git",
+                    "reference": "b5a967d315a68f5f5569468b8c5de78f36453dfb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/cloudflare-recipe/numiko-cloudflare-recipe-1.0.0-beta5-ed3a89.tar",
+                    "reference": "b5a967d315a68f5f5569468b8c5de78f36453dfb",
+                    "shasum": "af7683a67f13d3a2fcff2d3437ecefc5680a913e"
+                },
+                "require": {
+                    "drupal/cloudflare": "^2.0@beta",
+                    "drupal/core": "^10.3",
+                    "drupal/purge": "^3.0",
+                    "numiko/purge_url_queuer": "^1.0"
+                },
+                "time": "2024-10-17T12:57:16+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Cloudflare setup"
             }
         ]
     }
