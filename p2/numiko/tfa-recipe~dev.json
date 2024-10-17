@@ -8,13 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/tfa.git",
-                    "reference": "825c64e9200a153a09db9f1505bade1849ebc4c4"
+                    "reference": "acf7d45229660692dab758bcbb6ae8081e7d01c1"
                 },
                 "require": {
                     "drupal/real_aes": "^2.6",
-                    "drupal/tfa": "^1.9"
+                    "drupal/tfa": "^1.9",
+                    "numiko/csp_per_page": "^9.0"
                 },
-                "time": "2024-10-17T10:27:11+00:00",
+                "time": "2024-10-17T12:44:09+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
