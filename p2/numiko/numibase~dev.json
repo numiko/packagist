@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "3aa12d9c4215ea3b37b955b58ba90b5e6ff1fc7f"
+                    "reference": "bb05636fc2218026d7df634d307cad0f9b94af64"
                 },
-                "time": "2024-10-03T09:39:00+00:00",
+                "time": "2024-10-22T10:56:22+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -68,6 +68,25 @@
                     "reference": "585f641a51b031ea7df7de6280e4527e1d13361b"
                 },
                 "time": "2024-10-11T15:23:04+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "dev-SKP-17-Media-Gallery-Module",
+                "version_normalized": "dev-SKP-17-Media-Gallery-Module",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "8aed58b17d8b3b09f8716dba8337fde096af1175"
+                },
+                "time": "2024-10-22T15:53:19+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -160,9 +179,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2a73c285e05e1daf34bd2b663a7a9a8f358a4e32"
+                    "reference": "6a8d80fade3228ce554f50bf2972b075dd266668"
                 },
-                "time": "2024-10-08T14:46:15+00:00",
+                "time": "2024-10-22T16:08:21+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
