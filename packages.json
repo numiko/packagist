@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$04255b4c76928bf100841f135ed3e53de57d9725.json": {
-            "sha1": "04255b4c76928bf100841f135ed3e53de57d9725"
+        "include/all$a3dab8d03d28a1200ce4d5dcb475849da5afb51e.json": {
+            "sha1": "a3dab8d03d28a1200ce4d5dcb475849da5afb51e"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -14,6 +14,7 @@
         "numiko/accessible_color_picker",
         "numiko/adestra",
         "numiko/ai_writing_assistant",
+        "numiko/autotagging",
         "numiko/ckeditor_lazysizes_support",
         "numiko/cloudflare-recipe",
         "numiko/cloudflare-turnstile-recipe",

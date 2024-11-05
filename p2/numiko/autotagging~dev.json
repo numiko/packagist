@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "numiko/autotagging": [
+            {
+                "name": "numiko/autotagging",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/autotagging.git",
+                    "reference": "ae6eeebe9f2620e6c622fb4ad7e787522fc9bf37"
+                },
+                "require": {
+                    "drupal/ai": "^1.0@alpha",
+                    "php": ">=8.3.0"
+                },
+                "time": "2024-11-05T14:26:36+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "AI module for auto-tagging Drupal nodes with taxonomy terms."
+            }
+        ]
+    }
+}
