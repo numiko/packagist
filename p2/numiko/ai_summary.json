@@ -32,6 +32,39 @@
                     "Drupal",
                     "Summarization"
                 ]
+            },
+            {
+                "name": "numiko/ai_summary",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-summary.git",
+                    "reference": "2340372a63afba5896840dc34ed614508cf26f93"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/ai_summary/numiko-ai_summary-1.0.1-a0a33f.tar",
+                    "reference": "2340372a63afba5896840dc34ed614508cf26f93",
+                    "shasum": "b2e87b00618f42944d63b7ecd3c30c15dbe61912"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.0"
+                },
+                "time": "2024-11-06T15:33:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides AI-powered content summarization functionality",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Summarization"
+                ]
             }
         ]
     }
