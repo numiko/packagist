@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e77cba1d78dfe71286648c9037109b0b66e1e48a.json": {
-            "sha1": "e77cba1d78dfe71286648c9037109b0b66e1e48a"
+        "include/all$6c264afe7982c91abfe823ab9f6edd2f657e52d6.json": {
+            "sha1": "6c264afe7982c91abfe823ab9f6edd2f657e52d6"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -13,6 +13,7 @@
         "drupal/yamlform2text",
         "numiko/accessible_color_picker",
         "numiko/adestra",
+        "numiko/ai_prompt",
         "numiko/ai_writing_assistant",
         "numiko/autotagging",
         "numiko/ckeditor_lazysizes_support",
