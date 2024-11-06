@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6c264afe7982c91abfe823ab9f6edd2f657e52d6.json": {
-            "sha1": "6c264afe7982c91abfe823ab9f6edd2f657e52d6"
+        "include/all$152b245bccbceffe062567197fdd3b770bc8a688.json": {
+            "sha1": "152b245bccbceffe062567197fdd3b770bc8a688"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -14,6 +14,7 @@
         "numiko/accessible_color_picker",
         "numiko/adestra",
         "numiko/ai_prompt",
+        "numiko/ai_summary",
         "numiko/ai_writing_assistant",
         "numiko/autotagging",
         "numiko/ckeditor_lazysizes_support",
