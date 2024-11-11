@@ -1,5 +1,37 @@
 {
     "packages": {
-        "numiko/ai-metadata-description": []
+        "numiko/ai-metadata-description": [
+            {
+                "name": "numiko/ai-metadata-description",
+                "version": "1.0.1@alpha",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-metadata-description.git",
+                    "reference": "12cc44d81539352ed399b95cbdfdb10b67f47e6d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/ai-metadata-description/numiko-ai-metadata-description-1.0.1@alpha-42515a.tar",
+                    "reference": "12cc44d81539352ed399b95cbdfdb10b67f47e6d",
+                    "shasum": "712c1cebb84649ea606d96ddea70aa9cc12f2300"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "php": ">=8.0"
+                },
+                "time": "2024-11-11T08:45:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Metadata"
+                ]
+            }
+        ]
     }
 }
