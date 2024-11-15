@@ -174,14 +174,14 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-238",
-                "version_normalized": "dev-SKP-238",
+                "version": "dev-SKP-241",
+                "version_normalized": "dev-SKP-241",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "ef49a51bc01b5e5fc34603086ba50648aa9a0b1a"
+                    "reference": "182140c1a99e8a071592004232617e36f6f49840"
                 },
-                "time": "2024-11-14T11:18:15+00:00",
+                "time": "2024-11-14T16:08:27+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -193,14 +193,14 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-241",
-                "version_normalized": "dev-SKP-241",
+                "version": "dev-SKP-242",
+                "version_normalized": "dev-SKP-242",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "182140c1a99e8a071592004232617e36f6f49840"
+                    "reference": "b472922a0f4edd49979be80b819ac4e7b81c2554"
                 },
-                "time": "2024-11-14T16:08:27+00:00",
+                "time": "2024-11-15T08:40:39+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -274,9 +274,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "1a4f45afd28eee85f7b4cfd7b0a656dbdb6fe850"
+                    "reference": "4c77fb63227a74f9b06a396ab9f524165aea61ea"
                 },
-                "time": "2024-11-14T16:37:33+00:00",
+                "time": "2024-11-15T15:39:39+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
