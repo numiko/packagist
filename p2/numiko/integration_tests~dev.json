@@ -71,18 +71,35 @@
             },
             {
                 "name": "numiko/integration_tests",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-fix/drupal_version",
+                "version_normalized": "dev-fix/drupal_version",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/integration-tests.git",
-                    "reference": "44357ffbe9411649a82ed9dd8f0deda57bb8265d"
+                    "reference": "3da1d72cf513108ebe101385e3c8bdaaafbd1eaf"
                 },
                 "require": {
                     "phpspec/prophecy-phpunit": "^2",
                     "weitzman/drupal-test-traits": "^2.0"
                 },
-                "time": "2024-09-24T09:28:02+00:00",
+                "time": "2024-11-21T13:09:30+00:00",
+                "type": "drupal-module",
+                "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "a1b35de2f47d79772380e54c0be763072db80cc2"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2024-11-21T16:12:54+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
