@@ -193,44 +193,6 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-217",
-                "version_normalized": "dev-SKP-217",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "e30870f465d4a178ec1e94ece1c42265c004752b"
-                },
-                "time": "2024-11-28T15:15:58+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-224",
-                "version_normalized": "dev-SKP-224",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "5a0233d263af9f7875195805ace8b56dd9bf924e"
-                },
-                "time": "2024-11-29T09:19:27+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
                 "version": "dev-SKP-241",
                 "version_normalized": "dev-SKP-241",
                 "source": {
@@ -350,9 +312,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "c5ac015b6ef0d35eb34cd60a99fbdab482c448b7"
+                    "reference": "f986099bb52be98314985286edc72514683b1caa"
                 },
-                "time": "2024-11-27T14:14:35+00:00",
+                "time": "2024-11-29T15:27:35+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
