@@ -252,7 +252,6 @@
                 },
                 "time": "2024-11-29T11:05:05+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -305,7 +304,6 @@
                 },
                 "time": "2024-11-29T10:55:18+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
