@@ -48,7 +48,6 @@
                 },
                 "time": "2024-12-10T16:47:44+00:00",
                 "type": "drupal-drush",
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Drupal\\recipe_commands\\": "src/"
