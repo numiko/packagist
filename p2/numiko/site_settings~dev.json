@@ -3,6 +3,25 @@
         "numiko/site_settings": [
             {
                 "name": "numiko/site_settings",
+                "version": "dev-feature/add-edit-button",
+                "version_normalized": "dev-feature/add-edit-button",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-settings.git",
+                    "reference": "21cce58616d84e753781264cd78447e273ba4e27"
+                },
+                "time": "2024-12-10T14:16:06+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides site settings for the Drupal application.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_settings",
                 "version": "dev-feature/site-setting-bundle",
                 "version_normalized": "dev-feature/site-setting-bundle",
                 "source": {

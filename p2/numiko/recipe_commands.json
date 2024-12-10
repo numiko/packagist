@@ -1,0 +1,34 @@
+{
+    "packages": {
+        "numiko/recipe_commands": [
+            {
+                "name": "numiko/recipe_commands",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-commands.git",
+                    "reference": "0aa266513f1a5d3d76591da080f2732b2ba3402c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/recipe_commands/numiko-recipe_commands-1.0.0-beta1-d09ff1.tar",
+                    "reference": "0aa266513f1a5d3d76591da080f2732b2ba3402c",
+                    "shasum": "4ce78456024638a16d94623feea0c0168d6f28aa"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2024-12-10T16:25:30+00:00",
+                "type": "drupal-drush",
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_commands\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
+            }
+        ]
+    }
+}
