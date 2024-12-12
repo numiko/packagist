@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/test-recipe.git",
-                    "reference": "c20c58a9b16464dcfc755f87f91296ecaa393e52"
+                    "reference": "94bbad7e475f77390ce801ff9917b81cd341015f"
                 },
-                "time": "2024-12-12T12:04:18+00:00",
+                "time": "2024-12-12T12:10:05+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
