@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d1a04774b0f75c8049ace3a95d5963df3ac95fba.json": {
-            "sha1": "d1a04774b0f75c8049ace3a95d5963df3ac95fba"
+        "include/all$ab572d06aa0705668dd70e4913da8a27e2bca198.json": {
+            "sha1": "ab572d06aa0705668dd70e4913da8a27e2bca198"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -49,6 +49,7 @@
         "numiko/entity_embed_ckeditor",
         "numiko/entity_jobs",
         "numiko/entity_reference_view_display",
+        "numiko/extra_recipe_config_action",
         "numiko/facets_all_links",
         "numiko/facets_attachment",
         "numiko/facets_default",

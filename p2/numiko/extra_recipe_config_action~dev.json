@@ -1,0 +1,20 @@
+{
+    "packages": {
+        "numiko/extra_recipe_config_action": [
+            {
+                "name": "numiko/extra_recipe_config_action",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/extra-recipe-config-action",
+                    "reference": "907cd2801bc60bc99b11dee3d2cdae791b80f9bd"
+                },
+                "time": "2024-12-12T12:47:35+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "description": "Adds extra config actions to be used with recipes"
+            }
+        ]
+    }
+}
