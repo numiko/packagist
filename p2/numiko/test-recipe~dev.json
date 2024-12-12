@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "numiko/test-recipe": [
+            {
+                "name": "numiko/test-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/test-recipe.git",
+                    "reference": "c20c58a9b16464dcfc755f87f91296ecaa393e52"
+                },
+                "time": "2024-12-12T12:04:18+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds a content list slice and a basic template.",
+                "keywords": [
+                    "Drupal recipes",
+                    "drupal recipe",
+                    "recipe"
+                ]
+            }
+        ]
+    }
+}

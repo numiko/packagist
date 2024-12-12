@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$079d9ef29720b2d1f44c4a67f9ab78a21018061b.json": {
-            "sha1": "079d9ef29720b2d1f44c4a67f9ab78a21018061b"
+        "include/all$7c2290316293bc5b3bc09c6c3575c6afe26e16bf.json": {
+            "sha1": "7c2290316293bc5b3bc09c6c3575c6afe26e16bf"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -121,6 +121,7 @@
         "numiko/styleguide",
         "numiko/taxonomy_slice",
         "numiko/template_breadcrumb",
+        "numiko/test-recipe",
         "numiko/tfa-recipe",
         "numiko/time_field_select",
         "numiko/token_defaults",
