@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d368dafeaca5b13d6cf2d0984404c832b1739998.json": {
-            "sha1": "d368dafeaca5b13d6cf2d0984404c832b1739998"
+        "include/all$7195e44aa0212be15902db658e43145c45ec8671.json": {
+            "sha1": "7195e44aa0212be15902db658e43145c45ec8671"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -49,7 +49,6 @@
         "numiko/entity_embed_ckeditor",
         "numiko/entity_jobs",
         "numiko/entity_reference_view_display",
-        "numiko/extra_recipe_config_action",
         "numiko/facets_all_links",
         "numiko/facets_attachment",
         "numiko/facets_default",
@@ -100,6 +99,7 @@
         "numiko/pet-importer",
         "numiko/purge_url_queuer",
         "numiko/random_number_field",
+        "numiko/recipe_tools",
         "numiko/redirect_unpublished",
         "numiko/reference_views_filter",
         "numiko/responsive_image_class",
@@ -114,7 +114,7 @@
         "numiko/site_settings",
         "numiko/site_tests",
         "numiko/slice",
-        "numiko/slice-rich-text-list-recipe",
+        "numiko/slice-jump-link-recipe",
         "numiko/slice_jump_links",
         "numiko/slice_type_condition",
         "numiko/social_share_block",

@@ -1,0 +1,70 @@
+{
+    "packages": {
+        "numiko/recipe_tools": [
+            {
+                "name": "numiko/recipe_tools",
+                "version": "dev-feature/slice-action",
+                "version_normalized": "dev-feature/slice-action",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-tools.git",
+                    "reference": "d97ad2818982ae5e634b4a48f5484cd63f0c18fe"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2024-12-13T11:24:19+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_tools\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
+            },
+            {
+                "name": "numiko/recipe_tools",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-tools.git",
+                    "reference": "172d344b462d9a2157e15b239b6cd50f1a1ffffc"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2024-12-13T11:18:52+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_tools\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
+            },
+            {
+                "name": "numiko/recipe_tools",
+                "version": "dev-test-install",
+                "version_normalized": "dev-test-install",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-tools.git",
+                    "reference": "cd2c0ad575d5516e27913fa0f809832f49c7efbc"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2024-12-12T16:26:29+00:00",
+                "type": "drupal-drush",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_commands\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
+            }
+        ]
+    }
+}
