@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0d8b5aabc5e42aed6a759f63c4107f00a1fbce32.json": {
-            "sha1": "0d8b5aabc5e42aed6a759f63c4107f00a1fbce32"
+        "include/all$b8cea17c94f1ae4abd007918e8d44adea63575e4.json": {
+            "sha1": "b8cea17c94f1ae4abd007918e8d44adea63575e4"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -100,7 +100,6 @@
         "numiko/pet-importer",
         "numiko/purge_url_queuer",
         "numiko/random_number_field",
-        "numiko/recipe_commands",
         "numiko/redirect_unpublished",
         "numiko/reference_views_filter",
         "numiko/responsive_image_class",
