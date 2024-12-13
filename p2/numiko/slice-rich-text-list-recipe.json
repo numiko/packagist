@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "numiko/slice-rich-text-list-recipe": [
+            {
+                "name": "numiko/slice-rich-text-list-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-rich-text-list-recipe.git",
+                    "reference": "f71fec7318dc33d5e38aee9be84e772ca95270c5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-rich-text-list-recipe/numiko-slice-rich-text-list-recipe-1.0.0-39769b.tar",
+                    "reference": "f71fec7318dc33d5e38aee9be84e772ca95270c5",
+                    "shasum": "3f58273b2bd5c3e61b40f153e534d41914f2f585"
+                },
+                "require": {
+                    "drupal/core": ">=10.3",
+                    "drupal/paragraphs": "*",
+                    "drupal/paragraphs_ee": "*"
+                },
+                "time": "2024-12-13T11:19:29+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds a content list slice and a basic template.",
+                "keywords": [
+                    "Drupal recipes",
+                    "drupal recipe",
+                    "recipe"
+                ]
+            }
+        ]
+    }
+}
