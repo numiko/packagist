@@ -108,6 +108,34 @@
                     }
                 },
                 "description": "Install custom recipes from Numiko packagist"
+            },
+            {
+                "name": "numiko/recipe_tools",
+                "version": "1.1.0-beta3",
+                "version_normalized": "1.1.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-tools.git",
+                    "reference": "7e84bc68a52c4b00ec1eb4569a2eb8d03956b45e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/recipe_tools/numiko-recipe_tools-1.1.0-beta3-b6113f.tar",
+                    "reference": "7e84bc68a52c4b00ec1eb4569a2eb8d03956b45e",
+                    "shasum": "8a318d0dfcc1d66fb4b17bd740b01750ec349f56"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2024-12-13T15:54:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_tools\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
             }
         ]
     }
