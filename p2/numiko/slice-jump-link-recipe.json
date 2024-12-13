@@ -25,6 +25,32 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add jump link field to paragraphs"
+            },
+            {
+                "name": "numiko/slice-jump-link-recipe",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-link-recipe.git",
+                    "reference": "419a1786c6f53f6da72d6f8126faaf4f1250d639"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-jump-link-recipe/numiko-slice-jump-link-recipe-1.1.0-860f73.tar",
+                    "reference": "419a1786c6f53f6da72d6f8126faaf4f1250d639",
+                    "shasum": "2b36ad66baf1a274dfcb4a4ae239df4c2b9d31ad"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2024-12-13T14:02:25+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add jump link field to paragraphs"
             }
         ]
     }
