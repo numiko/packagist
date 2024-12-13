@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/recipe-tools.git",
-                    "reference": "3bb11ed8f00b574b8aa97da214067deee3ab0f9b"
+                    "reference": "3889cc11e724cac577e3fc218fb74348325e93bd"
                 },
                 "require": {
                     "drush/drush": "^13.0"
                 },
-                "time": "2024-12-13T11:52:31+00:00",
+                "time": "2024-12-13T11:56:53+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "autoload": {
