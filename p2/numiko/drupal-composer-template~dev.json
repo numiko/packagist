@@ -857,7 +857,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "ca8f5cd813446d783f8dbeeac78b9498bf918f2f"
+                    "reference": "c1f6d0aca81291a567f1a90c580d9dd2bcedcae2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -974,7 +974,7 @@
                     "drupal/core-dev": "^10.2",
                     "mglaman/drupal-check": "^1.1"
                 },
-                "time": "2024-12-13T13:55:47+00:00",
+                "time": "2024-12-19T09:01:01+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -1018,7 +1018,7 @@
                     "patches": {
                         "drupal/core": {
                             "[3456202] PHPUnit tests: Support form actions being outside of a form": "https://git.drupalcode.org/project/drupal/-/merge_requests/8838/diffs.patch",
-                            "[3042423] Add a hook to modify Media data": "https://www.drupal.org/files/issues/2024-09-13/3042423-106-hook-to-modify-oembed-resource-data.patch"
+                            "[3042423] Add a hook to modify Media data": "https://www.drupal.org/files/issues/2024-12-05/3042423-108.patch"
                         },
                         "drupal/field_group": {
                             "[3395375] Duplicated required marks in field tabs with Gin admin theme": "https://www.drupal.org/files/issues/2024-08-06/3395375-6.patch"
