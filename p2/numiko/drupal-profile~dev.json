@@ -20,6 +20,22 @@
             },
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-module-updates",
+                "version_normalized": "dev-module-updates",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "d1b1f8a6dc5123ba4214ce1de50585fad1650cb3"
+                },
+                "time": "2025-01-02T09:22:06+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-release/3.0",
                 "version_normalized": "dev-release/3.0",
                 "source": {

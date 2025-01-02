@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "numiko/content-event-recipe": [
+            {
+                "name": "numiko/content-event-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-event-recipe.git",
+                    "reference": "0d218cc14019c286509324fda7a790a80542938c"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3",
+                    "numiko/slice-event-sponsor-recipe": "^1.0"
+                },
+                "time": "2025-01-02T10:02:28+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Event content type"
+            }
+        ]
+    }
+}
