@@ -16,6 +16,22 @@
             },
             {
                 "name": "numiko/numiko_security_review",
+                "version": "dev-IBET-158-fixes",
+                "version_normalized": "dev-IBET-158-fixes",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "bf5e7420f0af50eedd2693bb77e21b4dc9100d5f"
+                },
+                "require": {
+                    "drupal/security_review": "^3.1"
+                },
+                "time": "2025-01-02T16:29:09+00:00",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
