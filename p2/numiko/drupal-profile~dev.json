@@ -3,6 +3,38 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-feature/image-pipeline",
+                "version_normalized": "dev-feature/image-pipeline",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "c25e982e5b18db38ce573efaabefdb3a055659ee"
+                },
+                "time": "2025-01-03T15:35:37+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/remove-stub-modules",
+                "version_normalized": "dev-feature/remove-stub-modules",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "bfb9b8a677b570104a4f2b2d69ac0bfa38a69348"
+                },
+                "time": "2025-01-03T16:08:18+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
