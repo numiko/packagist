@@ -8,9 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "d07c28c3fb38fa7d0be0b61fd33bf16a1058b129"
+                    "reference": "aee381c7b7802f8e3cc188b212cc4cee3e9566f3"
                 },
-                "time": "2024-06-24T14:45:39+00:00",
+                "require": {
+                    "drupal/security_review": ">=3.1",
+                    "php": ">=8.3"
+                },
+                "time": "2025-01-06T11:10:10+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },
@@ -21,12 +25,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "6d20bfdd49cb7792a85ff94cc1fc26c73b267f6f"
+                    "reference": "8c2fa44869f4cdfcfdb352c739da9da373685f86"
                 },
                 "require": {
-                    "drupal/security_review": ">=3.1"
+                    "drupal/security_review": ">=3.1",
+                    "php": ">=8.3"
                 },
-                "time": "2025-01-06T09:36:29+00:00",
+                "time": "2025-01-06T11:08:29+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },

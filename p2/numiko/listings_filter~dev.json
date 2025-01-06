@@ -133,31 +133,6 @@
             },
             {
                 "name": "numiko/listings_filter",
-                "version": "dev-fix/abandoned-package",
-                "version_normalized": "dev-fix/abandoned-package",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "f94e5517c6aa7c3d16dfd293d0386b5c44038fe3"
-                },
-                "require": {
-                    "drupal/core": "^9.4 || ^10.0",
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24"
-                },
-                "time": "2025-01-02T12:06:27+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/listings_filter",
                 "version": "dev-fix/crash-content-type",
                 "version_normalized": "dev-fix/crash-content-type",
                 "source": {
@@ -237,16 +212,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "508bb7eb9a4d38dc694b98f89fa4b6d2a10b9db5"
+                    "reference": "7fec148e3d1e99510f860b86ce3383f5c9cc07a2"
                 },
                 "require": {
                     "drupal/core": "^9.4 || ^10.0",
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24",
-                    "webmozart/path-util": "^2.1.0"
+                    "drupal/search_api": "~1.24"
                 },
-                "time": "2024-12-18T10:11:31+00:00",
+                "time": "2025-01-06T15:23:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
