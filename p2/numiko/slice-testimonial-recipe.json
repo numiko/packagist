@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/slice-testimonial-recipe": [
+            {
+                "name": "numiko/slice-testimonial-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-testimonial-recipe.git",
+                    "reference": "6d812fc87219020c4dfccf74784b7e3911785a7a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-testimonial-recipe/numiko-slice-testimonial-recipe-1.0.0-ea350a.tar",
+                    "reference": "6d812fc87219020c4dfccf74784b7e3911785a7a",
+                    "shasum": "1b4e4b3ee80e7c92acfb4158c65dfbee64744943"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-06T15:24:45+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add a testimonial slice"
+            }
+        ]
+    }
+}
