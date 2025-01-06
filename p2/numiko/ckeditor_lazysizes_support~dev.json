@@ -3,6 +3,19 @@
         "numiko/ckeditor_lazysizes_support": [
             {
                 "name": "numiko/ckeditor_lazysizes_support",
+                "version": "dev-feature/drupal-11",
+                "version_normalized": "dev-feature/drupal-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ckeditor-lazysizes-support.git",
+                    "reference": "2e5a06f62dd8fdbe249a2d1ec9e25953b6d32882"
+                },
+                "time": "2025-01-06T17:05:58+00:00",
+                "type": "drupal-module",
+                "description": "Drupal 10 & 11 module to add lazysizes support to CKEditor"
+            },
+            {
+                "name": "numiko/ckeditor_lazysizes_support",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
