@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "numiko/slice-teaser-text-only-recipe": [
+            {
+                "name": "numiko/slice-teaser-text-only-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-teaser-text-only-recipe.git",
+                    "reference": "f76758e44bd345b5f2e338a111f39850917aad5d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-teaser-text-only-recipe/numiko-slice-teaser-text-only-recipe-1.0.0-325ed6.tar",
+                    "reference": "f76758e44bd345b5f2e338a111f39850917aad5d",
+                    "shasum": "c1ae462ed8d3619e39e68372d66bf3b319e022a3"
+                },
+                "require": {
+                    "drupal/core": ">=10.3",
+                    "drupal/paragraphs": "*"
+                },
+                "time": "2025-01-03T15:21:30+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add teaser text only slice",
+                "keywords": [
+                    "Drupal recipes",
+                    "drupal recipe",
+                    "recipe"
+                ]
+            }
+        ]
+    }
+}
