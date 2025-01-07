@@ -266,6 +266,26 @@
                 "time": "2024-12-13T17:13:54+00:00",
                 "type": "drupal-module",
                 "description": "Set a strict CSP on specific paths and content types"
+            },
+            {
+                "name": "numiko/csp_per_page",
+                "version": "9.2.0-beta1",
+                "version_normalized": "9.2.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/csp-per-page.git",
+                    "reference": "bb956a5bfb52f5538f69856d16e60d6fd716d748"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/csp_per_page/numiko-csp_per_page-9.2.0-beta1-b45b9e.tar",
+                    "reference": "bb956a5bfb52f5538f69856d16e60d6fd716d748",
+                    "shasum": "9edc8915f74c89a202ea3d914dc30218abe5721e"
+                },
+                "time": "2025-01-07T15:37:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Set a strict CSP on specific paths and content types"
             }
         ]
     }
