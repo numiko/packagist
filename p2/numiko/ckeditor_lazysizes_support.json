@@ -37,7 +37,6 @@
                 },
                 "time": "2025-01-07T14:44:17+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Drupal 10 & 11 module to add lazysizes support to CKEditor"
             }
         ]

@@ -71,26 +71,6 @@
             },
             {
                 "name": "numiko/twig_field_values",
-                "version": "dev-feature/drupal-11",
-                "version_normalized": "dev-feature/drupal-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "7da43527d8935adb2a3e8c830e7c7977831190ff"
-                },
-                "time": "2025-01-07T13:27:00+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Twig Field Values",
-                "homepage": "https://bitbucket.org/numiko/twig-field-extensions",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/twig_field_values",
                 "version": "dev-feature/paragraphs",
                 "version_normalized": "dev-feature/paragraphs",
                 "source": {
@@ -116,9 +96,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "24c659083911e0df99613e07a1b1d5b811c0780a"
+                    "reference": "10f64876654f2a1b484526cb55b5d863d05e5193"
                 },
-                "time": "2024-11-29T11:05:05+00:00",
+                "time": "2025-01-07T15:03:47+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

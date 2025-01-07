@@ -16,6 +16,27 @@
                     "numiko/slice-existing-author": "^1.0"
                 },
                 "time": "2025-01-07T14:30:14+00:00",
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Blog content type"
+            },
+            {
+                "name": "numiko/content-blog-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-blog-recipe",
+                    "reference": "c1281d02fecb097fa9614be847bf0a2817c08530"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3",
+                    "numiko/slice-author-name": "^1.0",
+                    "numiko/slice-existing-author": "^1.0"
+                },
+                "time": "2025-01-07T14:30:14+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

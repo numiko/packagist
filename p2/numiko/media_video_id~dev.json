@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "24aac9265c9f0ebd387927a1aab696de1f3463bf"
+                    "reference": "cf8ea1a5cb7fa93c5e8d92d4752c571a29d34d16"
                 },
-                "time": "2024-08-23T10:18:47+00:00",
+                "time": "2025-01-07T14:54:47+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

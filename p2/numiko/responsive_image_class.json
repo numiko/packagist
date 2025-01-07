@@ -152,6 +152,26 @@
                 "time": "2024-02-14T15:49:39+00:00",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
+            },
+            {
+                "name": "numiko/responsive_image_class",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "8ae6fa61add4eade079cd5599da23cb05ce6ea9b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.5.1-8e0992.tar",
+                    "reference": "8ae6fa61add4eade079cd5599da23cb05ce6ea9b",
+                    "shasum": "5d71bdcce6fc00d58ebb66345256b96da2e2b4dd"
+                },
+                "time": "2025-01-07T14:57:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Field formatter for image field types to allow classes to be added."
             }
         ]
     }
