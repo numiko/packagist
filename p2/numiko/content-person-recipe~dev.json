@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/content-person-recipe": [
+            {
+                "name": "numiko/content-person-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-person-recipe.git",
+                    "reference": "5d9abdd98280bdbeead2eeb4c2f0f6ff60d26b96"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-07T09:33:55+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Person content type"
+            }
+        ]
+    }
+}
