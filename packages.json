@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$73384ae178a43e729a3385e3fd8aa9cbf1f379bf.json": {
-            "sha1": "73384ae178a43e729a3385e3fd8aa9cbf1f379bf"
+        "include/all$9b53ef5eae1b55263e926c043d294bf553571521.json": {
+            "sha1": "9b53ef5eae1b55263e926c043d294bf553571521"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -22,6 +22,7 @@
         "numiko/cloudflare-recipe",
         "numiko/cloudflare-turnstile-recipe",
         "numiko/collections-api",
+        "numiko/content-blog-recipe",
         "numiko/content-event-recipe",
         "numiko/content-person-recipe",
         "numiko/content_bulk_update",
@@ -116,7 +117,9 @@
         "numiko/site_settings",
         "numiko/site_tests",
         "numiko/slice",
+        "numiko/slice-author-name",
         "numiko/slice-event-sponsor-recipe",
+        "numiko/slice-existing-author",
         "numiko/slice-full-width-cta-recipe",
         "numiko/slice-jump-link-recipe",
         "numiko/slice-process-recipe",

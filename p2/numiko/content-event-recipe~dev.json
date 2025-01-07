@@ -8,13 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-event-recipe.git",
-                    "reference": "0d218cc14019c286509324fda7a790a80542938c"
+                    "reference": "30ce1aec84e64ef7d153fd9e990219dfdbd9cf66"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
+                    "numiko/content-person-recipe": "^1.0",
                     "numiko/slice-event-sponsor-recipe": "^1.0"
                 },
-                "time": "2025-01-02T10:02:28+00:00",
+                "time": "2025-01-07T09:43:18+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

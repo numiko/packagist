@@ -3,25 +3,6 @@
         "numiko/limit_entity_reference_items": [
             {
                 "name": "numiko/limit_entity_reference_items",
-                "version": "dev-feature/drupal-11",
-                "version_normalized": "dev-feature/drupal-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
-                    "reference": "011db37eeb49f6653e411f9aa100fd768b2bbe02"
-                },
-                "time": "2025-01-07T09:09:31+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Allows an entity reference field to have a minimum and maximum number of items set",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/limit_entity_reference_items",
                 "version": "dev-fix/filter-collapse-all",
                 "version_normalized": "dev-fix/filter-collapse-all",
                 "source": {
@@ -46,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/limit-entity-reference-items.git",
-                    "reference": "3b693ab522ac5f2242435327f8fd896eaef347d9"
+                    "reference": "b0bf7af170224af2e4d1edd693a4d9f9f5c522ab"
                 },
-                "time": "2024-12-12T11:12:44+00:00",
+                "time": "2025-01-07T14:46:48+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

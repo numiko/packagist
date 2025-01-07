@@ -3,6 +3,25 @@
         "numiko/search_exclude_moderation": [
             {
                 "name": "numiko/search_exclude_moderation",
+                "version": "dev-feature/drupal-11",
+                "version_normalized": "dev-feature/drupal-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-exclude-moderation.git",
+                    "reference": "2141ba3841fd3f42eb630f5c6195fcaf44732907"
+                },
+                "time": "2025-01-07T11:59:08+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Search Exclude Moderation.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/search_exclude_moderation",
                 "version": "dev-hotfix/declare-nids",
                 "version_normalized": "dev-hotfix/declare-nids",
                 "source": {

@@ -3,6 +3,25 @@
         "numiko/user_login_admin": [
             {
                 "name": "numiko/user_login_admin",
+                "version": "dev-feature/drupal-11",
+                "version_normalized": "dev-feature/drupal-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/user-login-admin",
+                    "reference": "775d955763ae12da5f82a288586ac773c47fb097"
+                },
+                "time": "2025-01-07T13:34:16+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Switch user login and password reset routes to use the admin theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/user_login_admin",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
