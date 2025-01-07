@@ -15,6 +15,26 @@
                     "numiko/content-person-recipe": "^1.0"
                 },
                 "time": "2025-01-07T14:43:04+00:00",
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Slice Author Name paragraph type"
+            },
+            {
+                "name": "numiko/slice-existing-author",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-existing-author",
+                    "reference": "d3c013ab0ae8b5963ba2f325cd28a2ba0114ab52"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3",
+                    "numiko/content-person-recipe": "^1.0"
+                },
+                "time": "2025-01-07T14:43:04+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
