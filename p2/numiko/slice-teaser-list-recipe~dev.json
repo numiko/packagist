@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/slice-teaser-list-recipe": [
+            {
+                "name": "numiko/slice-teaser-list-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-teaser-list-recipe.git",
+                    "reference": "daa9c8f684f1ac3ab988b7a3f73152007de27a2d"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-07T08:38:19+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add teaser list slice"
+            }
+        ]
+    }
+}
