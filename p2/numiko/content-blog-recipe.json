@@ -27,6 +27,34 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal recipe for new Blog content type"
+            },
+            {
+                "name": "numiko/content-blog-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
+                    "reference": "54b1346736b8a4bee12c110164adf7a1e2e84c14"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-blog-recipe/numiko-content-blog-recipe-1.0.1-d2ac14.tar",
+                    "reference": "54b1346736b8a4bee12c110164adf7a1e2e84c14",
+                    "shasum": "ed9d1bb50de108f5c1d5822468663f61ed1f2f8d"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3",
+                    "numiko/slice-author-name": "^1.0",
+                    "numiko/slice-existing-author": "^1.0"
+                },
+                "time": "2025-01-08T15:27:50+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Blog content type"
             }
         ]
     }
