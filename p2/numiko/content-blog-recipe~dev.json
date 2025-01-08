@@ -29,14 +29,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
-                    "reference": "eb5f192b0f1166749cbd5e6901c812295fd07318"
+                    "reference": "54b1346736b8a4bee12c110164adf7a1e2e84c14"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
                     "numiko/slice-author-name": "^1.0",
                     "numiko/slice-existing-author": "^1.0"
                 },
-                "time": "2025-01-07T17:08:15+00:00",
+                "time": "2025-01-08T15:27:50+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
