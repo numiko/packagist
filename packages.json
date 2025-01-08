@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$3e2c7dedcd9d0c9d664215c73c8a88515e812cd7.json": {
-            "sha1": "3e2c7dedcd9d0c9d664215c73c8a88515e812cd7"
+        "include/all$0ebd8b44930ce588118f4224eea2cea2fa131eab.json": {
+            "sha1": "0ebd8b44930ce588118f4224eea2cea2fa131eab"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -22,6 +22,7 @@
         "numiko/cloudflare-recipe",
         "numiko/cloudflare-turnstile-recipe",
         "numiko/collections-api",
+        "numiko/content-article-recipe",
         "numiko/content-blog-recipe",
         "numiko/content-event-recipe",
         "numiko/content-person-recipe",

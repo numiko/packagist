@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "numiko/content-article-recipe": [
+            {
+                "name": "numiko/content-article-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-article-recipe.git",
+                    "reference": "89350d990450cca65368dddfc7f8f4e4321283e8"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3",
+                    "numiko/slice-author-name": "^1.0",
+                    "numiko/slice-existing-author": "^1.0"
+                },
+                "time": "2025-01-08T15:59:55+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Article content type"
+            }
+        ]
+    }
+}
