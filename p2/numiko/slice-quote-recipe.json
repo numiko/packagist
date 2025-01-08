@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/slice-quote-recipe": [
+            {
+                "name": "numiko/slice-quote-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-quote-recipe.git",
+                    "reference": "6bd6073110e223335df60fdc03839a36f46db90e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-quote-recipe/numiko-slice-quote-recipe-1.0.0-8ae242.tar",
+                    "reference": "6bd6073110e223335df60fdc03839a36f46db90e",
+                    "shasum": "37b1c0e4d16a1cf775ac3695a8766929715dc0b5"
+                },
+                "require": {
+                    "drupal/core-recommended": "10.3"
+                },
+                "time": "2025-01-08T15:30:27+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add quote slice"
+            }
+        ]
+    }
+}
