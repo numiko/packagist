@@ -23,7 +23,6 @@
                 },
                 "time": "2025-01-08T15:59:55+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
