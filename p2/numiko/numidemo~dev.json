@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numidemo.git",
-                    "reference": "2289b15f18ff578d8477c0c77948f9a1d19d1307"
+                    "reference": "173ed698c5529024c3f2f6df0ba58fabc0a4801d"
                 },
-                "time": "2023-05-10T13:26:19+00:00",
+                "time": "2025-01-08T14:41:32+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
