@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/slice-call-to-action-recipe": [
+            {
+                "name": "numiko/slice-call-to-action-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-call-to-action-recipe.git",
+                    "reference": "693a83a2f72c57fc2562b111d71fcfec6799fc9b"
+                },
+                "require": {
+                    "drupal/core-recommended": "10.3"
+                },
+                "time": "2025-01-08T09:23:41+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add call to action slice"
+            }
+        ]
+    }
+}

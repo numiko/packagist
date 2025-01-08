@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/slice-accordion-recipe": [
+            {
+                "name": "numiko/slice-accordion-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-accordion-recipe.git",
+                    "reference": "2153d1590193670f1150cfeff679d1fa03bd5cce"
+                },
+                "require": {
+                    "drupal/core-recommended": "10.3"
+                },
+                "time": "2025-01-08T08:30:10+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add accordion slice"
+            }
+        ]
+    }
+}

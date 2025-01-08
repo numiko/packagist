@@ -7,7 +7,7 @@
                 "version_normalized": "dev-SKP-255",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/content-blog-recipe",
+                    "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
                     "reference": "c1281d02fecb097fa9614be847bf0a2817c08530"
                 },
                 "require": {
@@ -28,7 +28,7 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/content-blog-recipe",
+                    "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
                     "reference": "eb5f192b0f1166749cbd5e6901c812295fd07318"
                 },
                 "require": {

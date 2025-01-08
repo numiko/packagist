@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ff22672df9970de9943d27dda110fcaec45f196c.json": {
-            "sha1": "ff22672df9970de9943d27dda110fcaec45f196c"
+        "include/all$34c47842a35cfca4f11bf45cbd7dadc95e0627e8.json": {
+            "sha1": "34c47842a35cfca4f11bf45cbd7dadc95e0627e8"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -117,7 +117,9 @@
         "numiko/site_settings",
         "numiko/site_tests",
         "numiko/slice",
+        "numiko/slice-accordion-recipe",
         "numiko/slice-author-name",
+        "numiko/slice-call-to-action-recipe",
         "numiko/slice-event-sponsor-recipe",
         "numiko/slice-existing-author",
         "numiko/slice-full-width-cta-recipe",

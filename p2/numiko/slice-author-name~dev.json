@@ -7,7 +7,7 @@
                 "version_normalized": "dev-SKP-255",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe.git",
                     "reference": "44fa37e65b9b286c204898297061bd0d7f42779b"
                 },
                 "require": {
@@ -26,7 +26,7 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe.git",
                     "reference": "44fa37e65b9b286c204898297061bd0d7f42779b"
                 },
                 "require": {
