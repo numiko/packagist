@@ -8,9 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-existing-author-recipe.git",
-                    "reference": "360061601f72cdabfd86f1800e956711ee5ebf13"
+                    "reference": "df1c4b56cf70d0b2e6ba87022b92ef51eddc77a7"
                 },
-                "time": "2025-01-09T14:35:50+00:00",
+                "require": {
+                    "numiko/content-person-slice": "^1.0"
+                },
+                "time": "2025-01-09T14:44:43+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

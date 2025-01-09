@@ -21,7 +21,6 @@
                 },
                 "time": "2025-01-09T13:12:44+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -47,7 +46,6 @@
                 },
                 "time": "2025-01-09T13:34:54+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -70,7 +68,6 @@
                 },
                 "time": "2025-01-09T13:44:22+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -92,6 +89,31 @@
                     "shasum": "edd0c12386e137b2dc6ac43d19d6e8830cc6e9c7"
                 },
                 "time": "2025-01-09T14:35:50+00:00",
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Slice Existing Author paragraph type"
+            },
+            {
+                "name": "numiko/slice-existing-author-recipe",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-existing-author-recipe.git",
+                    "reference": "df1c4b56cf70d0b2e6ba87022b92ef51eddc77a7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-existing-author-recipe/numiko-slice-existing-author-recipe-1.0.4-1214a2.tar",
+                    "reference": "df1c4b56cf70d0b2e6ba87022b92ef51eddc77a7",
+                    "shasum": "b2528b80217567acd0c602507a8b37b7c90dc265"
+                },
+                "require": {
+                    "numiko/content-person-slice": "^1.0"
+                },
+                "time": "2025-01-09T14:44:43+00:00",
                 "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
