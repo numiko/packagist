@@ -8,21 +8,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-article-recipe.git",
-                    "reference": "af4bb538dc684de35368124389208f718d4ee97e"
+                    "reference": "26024c9ac3637ec7c5670abfd7f5933139ca9ed4"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/content-article-recipe/numiko-content-article-recipe-1.0.0-47ecd1.tar",
-                    "reference": "af4bb538dc684de35368124389208f718d4ee97e",
-                    "shasum": "3031be6d78abb135ddd41c606fd0e279684e75db"
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-article-recipe/numiko-content-article-recipe-1.0.0-d04895.tar",
+                    "reference": "26024c9ac3637ec7c5670abfd7f5933139ca9ed4",
+                    "shasum": "78b56bb96aa53a9db9a06e7e6de6ef4ea01655c7"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
                     "numiko/slice-author-name": "^1.0",
                     "numiko/slice-existing-author": "^1.0"
                 },
-                "time": "2025-01-08T16:47:18+00:00",
+                "time": "2025-01-09T09:41:40+00:00",
                 "type": "drupal-recipe",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
