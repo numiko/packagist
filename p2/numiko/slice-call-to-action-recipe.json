@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add call to action slice"
+            },
+            {
+                "name": "numiko/slice-call-to-action-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-call-to-action-recipe.git",
+                    "reference": "a377e11cdd279967ca38c8d5e5c1d6d6724a05fa"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-call-to-action-recipe/numiko-slice-call-to-action-recipe-1.0.1-bc3baa.tar",
+                    "reference": "a377e11cdd279967ca38c8d5e5c1d6d6724a05fa",
+                    "shasum": "bf1840da894533e47d1b9c61ec9c457809de1052"
+                },
+                "time": "2025-01-09T11:39:40+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add call to action slice"
             }
         ]
     }

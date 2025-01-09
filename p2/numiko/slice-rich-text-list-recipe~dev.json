@@ -8,14 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-rich-text-list-recipe.git",
-                    "reference": "acab7fb7fa2a705d47f13adee96e85a12c47ea10"
+                    "reference": "dbdbfe305678af02a2a60056899307f0bcf4c6f7"
                 },
                 "require": {
-                    "drupal/core": ">=10.3",
                     "drupal/paragraphs": "*",
                     "drupal/paragraphs_ee": "*"
                 },
-                "time": "2024-12-13T16:07:29+00:00",
+                "time": "2025-01-09T11:53:00+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

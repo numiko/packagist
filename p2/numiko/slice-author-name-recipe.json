@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "numiko/slice-author-name-recipe": [
+            {
+                "name": "numiko/slice-author-name-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe.git",
+                    "reference": "44fa37e65b9b286c204898297061bd0d7f42779b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-author-name-recipe/numiko-slice-author-name-recipe-1.0.0-28364a.tar",
+                    "reference": "44fa37e65b9b286c204898297061bd0d7f42779b",
+                    "shasum": "53431e0cb9fedb0404363cbe8633cbdfface6d8d"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-07T14:24:45+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Slice Author Name paragraph type"
+            },
+            {
+                "name": "numiko/slice-author-name-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-author-name-recipe.git",
+                    "reference": "9937ac2c39681f04093874059bba25bc9f75353b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-author-name-recipe/numiko-slice-author-name-recipe-1.0.1-7f4dad.tar",
+                    "reference": "9937ac2c39681f04093874059bba25bc9f75353b",
+                    "shasum": "bff4ad7886f57150fc6aa0a9f03e3917a2fd5f8e"
+                },
+                "time": "2025-01-09T11:42:15+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Slice Author Name paragraph type"
+            }
+        ]
+    }
+}

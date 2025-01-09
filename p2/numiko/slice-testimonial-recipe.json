@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add a testimonial slice"
+            },
+            {
+                "name": "numiko/slice-testimonial-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-testimonial-recipe.git",
+                    "reference": "e0654596c5007c08876a5d9519b39d2c90c41779"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-testimonial-recipe/numiko-slice-testimonial-recipe-1.0.1-aca96b.tar",
+                    "reference": "e0654596c5007c08876a5d9519b39d2c90c41779",
+                    "shasum": "b2a2c3c92dc0ba0881cb2f9eeba7911babb97e56"
+                },
+                "time": "2025-01-09T11:57:51+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add a testimonial slice"
             }
         ]
     }

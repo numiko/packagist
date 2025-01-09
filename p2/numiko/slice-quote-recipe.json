@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add quote slice"
+            },
+            {
+                "name": "numiko/slice-quote-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-quote-recipe.git",
+                    "reference": "0dbafc07827445ca469f60d3be4f40cc6c818e88"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-quote-recipe/numiko-slice-quote-recipe-1.0.1-e652d4.tar",
+                    "reference": "0dbafc07827445ca469f60d3be4f40cc6c818e88",
+                    "shasum": "f8bd9b11dc87952416f599ec5fb089b5da81026e"
+                },
+                "time": "2025-01-09T11:34:53+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add quote slice"
             }
         ]
     }

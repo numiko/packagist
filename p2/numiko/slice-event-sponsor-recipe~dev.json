@@ -8,12 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-event-sponsor-recipe.git",
-                    "reference": "1b48d10b1f6fa1e648ae0219864782d79becd646"
+                    "reference": "63fe583390167c759f3228e2449bf428be68efd2"
                 },
-                "require": {
-                    "drupal/core-recommended": "^10.3"
-                },
-                "time": "2025-01-02T10:01:49+00:00",
+                "time": "2025-01-09T11:47:35+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

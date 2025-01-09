@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add teaser image slice"
+            },
+            {
+                "name": "numiko/slice-teaser-image-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-teaser-image-recipe.git",
+                    "reference": "0874c196ca640db235bae6c7415fd92e6f063a21"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-teaser-image-recipe/numiko-slice-teaser-image-recipe-1.0.1-805c09.tar",
+                    "reference": "0874c196ca640db235bae6c7415fd92e6f063a21",
+                    "shasum": "ace4449f7906def5fbc116976ef797db75bda0e9"
+                },
+                "time": "2025-01-09T11:27:17+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add teaser image slice"
             }
         ]
     }

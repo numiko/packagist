@@ -8,12 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-call-to-action-recipe.git",
-                    "reference": "693a83a2f72c57fc2562b111d71fcfec6799fc9b"
+                    "reference": "a377e11cdd279967ca38c8d5e5c1d6d6724a05fa"
                 },
-                "require": {
-                    "drupal/core-recommended": "10.3"
-                },
-                "time": "2025-01-08T09:23:41+00:00",
+                "time": "2025-01-09T11:39:40+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

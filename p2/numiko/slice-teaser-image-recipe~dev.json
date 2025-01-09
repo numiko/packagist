@@ -8,12 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-teaser-image-recipe.git",
-                    "reference": "199eaafe27f68e6152a45b64aedc2e12ba699649"
+                    "reference": "0874c196ca640db235bae6c7415fd92e6f063a21"
                 },
-                "require": {
-                    "drupal/core-recommended": "^10.3"
-                },
-                "time": "2025-01-09T08:37:31+00:00",
+                "time": "2025-01-09T11:27:17+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

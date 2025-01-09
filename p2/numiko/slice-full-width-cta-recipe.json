@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add full width cta slice"
+            },
+            {
+                "name": "numiko/slice-full-width-cta-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-full-width-cta-recipe.git",
+                    "reference": "dbb5274ce1fb6841de05baa27bcfa46a0aadc1a3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-full-width-cta-recipe/numiko-slice-full-width-cta-recipe-1.0.1-fe8500.tar",
+                    "reference": "dbb5274ce1fb6841de05baa27bcfa46a0aadc1a3",
+                    "shasum": "0098360211a3239d3c1db997231047451f2d043c"
+                },
+                "time": "2025-01-09T11:38:33+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add full width cta slice"
             }
         ]
     }

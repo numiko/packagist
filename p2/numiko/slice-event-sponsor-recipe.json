@@ -25,6 +25,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal recipe for new Event Sponsor paragraph type"
+            },
+            {
+                "name": "numiko/slice-event-sponsor-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-event-sponsor-recipe.git",
+                    "reference": "63fe583390167c759f3228e2449bf428be68efd2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-event-sponsor-recipe/numiko-slice-event-sponsor-recipe-1.0.1-898fa7.tar",
+                    "reference": "63fe583390167c759f3228e2449bf428be68efd2",
+                    "shasum": "a1ed6861139a5a55fdb7429383e64462d1784ec7"
+                },
+                "time": "2025-01-09T11:47:35+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Event Sponsor paragraph type"
             }
         ]
     }

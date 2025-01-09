@@ -32,6 +32,38 @@
                     "drupal recipe",
                     "recipe"
                 ]
+            },
+            {
+                "name": "numiko/slice-process-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-process-recipe.git",
+                    "reference": "2df3dd1e7efe09a9c1ff480f81c7b32f2931459f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-process-recipe/numiko-slice-process-recipe-1.0.1-2a33c8.tar",
+                    "reference": "2df3dd1e7efe09a9c1ff480f81c7b32f2931459f",
+                    "shasum": "8a512cfe2dabca6b5fa9868586a3491629905b91"
+                },
+                "require": {
+                    "drupal/paragraphs": "*",
+                    "drupal/paragraphs_ee": "*"
+                },
+                "time": "2025-01-09T11:36:14+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add process slice recipe",
+                "keywords": [
+                    "Drupal recipes",
+                    "drupal recipe",
+                    "recipe"
+                ]
             }
         ]
     }
