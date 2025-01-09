@@ -119,6 +119,32 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal recipe for new Slice Existing Author paragraph type"
+            },
+            {
+                "name": "numiko/slice-existing-author-recipe",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-existing-author-recipe.git",
+                    "reference": "fc3b308894e0920c48b632f6469286d78026e32f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-existing-author-recipe/numiko-slice-existing-author-recipe-1.0.5-aa6dfb.tar",
+                    "reference": "fc3b308894e0920c48b632f6469286d78026e32f",
+                    "shasum": "cb74af7d8b7042d9a6318a72a43c451df7d48f12"
+                },
+                "require": {
+                    "numiko/content-person-recipe": "^1.0"
+                },
+                "time": "2025-01-09T14:57:07+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Slice Existing Author paragraph type"
             }
         ]
     }
