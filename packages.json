@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e9ed01560ccd14240eb723db85acf4406b0ebd51.json": {
-            "sha1": "e9ed01560ccd14240eb723db85acf4406b0ebd51"
+        "include/all$df94b4c5953f37f62b5db48c0672384766ea0618.json": {
+            "sha1": "df94b4c5953f37f62b5db48c0672384766ea0618"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -128,6 +128,7 @@
         "numiko/slice-process-recipe",
         "numiko/slice-quote-recipe",
         "numiko/slice-rich-text-list-recipe",
+        "numiko/slice-teaser-image-recipe",
         "numiko/slice-teaser-list-recipe",
         "numiko/slice-teaser-text-only-recipe",
         "numiko/slice-testimonial-recipe",
