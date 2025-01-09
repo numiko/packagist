@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-media-embed-recipe.git",
-                    "reference": "bed3246ca9ab9219011561f2671282bbcffb84a0"
+                    "reference": "e033ee44f0b9301bd813f6a8ea72d67f82596e20"
                 },
-                "time": "2025-01-09T16:02:37+00:00",
+                "time": "2025-01-09T16:25:25+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
