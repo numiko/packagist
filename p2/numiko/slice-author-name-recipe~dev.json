@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-author-name-recipe.git",
-                    "reference": "eb682b91a38913c3ed46e72dcbf096f344deaf1f"
+                    "reference": "472a4577570a076015b808434db0416c532d9cc2"
                 },
-                "time": "2025-01-09T13:43:33+00:00",
+                "time": "2025-01-09T14:33:18+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
