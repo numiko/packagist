@@ -21,12 +21,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-code-embed.git",
-                    "reference": "9248a675da4cd302727d56a14fa350c49f2e5926"
+                    "reference": "4eb13965a7f31cf476b2f5d8fbe84f370330d436"
                 },
-                "require": {
-                    "drupal/core": "^10.0"
-                },
-                "time": "2024-09-13T08:26:49+00:00",
+                "time": "2025-01-09T09:07:27+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Embed unrestricted HTML code in a restricted media type"
