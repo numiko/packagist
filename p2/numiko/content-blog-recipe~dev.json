@@ -3,40 +3,19 @@
         "numiko/content-blog-recipe": [
             {
                 "name": "numiko/content-blog-recipe",
-                "version": "dev-SKP-255",
-                "version_normalized": "dev-SKP-255",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
-                    "reference": "c1281d02fecb097fa9614be847bf0a2817c08530"
-                },
-                "require": {
-                    "drupal/core-recommended": "^10.3",
-                    "numiko/slice-author-name": "^1.0",
-                    "numiko/slice-existing-author": "^1.0"
-                },
-                "time": "2025-01-07T14:30:14+00:00",
-                "type": "drupal-recipe",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "A Drupal recipe for new Blog content type"
-            },
-            {
-                "name": "numiko/content-blog-recipe",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
-                    "reference": "a80b4b886b7d978d84d4197e1801f03796b1127f"
+                    "reference": "342b8f1a7c19b8665685e27a97a4e95045a6e7b8"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
                     "numiko/slice-author-name-recipe": "^1.0",
                     "numiko/slice-existing-author-recipe": "^1.0"
                 },
-                "time": "2025-01-09T11:04:58+00:00",
+                "time": "2025-01-09T13:09:49+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
