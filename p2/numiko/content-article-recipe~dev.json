@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-article-recipe.git",
-                    "reference": "89350d990450cca65368dddfc7f8f4e4321283e8"
+                    "reference": "8390dae1efce69c667a104d971b9839c7fe1c4e2"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
-                    "numiko/slice-author-name": "^1.0",
-                    "numiko/slice-existing-author": "^1.0"
+                    "numiko/slice-author-name-recipe": "^1.0",
+                    "numiko/slice-existing-author-recipe": "^1.0"
                 },
-                "time": "2025-01-08T15:59:55+00:00",
+                "time": "2025-01-09T11:02:40+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

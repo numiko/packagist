@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-blog-recipe.git",
-                    "reference": "54b1346736b8a4bee12c110164adf7a1e2e84c14"
+                    "reference": "a80b4b886b7d978d84d4197e1801f03796b1127f"
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/content-blog-recipe/numiko-content-blog-recipe-1.0.0-d2ac14.tar",
-                    "reference": "54b1346736b8a4bee12c110164adf7a1e2e84c14",
-                    "shasum": "68ec84330970bb7e9346aeffd0eb695b9cda063c"
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-blog-recipe/numiko-content-blog-recipe-1.0.0-657c53.tar",
+                    "reference": "a80b4b886b7d978d84d4197e1801f03796b1127f",
+                    "shasum": "82e6f37b4ffb17dd11e57cf6ff4e34bccf7be609"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3",
-                    "numiko/slice-author-name": "^1.0",
-                    "numiko/slice-existing-author": "^1.0"
+                    "numiko/slice-author-name-recipe": "^1.0",
+                    "numiko/slice-existing-author-recipe": "^1.0"
                 },
-                "time": "2025-01-08T15:27:50+00:00",
+                "time": "2025-01-09T11:04:58+00:00",
                 "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
