@@ -27,6 +27,33 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal recipe for new Article content type"
+            },
+            {
+                "name": "numiko/content-article-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-article-recipe.git",
+                    "reference": "027f5b2c4f36b23fac3c23ac55cd774fa6c6f327"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-article-recipe/numiko-content-article-recipe-1.0.1-3750a9.tar",
+                    "reference": "027f5b2c4f36b23fac3c23ac55cd774fa6c6f327",
+                    "shasum": "e359272f6e47fcbc6c3afc93865a6b0bce3c81ba"
+                },
+                "require": {
+                    "numiko/slice-author-name-recipe": "^1.0",
+                    "numiko/slice-existing-author-recipe": "^1.0"
+                },
+                "time": "2025-01-09T13:46:29+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Article content type"
             }
         ]
     }
