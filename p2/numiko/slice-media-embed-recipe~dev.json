@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/slice-media-embed-recipe": [
+            {
+                "name": "numiko/slice-media-embed-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-media-embed-recipe.git",
+                    "reference": "bed3246ca9ab9219011561f2671282bbcffb84a0"
+                },
+                "time": "2025-01-09T16:02:37+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Media Embed recipe paragraph type"
+            }
+        ]
+    }
+}

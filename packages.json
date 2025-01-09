@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1abea55b4cea405471f79141df93a8f24098a398.json": {
-            "sha1": "1abea55b4cea405471f79141df93a8f24098a398"
+        "include/all$67714f82745cd56d2d00bf5763d159652b85373f.json": {
+            "sha1": "67714f82745cd56d2d00bf5763d159652b85373f"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -125,6 +125,7 @@
         "numiko/slice-event-sponsor-recipe",
         "numiko/slice-existing-author-recipe",
         "numiko/slice-full-width-cta-recipe",
+        "numiko/slice-media-embed-recipe",
         "numiko/slice-process-recipe",
         "numiko/slice-quote-recipe",
         "numiko/slice-rich-text-list-recipe",
