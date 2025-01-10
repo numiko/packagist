@@ -643,6 +643,30 @@
                 "time": "2024-09-24T07:55:42+00:00",
                 "type": "drupal-module",
                 "description": "Functional Test With Whole Site Config"
+            },
+            {
+                "name": "numiko/integration_tests",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/integration-tests.git",
+                    "reference": "3b3ae6a8a76cf5369621e6b0cb894a61298d878c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/integration_tests/numiko-integration_tests-4.0.0-630153.tar",
+                    "reference": "3b3ae6a8a76cf5369621e6b0cb894a61298d878c",
+                    "shasum": "250127dba0748f8fe1db0d28d86c453656838978"
+                },
+                "require": {
+                    "phpspec/prophecy-phpunit": "^2",
+                    "weitzman/drupal-test-traits": "^2.0"
+                },
+                "time": "2025-01-10T15:58:06+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Functional Test With Whole Site Config"
             }
         ]
     }

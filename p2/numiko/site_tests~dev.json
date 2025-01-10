@@ -28,9 +28,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "b87586911461fee946393abef49c7032a20dcddf"
+                    "reference": "e60b16146d7a339e825ae726ca11a38226c00c33"
                 },
-                "time": "2024-09-06T15:36:37+00:00",
+                "time": "2025-01-10T15:45:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
