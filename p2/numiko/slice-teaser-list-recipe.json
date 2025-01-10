@@ -47,6 +47,52 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add teaser list slice"
+            },
+            {
+                "name": "numiko/slice-teaser-list-recipe",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-teaser-list-recipe.git",
+                    "reference": "0849b89a3767a1ada0cb81655144b61601e821a0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-teaser-list-recipe/numiko-slice-teaser-list-recipe-1.0.2-6148ea.tar",
+                    "reference": "0849b89a3767a1ada0cb81655144b61601e821a0",
+                    "shasum": "95fc6a533fb3b4f1c4fc8435b67738fcba0d2a7b"
+                },
+                "time": "2025-01-10T06:36:55+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add teaser list slice"
+            },
+            {
+                "name": "numiko/slice-teaser-list-recipe",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-teaser-list-recipe.git",
+                    "reference": "83999f9a9e6b441b5f7e0946915f6f207c95a049"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-teaser-list-recipe/numiko-slice-teaser-list-recipe-1.0.3-ac431c.tar",
+                    "reference": "83999f9a9e6b441b5f7e0946915f6f207c95a049",
+                    "shasum": "782337e21fdbf2fd4832a080838ce51f8e09f450"
+                },
+                "time": "2025-01-10T08:10:23+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add teaser list slice"
             }
         ]
     }

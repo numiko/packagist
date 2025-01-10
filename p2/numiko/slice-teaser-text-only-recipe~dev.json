@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-teaser-text-only-recipe.git",
-                    "reference": "17482dfa8ffc837bb7a2c7a19a291b23e1256813"
+                    "reference": "cfc240b419a31989325bf0fbb492a1c82f32f89f"
                 },
                 "require": {
                     "drupal/paragraphs": "*"
                 },
-                "time": "2025-01-09T11:24:22+00:00",
+                "time": "2025-01-10T08:08:22+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-accordion-recipe.git",
-                    "reference": "7c58a2cf90186a67161659f719937f8baac712bf"
+                    "reference": "6d1182feecc4d119d94c08dcaefd9d93e933b519"
                 },
-                "time": "2025-01-09T11:04:26+00:00",
+                "time": "2025-01-10T07:59:49+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

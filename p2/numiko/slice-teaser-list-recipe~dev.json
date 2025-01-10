@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-teaser-list-recipe.git",
-                    "reference": "54f02212b534ab06d087623ebde72e3677806be0"
+                    "reference": "83999f9a9e6b441b5f7e0946915f6f207c95a049"
                 },
-                "time": "2025-01-09T11:26:07+00:00",
+                "time": "2025-01-10T08:10:23+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

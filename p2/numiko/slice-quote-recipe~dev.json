@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-quote-recipe.git",
-                    "reference": "0dbafc07827445ca469f60d3be4f40cc6c818e88"
+                    "reference": "fb7a0f32557f62522e66a7ba402be46f545335c8"
                 },
-                "time": "2025-01-09T11:34:53+00:00",
+                "time": "2025-01-10T07:04:19+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
