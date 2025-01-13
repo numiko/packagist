@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-testimonial-recipe.git",
-                    "reference": "d4c009213fb38e1237dd731d2e7549a3191491b4"
+                    "reference": "5e2820f7a3402953a8dfa482cfad42ef93ee49ad"
                 },
-                "time": "2025-01-10T06:31:11+00:00",
+                "time": "2025-01-13T15:39:54+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

@@ -69,6 +69,29 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add accordion slice"
+            },
+            {
+                "name": "numiko/slice-accordion-recipe",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-accordion-recipe.git",
+                    "reference": "d2ca1090339be9a49d204850cc605999cb92178d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-accordion-recipe/numiko-slice-accordion-recipe-1.0.3-14403a.tar",
+                    "reference": "d2ca1090339be9a49d204850cc605999cb92178d",
+                    "shasum": "142cee28fcff8b652e54737ebe4c8a9f4d4c5654"
+                },
+                "time": "2025-01-13T14:41:20+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add accordion slice"
             }
         ]
     }
