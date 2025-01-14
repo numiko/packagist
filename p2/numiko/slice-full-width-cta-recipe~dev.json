@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-full-width-cta-recipe.git",
-                    "reference": "dbb5274ce1fb6841de05baa27bcfa46a0aadc1a3"
+                    "reference": "70d44771071cc63b75bd1a85529a207a0c7dfa1a"
                 },
-                "time": "2025-01-09T11:38:33+00:00",
+                "time": "2025-01-10T07:48:48+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
