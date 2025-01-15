@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-person-recipe.git",
-                    "reference": "5d9abdd98280bdbeead2eeb4c2f0f6ff60d26b96"
+                    "reference": "d44bde8b054a5f147827b6fadfdd564b79bfa926"
                 },
                 "require": {
                     "drupal/core-recommended": "^10.3"
                 },
-                "time": "2025-01-07T09:33:55+00:00",
+                "time": "2025-01-15T09:34:42+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

@@ -25,6 +25,58 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal recipe for new Person content type"
+            },
+            {
+                "name": "numiko/content-person-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-person-recipe.git",
+                    "reference": "6f15a589af05719c3f1f226429736c8b44a13f2c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-person-recipe/numiko-content-person-recipe-1.0.1-66b3fd.tar",
+                    "reference": "6f15a589af05719c3f1f226429736c8b44a13f2c",
+                    "shasum": "cd77058474fc1dbdbb203ebada0aec45f120fb2b"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-15T09:02:36+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Person content type"
+            },
+            {
+                "name": "numiko/content-person-recipe",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-person-recipe.git",
+                    "reference": "d44bde8b054a5f147827b6fadfdd564b79bfa926"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-person-recipe/numiko-content-person-recipe-1.0.2-0d992d.tar",
+                    "reference": "d44bde8b054a5f147827b6fadfdd564b79bfa926",
+                    "shasum": "7c52d22bca0a51f3fb9019aac4ecbb67d7f6b7e5"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-01-15T09:34:42+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Person content type"
             }
         ]
     }

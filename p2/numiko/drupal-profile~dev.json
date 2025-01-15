@@ -3,6 +3,22 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "f0f7eea5c6271defec97fac1af3f821645f821ee"
+                },
+                "time": "2025-01-15T09:21:53+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-feature/image-pipeline",
                 "version_normalized": "dev-feature/image-pipeline",
                 "source": {
