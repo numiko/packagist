@@ -23,6 +23,26 @@
             },
             {
                 "name": "numiko/site_tests",
+                "version": "dev-fix/overridden-function",
+                "version_normalized": "dev-fix/overridden-function",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "c3d4b80793735e7fe7c8dfc33e56cd26ee64148d"
+                },
+                "time": "2025-01-15T10:54:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_tests",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
