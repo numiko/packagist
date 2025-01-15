@@ -8,13 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-article-recipe.git",
-                    "reference": "66d9a7acb78a4757aa149dd33ba9e6cc565a35a9"
+                    "reference": "2f7562040da365e00cb832903ebcb999364fb79e"
                 },
                 "require": {
                     "numiko/slice-author-name-recipe": "^1.0",
                     "numiko/slice-existing-author-recipe": "^1.0"
                 },
-                "time": "2025-01-15T11:12:15+00:00",
+                "time": "2025-01-15T15:05:59+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

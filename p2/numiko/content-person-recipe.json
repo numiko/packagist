@@ -93,6 +93,28 @@
                 },
                 "time": "2025-01-15T10:11:43+00:00",
                 "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Person content type"
+            },
+            {
+                "name": "numiko/content-person-recipe",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-person-recipe.git",
+                    "reference": "7c83633e60857921367e3e6a9318671505698fe2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-person-recipe/numiko-content-person-recipe-1.0.4-0b852d.tar",
+                    "reference": "7c83633e60857921367e3e6a9318671505698fe2",
+                    "shasum": "6f26328498bcefd0e12a7bd056774457093c4aae"
+                },
+                "time": "2025-01-15T14:31:47+00:00",
+                "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"

@@ -1,0 +1,34 @@
+{
+    "packages": {
+        "numiko/slice-listing-article-recipe": [
+            {
+                "name": "numiko/slice-listing-article-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
+                    "reference": "33b0d18e99ed77a59f559ab76e96187373909d25"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-listing-article-recipe/numiko-slice-listing-article-recipe-1.0.0-59d309.tar",
+                    "reference": "33b0d18e99ed77a59f559ab76e96187373909d25",
+                    "shasum": "52663cb658413991172b9828063ceeb5fae5f2fa"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "numiko/content-article-recipe": "^1.0",
+                    "numiko/listings-filter": "^4.3"
+                },
+                "time": "2025-01-15T15:08:41+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Listing: Article paragraph type"
+            }
+        ]
+    }
+}
