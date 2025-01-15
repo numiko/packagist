@@ -227,7 +227,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "7729a6634955171b4438ab1acf62a1bc7486e74c"
+                    "reference": "9b274e9f34540886e1b58a01ec3034557b478c5e"
                 },
                 "require": {
                     "composer/installers": "^2.3",
@@ -319,11 +319,13 @@
                     "numiko/media_video_id": "^1.3",
                     "numiko/numidemo": "^2",
                     "numiko/personas": "^1.5@beta",
+                    "numiko/recipe_tools": "^1.0",
                     "numiko/responsive_image_class": "^1.2",
                     "numiko/search_exclude_moderation": "^1.2@beta",
                     "numiko/security_checker": "^1.0",
                     "numiko/site_alerts": "^3.2@beta",
                     "numiko/site_settings": "^2.1",
+                    "numiko/slice_jump_links": "^9.0.0@alpha",
                     "numiko/twig_field_values": "^3.3",
                     "numiko/twig_media": "^2.2.0-beta1",
                     "numiko/twig_vite_asset": "^1.0",
@@ -341,7 +343,7 @@
                     "drupal/core-dev": "^11.1",
                     "mglaman/drupal-check": "^1.1"
                 },
-                "time": "2025-01-15T09:12:17+00:00",
+                "time": "2025-01-15T09:46:59+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
