@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
-                    "reference": "33b0d18e99ed77a59f559ab76e96187373909d25"
+                    "reference": "37eb124201c789106ae670c9c675bb9d5ef1b882"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "numiko/content-article-recipe": "^1.0",
-                    "numiko/listings-filter": "^4.3"
+                    "numiko/listings_filter": "^4.3"
                 },
-                "time": "2025-01-15T15:08:41+00:00",
+                "time": "2025-01-15T15:33:55+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
