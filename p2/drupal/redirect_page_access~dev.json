@@ -3,14 +3,14 @@
         "drupal/redirect_page_access": [
             {
                 "name": "drupal/redirect_page_access",
-                "version": "dev-IBET-125",
-                "version_normalized": "dev-IBET-125",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-page-access.git",
-                    "reference": "e4de35926903f65774342449ec1a8c2e55d472a9"
+                    "reference": "4c1831b8d515feb96cd496a4b171512ead293844"
                 },
-                "time": "2024-01-30T14:08:01+00:00",
+                "time": "2025-01-17T16:30:48+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
