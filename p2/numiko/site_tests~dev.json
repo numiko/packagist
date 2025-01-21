@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "d0c660236793d0e37c147514edff63f94e6b6e5b"
+                    "reference": "e13ae586ab1d72a9b75e8c42c43187bc93a1672b"
                 },
                 "time": "2024-12-19T09:00:28+00:00",
                 "type": "drupal-custom-module",
