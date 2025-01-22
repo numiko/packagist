@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-document-download-recipe.git",
-                    "reference": "cec76eb9f336824b9f8544f0243f41022ec0a80b"
+                    "reference": "d4ebb19539fee7d1b126765ecf540e26ecc56f8c"
                 },
-                "time": "2025-01-22T16:53:07+00:00",
+                "time": "2025-01-22T17:10:59+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [

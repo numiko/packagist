@@ -18,6 +18,28 @@
                 },
                 "time": "2025-01-22T16:53:07+00:00",
                 "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Document Download recipe paragraph type"
+            },
+            {
+                "name": "numiko/slice-document-download-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-document-download-recipe.git",
+                    "reference": "d4ebb19539fee7d1b126765ecf540e26ecc56f8c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-document-download-recipe/numiko-slice-document-download-recipe-1.0.1-40863c.tar",
+                    "reference": "d4ebb19539fee7d1b126765ecf540e26ecc56f8c",
+                    "shasum": "81bd870a1f5c6787a13576a97b3a8ce7d90fb706"
+                },
+                "time": "2025-01-22T17:10:59+00:00",
+                "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
