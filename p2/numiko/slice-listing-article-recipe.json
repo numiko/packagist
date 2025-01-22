@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe.git",
                     "reference": "33b0d18e99ed77a59f559ab76e96187373909d25"
                 },
                 "dist": {
@@ -34,7 +34,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe.git",
                     "reference": "37eb124201c789106ae670c9c675bb9d5ef1b882"
                 },
                 "dist": {
@@ -61,7 +61,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe.git",
                     "reference": "84ef076cf9c8751a9935b26c1e262a7c4e2163d8"
                 },
                 "dist": {

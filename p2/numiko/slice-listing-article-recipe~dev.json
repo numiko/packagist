@@ -7,7 +7,7 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe",
+                    "url": "git@bitbucket.org:numiko/slice-listing-article-recipe.git",
                     "reference": "84ef076cf9c8751a9935b26c1e262a7c4e2163d8"
                 },
                 "require": {
