@@ -1,5 +1,29 @@
 {
     "packages": {
-        "numiko/slice-webform-recipe": []
+        "numiko/slice-webform-recipe": [
+            {
+                "name": "numiko/slice-webform-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-webform-recipe.git",
+                    "reference": "41ec7e130bcd318c89dd0946a304ca3ee15a40ad"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-webform-recipe/numiko-slice-webform-recipe-1.0.1-a90df0.tar",
+                    "reference": "41ec7e130bcd318c89dd0946a304ca3ee15a40ad",
+                    "shasum": "a1f45302f4d56341825a14fb6eb903594fbc7a7b"
+                },
+                "time": "2025-01-16T16:57:37+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Webform recipe paragraph type"
+            }
+        ]
     }
 }
