@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/slice-object-embed-recipe": [
+            {
+                "name": "numiko/slice-object-embed-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-object-embed-recipe.git",
+                    "reference": "b5b256e45cbc8b3a09f3c7586427a3e5ed236632"
+                },
+                "time": "2025-01-22T14:54:54+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Object Embed recipe paragraph type"
+            }
+        ]
+    }
+}

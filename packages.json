@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1f994ad94dabadc90a8b6c4e3fd3bf3b866173f4.json": {
-            "sha1": "1f994ad94dabadc90a8b6c4e3fd3bf3b866173f4"
+        "include/all$3251a4f99549596e76ad95206ced9f5aaa5221a2.json": {
+            "sha1": "3251a4f99549596e76ad95206ced9f5aaa5221a2"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -127,6 +127,7 @@
         "numiko/slice-full-width-cta-recipe",
         "numiko/slice-listing-article-recipe",
         "numiko/slice-media-embed-recipe",
+        "numiko/slice-object-embed-recipe",
         "numiko/slice-process-recipe",
         "numiko/slice-quote-recipe",
         "numiko/slice-rich-text-list-recipe",
