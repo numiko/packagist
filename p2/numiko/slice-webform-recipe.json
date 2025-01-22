@@ -40,6 +40,28 @@
                 },
                 "time": "2025-01-22T10:39:20+00:00",
                 "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Webform recipe paragraph type"
+            },
+            {
+                "name": "numiko/slice-webform-recipe",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-webform-recipe.git",
+                    "reference": "e9908124ed49763b7815aa55c036228890929dde"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-webform-recipe/numiko-slice-webform-recipe-1.0.3-664be6.tar",
+                    "reference": "e9908124ed49763b7815aa55c036228890929dde",
+                    "shasum": "1f118f0e08480cc61ede1eee1481722ee9bb7f8d"
+                },
+                "time": "2025-01-22T10:53:15+00:00",
+                "type": "drupal-recipe",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
