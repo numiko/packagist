@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "numiko/slice-document-download-recipe": [
+            {
+                "name": "numiko/slice-document-download-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-document-download-recipe.git",
+                    "reference": "cec76eb9f336824b9f8544f0243f41022ec0a80b"
+                },
+                "time": "2025-01-22T16:53:07+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Document Download recipe paragraph type"
+            }
+        ]
+    }
+}
