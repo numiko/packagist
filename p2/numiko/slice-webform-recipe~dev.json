@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-webform-recipe.git",
-                    "reference": "e9908124ed49763b7815aa55c036228890929dde"
+                    "reference": "95f73366c9cba4a39746c7fdcbca03cd75dbb274"
                 },
-                "time": "2025-01-22T10:53:15+00:00",
+                "time": "2025-01-22T11:00:27+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
