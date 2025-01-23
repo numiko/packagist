@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-logos-recipe.git",
-                    "reference": "a7fa085579b6007d1870b7b2565a0113104b98ca"
+                    "reference": "5561674a232cc41c97d1f3282690e7bef5b834a2"
                 },
-                "time": "2025-01-23T09:58:27+00:00",
+                "time": "2025-01-23T13:35:25+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
