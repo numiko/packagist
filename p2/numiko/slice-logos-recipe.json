@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "numiko/slice-logos-recipe": [
+            {
+                "name": "numiko/slice-logos-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-logos-recipe.git",
+                    "reference": "a7fa085579b6007d1870b7b2565a0113104b98ca"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-logos-recipe/numiko-slice-logos-recipe-1.0.0-f8e854.tar",
+                    "reference": "a7fa085579b6007d1870b7b2565a0113104b98ca",
+                    "shasum": "d2e526a023aec9e1c8c6e6d0d01aab733c6a7023"
+                },
+                "time": "2025-01-23T09:58:27+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal recipe for new Logos paragraph type"
+            }
+        ]
+    }
+}

@@ -195,6 +195,31 @@
             },
             {
                 "name": "numiko/ai_writing_assistant",
+                "version": "1.1.10-alpha4",
+                "version_normalized": "1.1.10.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-writing-assistant.git",
+                    "reference": "a65cb9a603ca529c93aef11d7c13589ec3000119"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/ai_writing_assistant/numiko-ai_writing_assistant-1.1.10-alpha4-50cf75.tar",
+                    "reference": "a65cb9a603ca529c93aef11d7c13589ec3000119",
+                    "shasum": "508e585bd10163c00fc725cccb36a90901b989f3"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0@alpha",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.3.0"
+                },
+                "time": "2025-01-09T16:37:42+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Drupal 10 module with AI prototypes"
+            },
+            {
+                "name": "numiko/ai_writing_assistant",
                 "version": "1.1.2",
                 "version_normalized": "1.1.2.0",
                 "source": {
