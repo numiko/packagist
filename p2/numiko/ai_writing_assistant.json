@@ -519,7 +519,6 @@
                 },
                 "time": "2025-01-27T15:02:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Drupal 10 module with AI prototypes"
             }
         ]
