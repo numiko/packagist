@@ -3,27 +3,14 @@
         "numiko/media_remote_file": [
             {
                 "name": "numiko/media_remote_file",
-                "version": "dev-feature/d11-hook",
-                "version_normalized": "dev-feature/d11-hook",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/media-remote-file.git",
-                    "reference": "bf404ce3c8ebdad815c8b3262a70d1cd918718e2"
-                },
-                "time": "2025-01-28T13:14:11+00:00",
-                "type": "drupal-module",
-                "description": "Add remote video file urls as media"
-            },
-            {
-                "name": "numiko/media_remote_file",
                 "version": "dev-fix/d11-bugs",
                 "version_normalized": "dev-fix/d11-bugs",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-remote-file.git",
-                    "reference": "90a27fb140b9ca9ebcc98e125466c7390384fb66"
+                    "reference": "9ec4bc8d38cf781030bebf3b7da83253f9900b80"
                 },
-                "time": "2025-01-28T13:04:40+00:00",
+                "time": "2025-01-28T14:21:34+00:00",
                 "type": "drupal-module",
                 "description": "Add remote video file urls as media"
             },
