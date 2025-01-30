@@ -105,9 +105,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "3e1c30ddd998e56f6565b9bf7d3538a05dd37c1b"
+                    "reference": "161d059c9cc94feed248ec8fdce42f0383d64759"
                 },
-                "time": "2025-01-16T15:29:22+00:00",
+                "time": "2025-01-30T09:23:41+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
