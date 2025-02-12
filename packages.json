@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$bc46a8c9937d066572c41dcd20ebfc795c48e005.json": {
-            "sha1": "bc46a8c9937d066572c41dcd20ebfc795c48e005"
+        "include/all$f25b20f340cb3337bfae46c9321d8862cf73f97d.json": {
+            "sha1": "f25b20f340cb3337bfae46c9321d8862cf73f97d"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -102,6 +102,7 @@
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",
         "numiko/pet-importer",
+        "numiko/purge_entity",
         "numiko/purge_url_queuer",
         "numiko/random_number_field",
         "numiko/recipe_tools",
