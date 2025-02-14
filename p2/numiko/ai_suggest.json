@@ -23,6 +23,38 @@
                 },
                 "time": "2025-02-14T09:56:36+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides AI-powered content suggestion functionality",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Suggestion"
+                ]
+            },
+            {
+                "name": "numiko/ai_suggest",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-suggest.git",
+                    "reference": "ab63de1bad42ef2814e3e5511119459b899a7398"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/ai_suggest/numiko-ai_suggest-1.0.0-beta2-afe3ea.tar",
+                    "reference": "ab63de1bad42ef2814e3e5511119459b899a7398",
+                    "shasum": "c52625a94e17eea4000437409106665179ed195c"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.3"
+                },
+                "time": "2025-02-14T16:02:41+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
