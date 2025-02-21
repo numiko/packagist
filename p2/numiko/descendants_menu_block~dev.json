@@ -66,9 +66,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
-                    "reference": "a7f99721b14b443cc5197f91c65d8b22dc3add7d"
+                    "reference": "e07988db3f7b69ac5e0b03aa26c2d84c2960c862"
                 },
-                "time": "2023-07-18T09:03:43+00:00",
+                "time": "2025-02-21T14:38:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
