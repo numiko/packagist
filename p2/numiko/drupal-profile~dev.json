@@ -35,22 +35,6 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-feature/remove-stub-modules",
-                "version_normalized": "dev-feature/remove-stub-modules",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "bfb9b8a677b570104a4f2b2d69ac0bfa38a69348"
-                },
-                "time": "2025-01-03T16:08:18+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -92,6 +76,38 @@
                     "reference": "86eae665c2e33d9563334772ca503ce2f5970b35"
                 },
                 "time": "2024-12-13T15:57:42+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-release/3.1.x",
+                "version_normalized": "dev-release/3.1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "a5174a42107cd8c58c4b671a739dde2b11ba8b9a"
+                },
+                "time": "2025-02-25T09:53:11+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-release/3.2.x",
+                "version_normalized": "dev-release/3.2.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "a5174a42107cd8c58c4b671a739dde2b11ba8b9a"
+                },
+                "time": "2025-02-25T09:53:11+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
