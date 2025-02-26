@@ -771,6 +771,34 @@
                     "Drupal",
                     "Paragraph"
                 ]
+            },
+            {
+                "name": "numiko/slice_jump_links",
+                "version": "9.0.0-alpha5",
+                "version_normalized": "9.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
+                    "reference": "8d53e01e4eea2ebc3e297820b0686bdc6bf2e5d8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice_jump_links/numiko-slice_jump_links-9.0.0-alpha5-7247f2.tar",
+                    "reference": "8d53e01e4eea2ebc3e297820b0686bdc6bf2e5d8",
+                    "shasum": "6e176ee1b1f0231bc45b4749afc6e09f40a21b56"
+                },
+                "time": "2025-02-26T11:25:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add jump links from slices",
+                "homepage": "https://bitbucket.org/numiko/slice-jump-links/src/8.x-4.x/",
+                "keywords": [
+                    "Drupal",
+                    "Paragraph"
+                ]
             }
         ]
     }
