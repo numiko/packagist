@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "bd96829e260475cafc5149885a7e9e293dc185c9"
+                    "reference": "2225f2dad749aa3366ea44efdef202de6e96a049"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
                     "php": "^8.1.7",
-                    "psr/log": "^1.1"
+                    "psr/log": "^1 | ^2 | ^3"
                 },
                 "require-dev": {
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2025-03-11T11:33:37+00:00",
+                "time": "2025-03-11T11:46:53+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
