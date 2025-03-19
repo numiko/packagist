@@ -22,6 +22,25 @@
             },
             {
                 "name": "numiko/site_settings",
+                "version": "dev-feature/templating",
+                "version_normalized": "dev-feature/templating",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-settings.git",
+                    "reference": "03e55db7fa05abd25f2dd1e89ccd29f9812ed8c1"
+                },
+                "time": "2025-03-19T15:16:38+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides site settings for the Drupal application.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_settings",
                 "version": "dev-fix/check-access",
                 "version_normalized": "dev-fix/check-access",
                 "source": {
