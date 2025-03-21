@@ -3,6 +3,32 @@
         "numiko/ai_suggest": [
             {
                 "name": "numiko/ai_suggest",
+                "version": "dev-feature/max-length",
+                "version_normalized": "dev-feature/max-length",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-suggest.git",
+                    "reference": "52936287d056aeb0ac6e0d48b53e759c1c34df03"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.3"
+                },
+                "time": "2025-03-21T15:52:54+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides AI-powered content suggestion functionality",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Suggestion"
+                ]
+            },
+            {
+                "name": "numiko/ai_suggest",
                 "version": "dev-feature/taxonomy-prompt",
                 "version_normalized": "dev-feature/taxonomy-prompt",
                 "source": {
