@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/purge_url_queuer",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/purge-url-queuer.git",
+                    "reference": "2a0acef6b252af01cf23bd676e106c5434a5f93e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/purge_url_queuer/numiko-purge_url_queuer-1.1.0-cad3f5.tar",
+                    "reference": "2a0acef6b252af01cf23bd676e106c5434a5f93e",
+                    "shasum": "a4053a8f5fc45d300a03cf6f682df1e64e43c709"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2025-03-24T16:32:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a purge plugin to purge by URL.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

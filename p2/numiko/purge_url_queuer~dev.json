@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/purge-url-queuer.git",
-                    "reference": "64be2d8993fe2cde1e25b1f70a99aabf0b9b3f0b"
+                    "reference": "2a0acef6b252af01cf23bd676e106c5434a5f93e"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2024-05-24T10:18:24+00:00",
+                "time": "2025-03-24T16:32:05+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Provides a purge plugin to purge by URL.",
