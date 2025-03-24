@@ -46,7 +46,6 @@
                 },
                 "time": "2025-03-24T16:32:05+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Provides a purge plugin to purge by URL.",
                 "keywords": [
                     "Drupal"
