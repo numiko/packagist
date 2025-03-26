@@ -19,6 +19,22 @@
             },
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-feature/ghd-amends",
+                "version_normalized": "dev-feature/ghd-amends",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "ced2d4bdfcdbfd330b7e190edc75a451a15635d5"
+                },
+                "time": "2025-03-26T14:36:04+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-feature/image-pipeline",
                 "version_normalized": "dev-feature/image-pipeline",
                 "source": {
