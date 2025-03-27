@@ -75,6 +75,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/listing_template",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listing-template.git",
+                    "reference": "6a289b23ee0447f4cff5de00101c28c9bd3f5839"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listing_template/numiko-listing_template-2.0.0-b27119.tar",
+                    "reference": "6a289b23ee0447f4cff5de00101c28c9bd3f5839",
+                    "shasum": "4094125e75161544b07601075bb8eae40887b1c7"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2025-03-27T09:36:29+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a twig filter to display entities retrieved from the listing API.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
