@@ -3,6 +3,32 @@
         "numiko/ai_suggest": [
             {
                 "name": "numiko/ai_suggest",
+                "version": "dev-feature/form-state-helper-fix",
+                "version_normalized": "dev-feature/form-state-helper-fix",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-suggest.git",
+                    "reference": "56af570e2cca55732812b031599139608e745ca7"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.3"
+                },
+                "time": "2025-03-31T09:06:49+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides AI-powered content suggestion functionality",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Suggestion"
+                ]
+            },
+            {
+                "name": "numiko/ai_suggest",
                 "version": "dev-feature/taxonomy-prompt",
                 "version_normalized": "dev-feature/taxonomy-prompt",
                 "source": {
