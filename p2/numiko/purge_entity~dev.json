@@ -3,14 +3,15 @@
         "numiko/purge_entity": [
             {
                 "name": "numiko/purge_entity",
-                "version": "dev-release/1.0.0",
-                "version_normalized": "dev-release/1.0.0",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/purge-entity.git",
-                    "reference": "8533e9b75791475b16fd8c2756e4781b792415d2"
+                    "reference": "d72f0fca5c13c3e34355b5df400be1387faeb8b9"
                 },
-                "time": "2024-12-09T21:58:29+00:00",
+                "time": "2025-04-01T10:33:32+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
