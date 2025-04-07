@@ -266,7 +266,6 @@
                     "drupal/search_api": "~1.24"
                 },
                 "time": "2025-01-08T14:32:52+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -291,6 +290,7 @@
                     "drupal/search_api": "~1.24"
                 },
                 "time": "2025-04-07T10:47:41+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
