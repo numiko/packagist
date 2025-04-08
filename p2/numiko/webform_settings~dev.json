@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/webform_settings.git",
-                    "reference": "ccc7d9a81ae2312584c94018c51b4dc9ae179635"
+                    "reference": "03f9ef0743554b6a4225a64706b2bb5f256680bd"
                 },
-                "time": "2022-09-06T09:51:08+00:00",
+                "time": "2025-04-08T13:47:30+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

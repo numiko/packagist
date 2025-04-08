@@ -50,6 +50,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/webform_settings",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/webform_settings.git",
+                    "reference": "03f9ef0743554b6a4225a64706b2bb5f256680bd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/webform_settings/numiko-webform_settings-1.1.1-8702da.tar",
+                    "reference": "03f9ef0743554b6a4225a64706b2bb5f256680bd",
+                    "shasum": "40042335e4617e8177f3b3812be5004f08a100bd"
+                },
+                "time": "2025-04-08T13:47:30+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Set sensible defaults for webform purge settings",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
