@@ -3,62 +3,14 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-feature/d11",
-                "version_normalized": "dev-feature/d11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "f0f7eea5c6271defec97fac1af3f821645f821ee"
-                },
-                "time": "2025-01-15T09:21:53+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-feature/ghd-amends",
-                "version_normalized": "dev-feature/ghd-amends",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "ced2d4bdfcdbfd330b7e190edc75a451a15635d5"
-                },
-                "time": "2025-03-26T14:36:04+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-feature/image-pipeline",
-                "version_normalized": "dev-feature/image-pipeline",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "c25e982e5b18db38ce573efaabefdb3a055659ee"
-                },
-                "time": "2025-01-03T15:35:37+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "1350db76d04e734afa47bb0a13f60ea16b2bacfb"
+                    "reference": "e4718cfcde2e581bfb21e53cc79de10fdeb7e972"
                 },
-                "time": "2025-01-08T11:53:35+00:00",
+                "time": "2025-04-25T12:41:37+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "license": [
