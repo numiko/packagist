@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/ai-prompt.git",
-                    "reference": "c52c33c36d2ad80842b98fff5a4406f2901ed915"
+                    "reference": "c952c3505d6e9b4b754b2f3a08780035282bf37e"
                 },
                 "require": {
                     "php": ">=8.0"
                 },
-                "time": "2025-04-17T15:48:07+00:00",
+                "time": "2025-04-30T15:49:37+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
