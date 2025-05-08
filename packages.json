@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$c9ca1cb3be5873f747fd017909d5b0af5e3cb887.json": {
-            "sha1": "c9ca1cb3be5873f747fd017909d5b0af5e3cb887"
+        "include/all$b362aef148f7784ea7c37b0ee0e424a477a5dfd3.json": {
+            "sha1": "b362aef148f7784ea7c37b0ee0e424a477a5dfd3"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -58,6 +58,7 @@
         "numiko/facets_attachment",
         "numiko/facets_default",
         "numiko/fastly_file_purge",
+        "numiko/feature-access-unpublished-recipe",
         "numiko/feature-slice-jump-link-recipe",
         "numiko/feedback_form",
         "numiko/field_items_limit",

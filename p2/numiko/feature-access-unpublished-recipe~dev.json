@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "numiko/feature-access-unpublished-recipe": [
+            {
+                "name": "numiko/feature-access-unpublished-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/feature-access-unpublished-recipe.git",
+                    "reference": "bdec90a86655118280e77ec640029cb766630840"
+                },
+                "require": {
+                    "drupal/access_unpublished": "^1.6",
+                    "drupal/core": "^10.4"
+                },
+                "time": "2025-05-08T14:52:31+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add access unpublished for anonymous users to view unpublished content for review"
+            }
+        ]
+    }
+}
