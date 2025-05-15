@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/ai-suggest.git",
-                    "reference": "2aca510ecdee6437517374a2657dc36113af8eea"
+                    "reference": "7099b862e8f8aef6caed6f64750aa254cd488628"
                 },
                 "require": {
                     "drupal/ai": ">=1.0",
                     "numiko/ai_prompt": ">=1.0",
                     "php": ">=8.3"
                 },
-                "time": "2025-04-30T16:25:10+00:00",
+                "time": "2025-05-15T10:49:12+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"

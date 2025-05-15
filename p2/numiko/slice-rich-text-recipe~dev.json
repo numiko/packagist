@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "numiko/slice-rich-text-recipe": [
+            {
+                "name": "numiko/slice-rich-text-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-rich-text-recipe.git",
+                    "reference": "3ea46cad21f0f85023ff3bff6c71e22873b65973"
+                },
+                "require": {
+                    "drupal/paragraphs": "*",
+                    "drupal/paragraphs_ee": "*"
+                },
+                "time": "2025-05-15T12:27:00+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds a rich slice.",
+                "keywords": [
+                    "Drupal recipes",
+                    "drupal recipe",
+                    "recipe"
+                ]
+            }
+        ]
+    }
+}
