@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$5777d3c2c8abe37b9cc8325f7347495f9e75b5f7.json": {
-            "sha1": "5777d3c2c8abe37b9cc8325f7347495f9e75b5f7"
+        "include/all$0d57a6a5fb2142852799b17ae895e12694dc99cc.json": {
+            "sha1": "0d57a6a5fb2142852799b17ae895e12694dc99cc"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -146,6 +146,7 @@
         "numiko/slice_type_condition",
         "numiko/social_share_block",
         "numiko/socialfeed_multi",
+        "numiko/statistics-slice",
         "numiko/styleguide",
         "numiko/taxonomy_slice",
         "numiko/template_breadcrumb",
