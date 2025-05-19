@@ -155,6 +155,26 @@
             },
             {
                 "name": "numiko/personas",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "20e2698ea5d4f3fdcfd1a2dc16d85362af162ff5"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/personas/numiko-personas-1.5.0-2f40b1.tar",
+                    "reference": "20e2698ea5d4f3fdcfd1a2dc16d85362af162ff5",
+                    "shasum": "b265cfdbd7a71d1fb96a5aca5ad9b12a3fa69aac"
+                },
+                "time": "2025-01-08T14:34:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
+            {
+                "name": "numiko/personas",
                 "version": "1.5.0-beta1",
                 "version_normalized": "1.5.0.0-beta1",
                 "source": {
