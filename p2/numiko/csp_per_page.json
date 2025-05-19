@@ -284,7 +284,6 @@
                 },
                 "time": "2025-01-07T15:37:14+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Set a strict CSP on specific paths and content types"
             },
             {
