@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1a84136e82b9d9f1f36853ce683c891146552e8f.json": {
-            "sha1": "1a84136e82b9d9f1f36853ce683c891146552e8f"
+        "include/all$660c2782e7fd6bea6e5c448f04adfd5b1c5737cf.json": {
+            "sha1": "660c2782e7fd6bea6e5c448f04adfd5b1c5737cf"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -26,6 +26,7 @@
         "numiko/content-article-recipe",
         "numiko/content-blog-recipe",
         "numiko/content-event-recipe",
+        "numiko/content-landing-recipe",
         "numiko/content-person-recipe",
         "numiko/content_bulk_update",
         "numiko/content_dashboards",
