@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/feature-slice-jump-link-recipe.git",
-                    "reference": "5b8b8ab39b10e864b22b9687ce31e687de882640"
+                    "reference": "05927b6dd6ff7290cd5ad5de67aaa17f1ae27f1e"
                 },
-                "time": "2025-01-23T12:05:04+00:00",
+                "time": "2025-05-29T13:55:32+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
