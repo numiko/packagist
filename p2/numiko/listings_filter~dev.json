@@ -105,6 +105,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/hierarchical-support",
+                "version_normalized": "dev-feature/hierarchical-support",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "d24362f07b187587fc6ad71b52ce5556ef9bc73f"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2025-06-03T13:25:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/listing-query-processors-settings-test",
                 "version_normalized": "dev-feature/listing-query-processors-settings-test",
                 "source": {
