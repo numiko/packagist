@@ -3,46 +3,14 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-285",
-                "version_normalized": "dev-SKP-285",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "328981657fccf1f548acc9635b9d7085a6fec043"
-                },
-                "time": "2025-05-29T12:31:58+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-86",
-                "version_normalized": "dev-SKP-86",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "e141efa9121b88b28269e413f13ce9c81f673843"
-                },
-                "time": "2025-05-29T12:21:10+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "e4718cfcde2e581bfb21e53cc79de10fdeb7e972"
+                    "reference": "f25ff2a9ca9b6054b50bc289dd27eee5a2220ff3"
                 },
-                "time": "2025-04-25T12:41:37+00:00",
+                "time": "2025-06-04T13:33:54+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "license": [
