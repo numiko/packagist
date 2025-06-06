@@ -3,6 +3,27 @@
         "numiko/recipe_tools": [
             {
                 "name": "numiko/recipe_tools",
+                "version": "dev-feature/drupal-composer-template-3.2.2-fix",
+                "version_normalized": "dev-feature/drupal-composer-template-3.2.2-fix",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/recipe-tools.git",
+                    "reference": "03522579b08432cbf2f3a3e0187ee152f069658d"
+                },
+                "require": {
+                    "drush/drush": "^13.0"
+                },
+                "time": "2025-06-06T09:41:24+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\recipe_tools\\": "src/"
+                    }
+                },
+                "description": "Install custom recipes from Numiko packagist"
+            },
+            {
+                "name": "numiko/recipe_tools",
                 "version": "dev-feature/recipe-order",
                 "version_normalized": "dev-feature/recipe-order",
                 "source": {
