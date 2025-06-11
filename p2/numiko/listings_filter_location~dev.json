@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "numiko/listings_filter_location": [
+            {
+                "name": "numiko/listings_filter_location",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter-location.git",
+                    "reference": "5b7c3ba9ca8e0667a02710bad028ce999eedd771"
+                },
+                "require": {
+                    "numiko/listings_filter": "~5.1"
+                },
+                "time": "2025-06-11T13:42:46+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "This module extends the Listings Filter module with location-based filtering capabilities",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}
