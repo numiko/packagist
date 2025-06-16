@@ -79,6 +79,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/field-data-option",
+                "version_normalized": "dev-feature/field-data-option",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "cbfcda73ddef80ea4ff064ce081e749a9315919c"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2025-06-16T16:34:09+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/global-listings",
                 "version_normalized": "dev-feature/global-listings",
                 "source": {
