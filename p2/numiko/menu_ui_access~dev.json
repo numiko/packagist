@@ -3,6 +3,22 @@
         "numiko/menu_ui_access": [
             {
                 "name": "numiko/menu_ui_access",
+                "version": "dev-feature/d11-compatibility",
+                "version_normalized": "dev-feature/d11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-ui-access.git",
+                    "reference": "96bc2fa03c3f79a3e4cf1d9d5b10184e847d7be0"
+                },
+                "require": {
+                    "drupal/core": "^10.0 || ^11.0"
+                },
+                "time": "2025-06-20T14:25:20+00:00",
+                "type": "drupal-module",
+                "description": "Allow menu UI access to be more granular - allow users to add pages to a menu without administer menu access"
+            },
+            {
+                "name": "numiko/menu_ui_access",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
