@@ -44,6 +44,26 @@
                 "time": "2024-07-02T11:06:36+00:00",
                 "type": "drupal-module",
                 "description": "Allow menu UI access to be more granular - allow users to add pages to a menu without administer menu access"
+            },
+            {
+                "name": "numiko/menu_ui_access",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-ui-access.git",
+                    "reference": "9c8476f556d4033249b9e84fbd67f3a0ccac6087"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/menu_ui_access/numiko-menu_ui_access-1.1.1-02e62e.tar",
+                    "reference": "9c8476f556d4033249b9e84fbd67f3a0ccac6087",
+                    "shasum": "3750d6c6917a9d6a487f6c20d6ca923319a85ad4"
+                },
+                "time": "2025-06-25T07:40:50+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Allow menu UI access to be more granular - allow users to add pages to a menu without administer menu access"
             }
         ]
     }
