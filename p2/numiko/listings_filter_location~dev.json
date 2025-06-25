@@ -3,6 +3,28 @@
         "numiko/listings_filter_location": [
             {
                 "name": "numiko/listings_filter_location",
+                "version": "dev-feature/alterSortSearchApiFields",
+                "version_normalized": "dev-feature/alterSortSearchApiFields",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter-location.git",
+                    "reference": "05fcc7e28ec43820715cbc253ea5b063129410a7"
+                },
+                "require": {
+                    "numiko/listings_filter": "^5.1"
+                },
+                "time": "2025-06-25T16:08:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "This module extends the Listings Filter module with location-based filtering capabilities",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter_location",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {

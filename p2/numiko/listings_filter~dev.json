@@ -27,6 +27,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/alterSortSearchApiFields",
+                "version_normalized": "dev-feature/alterSortSearchApiFields",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "e7d94220b4c73f37437a69f6b3db91ff2cc3c0c7"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2025-06-25T13:08:42+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
                 "version_normalized": "dev-feature/api",
                 "source": {
@@ -68,6 +92,30 @@
                     "webmozart/path-util": "^2.1.0"
                 },
                 "time": "2022-11-10T15:08:53+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/entity-list-caching",
+                "version_normalized": "dev-feature/entity-list-caching",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "4ea50e6995548dd776e47d67b9e932c66535aa20"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2025-06-25T09:35:32+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
