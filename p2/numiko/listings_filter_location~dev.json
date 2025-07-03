@@ -8,12 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter-location.git",
-                    "reference": "05fcc7e28ec43820715cbc253ea5b063129410a7"
+                    "reference": "dcec1f60de9170dae5561d3b0df8ea4dd20be062"
                 },
-                "require": {
-                    "numiko/listings_filter": "^5.1"
-                },
-                "time": "2025-06-25T16:08:15+00:00",
+                "time": "2025-07-03T13:29:43+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
