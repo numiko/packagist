@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/feedback-form.git",
-                    "reference": "8f1249c89d9dff7955e07cd190110b2b82e7f87c"
+                    "reference": "4ad0e7c1ff436d4cd8edd40f883c0550a1bf18ca"
                 },
-                "time": "2023-11-10T09:06:16+00:00",
+                "time": "2025-07-07T16:01:25+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

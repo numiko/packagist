@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/feedback_form",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/feedback-form.git",
+                    "reference": "4ad0e7c1ff436d4cd8edd40f883c0550a1bf18ca"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/feedback_form/numiko-feedback_form-1.0.1-3c1f41.tar",
+                    "reference": "4ad0e7c1ff436d4cd8edd40f883c0550a1bf18ca",
+                    "shasum": "074e0ca00c1818288bd16567088137f0302b9d91"
+                },
+                "time": "2025-07-07T16:01:25+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Feedback Form",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
