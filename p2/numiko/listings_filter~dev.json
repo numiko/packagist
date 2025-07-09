@@ -27,30 +27,6 @@
             },
             {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/alterSortSearchApiFields",
-                "version_normalized": "dev-feature/alterSortSearchApiFields",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "37b5b4215761fb83276d34d3e24b8e2ddef8b9de"
-                },
-                "require": {
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24"
-                },
-                "time": "2025-07-08T12:03:14+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
                 "version_normalized": "dev-feature/api",
                 "source": {
@@ -354,14 +330,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "855efaee2393526d7348888d7f89e7745525cd8f"
+                    "reference": "5e358f28847820b8136147e9cd144e5033b45491"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2025-06-05T08:44:38+00:00",
+                "time": "2025-07-09T11:02:13+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
