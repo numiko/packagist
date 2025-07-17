@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/custom-block-permissions.git",
-                    "reference": "4b9c62561295eaf5e8a0a50dc30909635e9d619d"
+                    "reference": "2998695be169cd464d9bd321abc3445004535db8"
                 },
-                "time": "2022-09-06T09:49:13+00:00",
+                "time": "2025-07-17T15:04:52+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Allows custom block edit access",
