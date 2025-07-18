@@ -106,7 +106,6 @@
                 },
                 "time": "2025-07-17T15:04:52+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allows custom block edit access",
                 "keywords": [
                     "Drupal"
