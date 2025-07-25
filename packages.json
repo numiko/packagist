@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ab26265ab4c05d3e286721fc01e7752800d55f70.json": {
-            "sha1": "ab26265ab4c05d3e286721fc01e7752800d55f70"
+        "include/all$be8088fd3152b207f07691a0f43529b3b3af7217.json": {
+            "sha1": "be8088fd3152b207f07691a0f43529b3b3af7217"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -102,6 +102,7 @@
         "numiko/numiko_security_review",
         "numiko/occurrence",
         "numiko/openid-azure-recipe",
+        "numiko/openid_connect_form_amends",
         "numiko/paragraphs_category_modal",
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",

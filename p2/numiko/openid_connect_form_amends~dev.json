@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "numiko/openid_connect_form_amends": [
+            {
+                "name": "numiko/openid_connect_form_amends",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/openid-connect-form-amends.git",
+                    "reference": "8372954ed5b184735a0ac8e349b4d85db2fd3805"
+                },
+                "require": {
+                    "drupal/openid_connect": "*"
+                },
+                "time": "2025-07-25T14:50:15+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Makes changes to forms to improve UX with OpenID Connect login",
+                "homepage": "https://bitbucket.org/numiko/openid-connect-form-amends/src/main/"
+            }
+        ]
+    }
+}
