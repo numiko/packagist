@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-site-alert.git",
-                    "reference": "1579253f63a01804e8c63b2e0d7f41d143e85194"
+                    "reference": "beb7548bc6ce9d49f49a390f52f36220218d6ae6"
                 },
-                "time": "2024-02-14T16:11:48+00:00",
+                "time": "2025-07-28T14:35:09+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

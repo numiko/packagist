@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media_wrapper_filter.git",
-                    "reference": "c8958bd821dcaf23d2eb8f29336a40284aafde20"
+                    "reference": "3a86f73f26c739e90464398d98e65c824571a9a2"
                 },
-                "time": "2022-09-06T10:07:06+00:00",
+                "time": "2025-07-28T13:33:43+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
