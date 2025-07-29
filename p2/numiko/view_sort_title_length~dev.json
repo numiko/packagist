@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
-                    "reference": "e957311f1b7a6efa678d7d6cba9abdfd302cd0c1"
+                    "reference": "fe939ba8454864a86752c6033d4fb91e8e85dd39"
                 },
-                "time": "2025-07-28T14:46:50+00:00",
+                "time": "2025-07-29T13:41:35+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/view-sort-title-length.git",
-                    "reference": "bd6345b2facbb25f652a0456513da4df600f9155"
+                    "reference": "00bb6bcbf650fe6afda0e8c93d27b74ef30cc9a0"
                 },
-                "time": "2023-06-06T08:17:46+00:00",
+                "time": "2025-07-29T14:08:06+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

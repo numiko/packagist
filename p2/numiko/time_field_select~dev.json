@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/time-field-select.git",
-                    "reference": "09a6f4369f239d4f117a6a09cf8901bb2f599e0d"
+                    "reference": "cfb8f9acaa70e459c0152c1f6c4d0b16a0d8150e"
                 },
-                "time": "2025-07-28T14:33:54+00:00",
+                "time": "2025-07-29T14:10:03+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/time-field-select.git",
-                    "reference": "5692c1dbb935028e9c5774a7cf8c8c4e1eb2086f"
+                    "reference": "68a933bade732eec87d1c97aa400ca26198f7dd1"
                 },
-                "time": "2023-02-01T17:25:15+00:00",
+                "time": "2025-07-29T14:33:45+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
