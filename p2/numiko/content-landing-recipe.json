@@ -1,5 +1,32 @@
 {
     "packages": {
-        "numiko/content-landing-recipe": []
+        "numiko/content-landing-recipe": [
+            {
+                "name": "numiko/content-landing-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-landing-recipe.git",
+                    "reference": "621c78f7a09ebb30b6cad7a11730fc614ce5ea19"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-landing-recipe/numiko-content-landing-recipe-1.0.0-1d0df4.tar",
+                    "reference": "621c78f7a09ebb30b6cad7a11730fc614ce5ea19",
+                    "shasum": "fe69826b295c84fcfb4a1d87e2c8e5896bb3ba0a"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-05-23T09:33:21+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add a landing page"
+            }
+        ]
     }
 }
