@@ -229,6 +229,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
+                "version_normalized": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "96521fa0ca2a0ac55e547bcf35302dcee42d6c90"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2025-08-04T15:09:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-fix/improve-view-mode",
                 "version_normalized": "dev-fix/improve-view-mode",
                 "source": {
