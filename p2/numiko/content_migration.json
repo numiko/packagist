@@ -1,5 +1,39 @@
 {
     "packages": {
-        "numiko/content_migration": []
+        "numiko/content_migration": [
+            {
+                "name": "numiko/content_migration",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "db2187b052ed473e7bbfb5a73260196bde1a3e2b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_migration/numiko-content_migration-1.0.0-beta1-638ce9.tar",
+                    "reference": "db2187b052ed473e7bbfb5a73260196bde1a3e2b",
+                    "shasum": "0e0fee382962e371af08bb597e146e561d997fac"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-08-11T09:51:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            }
+        ]
     }
 }
