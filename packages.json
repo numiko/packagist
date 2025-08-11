@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$8fbadd26a52b25fb5a30b9c911d974dec2b9a5b3.json": {
-            "sha1": "8fbadd26a52b25fb5a30b9c911d974dec2b9a5b3"
+        "include/all$4b6b0896afab952e3d400831ab81043086996df8.json": {
+            "sha1": "4b6b0896afab952e3d400831ab81043086996df8"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -115,6 +115,7 @@
         "numiko/redirect_unpublished",
         "numiko/reference_views_filter",
         "numiko/responsive_image_class",
+        "numiko/reverse-entity-reference",
         "numiko/saml_existing_users",
         "numiko/saml_user_persona",
         "numiko/search_api_exclude",
