@@ -1,0 +1,83 @@
+{
+    "packages": {
+        "numiko/content_migration": [
+            {
+                "name": "numiko/content_migration",
+                "version": "dev-feature/rcvs-amends",
+                "version_normalized": "dev-feature/rcvs-amends",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "db2187b052ed473e7bbfb5a73260196bde1a3e2b"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-08-11T09:51:10+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
+                "version": "dev-feature/readability",
+                "version_normalized": "dev-feature/readability",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "2d62675488d46536a142999decca811d22e14339"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-07-10T15:55:04+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "a5f9a93f67e9d4d50f2566ff0e5a6e5b65253501"
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2025-08-08T16:29:59+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Module to migrate content automatically from a URL to a node field with the help of AI.",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Migrate"
+                ]
+            }
+        ]
+    }
+}
