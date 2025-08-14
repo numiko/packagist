@@ -227,13 +227,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "04bb9d44ac26a042021fcb3377dabb71131bf287"
+                    "reference": "56a7460be2bf893aa744c71d83ab4599964fdffc"
                 },
                 "require": {
                     "composer/installers": "^2.3",
                     "cweagans/composer-patches": "^1.7",
                     "drupal/admin_toolbar": "^3.2",
-                    "drupal/ckeditor_link_styles": "^1.0",
+                    "drupal/ckeditor_link_styles": "^1.1",
                     "drupal/ckeditor_quote": "^3.0",
                     "drupal/clientside_validation": "^4.0",
                     "drupal/coffee": "^2.0",
@@ -241,8 +241,10 @@
                     "drupal/config_ignore": "^3.3",
                     "drupal/config_split": "^2.0",
                     "drupal/config_update": "^2.0@alpha",
-                    "drupal/core-composer-scaffold": "^11.1",
-                    "drupal/core-recommended": "^11.1",
+                    "drupal/core-composer-scaffold": "^11.2",
+                    "drupal/core-project-message": "^11.2",
+                    "drupal/core-recipe-unpack": "^11.2",
+                    "drupal/core-recommended": "^11.2",
                     "drupal/cshs": "^4.0",
                     "drupal/ctools": "^4.1",
                     "drupal/devel": "^5.0",
@@ -250,17 +252,17 @@
                     "drupal/entity_reference_unpublished": "^2.0",
                     "drupal/entity_type_clone": "^4.0",
                     "drupal/facets": "^2.0",
-                    "drupal/facets_pretty_paths": "^2.0",
-                    "drupal/field_group": "^3.3",
+                    "drupal/field_group": "^4.0",
                     "drupal/file_delete": "^3.0",
-                    "drupal/file_replace": "^1.4@RC",
+                    "drupal/file_replace": "^1.4",
                     "drupal/filter_perms": "^2.0",
                     "drupal/focal_point": "^2.0",
-                    "drupal/gin": "^4.0",
-                    "drupal/gin_toolbar": "^2.0",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
                     "drupal/honeypot": "^2.1",
                     "drupal/imageapi_optimize": "^4.1@beta",
                     "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/key": "^1.20",
                     "drupal/linkit": "^7.0",
                     "drupal/mail_safety": "^2.0",
                     "drupal/mailsystem": "^4.4",
@@ -274,9 +276,9 @@
                     "drupal/metatag": "^2.0",
                     "drupal/minifyhtml": "^2.0",
                     "drupal/moderated_content_bulk_publish": "^2.0",
-                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_boolean": "^2.0",
                     "drupal/node_read_time": "^1.13",
-                    "drupal/node_revision_delete": "dev-2.0.x",
+                    "drupal/node_revision_delete": "^2.0",
                     "drupal/oembed_providers": "^2.1",
                     "drupal/paragraphs": "^1.15",
                     "drupal/paragraphs_ee": "^10.0",
@@ -303,32 +305,31 @@
                     "drupal/vite": "^1.0",
                     "drupal/webform": "^6.3@beta",
                     "drush/drush": "^13",
-                    "ewcomposer/unpack": "dev-master",
                     "mglaman/composer-drupal-lenient": "^1.0",
                     "numiko/ckeditor_lazysizes_support": "^1.0",
-                    "numiko/csp_per_page": "^9.2@beta",
-                    "numiko/drupal-profile": "^3.0",
+                    "numiko/csp_per_page": "^9.2",
+                    "numiko/drupal-profile": "^3.1",
                     "numiko/form_ui": "^2.5",
-                    "numiko/icon-menu": "^1.6@beta",
+                    "numiko/icon-menu": "^1.6",
                     "numiko/integration_tests": "^4.0",
-                    "numiko/limit_entity_reference_items": "^1.3",
-                    "numiko/listing_template": "^1.0",
-                    "numiko/listings_filter": "^4.3",
+                    "numiko/limit_entity_reference_items": "^3.0",
+                    "numiko/listing_template": "^2.0",
+                    "numiko/listings_filter": "^5.1",
                     "numiko/media_code_embed": "^1.2",
-                    "numiko/media_gallery": "^1.5@beta",
+                    "numiko/media_gallery": "^1.5",
                     "numiko/media_remote_file": "^1.2",
                     "numiko/media_video_id": "^1.3",
-                    "numiko/numidemo": "^2",
-                    "numiko/personas": "^1.5@beta",
+                    "numiko/numidemo": "^2.0",
+                    "numiko/personas": "^1.5",
                     "numiko/recipe_tools": "^1.0",
                     "numiko/responsive_image_class": "^1.2",
-                    "numiko/search_exclude_moderation": "^1.2@beta",
+                    "numiko/search_exclude_moderation": "^1.2",
                     "numiko/security_checker": "^1.0",
-                    "numiko/site_alerts": "^3.2@beta",
-                    "numiko/site_settings": "^2.1",
+                    "numiko/site_alerts": "^3.2",
+                    "numiko/site_settings": "^2.3",
                     "numiko/slice_jump_links": "^9.0.0@alpha",
                     "numiko/twig_field_values": "^3.3",
-                    "numiko/twig_media": "^2.2.0-beta1",
+                    "numiko/twig_media": "^2.2@beta",
                     "numiko/twig_vite_asset": "^1.0",
                     "numiko/user_login_admin": "^2.2",
                     "numiko/views-topup": "^2.1",
@@ -341,10 +342,9 @@
                     "drupal/drupal": "*"
                 },
                 "require-dev": {
-                    "drupal/core-dev": "^11.1",
-                    "mglaman/drupal-check": "^1.1"
+                    "drupal/core-dev": "^11.2"
                 },
-                "time": "2025-01-22T16:25:24+00:00",
+                "time": "2025-08-14T14:49:40+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -380,40 +380,21 @@
                         "docroot/libraries/{$name}": [
                             "type:drupal-library"
                         ],
-                        "docroot/recipes/contrib/{$name}": [
+                        "recipes/{$name}": [
                             "type:drupal-recipe"
                         ]
                     },
                     "patches": {
                         "drupal/core": {
-                            "[3456202] PHPUnit tests: Support form actions being outside of a form": "https://git.drupalcode.org/project/drupal/-/merge_requests/8838/diffs.patch",
                             "[3042423] Add a hook to modify Media data": "https://www.drupal.org/files/issues/2025-01-10/3042423-media-oembed-hook-oop-111.patch"
                         },
-                        "drupal/field_group": {
-                            "[3395375] Duplicated required marks in field tabs with Gin admin theme": "https://www.drupal.org/files/issues/2024-08-06/3395375-6.patch"
-                        },
-                        "drupal/paragraphs_ee": {
-                            "[3484386] Add in between button is no longer horizontally centered when using Gin": "https://git.drupalcode.org/project/paragraphs_ee/-/commit/1f3a3004bda56cedb22acc94f80afc1e318ce200.patch"
-                        },
-                        "drupal/ckeditor_quote": {
-                            "Drupal 11": "https://www.drupal.org/files/issues/2024-03-16/ckeditor_quote.3.0.0.rector.patch"
-                        },
                         "drupal/entity_type_clone": {
-                            "Drupal 11": "https://git.drupalcode.org/project/entity_type_clone/-/merge_requests/11.patch"
-                        },
-                        "drupal/menu_link_weight": {
-                            "Drupal 11": "https://git.drupalcode.org/project/menu_link_weight/-/merge_requests/15.patch"
-                        },
-                        "drupal/node_boolean": {
-                            "Drupal 11": "https://www.drupal.org/files/issues/2024-03-24/node_boolean.8.x-1.10.rector.patch"
+                            "Drupal 11": "patches/entity-type-clone-d11.patch"
                         }
                     },
                     "drupal-lenient": {
                         "allowed-list": [
-                            "drupal/ckeditor_quote",
-                            "drupal/entity_type_clone",
-                            "drupal/menu_link_weight",
-                            "drupal/node_boolean"
+                            "drupal/entity_type_clone"
                         ]
                     }
                 },
