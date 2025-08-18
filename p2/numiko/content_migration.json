@@ -224,6 +224,39 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
+                "version": "1.0.0-beta8",
+                "version_normalized": "1.0.0.0-beta8",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "8eec70188c0a1b3b33bdf3ca4bdb27cfa930dede"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_migration/numiko-content_migration-1.0.0-beta8-80cb5d.tar",
+                    "reference": "8eec70188c0a1b3b33bdf3ca4bdb27cfa930dede",
+                    "shasum": "4287a58c8aa8a6e9ecf5264f3a2fc85976ab16b1"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-08-18T09:20:50+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
             }
         ]
     }
