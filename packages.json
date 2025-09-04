@@ -1,13 +1,12 @@
 {
     "packages": [],
     "includes": {
-        "include/all$eb66f9c111a81ccd3d5c8ef44056b8123f9a4a3d.json": {
-            "sha1": "eb66f9c111a81ccd3d5c8ef44056b8123f9a4a3d"
+        "include/all$3f71177674108f8333819d98f8fe1f698a2ee481.json": {
+            "sha1": "3f71177674108f8333819d98f8fe1f698a2ee481"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
     "available-packages": [
-        "drupal/migration_logging",
         "drupal/redirect_page_access",
         "drupal/structured_data",
         "drupal/webform_ajax",
@@ -95,6 +94,7 @@
         "numiko/menu_block_view_modes",
         "numiko/menu_ui_access",
         "numiko/migrate_group_ui",
+        "numiko/migration_logging",
         "numiko/minimal-date-fields",
         "numiko/minimum_breadcrumb",
         "numiko/numiadmin",

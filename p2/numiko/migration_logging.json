@@ -1,0 +1,98 @@
+{
+    "packages": {
+        "numiko/migration_logging": [
+            {
+                "name": "numiko/migration_logging",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migration-logging.git",
+                    "reference": "7378545595dadc59da8af5681759ab7e94976e4d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migration_logging/numiko-migration_logging-1.0.0-a3dbe5.tar",
+                    "reference": "7378545595dadc59da8af5681759ab7e94976e4d",
+                    "shasum": "943c7e9d5d41a0445136006edfc51ef447871218"
+                },
+                "require": {
+                    "drupal/core": "^10.2 || ^11.0",
+                    "drupal/migrate": "^2.0 || ^3.0",
+                    "drupal/migrate_plus": "^6.0",
+                    "php": ">=8.1"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^10.2 || ^11.0"
+                },
+                "time": "2025-09-04T12:20:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "role": "Original concept and implementation"
+                    },
+                    {
+                        "name": "Josh Hayter",
+                        "role": "Made module generic and added management actions."
+                    }
+                ],
+                "description": "Provides comprehensive logging and tracking capabilities for Drupal migrations with detailed entity operation reporting and automatic log management.",
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/migration_logging",
+                    "source": "https://git.drupalcode.org/project/migration_logging"
+                }
+            },
+            {
+                "name": "numiko/migration_logging",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migration-logging.git",
+                    "reference": "16c55f56cf126bcd8cc2504cb00ca67717a0856e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/migration_logging/numiko-migration_logging-1.0.1-2a5d78.tar",
+                    "reference": "16c55f56cf126bcd8cc2504cb00ca67717a0856e",
+                    "shasum": "50cb6acf3b9dfe67635b60718ea98ccad4998c06"
+                },
+                "require": {
+                    "drupal/core": "^10.2 || ^11.0",
+                    "drupal/migrate": "^2.0 || ^3.0",
+                    "drupal/migrate_plus": "^6.0",
+                    "php": ">=8.1"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^10.2 || ^11.0"
+                },
+                "time": "2025-09-04T13:17:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "role": "Original concept and implementation"
+                    },
+                    {
+                        "name": "Josh Hayter",
+                        "role": "Made module generic and added management actions."
+                    }
+                ],
+                "description": "Provides comprehensive logging and tracking capabilities for Drupal migrations with detailed entity operation reporting and automatic log management.",
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/migration_logging",
+                    "source": "https://git.drupalcode.org/project/migration_logging"
+                }
+            }
+        ]
+    }
+}
