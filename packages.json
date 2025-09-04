@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$723cb89286f6e86234f98e4ff15e91c3f403f528.json": {
-            "sha1": "723cb89286f6e86234f98e4ff15e91c3f403f528"
+        "include/all$eb66f9c111a81ccd3d5c8ef44056b8123f9a4a3d.json": {
+            "sha1": "eb66f9c111a81ccd3d5c8ef44056b8123f9a4a3d"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
     "available-packages": [
+        "drupal/migration_logging",
         "drupal/redirect_page_access",
         "drupal/structured_data",
         "drupal/webform_ajax",

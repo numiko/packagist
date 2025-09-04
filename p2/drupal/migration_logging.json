@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "drupal/migration_logging": [
+            {
+                "name": "drupal/migration_logging",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/migration-logging.git",
+                    "reference": "7378545595dadc59da8af5681759ab7e94976e4d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/drupal/migration_logging/drupal-migration_logging-1.0.0-a3dbe5.tar",
+                    "reference": "7378545595dadc59da8af5681759ab7e94976e4d",
+                    "shasum": "54ab13b9bb1551f15d869a264cdd2b41ae5db195"
+                },
+                "require": {
+                    "drupal/core": "^10.2 || ^11.0",
+                    "drupal/migrate": "^2.0 || ^3.0",
+                    "drupal/migrate_plus": "^6.0",
+                    "php": ">=8.1"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^10.2 || ^11.0"
+                },
+                "time": "2025-09-04T12:20:14+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "role": "Original concept and implementation"
+                    },
+                    {
+                        "name": "Josh Hayter",
+                        "role": "Made module generic and added management actions."
+                    }
+                ],
+                "description": "Provides comprehensive logging and tracking capabilities for Drupal migrations with detailed entity operation reporting and automatic log management.",
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/migration_logging",
+                    "source": "https://git.drupalcode.org/project/migration_logging"
+                }
+            }
+        ]
+    }
+}
