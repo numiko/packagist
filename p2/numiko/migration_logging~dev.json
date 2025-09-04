@@ -8,18 +8,17 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/migration-logging.git",
-                    "reference": "16c55f56cf126bcd8cc2504cb00ca67717a0856e"
+                    "reference": "8d54bf6570acb441471e92301e84948556f2c339"
                 },
                 "require": {
                     "drupal/core": "^10.2 || ^11.0",
-                    "drupal/migrate": "^2.0 || ^3.0",
                     "drupal/migrate_plus": "^6.0",
                     "php": ">=8.1"
                 },
                 "require-dev": {
                     "drupal/core-dev": "^10.2 || ^11.0"
                 },
-                "time": "2025-09-04T13:17:56+00:00",
+                "time": "2025-09-04T13:26:32+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -35,11 +34,7 @@
                         "role": "Made module generic and added management actions."
                     }
                 ],
-                "description": "Provides comprehensive logging and tracking capabilities for Drupal migrations with detailed entity operation reporting and automatic log management.",
-                "support": {
-                    "issues": "https://www.drupal.org/project/issues/migration_logging",
-                    "source": "https://git.drupalcode.org/project/migration_logging"
-                }
+                "description": "Provides comprehensive logging and tracking capabilities for Drupal migrations with detailed entity operation reporting and automatic log management."
             }
         ]
     }
