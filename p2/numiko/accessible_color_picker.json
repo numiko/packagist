@@ -69,6 +69,29 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/accessible_color_picker",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/accessible_color_picker.git",
+                    "reference": "e6218e9eb56d714051c4bbad2b03f3303c1c394d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-2.0.1-b3e69c.tar",
+                    "reference": "e6218e9eb56d714051c4bbad2b03f3303c1c394d",
+                    "shasum": "a1fa1ff53da502187ed9fc6947f6169a361ca6a4"
+                },
+                "time": "2025-09-08T12:01:05+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Provides a color picker which checks accessibility",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
