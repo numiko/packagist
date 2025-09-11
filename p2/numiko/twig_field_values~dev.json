@@ -71,6 +71,26 @@
             },
             {
                 "name": "numiko/twig_field_values",
+                "version": "dev-feature/caching",
+                "version_normalized": "dev-feature/caching",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "ce57dc7719e4e235180a13bfbb70e4f8e73b7796"
+                },
+                "time": "2025-09-11T15:17:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Field Values",
+                "homepage": "https://bitbucket.org/numiko/twig-field-extensions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/twig_field_values",
                 "version": "dev-feature/paragraphs",
                 "version_normalized": "dev-feature/paragraphs",
                 "source": {
