@@ -3,21 +3,44 @@
         "numiko/cloudflare-recipe": [
             {
                 "name": "numiko/cloudflare-recipe",
+                "version": "dev-feature/drupal-11",
+                "version_normalized": "dev-feature/drupal-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/cloudflare.git",
+                    "reference": "0bca388290b81b3c552bf37f1dde60a7338e71e4"
+                },
+                "require": {
+                    "drupal/cloudflare": "^2.0@beta",
+                    "drupal/core": "^11",
+                    "drupal/page_cache_query_ignore": "^2.4",
+                    "drupal/purge": "^3.6",
+                    "numiko/purge_url_queuer": "^1.1"
+                },
+                "time": "2025-09-19T09:31:45+00:00",
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "An Drupal recipe for Cloudflare setup"
+            },
+            {
+                "name": "numiko/cloudflare-recipe",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/cloudflare.git",
-                    "reference": "e6016392cec8de7de8cd3cc68c130dcb29b1ea06"
+                    "reference": "b32744b778fdf67059a66dc2b1e0548845baa757"
                 },
                 "require": {
                     "drupal/cloudflare": "^2.0@beta",
-                    "drupal/core": "^10.3",
-                    "drupal/page_cache_query_ignore": "^2.3",
-                    "drupal/purge": "^3.0",
-                    "numiko/purge_url_queuer": "^1.0"
+                    "drupal/core": "^11",
+                    "drupal/page_cache_query_ignore": "^2.4",
+                    "drupal/purge": "^3.6",
+                    "numiko/purge_url_queuer": "^1.1"
                 },
-                "time": "2024-10-17T13:25:24+00:00",
+                "time": "2025-09-19T09:46:45+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
