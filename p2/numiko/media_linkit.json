@@ -200,6 +200,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/media_linkit",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "40dbc835cf440b1926380267ba3baf7c590b1b7d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_linkit/numiko-media_linkit-3.4.0-297696.tar",
+                    "reference": "40dbc835cf440b1926380267ba3baf7c590b1b7d",
+                    "shasum": "f4d949a1d49ccf62e88b50e66f6f805e4d24a315"
+                },
+                "time": "2025-09-24T14:06:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

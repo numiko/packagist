@@ -3,54 +3,14 @@
         "numiko/site_tests": [
             {
                 "name": "numiko/site_tests",
-                "version": "dev-feature/listing_tests",
-                "version_normalized": "dev-feature/listing_tests",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "e13ae586ab1d72a9b75e8c42c43187bc93a1672b"
-                },
-                "time": "2024-12-19T09:00:28+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
-                "homepage": "https://bitbucket.org/numiko/site-tests",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/site_tests",
-                "version": "dev-fix/overridden-function",
-                "version_normalized": "dev-fix/overridden-function",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "c3d4b80793735e7fe7c8dfc33e56cd26ee64148d"
-                },
-                "time": "2025-01-15T10:54:49+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
-                "homepage": "https://bitbucket.org/numiko/site-tests",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/site_tests",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "e60b16146d7a339e825ae726ca11a38226c00c33"
+                    "reference": "c660862b8ad92e80f69c33e6d98eec3e16a67add"
                 },
-                "time": "2025-01-10T15:45:05+00:00",
+                "time": "2025-09-24T14:12:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
