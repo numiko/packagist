@@ -3,19 +3,19 @@
         "numiko/content_migration": [
             {
                 "name": "numiko/content_migration",
-                "version": "dev-aurora/tidy",
-                "version_normalized": "dev-aurora/tidy",
+                "version": "dev-feature/pdf-extract",
+                "version_normalized": "dev-feature/pdf-extract",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-migration.git",
-                    "reference": "1abd3f8fc883af9440d1f46262759b733a9e5216"
+                    "reference": "d09ac05a85e53f16ddd2dafb924e446ba2f2ded1"
                 },
                 "require": {
                     "drupal/core": "^9.0 || ^10.0 || ^11.0",
                     "fivefilters/readability.php": ">=3.0",
                     "php": ">=8.1"
                 },
-                "time": "2025-08-20T07:31:18+00:00",
+                "time": "2025-10-09T18:49:15+00:00",
                 "type": "drupal-module",
                 "autoload": {
                     "psr-4": {
@@ -34,14 +34,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-migration.git",
-                    "reference": "8eec70188c0a1b3b33bdf3ca4bdb27cfa930dede"
+                    "reference": "5bc1f4fd098b35be05d0fad6411291d1b6653822"
                 },
                 "require": {
                     "drupal/core": "^9.0 || ^10.0 || ^11.0",
                     "fivefilters/readability.php": ">=3.0",
                     "php": ">=8.1"
                 },
-                "time": "2025-08-18T09:20:50+00:00",
+                "time": "2025-10-09T18:51:17+00:00",
                 "type": "drupal-module",
                 "autoload": {
                     "psr-4": {
