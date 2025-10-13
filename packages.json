@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6f36234fd93422074522a048c2ec9aa53aebae20.json": {
-            "sha1": "6f36234fd93422074522a048c2ec9aa53aebae20"
+        "include/all$979455841f25c78306da3f89f19c4b739f1740fc.json": {
+            "sha1": "979455841f25c78306da3f89f19c4b739f1740fc"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -70,6 +70,7 @@
         "numiko/gin_local_tasks",
         "numiko/glossary",
         "numiko/icon-menu",
+        "numiko/inner_html_paragraph_remover",
         "numiko/instance_migrate",
         "numiko/integration_tests",
         "numiko/limit_entity_reference_items",
@@ -105,7 +106,6 @@
         "numiko/occurrence",
         "numiko/openid-azure-recipe",
         "numiko/openid_connect_form_amends",
-        "numiko/paragraph_remover",
         "numiko/paragraphs_category_modal",
         "numiko/paragraphs_parent_revision_access",
         "numiko/personas",
