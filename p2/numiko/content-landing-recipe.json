@@ -25,6 +25,32 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Add a landing page"
+            },
+            {
+                "name": "numiko/content-landing-recipe",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-landing-recipe.git",
+                    "reference": "ca95106bd9ac582a7ad17dc7c65ee814dd11f112"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content-landing-recipe/numiko-content-landing-recipe-2.0.0-f58254.tar",
+                    "reference": "ca95106bd9ac582a7ad17dc7c65ee814dd11f112",
+                    "shasum": "572083a22cff07fe7c6f246300490ab321ecbad9"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3 || ^11"
+                },
+                "time": "2025-10-13T13:44:01+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add a landing page"
             }
         ]
     }

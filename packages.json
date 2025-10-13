@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$979455841f25c78306da3f89f19c4b739f1740fc.json": {
-            "sha1": "979455841f25c78306da3f89f19c4b739f1740fc"
+        "include/all$3405f37320f3d591d32c397ba7424e84517a71bb.json": {
+            "sha1": "3405f37320f3d591d32c397ba7424e84517a71bb"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -70,7 +70,6 @@
         "numiko/gin_local_tasks",
         "numiko/glossary",
         "numiko/icon-menu",
-        "numiko/inner_html_paragraph_remover",
         "numiko/instance_migrate",
         "numiko/integration_tests",
         "numiko/limit_entity_reference_items",

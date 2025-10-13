@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-landing-recipe.git",
-                    "reference": "621c78f7a09ebb30b6cad7a11730fc614ce5ea19"
+                    "reference": "ca95106bd9ac582a7ad17dc7c65ee814dd11f112"
                 },
                 "require": {
-                    "drupal/core-recommended": "^10.3"
+                    "drupal/core-recommended": "^10.3 || ^11"
                 },
-                "time": "2025-05-23T09:33:21+00:00",
+                "time": "2025-10-13T13:44:01+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
