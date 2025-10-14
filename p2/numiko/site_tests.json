@@ -188,6 +188,33 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/site_tests",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "bb746dd9d03d26008f12d6e102a1d173b572a032"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/site_tests/numiko-site_tests-1.4.0-74a6ec.tar",
+                    "reference": "bb746dd9d03d26008f12d6e102a1d173b572a032",
+                    "shasum": "49ff2df3d72b5b8bf87aab45d8c364e6b5664beb"
+                },
+                "time": "2025-10-14T14:25:17+00:00",
+                "type": "drupal-custom-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

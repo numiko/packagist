@@ -3,34 +3,14 @@
         "numiko/site_tests": [
             {
                 "name": "numiko/site_tests",
-                "version": "dev-SKP-300",
-                "version_normalized": "dev-SKP-300",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "0f67dfe92e1c83eb1340696f0c39baa94f2d2ba0"
-                },
-                "time": "2025-10-13T13:58:15+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
-                "homepage": "https://bitbucket.org/numiko/site-tests",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/site_tests",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "c660862b8ad92e80f69c33e6d98eec3e16a67add"
+                    "reference": "bb746dd9d03d26008f12d6e102a1d173b572a032"
                 },
-                "time": "2025-09-24T14:12:09+00:00",
+                "time": "2025-10-14T14:25:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
