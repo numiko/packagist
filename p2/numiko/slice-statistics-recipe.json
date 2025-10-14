@@ -21,7 +21,6 @@
                 },
                 "time": "2025-05-15T14:31:17+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -47,7 +46,6 @@
                 },
                 "time": "2025-10-14T10:33:57+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
