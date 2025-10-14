@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "numiko/slice-statistics-recipe": [
+            {
+                "name": "numiko/slice-statistics-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-statistics-recipe.git",
+                    "reference": "e3867b494da306159502482d939933985394ab12"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-statistics-recipe/numiko-slice-statistics-recipe-1.0.0-3203f7.tar",
+                    "reference": "e3867b494da306159502482d939933985394ab12",
+                    "shasum": "2aee59b1ece2b78c7083f5021b387f87fb6b56c8"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-05-15T14:31:17+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add statistics slice"
+            },
+            {
+                "name": "numiko/slice-statistics-recipe",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-statistics-recipe.git",
+                    "reference": "4bf71ddd54655bbb8f4750ba874268016048c57a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice-statistics-recipe/numiko-slice-statistics-recipe-1.0.1-f17105.tar",
+                    "reference": "4bf71ddd54655bbb8f4750ba874268016048c57a",
+                    "shasum": "b454dfa261643c38eaaa81c79556307d0033878d"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-10-14T10:33:57+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add statistics slice"
+            }
+        ]
+    }
+}

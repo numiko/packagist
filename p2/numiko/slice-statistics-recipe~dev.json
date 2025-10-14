@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/slice-statistics-recipe": [
+            {
+                "name": "numiko/slice-statistics-recipe",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slice-statistics-recipe.git",
+                    "reference": "4bf71ddd54655bbb8f4750ba874268016048c57a"
+                },
+                "require": {
+                    "drupal/core-recommended": "^10.3"
+                },
+                "time": "2025-10-14T10:33:57+00:00",
+                "default-branch": true,
+                "type": "drupal-recipe",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Add statistics slice"
+            }
+        ]
+    }
+}

@@ -19,14 +19,30 @@
             },
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-feature/event-content-type",
+                "version_normalized": "dev-feature/event-content-type",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "77c17fbd30d86ce811b396bf4e16b153bd8838ef"
+                },
+                "time": "2025-10-14T09:39:43+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-feature/landing-content-type",
                 "version_normalized": "dev-feature/landing-content-type",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "90b0b038ca82dc73a8c94a309bc4d1ecc1a66004"
+                    "reference": "cbefe220d3c8f4ce33a454d27da1a923637eb60c"
                 },
-                "time": "2025-10-13T14:43:59+00:00",
+                "time": "2025-10-14T09:56:54+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

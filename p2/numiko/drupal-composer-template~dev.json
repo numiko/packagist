@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "5a8dd04552b2fe13582e89a3fdf5a183072eba29"
+                    "reference": "e66b6434e7dbd159869c63aba5073a803e560050"
                 },
                 "require": {
                     "composer/installers": "^2.3",
@@ -123,7 +123,7 @@
                     "drupal/core-dev": "^10.4",
                     "mglaman/drupal-check": "^1.1"
                 },
-                "time": "2025-10-13T15:07:45+00:00",
+                "time": "2025-10-14T10:36:13+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
