@@ -1,5 +1,32 @@
 {
     "packages": {
-        "numiko/inner_html_paragraph_remover": []
+        "numiko/inner_html_paragraph_remover": [
+            {
+                "name": "numiko/inner_html_paragraph_remover",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/inner-html-paragraph-remover.git",
+                    "reference": "d10a05482f19b2bcd04548dd522ff765b3953944"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/inner_html_paragraph_remover/numiko-inner_html_paragraph_remover-0.1.0-6c5289.tar",
+                    "reference": "d10a05482f19b2bcd04548dd522ff765b3953944",
+                    "shasum": "832309c305aa264209acc6441b4f7b3f1cbd9645"
+                },
+                "time": "2025-10-13T13:12:06+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Removes p tags from the inline HTML editor allowlist",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
     }
 }
