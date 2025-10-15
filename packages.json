@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$3c2ccbf8e99d1f59e88e8be789a3b6f2850e9471.json": {
-            "sha1": "3c2ccbf8e99d1f59e88e8be789a3b6f2850e9471"
+        "include/all$da8016c2e9349eabb7a38b54ca4bf654310c6a32.json": {
+            "sha1": "da8016c2e9349eabb7a38b54ca4bf654310c6a32"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -18,6 +18,8 @@
         "numiko/ai_suggest",
         "numiko/ai_summary",
         "numiko/ai_writing_assistant",
+        "numiko/assigned-content-recipe",
+        "numiko/assigned_content",
         "numiko/autotagging",
         "numiko/ckeditor_lazysizes_support",
         "numiko/cloudflare-recipe",

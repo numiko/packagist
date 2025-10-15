@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/assigned_content": [
+            {
+                "name": "numiko/assigned_content",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assigned-content.git",
+                    "reference": "d838efe3b10430abacdc68c2fe8aaf82a1e03ff5"
+                },
+                "time": "2025-10-15T14:46:29+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides access control for content based on assignees field.",
+                "keywords": [
+                    "Drupal"
+                ]
+            }
+        ]
+    }
+}
