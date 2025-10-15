@@ -1,5 +1,32 @@
 {
     "packages": {
-        "numiko/assigned-content-recipe": []
+        "numiko/assigned-content-recipe": [
+            {
+                "name": "numiko/assigned-content-recipe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "reference": "1e47549f7532e4e44b452e2ed0ee16cc7d0ea878"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/assigned-content-recipe/numiko-assigned-content-recipe-1.0.0-950935.tar",
+                    "reference": "1e47549f7532e4e44b452e2ed0ee16cc7d0ea878",
+                    "shasum": "a1e03c65f6a4ab6f484f2569336fe08f28bf5f31"
+                },
+                "require": {
+                    "numiko/assigned-content": "^1.0"
+                },
+                "time": "2025-10-15T14:59:38+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds an assignee field and dashboard"
+            }
+        ]
     }
 }
