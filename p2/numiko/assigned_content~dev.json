@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/assigned-content.git",
-                    "reference": "d838efe3b10430abacdc68c2fe8aaf82a1e03ff5"
+                    "reference": "39e9001e147f0283ebcda539b3694c02d7653b82"
                 },
-                "time": "2025-10-15T14:46:29+00:00",
+                "time": "2025-10-15T16:06:58+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

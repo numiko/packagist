@@ -25,6 +25,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/assigned_content",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assigned-content.git",
+                    "reference": "39e9001e147f0283ebcda539b3694c02d7653b82"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/assigned_content/numiko-assigned_content-1.0.1-556db6.tar",
+                    "reference": "39e9001e147f0283ebcda539b3694c02d7653b82",
+                    "shasum": "5fda3161c702ed3fa1bec20791b55b84e27f9898"
+                },
+                "time": "2025-10-15T16:06:58+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides access control for content based on assignees field.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
