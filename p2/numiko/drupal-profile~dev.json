@@ -3,6 +3,118 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-feature/document-download-slice",
+                "version_normalized": "dev-feature/document-download-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "5d3ba5245bacd136124bc83efab9c1dd9b9cc860"
+                },
+                "time": "2025-10-15T07:31:49+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/full-width-cta-slice",
+                "version_normalized": "dev-feature/full-width-cta-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "1fd61d3197c2b96777f3ed2576b7a88014e97168"
+                },
+                "time": "2025-10-15T07:59:18+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/logos-slice",
+                "version_normalized": "dev-feature/logos-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "2892981dfebf16999aaa95e051e26b38d6744f31"
+                },
+                "time": "2025-10-15T08:08:04+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/object-embed-slice",
+                "version_normalized": "dev-feature/object-embed-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "d12f7ad8b7f2cb56438e84fca6fd12251b48b181"
+                },
+                "time": "2025-10-15T09:35:21+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/process-slice",
+                "version_normalized": "dev-feature/process-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "61ddc7acd84a0f4144bde76cb53169405ee5f712"
+                },
+                "time": "2025-10-15T09:55:41+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/rich-text-list-slice",
+                "version_normalized": "dev-feature/rich-text-list-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "0b80f9427335ca912e5f85a78e133ae66eb72cf5"
+                },
+                "time": "2025-10-15T10:05:05+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/statistics-slice",
+                "version_normalized": "dev-feature/statistics-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "3864810865fd16fe04554209388cc2ae07182884"
+                },
+                "time": "2025-10-15T12:00:13+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
