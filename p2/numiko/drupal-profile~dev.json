@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "5d3ba5245bacd136124bc83efab9c1dd9b9cc860"
+                    "reference": "fbf2e41dbbcec2e667f14f9650e4e909a6e27a1a"
                 },
-                "time": "2025-10-15T07:31:49+00:00",
+                "time": "2025-10-15T15:42:33+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -139,6 +139,22 @@
                     "reference": "cc68a0ef1bf7ec00758ed1c407cbbeb183741e00"
                 },
                 "time": "2025-10-15T15:26:36+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-feature/testimonial-slice",
+                "version_normalized": "dev-feature/testimonial-slice",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "15f3c6cb90892f1d70a4732ab7881952df43518f"
+                },
+                "time": "2025-10-15T15:41:19+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
