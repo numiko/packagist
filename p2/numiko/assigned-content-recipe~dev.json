@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
-                    "reference": "3c55e6d0ebfccf9c42a0dde8c46ba02343d8e016"
+                    "reference": "c620c87f08a45935670ac5055c278bd137c7370c"
                 },
                 "require": {
                     "numiko/assigned_content": "^1.0"
                 },
-                "time": "2025-10-16T10:54:01+00:00",
+                "time": "2025-10-16T11:07:22+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
