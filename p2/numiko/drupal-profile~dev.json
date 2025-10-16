@@ -3,22 +3,6 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-feature/blog-listing-slice",
-                "version_normalized": "dev-feature/blog-listing-slice",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "7c31387fd987efc70d604e94a175882aafa5d095"
-                },
-                "time": "2025-10-16T14:13:29+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-feature/logos-slice",
                 "version_normalized": "dev-feature/logos-slice",
                 "source": {
@@ -88,9 +72,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "05227fa23151228f07babd10288b536ef4878f86"
+                    "reference": "0d63c7f53ea2f688ca3d663883e151672cdca8f8"
                 },
-                "time": "2025-10-16T11:14:50+00:00",
+                "time": "2025-10-16T14:41:48+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -233,9 +217,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "05227fa23151228f07babd10288b536ef4878f86"
+                    "reference": "f44174cf20b97d42026563183067712a6c06fab7"
                 },
-                "time": "2025-10-16T11:14:50+00:00",
+                "time": "2025-10-16T14:35:07+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

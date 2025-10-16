@@ -23,6 +23,38 @@
                 },
                 "time": "2025-10-16T12:47:10+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "Josh Hawley"
+                    }
+                ],
+                "description": "Provides a Hybrid (Keyword + Vector) Query Re-Ranking Plugin for Search API Solr Dense Vector search."
+            },
+            {
+                "name": "numiko/hybrid_vector_query_re_ranking_plugin",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/hybrid-vector-query-re-ranking-plugin.git",
+                    "reference": "38919956b7093544321a997d0eb34e85bdd95723"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/hybrid_vector_query_re_ranking_plugin/numiko-hybrid_vector_query_re_ranking_plugin-1.0.0-beta2-78dcd3.tar",
+                    "reference": "38919956b7093544321a997d0eb34e85bdd95723",
+                    "shasum": "b3da23a897e9699385731082db026846d7a079ee"
+                },
+                "require": {
+                    "drupal/ai": "^1.0",
+                    "drupal/search_api_solr": "^4.0",
+                    "drupal/search_api_solr_dense_vector": "^1.0@alpha"
+                },
+                "time": "2025-10-16T14:24:29+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"

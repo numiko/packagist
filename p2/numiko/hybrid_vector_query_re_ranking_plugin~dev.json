@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/hybrid-vector-query-re-ranking-plugin.git",
-                    "reference": "5745a441e03ee48e109a28ccf7019b5b4bcce4f2"
+                    "reference": "38919956b7093544321a997d0eb34e85bdd95723"
                 },
                 "require": {
                     "drupal/ai": "^1.0",
                     "drupal/search_api_solr": "^4.0",
                     "drupal/search_api_solr_dense_vector": "^1.0@alpha"
                 },
-                "time": "2025-10-16T12:47:10+00:00",
+                "time": "2025-10-16T14:24:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
