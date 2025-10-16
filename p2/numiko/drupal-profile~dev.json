@@ -88,9 +88,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "3864810865fd16fe04554209388cc2ae07182884"
+                    "reference": "3cb1ebc8c24895d1d42c2eb00a7c0c2081310123"
                 },
-                "time": "2025-10-15T12:00:13+00:00",
+                "time": "2025-10-16T15:17:56+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -214,6 +214,22 @@
                 "name": "numiko/drupal-profile",
                 "version": "dev-release/4.x",
                 "version_normalized": "dev-release/4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "f44174cf20b97d42026563183067712a6c06fab7"
+                },
+                "time": "2025-10-16T14:35:07+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-small-config-change",
+                "version_normalized": "dev-small-config-change",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
