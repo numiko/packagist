@@ -24,9 +24,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "1fd61d3197c2b96777f3ed2576b7a88014e97168"
+                    "reference": "463f306d4db4cfe3fab057b1bb3d73cd95439f8b"
                 },
-                "time": "2025-10-15T07:59:18+00:00",
+                "time": "2025-10-16T09:39:55+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -136,9 +136,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "cc68a0ef1bf7ec00758ed1c407cbbeb183741e00"
+                    "reference": "8a607b544c7ce6f13c4e5af645f876144a62ba2b"
                 },
-                "time": "2025-10-15T15:26:36+00:00",
+                "time": "2025-10-16T08:08:44+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -249,9 +249,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "67bfeebec382793f81bdef6d5e2ae3cd6f63603c"
+                    "reference": "042b9d74f6b6a88eecd6c3bca59ad2eda6ef9939"
                 },
-                "time": "2025-10-14T14:53:26+00:00",
+                "time": "2025-10-16T09:00:51+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
