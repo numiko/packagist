@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$8c9492913a46efa49823914c9559f725b9d24114.json": {
-            "sha1": "8c9492913a46efa49823914c9559f725b9d24114"
+        "include/all$ee64f1379a41d772d0bb6cbec5f6faf3dff80ecd.json": {
+            "sha1": "ee64f1379a41d772d0bb6cbec5f6faf3dff80ecd"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -71,6 +71,7 @@
         "numiko/form_ui",
         "numiko/gin_local_tasks",
         "numiko/glossary",
+        "numiko/hybrid_vector_query_re_ranking_plugin",
         "numiko/icon-menu",
         "numiko/inner_html_paragraph_remover",
         "numiko/instance_migrate",
