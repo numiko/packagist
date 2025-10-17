@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "1e47549f7532e4e44b452e2ed0ee16cc7d0ea878"
                 },
                 "dist": {
@@ -32,7 +32,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "bdf5080bf9c24bc7d85b5037bb1982a7a1ddd240"
                 },
                 "dist": {
@@ -57,7 +57,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "a5b2ade89106142d251ca56054d4df88d41a8f8f"
                 },
                 "dist": {
@@ -82,7 +82,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "3c55e6d0ebfccf9c42a0dde8c46ba02343d8e016"
                 },
                 "dist": {
@@ -107,7 +107,7 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "c620c87f08a45935670ac5055c278bd137c7370c"
                 },
                 "dist": {
@@ -132,7 +132,7 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
                     "reference": "9261e13529c224726e1374525e3adacc12a06c84"
                 },
                 "dist": {
@@ -150,6 +150,32 @@
                     "GPL-2.0-or-later"
                 ],
                 "description": "Adds an assignee field and dashboard"
+            },
+            {
+                "name": "numiko/assigned-content-recipe",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
+                    "reference": "15d5fad3f856a7dceb097281e0a1184b43f96b74"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/assigned-content-recipe/numiko-assigned-content-recipe-1.1.0-506959.tar",
+                    "reference": "15d5fad3f856a7dceb097281e0a1184b43f96b74",
+                    "shasum": "6e9d5ee1fd95474344daf7ec4931ab2611329fed"
+                },
+                "require": {
+                    "numiko/assigned_content": "^1.1"
+                },
+                "time": "2025-10-17T10:39:49+00:00",
+                "type": "drupal-recipe",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Adds an assignees and due_date field with a dashboard"
             }
         ]
     }

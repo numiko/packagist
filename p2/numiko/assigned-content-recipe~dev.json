@@ -7,19 +7,19 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:numiko/assigned-content-field-recipe.git",
-                    "reference": "9261e13529c224726e1374525e3adacc12a06c84"
+                    "url": "git@bitbucket.org:numiko/assignee-due-date-recipe.git",
+                    "reference": "15d5fad3f856a7dceb097281e0a1184b43f96b74"
                 },
                 "require": {
-                    "numiko/assigned_content": "^1.0"
+                    "numiko/assigned_content": "^1.1"
                 },
-                "time": "2025-10-16T15:34:33+00:00",
+                "time": "2025-10-17T10:39:49+00:00",
                 "default-branch": true,
                 "type": "drupal-recipe",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
-                "description": "Adds an assignee field and dashboard"
+                "description": "Adds an assignees and due_date field with a dashboard"
             }
         ]
     }

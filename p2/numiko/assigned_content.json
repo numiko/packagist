@@ -118,6 +118,57 @@
                 },
                 "time": "2025-10-17T10:03:25+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides access control for content based on assignees field.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/assigned_content",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assigned-content.git",
+                    "reference": "fdea0e911cc120155a6af33451e88b389bae9438"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/assigned_content/numiko-assigned_content-1.1.0-7da12a.tar",
+                    "reference": "fdea0e911cc120155a6af33451e88b389bae9438",
+                    "shasum": "946a8fb6d3e01d7f8cece3f7128c9801552f1cd3"
+                },
+                "time": "2025-10-17T10:48:25+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides access control for content based on assignees field.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/assigned_content",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/assigned-content.git",
+                    "reference": "c65a9001da02a694dc92fa36a139a71db75defd3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/assigned_content/numiko-assigned_content-1.1.1-ce3ff4.tar",
+                    "reference": "c65a9001da02a694dc92fa36a139a71db75defd3",
+                    "shasum": "167d4c220aaddcf8cadc8dbea6e09d715171a231"
+                },
+                "time": "2025-10-17T10:53:04+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
