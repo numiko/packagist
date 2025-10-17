@@ -440,6 +440,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/tw4-upgrade",
+                "version_normalized": "dev-feature/tw4-upgrade",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "a44f70d0f0ec43919d304f88327354c073e07801"
+                },
+                "time": "2025-10-16T21:32:19+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-fix/page-actions",
                 "version_normalized": "dev-fix/page-actions",
                 "source": {

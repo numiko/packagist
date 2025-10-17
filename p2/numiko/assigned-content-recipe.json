@@ -146,7 +146,6 @@
                 },
                 "time": "2025-10-16T15:34:33+00:00",
                 "type": "drupal-recipe",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
