@@ -3,40 +3,18 @@
         "numiko/listings_filter_location": [
             {
                 "name": "numiko/listings_filter_location",
-                "version": "dev-feature/search_api_location_constraint",
-                "version_normalized": "dev-feature/search_api_location_constraint",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter-location.git",
-                    "reference": "9f14a8647d4f567325e241b294501a605175428b"
-                },
-                "require": {
-                    "drupal/search_api_location": "^1.0@alpha",
-                    "numiko/listings_filter": "^5.1"
-                },
-                "time": "2025-10-09T09:29:05+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "This module extends the Listings Filter module with location-based filtering capabilities",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/listings_filter_location",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter-location.git",
-                    "reference": "b300009403c56639f2911a4b28fdfea6cef418b0"
+                    "reference": "f8c7e69057f8605525f822860d99a6c271ec6d8a"
                 },
                 "require": {
+                    "drupal/search_api_location": "^1.0@alpha",
                     "numiko/listings_filter": "^5.1"
                 },
-                "time": "2025-07-09T11:05:12+00:00",
+                "time": "2025-10-22T09:14:49+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
