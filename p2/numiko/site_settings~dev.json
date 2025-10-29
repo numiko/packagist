@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-settings.git",
-                    "reference": "1a097740eb07c2a43f01e0c9452f0a1645afe3b1"
+                    "reference": "b42e405662b0ee2e4981fa1cad1ebb5da710d30b"
                 },
-                "time": "2025-10-28T16:21:19+00:00",
+                "time": "2025-10-29T08:38:56+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
