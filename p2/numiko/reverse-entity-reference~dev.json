@@ -32,12 +32,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/reverse-entity-reference.git",
-                    "reference": "08c234b55f761cf5aa274ccbc9546e4760f2abdb"
+                    "reference": "61d4d0191d91a9552d0e7c87ba2268b1882d56ac"
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2025-08-11T14:59:05+00:00",
+                "time": "2025-10-30T15:26:56+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

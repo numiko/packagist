@@ -30,6 +30,68 @@
                     "Entity",
                     "Reference"
                 ]
+            },
+            {
+                "name": "numiko/reverse-entity-reference",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reverse-entity-reference.git",
+                    "reference": "2f1fd7d62bacd86afab26dd01e2ad7e44f466197"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reverse-entity-reference/numiko-reverse-entity-reference-1.0.0-beta2-bc98aa.tar",
+                    "reference": "2f1fd7d62bacd86afab26dd01e2ad7e44f466197",
+                    "shasum": "958c8773d789f6c1d8f8818ed9671027e7741ebd"
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2025-10-30T14:55:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides tools to manage the parent child relationships in a way similar to menus",
+                "keywords": [
+                    "Drupal",
+                    "Entity",
+                    "Reference"
+                ]
+            },
+            {
+                "name": "numiko/reverse-entity-reference",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reverse-entity-reference.git",
+                    "reference": "61d4d0191d91a9552d0e7c87ba2268b1882d56ac"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/reverse-entity-reference/numiko-reverse-entity-reference-1.0.0-beta3-039569.tar",
+                    "reference": "61d4d0191d91a9552d0e7c87ba2268b1882d56ac",
+                    "shasum": "74c4c183b8e2427f14b4cbe3d046f6a2a1dc68e2"
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2025-10-30T15:26:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides tools to manage the parent child relationships in a way similar to menus",
+                "keywords": [
+                    "Drupal",
+                    "Entity",
+                    "Reference"
+                ]
             }
         ]
     }
