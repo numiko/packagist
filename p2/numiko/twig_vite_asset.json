@@ -61,6 +61,37 @@
                     "Drupal",
                     "Twig"
                 ]
+            },
+            {
+                "name": "numiko/twig_vite_asset",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-vite-asset.git",
+                    "reference": "9fb961d7743c8ef14b26e921d16b8be67a36428a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_vite_asset/numiko-twig_vite_asset-2.0.0-ddbcc3.tar",
+                    "reference": "9fb961d7743c8ef14b26e921d16b8be67a36428a",
+                    "shasum": "a8dfad39d10c4d6033de7aaba0ed0e6a2dc27132"
+                },
+                "require": {
+                    "php": ">=7.3",
+                    "twig/twig": "^2.12 || ^3.3.8"
+                },
+                "time": "2025-10-30T10:13:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provides a twig function to get the Vite asset from a given source URL.",
+                "keywords": [
+                    "Drupal",
+                    "Twig"
+                ]
             }
         ]
     }

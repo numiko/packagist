@@ -32,13 +32,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-vite-asset.git",
-                    "reference": "8d1543f0881a3f8e064fdb4989feeabf5661e980"
+                    "reference": "9fb961d7743c8ef14b26e921d16b8be67a36428a"
                 },
                 "require": {
                     "php": ">=7.3",
                     "twig/twig": "^2.12 || ^3.3.8"
                 },
-                "time": "2025-01-07T15:01:38+00:00",
+                "time": "2025-10-30T10:13:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
