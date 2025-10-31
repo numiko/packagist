@@ -3,6 +3,32 @@
         "numiko/content_migration": [
             {
                 "name": "numiko/content_migration",
+                "version": "dev-feature/content-checker",
+                "version_normalized": "dev-feature/content-checker",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "a206e9c0fc0c771a4c6c2eb86f0682bdd1705ea1"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-10-31T00:54:37+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
                 "version": "dev-feature/pdf-extract",
                 "version_normalized": "dev-feature/pdf-extract",
                 "source": {
@@ -34,14 +60,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-migration.git",
-                    "reference": "94de87d153d7c0d24b15c05e6017ff98af7c4489"
+                    "reference": "5d134310a34268eedf7c47ef31b99f148cafb96e"
                 },
                 "require": {
                     "drupal/core": "^9.0 || ^10.0 || ^11.0",
                     "fivefilters/readability.php": ">=3.0",
                     "php": ">=8.1"
                 },
-                "time": "2025-10-09T18:57:42+00:00",
+                "time": "2025-10-31T00:47:47+00:00",
                 "type": "drupal-module",
                 "autoload": {
                     "psr-4": {

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/reverse-entity-reference.git",
-                    "reference": "1f47f878324b28baac34d3a1c06887e8e4fce411"
+                    "reference": "3c4f035a788b4991460de3e5f0a6fbf90c81f961"
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2025-10-24T12:05:09+00:00",
+                "time": "2025-10-31T09:54:12+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
