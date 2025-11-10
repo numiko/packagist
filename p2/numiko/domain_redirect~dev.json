@@ -99,30 +99,6 @@
             },
             {
                 "name": "numiko/domain_redirect",
-                "version": "dev-feature/presave-redirect",
-                "version_normalized": "dev-feature/presave-redirect",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "49d45dda69afa56e36b87900846001d8b57cc001"
-                },
-                "time": "2025-07-28T12:39:28+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Domain-aware redirects",
-                "homepage": "https://www.drupal.org/project/domain_redirect",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
-                    "source": "http://cgit.drupalcode.org/domain_redirect"
-                }
-            },
-            {
-                "name": "numiko/domain_redirect",
                 "version": "dev-feature/update-hook",
                 "version_normalized": "dev-feature/update-hook",
                 "source": {
@@ -131,31 +107,6 @@
                     "reference": "4390dce852ed302f17e9a9c4d84be67c15091266"
                 },
                 "time": "2023-10-13T11:02:59+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Domain-aware redirects",
-                "homepage": "https://www.drupal.org/project/domain_redirect",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "https://www.drupal.org/project/issues/domain_redirect",
-                    "source": "http://cgit.drupalcode.org/domain_redirect"
-                }
-            },
-            {
-                "name": "numiko/domain_redirect",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "4d570037e427b41d4dc8913e45b86bba3da93429"
-                },
-                "time": "2024-06-19T14:05:22+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
