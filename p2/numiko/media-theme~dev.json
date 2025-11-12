@@ -22,6 +22,25 @@
             },
             {
                 "name": "numiko/media-theme",
+                "version": "dev-feature/d11-core-version-requirement",
+                "version_normalized": "dev-feature/d11-core-version-requirement",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-theme.git",
+                    "reference": "3b91952e5dd64f8f3c6ddde831d6506c6ed7c263"
+                },
+                "time": "2025-11-12T10:12:57+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Helper utilities for media theme",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media-theme",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
