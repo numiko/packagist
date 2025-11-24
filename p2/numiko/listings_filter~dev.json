@@ -330,14 +330,40 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "0fef9577f3c79a281b94df3c7815c0c9b6cc3630"
+                    "reference": "49cd8069b612345a52f7827da817abef604abd88"
                 },
                 "require": {
-                    "drupal/jsonapi_extras": "^3.0",
+                    "drupal/jsonapi_extras": "^3.27",
                     "drupal/jsonapi_image_styles": "^3.0",
-                    "drupal/jsonapi_search_api": "^1.0"
+                    "drupal/jsonapi_search_api": "^1.0",
+                    "php": "^8.3"
                 },
-                "time": "2023-08-10T10:23:02+00:00",
+                "time": "2025-11-24T17:26:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
+                "version": "dev-release/2.2.0",
+                "version_normalized": "dev-release/2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "49cd8069b612345a52f7827da817abef604abd88"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.27",
+                    "drupal/jsonapi_image_styles": "^3.0",
+                    "drupal/jsonapi_search_api": "^1.0",
+                    "php": "^8.3"
+                },
+                "time": "2025-11-24T17:26:51+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
