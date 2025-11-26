@@ -3,14 +3,14 @@
         "numiko/media_video_id": [
             {
                 "name": "numiko/media_video_id",
-                "version": "dev-feature/drupal-11",
-                "version_normalized": "dev-feature/drupal-11",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "68c87dc9bb7d7ac24ae832251a45c427c266338c"
+                    "reference": "138d940f6905b82b536b5cf84d5d257fe93622a5"
                 },
-                "time": "2025-01-07T12:27:02+00:00",
+                "time": "2025-11-26T15:59:54+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

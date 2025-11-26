@@ -22,6 +22,25 @@
             },
             {
                 "name": "numiko/icon-menu",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/icon-menu.git",
+                    "reference": "73a23369c4180e6db8a65cb3dd177dba4d1037ec"
+                },
+                "time": "2025-11-26T15:00:14+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "An extension to system menu to add svg icons to a menu",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/icon-menu",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
