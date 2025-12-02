@@ -29,6 +29,32 @@
             },
             {
                 "name": "numiko/content_migration",
+                "version": "dev-feature/content-extract-to-paragraph",
+                "version_normalized": "dev-feature/content-extract-to-paragraph",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "9816e6f252788ad765ed37fb52b579ca8c5d5226"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2025-12-02T14:35:52+00:00",
+                "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
                 "version": "dev-feature/pdf-extract",
                 "version_normalized": "dev-feature/pdf-extract",
                 "source": {
