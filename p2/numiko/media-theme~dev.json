@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-theme.git",
-                    "reference": "c4aed59210e94b489ff770cf075aa8f29783bfe8"
+                    "reference": "ded49a87f4c2af4ae53fd368ddcec4284403cb81"
                 },
-                "time": "2025-12-05T09:23:18+00:00",
+                "time": "2025-12-05T14:59:23+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
