@@ -100,35 +100,14 @@
             },
             {
                 "name": "numiko/slice_jump_links",
-                "version": "dev-feature/allow-underscores",
-                "version_normalized": "dev-feature/allow-underscores",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "8f5a34a832ad063d715a45170ea4ecb6918a6c97"
-                },
-                "time": "2025-12-09T12:26:59+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Add jump links from slices",
-                "homepage": "https://bitbucket.org/numiko/slice-jump-links/src/8.x-4.x/",
-                "keywords": [
-                    "Drupal",
-                    "Paragraph"
-                ]
-            },
-            {
-                "name": "numiko/slice_jump_links",
                 "version": "dev-feature/d11",
                 "version_normalized": "dev-feature/d11",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slice-jump-links.git",
-                    "reference": "04a8d0a11cdd3b577a1f7eb700f789ca55c311d6"
+                    "reference": "d235e6c7e4f58bfa5bf99d177844f0fcc24977bd"
                 },
-                "time": "2025-10-21T07:29:07+00:00",
+                "time": "2025-12-10T12:01:29+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
