@@ -16,27 +16,14 @@
             },
             {
                 "name": "numiko/media_code_embed",
-                "version": "dev-feature/drupal10.3",
-                "version_normalized": "dev-feature/drupal10.3",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/media-code-embed.git",
-                    "reference": "384035fcd115c1b428746fe0d12e61075785a5d0"
-                },
-                "time": "2025-10-09T11:58:05+00:00",
-                "type": "drupal-module",
-                "description": "Embed unrestricted HTML code in a restricted media type"
-            },
-            {
-                "name": "numiko/media_code_embed",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-code-embed.git",
-                    "reference": "4eb13965a7f31cf476b2f5d8fbe84f370330d436"
+                    "reference": "85758c0bdfb71ec3daf72b235eb083378f729287"
                 },
-                "time": "2025-01-09T09:07:27+00:00",
+                "time": "2025-12-15T11:03:07+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Embed unrestricted HTML code in a restricted media type"
