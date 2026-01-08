@@ -3,6 +3,29 @@
         "numiko/search_api_exclude": [
             {
                 "name": "numiko/search_api_exclude",
+                "version": "dev-feature/update-core-version",
+                "version_normalized": "dev-feature/update-core-version",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/search-api-exclude.git",
+                    "reference": "13264c377c446b134c1a18d377e17073fbac8e9f"
+                },
+                "time": "2026-01-08T09:21:49+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Search API Exclude module allows users to prevent certain nodes from being indexed.",
+                "homepage": "https://www.drupal.org/project/search_api_exclude",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/search_api_exclude"
+                }
+            },
+            {
+                "name": "numiko/search_api_exclude",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
