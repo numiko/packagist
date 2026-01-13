@@ -229,30 +229,6 @@
             },
             {
                 "name": "numiko/listings_filter",
-                "version": "dev-feature/preprocess-response-data",
-                "version_normalized": "dev-feature/preprocess-response-data",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "d8571c59ff48034b984b35ac988c29d656ba46ec"
-                },
-                "require": {
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24"
-                },
-                "time": "2026-01-12T14:51:29+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/listings_filter",
                 "version": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
                 "version_normalized": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
                 "source": {
@@ -428,14 +404,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "b5a6511b8617c4610f84f18677f0195c6218b724"
+                    "reference": "efcb1563159f93ce43e97be570bf7d732475c923"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2025-09-03T14:14:17+00:00",
+                "time": "2026-01-13T13:57:52+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
