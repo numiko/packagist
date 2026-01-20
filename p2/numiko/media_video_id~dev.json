@@ -3,33 +3,14 @@
         "numiko/media_video_id": [
             {
                 "name": "numiko/media_video_id",
-                "version": "dev-feature/tiktok-support",
-                "version_normalized": "dev-feature/tiktok-support",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "bb6c10a99b0fcfbfea89a5e406c72ccc1b869e92"
-                },
-                "time": "2025-12-17T16:45:08+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Refine the core media of drupal to be in line with our standard requirements including the output of a video ID (youtube or vimeo)",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/media_video_id",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "d30d16787ba8238529298295c3c27d67f5550f1d"
+                    "reference": "64234ac452538324b4c4e37313fc22b3d9b0d3f0"
                 },
-                "time": "2025-12-15T10:05:38+00:00",
+                "time": "2026-01-20T14:39:27+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
