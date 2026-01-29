@@ -103,6 +103,32 @@
             },
             {
                 "name": "numiko/facets_attachment",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/facets-attachment.git",
+                    "reference": "879a59cc33b6a4b6e5a15bfc60f7247a9130ab02"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-2.3.0-aff56a.tar",
+                    "reference": "879a59cc33b6a4b6e5a15bfc60f7247a9130ab02",
+                    "shasum": "0b39676ae756e6e2a92107bf750fb7de9dfd1a16"
+                },
+                "time": "2026-01-29T15:14:47+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enable facets for view attachments",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/facets_attachment",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "source": {

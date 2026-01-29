@@ -65,9 +65,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/facets-attachment.git",
-                    "reference": "f791eebb28af7e43bf164552cef97e661ec10876"
+                    "reference": "879a59cc33b6a4b6e5a15bfc60f7247a9130ab02"
                 },
-                "time": "2022-09-06T10:27:49+00:00",
+                "time": "2026-01-29T15:14:47+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
