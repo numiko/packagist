@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/custom-caption-filter.git",
-                    "reference": "3c11b6f2784fa4720127a405f601709d8d9b9f5d"
+                    "reference": "2dedeb192711ae6df3b4de38e7ea073f5e45a084"
                 },
-                "time": "2022-09-06T14:28:25+00:00",
+                "time": "2026-01-29T13:19:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
