@@ -3,30 +3,6 @@
         "numiko/listings_filter": [
             {
                 "name": "numiko/listings_filter",
-                "version": "dev-d11/override-index",
-                "version_normalized": "dev-d11/override-index",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "42173f6b7be9b2c42d98291e477cbcb224ce2489"
-                },
-                "require": {
-                    "drupal/facets": "^2.0",
-                    "drupal/paragraphs": "^1.0",
-                    "drupal/search_api": "~1.24"
-                },
-                "time": "2026-01-29T15:06:46+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/listings_filter",
                 "version": "dev-feature/alter-query-settings",
                 "version_normalized": "dev-feature/alter-query-settings",
                 "source": {
@@ -306,14 +282,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "733904eb0d1accc977e3a20b20eec1674912698c"
+                    "reference": "bde0203c010093069b4d13b497fa840ce3e7267f"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2025-11-27T12:36:53+00:00",
+                "time": "2026-01-29T12:34:58+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -428,14 +404,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "efcb1563159f93ce43e97be570bf7d732475c923"
+                    "reference": "e49cdcf5a1a71906056744ffd49a91dcd6cf4d87"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2026-01-13T13:57:52+00:00",
+                "time": "2026-01-29T15:26:52+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
