@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/structured-data.git",
-                    "reference": "6e5ba47810e86e4310cf6318baef7261adfb1c65"
+                    "reference": "53e3e2243b362a12e920f8933fe4772f4d5cbbe1"
                 },
-                "time": "2023-09-19T19:12:24+00:00",
+                "time": "2026-02-02T10:03:37+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
