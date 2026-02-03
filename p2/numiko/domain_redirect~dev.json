@@ -128,13 +128,13 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/domain-redirect.git",
-                    "reference": "71be4c81cacddd28cb589aa2f46a45df752bf9e7"
+                    "reference": "a323666e4c893da1a26952277c9c2f9f944dab3f"
                 },
                 "require": {
-                    "drupal/domain": "^2.0@beta",
+                    "drupal/domain": "^2.0@RC",
                     "drupal/redirect": "^1.12"
                 },
-                "time": "2025-12-03T16:18:05+00:00",
+                "time": "2026-02-03T10:44:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

@@ -375,7 +375,6 @@
                 },
                 "time": "2026-02-02T13:36:03+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Drupal\\content_migration\\": "src/"
