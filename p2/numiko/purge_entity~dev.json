@@ -3,6 +3,25 @@
         "numiko/purge_entity": [
             {
                 "name": "numiko/purge_entity",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/purge-entity.git",
+                    "reference": "cd32cf3b5b38b02c73f43250d0830068302d58d2"
+                },
+                "time": "2026-02-05T09:14:28+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Purges entities by URL if they are updated or deleted from CDN cache",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/purge_entity",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
