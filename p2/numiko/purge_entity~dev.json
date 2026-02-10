@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/purge-entity.git",
-                    "reference": "3feab31003728af301f14fad5d2354d55d9d43f7"
+                    "reference": "f076b232b29335ee0cdeb6aa742788bb2a69d4b0"
                 },
-                "time": "2026-02-10T11:23:20+00:00",
+                "time": "2026-02-10T11:57:16+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
