@@ -75,6 +75,58 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/purge_entity",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/purge-entity.git",
+                    "reference": "3feab31003728af301f14fad5d2354d55d9d43f7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/purge_entity/numiko-purge_entity-1.1.0-8a0781.tar",
+                    "reference": "3feab31003728af301f14fad5d2354d55d9d43f7",
+                    "shasum": "1f1900c3c6e10592e7a0c6f8c85b792482c243af"
+                },
+                "time": "2026-02-10T11:23:20+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Purges entities by URL if they are updated or deleted from CDN cache",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/purge_entity",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/purge-entity.git",
+                    "reference": "cd32cf3b5b38b02c73f43250d0830068302d58d2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/purge_entity/numiko-purge_entity-1.1.0-beta1-2ec731.tar",
+                    "reference": "cd32cf3b5b38b02c73f43250d0830068302d58d2",
+                    "shasum": "ad3d2813ca05aaaea1821e743969a00e32725c53"
+                },
+                "time": "2026-02-05T09:14:28+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Purges entities by URL if they are updated or deleted from CDN cache",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
