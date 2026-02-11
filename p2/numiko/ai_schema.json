@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "numiko/ai_schema": [
+            {
+                "name": "numiko/ai_schema",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-schema.git",
+                    "reference": "8423c7e71d52ea09c368547d1a65501dad986a15"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/ai_schema/numiko-ai_schema-1.0.1-ccd6d9.tar",
+                    "reference": "8423c7e71d52ea09c368547d1a65501dad986a15",
+                    "shasum": "b82399e5122daee1295a04ad8a7b6567d843bae5"
+                },
+                "require": {
+                    "drupal/ai": ">=1.0",
+                    "drupal/token": ">=1.11",
+                    "numiko/ai_prompt": ">=1.0",
+                    "php": ">=8.0"
+                },
+                "time": "2026-02-11T13:09:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "AI-assisted schema.org structured data for content types.",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Schema"
+                ]
+            }
+        ]
+    }
+}

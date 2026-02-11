@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$a291c900de57a5454b48e2bd4359d9d2d81d8715.json": {
-            "sha1": "a291c900de57a5454b48e2bd4359d9d2d81d8715"
+        "include/all$aa20c4760014818b3dfc86ccc41490e14d17a7c2.json": {
+            "sha1": "aa20c4760014818b3dfc86ccc41490e14d17a7c2"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -15,6 +15,7 @@
         "numiko/adestra",
         "numiko/ai-metadata-description",
         "numiko/ai_prompt",
+        "numiko/ai_schema",
         "numiko/ai_suggest",
         "numiko/ai_summary",
         "numiko/ai_writing_assistant",
