@@ -345,6 +345,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/SKP-309-remove-nvmrc",
+                "version_normalized": "dev-feature/SKP-309-remove-nvmrc",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "89e5a20cf1bd0e544a8fc6e1aefe5f0241f41d07"
+                },
+                "time": "2026-02-25T09:55:11+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/alignment",
                 "version_normalized": "dev-feature/alignment",
                 "source": {

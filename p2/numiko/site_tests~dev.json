@@ -3,6 +3,26 @@
         "numiko/site_tests": [
             {
                 "name": "numiko/site_tests",
+                "version": "dev-SKP-252-remove-date-assertion",
+                "version_normalized": "dev-SKP-252-remove-date-assertion",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "68b9be287804ac22af1f4a76cd6f30863b247b82"
+                },
+                "time": "2026-02-25T12:21:59+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_tests",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
