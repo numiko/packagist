@@ -407,6 +407,38 @@
                 },
                 "time": "2026-03-03T00:28:31+00:00",
                 "type": "drupal-module",
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\content_migration\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "A Drupal module that automatically imports content from URLs using AI-powered content extraction via the Claude API."
+            },
+            {
+                "name": "numiko/content_migration",
+                "version": "1.2.0-beta3",
+                "version_normalized": "1.2.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/content-migration.git",
+                    "reference": "72cbc27291411f4333a8cf7c40bf1f7e53d4ac6c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/content_migration/numiko-content_migration-1.2.0-beta3-914708.tar",
+                    "reference": "72cbc27291411f4333a8cf7c40bf1f7e53d4ac6c",
+                    "shasum": "a299368286c70bb45c1e3b2f2d06271968417445"
+                },
+                "require": {
+                    "drupal/core": "^9.0 || ^10.0 || ^11.0",
+                    "fivefilters/readability.php": ">=3.0",
+                    "php": ">=8.1"
+                },
+                "time": "2026-03-03T13:52:54+00:00",
+                "type": "drupal-module",
                 "installation-source": "source",
                 "autoload": {
                     "psr-4": {
