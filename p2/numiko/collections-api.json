@@ -2562,7 +2562,6 @@
                 },
                 "time": "2026-03-06T10:20:26+00:00",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Numiko\\CollectionsApi\\": ""
