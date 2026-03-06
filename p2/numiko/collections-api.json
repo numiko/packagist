@@ -2535,6 +2535,46 @@
                     }
                 ],
                 "description": "Library used to send requests to ElasticSearch for British museums collections."
+            },
+            {
+                "name": "numiko/collections-api",
+                "version": "3.0.0-beta7",
+                "version_normalized": "3.0.0.0-beta7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/collections-api.git",
+                    "reference": "c430bf85bb6215e98b76402bc9f7a7e503c5cb38"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/collections-api/numiko-collections-api-3.0.0-beta7-54b002.tar",
+                    "reference": "c430bf85bb6215e98b76402bc9f7a7e503c5cb38",
+                    "shasum": "16612de3928adf9e2e315c3b3207eeed21c6088d"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": " ^7.0",
+                    "php": "^8.1.7",
+                    "psr/log": "^1 | ^2 | ^3"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2026-03-06T10:20:26+00:00",
+                "type": "library",
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\CollectionsApi\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "email": "lukestirk@numiko.com"
+                    }
+                ],
+                "description": "Library used to send requests to ElasticSearch for British museums collections."
             }
         ]
     }
