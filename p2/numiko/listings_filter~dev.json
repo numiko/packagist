@@ -301,6 +301,56 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-fix/pinned-order-items-legacy",
+                "version_normalized": "dev-fix/pinned-order-items-legacy",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "49cd8069b612345a52f7827da817abef604abd88"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.27",
+                    "drupal/jsonapi_image_styles": "^3.0",
+                    "drupal/jsonapi_search_api": "^1.0",
+                    "php": "^8.3"
+                },
+                "time": "2025-11-24T17:26:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
+                "version": "dev-legacy/2.0",
+                "version_normalized": "dev-legacy/2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "49cd8069b612345a52f7827da817abef604abd88"
+                },
+                "require": {
+                    "drupal/jsonapi_extras": "^3.27",
+                    "drupal/jsonapi_image_styles": "^3.0",
+                    "drupal/jsonapi_search_api": "^1.0",
+                    "php": "^8.3"
+                },
+                "time": "2025-11-24T17:26:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
