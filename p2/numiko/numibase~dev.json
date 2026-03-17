@@ -364,6 +364,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-claude-testing",
+                "version_normalized": "dev-claude-testing",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "4a74804a0fa20b2560015d3815c2159eb732e8c5"
+                },
+                "time": "2026-03-17T14:25:35+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/SKP-309-remove-nvmrc",
                 "version_normalized": "dev-feature/SKP-309-remove-nvmrc",
                 "source": {
