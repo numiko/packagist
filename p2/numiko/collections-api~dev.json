@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "c430bf85bb6215e98b76402bc9f7a7e503c5cb38"
+                    "reference": "1b8dec48dad1f39b0dbab0953ff691a86cf44fa2"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
@@ -19,7 +19,7 @@
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2026-03-06T10:20:26+00:00",
+                "time": "2026-03-20T11:41:06+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
