@@ -3,6 +3,30 @@
         "numiko/listings_filter": [
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-bugfix/FEF-303-no-site-index-ok",
+                "version_normalized": "dev-bugfix/FEF-303-no-site-index-ok",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "e49cdcf5a1a71906056744ffd49a91dcd6cf4d87"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2026-01-29T15:26:52+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/alter-query-settings",
                 "version_normalized": "dev-feature/alter-query-settings",
                 "source": {
