@@ -50,6 +50,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/fastly_file_purge",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/fastly-file-purge.git",
+                    "reference": "b8219298315aa27f582c526ca45026e41e5f113a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/fastly_file_purge/numiko-fastly_file_purge-1.1.0-b24836.tar",
+                    "reference": "b8219298315aa27f582c526ca45026e41e5f113a",
+                    "shasum": "dec664774bf2731b4bab8dd6dbc46d96e2cb1b9c"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2026-03-31T08:13:23+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Purge Fastly file urls when file is replaced or deleted.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
