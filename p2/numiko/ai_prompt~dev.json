@@ -3,6 +3,30 @@
         "numiko/ai_prompt": [
             {
                 "name": "numiko/ai_prompt",
+                "version": "dev-IB-29",
+                "version_normalized": "dev-IB-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/ai-prompt.git",
+                    "reference": "f1d539ad49e18f349d1467b572c032313de456d1"
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2026-04-08T10:38:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Provides an entity for storing prompt information",
+                "keywords": [
+                    "AI",
+                    "Drupal",
+                    "Prompt"
+                ]
+            },
+            {
+                "name": "numiko/ai_prompt",
                 "version": "dev-d11",
                 "version_normalized": "dev-d11",
                 "source": {
