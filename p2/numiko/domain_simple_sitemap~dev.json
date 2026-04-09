@@ -3,6 +3,19 @@
         "numiko/domain_simple_sitemap": [
             {
                 "name": "numiko/domain_simple_sitemap",
+                "version": "dev-UOLREBLD-1946-sitemaps-references-on-other-domains",
+                "version_normalized": "dev-UOLREBLD-1946-sitemaps-references-on-other-domains",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/domain-simple-sitemap.git",
+                    "reference": "fcff252815b69fce399150d78c20715b97ca3371"
+                },
+                "time": "2026-04-09T13:37:03+00:00",
+                "type": "drupal-module",
+                "description": "Creates a sitemap for each domain"
+            },
+            {
+                "name": "numiko/domain_simple_sitemap",
                 "version": "dev-feature/drupal-11",
                 "version_normalized": "dev-feature/drupal-11",
                 "source": {
