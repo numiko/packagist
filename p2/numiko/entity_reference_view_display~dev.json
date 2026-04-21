@@ -84,9 +84,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/entity-reference-view-display.git",
-                    "reference": "c8a21c186f7dfe5acf524fa9058754842d003290"
+                    "reference": "b4cb3d6fb710e69e5af6da854e0834fd51c25fae"
                 },
-                "time": "2025-07-29T13:51:01+00:00",
+                "time": "2026-04-21T13:09:44+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
