@@ -364,25 +364,6 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-271",
-                "version_normalized": "dev-SKP-271",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "e3fdc57793e6f8b9ed0cad4b02c5b1be21316275"
-                },
-                "time": "2026-04-24T14:44:15+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
                 "version": "dev-SKP-302",
                 "version_normalized": "dev-SKP-302",
                 "source": {
@@ -429,25 +410,6 @@
                     "reference": "dfe8e1192a61c496668f1438098010aa4ff3281c"
                 },
                 "time": "2026-04-10T13:57:56+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-32",
-                "version_normalized": "dev-SKP-32",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "ef5075064faf77415bcf1bbe3c6f7d2e2a8476c6"
-                },
-                "time": "2026-04-27T14:42:48+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -597,9 +559,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "026e50517822819562c3c068924720031c7bd1ec"
+                    "reference": "94e6d391dde08a18e4ba1dc71993de74b1b3f220"
                 },
-                "time": "2026-04-23T10:38:45+00:00",
+                "time": "2026-04-28T10:18:09+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
