@@ -36,6 +36,39 @@
             },
             {
                 "name": "numiko/collections-api",
+                "version": "dev-BRITMUSEUM-2148",
+                "version_normalized": "dev-BRITMUSEUM-2148",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/collections-api.git",
+                    "reference": "0a17a3a099f8bf1be5b1260e1ece5f3b00c2277c"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": " ^7.0",
+                    "php": "^8.1.7",
+                    "psr/log": "^1 | ^2 | ^3"
+                },
+                "require-dev": {
+                    "drupal/coder": "^8.3.1",
+                    "phpunit/phpunit": "^8.4"
+                },
+                "time": "2026-05-01T10:58:25+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Numiko\\CollectionsApi\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Luke Stirk",
+                        "email": "lukestirk@numiko.com"
+                    }
+                ],
+                "description": "Library used to send requests to ElasticSearch for British museums collections."
+            },
+            {
+                "name": "numiko/collections-api",
                 "version": "dev-feature/authority-browsing",
                 "version_normalized": "dev-feature/authority-browsing",
                 "source": {
@@ -140,18 +173,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/collections-api.git",
-                    "reference": "ce6e5443fa3186044d8ca6c31194c5b84aa983cc"
+                    "reference": "9d9ee62974d0110c6cf6f9ec4229cc8d70fafc2b"
                 },
                 "require": {
                     "elasticsearch/elasticsearch": " ^7.0",
                     "php": "^8.1.7",
-                    "psr/log": "^1.1"
+                    "psr/log": "^1 | ^2 | ^3"
                 },
                 "require-dev": {
                     "drupal/coder": "^8.3.1",
                     "phpunit/phpunit": "^8.4"
                 },
-                "time": "2022-09-27T14:30:15+00:00",
+                "time": "2026-03-27T12:27:53+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
