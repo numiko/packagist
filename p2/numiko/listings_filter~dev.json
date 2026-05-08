@@ -330,14 +330,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "bde0203c010093069b4d13b497fa840ce3e7267f"
+                    "reference": "db81556f6b01e3bc1b888cea55ef16e52cfd4ce0"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2026-01-29T12:34:58+00:00",
+                "time": "2026-05-08T11:31:34+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
