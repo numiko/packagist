@@ -100,6 +100,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/entity_jobs",
+                "version": "1.1.0-beta1",
+                "version_normalized": "1.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-jobs.git",
+                    "reference": "b5f1a18d3781a8baa2d8be908fcb71d1c718eb66"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_jobs/numiko-entity_jobs-1.1.0-beta1-e2d4fd.tar",
+                    "reference": "b5f1a18d3781a8baa2d8be908fcb71d1c718eb66",
+                    "shasum": "b29686aac6c797875f66f9504bfd61dc1bf02791"
+                },
+                "time": "2026-05-12T12:06:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Run actions on entities with optional conditions, grouped as a job",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

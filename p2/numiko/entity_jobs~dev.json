@@ -3,6 +3,25 @@
         "numiko/entity_jobs": [
             {
                 "name": "numiko/entity_jobs",
+                "version": "dev-feature/d11-support",
+                "version_normalized": "dev-feature/d11-support",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-jobs.git",
+                    "reference": "b5f1a18d3781a8baa2d8be908fcb71d1c718eb66"
+                },
+                "time": "2026-05-12T12:06:03+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Run actions on entities with optional conditions, grouped as a job",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/entity_jobs",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
