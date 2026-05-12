@@ -23,6 +23,25 @@
             },
             {
                 "name": "numiko/menu_block_view_modes",
+                "version": "dev-feature/d11-support",
+                "version_normalized": "dev-feature/d11-support",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/menu-block-view-modes.git",
+                    "reference": "650cb9cf54fb9036c4d3da5ca16e0327574badfc"
+                },
+                "time": "2026-05-12T14:34:02+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Extend Menu Block with functionality to output teasers and other view modes instead of labels",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/menu_block_view_modes",
                 "version": "dev-feature/drupal9",
                 "version_normalized": "dev-feature/drupal9",
                 "source": {
