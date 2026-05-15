@@ -388,9 +388,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "5554ef9cbe0ac3698fe21611aa71b4b1dd742faa"
+                    "reference": "23ccc66c3402ca0c7ae7476db7c08cc6303dc429"
                 },
-                "time": "2026-05-14T15:57:15+00:00",
+                "time": "2026-05-15T08:53:57+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -581,6 +581,25 @@
                     "reference": "9f04f767771daa49501ff8ebbd01ea9ffbec792e"
                 },
                 "time": "2021-03-29T16:32:48+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
+                "version": "dev-feature/token-automation",
+                "version_normalized": "dev-feature/token-automation",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "428ffd69f61a598479881e2dffa44c788da70b99"
+                },
+                "time": "2026-05-15T13:37:37+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
