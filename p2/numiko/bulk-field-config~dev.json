@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "numiko/bulk-field-config": [
+            {
+                "name": "numiko/bulk-field-config",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/bulk-field-change",
+                    "reference": "29f869cd8e7471924c1ab2ca07e8611ef59b4f96"
+                },
+                "require": {
+                    "drupal/core": "^11"
+                },
+                "time": "2026-05-26T10:08:51+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "1.0.0-dev"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Developer tool for bulk field and display management across entity bundles in Drupal 11."
+            }
+        ]
+    }
+}

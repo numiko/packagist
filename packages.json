@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4cc1c035a7703bd37112a13efa5cb4457ed586a6.json": {
-            "sha1": "4cc1c035a7703bd37112a13efa5cb4457ed586a6"
+        "include/all$7a81b3d7557e2d2cba9a221d29f6a43487a85813.json": {
+            "sha1": "7a81b3d7557e2d2cba9a221d29f6a43487a85813"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -22,6 +22,7 @@
         "numiko/assigned-content-recipe",
         "numiko/assigned_content",
         "numiko/autotagging",
+        "numiko/bulk-field-config",
         "numiko/ckeditor_lazysizes_support",
         "numiko/cloudflare-recipe",
         "numiko/cloudflare-turnstile-recipe",
