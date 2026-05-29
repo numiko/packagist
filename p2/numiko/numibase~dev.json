@@ -535,6 +535,25 @@
             },
             {
                 "name": "numiko/numibase",
+                "version": "dev-feature/figma-console-mcp",
+                "version_normalized": "dev-feature/figma-console-mcp",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "12f1f8015c68cec74cfa5a0ab970c3e0df6fce53"
+                },
+                "time": "2026-05-29T15:08:15+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/numibase",
                 "version": "dev-feature/install_profile_theme",
                 "version_normalized": "dev-feature/install_profile_theme",
                 "source": {
