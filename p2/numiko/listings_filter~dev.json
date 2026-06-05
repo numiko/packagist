@@ -277,6 +277,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/promoted-facet-count-fix",
+                "version_normalized": "dev-feature/promoted-facet-count-fix",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "db47cd1c0e8ee0c1bbf2d389305a059964a2396f"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2026-06-05T10:38:04+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
                 "version_normalized": "dev-feature/return-only-child-tagged-nodes-if-hierarchical-facet",
                 "source": {
