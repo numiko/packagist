@@ -3,14 +3,14 @@
         "numiko/drupal-profile": [
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-159",
-                "version_normalized": "dev-SKP-159",
+                "version": "dev-SKP-17",
+                "version_normalized": "dev-SKP-17",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "27314c57806266904fcd2e3f7947bec043a2fd15"
+                    "reference": "1fbed03321a279785515ff25e92061506f63e15f"
                 },
-                "time": "2026-06-08T14:09:02+00:00",
+                "time": "2026-06-09T10:32:00+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -19,14 +19,30 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-333",
-                "version_normalized": "dev-SKP-333",
+                "version": "dev-SKP-327",
+                "version_normalized": "dev-SKP-327",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "9fddd3997451a8a2cd9cdce8668b5b6ede84b6e6"
+                    "reference": "f083c8b54badef187c0c1e6471f0c425142ca894"
                 },
-                "time": "2026-06-08T15:07:34+00:00",
+                "time": "2026-06-09T15:41:08+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "dev-SKP-48",
+                "version_normalized": "dev-SKP-48",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "1833e8a84ae3f4d493ba5beb80639b883aa33675"
+                },
+                "time": "2026-06-09T13:35:05+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -137,9 +153,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "1767758b7e09bec978364b3d20c1c6861e148901"
+                    "reference": "d8c1f536f4ca6a7fb366e4d3a18b125dc2f245a5"
                 },
-                "time": "2026-04-29T15:20:24+00:00",
+                "time": "2026-06-09T15:43:15+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

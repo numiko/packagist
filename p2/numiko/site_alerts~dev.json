@@ -3,6 +3,25 @@
         "numiko/site_alerts": [
             {
                 "name": "numiko/site_alerts",
+                "version": "dev-feature/caching",
+                "version_normalized": "dev-feature/caching",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-alerts.git",
+                    "reference": "b5c77c1b4002d8da0322c4e36efa6faa5920ee7b"
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-06-08T21:09:30+00:00",
+                "type": "drupal-module",
+                "description": "Provides dismissible site alert messages to be shown across the site, a site section or an individual node.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_alerts",
                 "version": "dev-feature/path_based_site_alert",
                 "version_normalized": "dev-feature/path_based_site_alert",
                 "source": {
