@@ -123,6 +123,26 @@
                 "time": "2025-01-29T09:20:13+00:00",
                 "type": "drupal-module",
                 "description": "Add remote video file urls as media"
+            },
+            {
+                "name": "numiko/media_remote_file",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-remote-file.git",
+                    "reference": "9dadc35220b90ca677f677a055b8487e639dbacc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_remote_file/numiko-media_remote_file-1.5.0-ac83f1.tar",
+                    "reference": "9dadc35220b90ca677f677a055b8487e639dbacc",
+                    "shasum": "f744d559af1e692e7dc13c859fe877532d064f97"
+                },
+                "time": "2026-06-10T09:06:24+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Add remote video file urls as media"
             }
         ]
     }
