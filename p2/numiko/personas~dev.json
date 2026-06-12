@@ -3,6 +3,19 @@
         "numiko/personas": [
             {
                 "name": "numiko/personas",
+                "version": "dev-feature/role-list",
+                "version_normalized": "dev-feature/role-list",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "a934892768f01a2da10f9fbad3b2d8466893b72a"
+                },
+                "time": "2026-06-12T15:47:39+00:00",
+                "type": "drupal-module",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
+            {
+                "name": "numiko/personas",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
