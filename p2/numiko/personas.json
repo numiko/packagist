@@ -228,6 +228,26 @@
                 "time": "2025-10-16T08:09:19+00:00",
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
+            {
+                "name": "numiko/personas",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "0cdb06e1dcb1e78aa1c5079dca88c7af9172145b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/personas/numiko-personas-1.7.0-518afd.tar",
+                    "reference": "0cdb06e1dcb1e78aa1c5079dca88c7af9172145b",
+                    "shasum": "027f20951ae53c35103ed909b63b8829479ad93d"
+                },
+                "time": "2026-06-15T09:29:01+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             }
         ]
     }
