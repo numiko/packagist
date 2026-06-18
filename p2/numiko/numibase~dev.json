@@ -540,9 +540,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "12f1f8015c68cec74cfa5a0ab970c3e0df6fce53"
+                    "reference": "3638b1766b673ea4c96ce9c5781525da39b7583c"
                 },
-                "time": "2026-05-29T15:08:15+00:00",
+                "time": "2026-06-02T14:21:20+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -788,9 +788,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "fc5160b625e72fd1c2c87bca83889c447a4648bb"
+                    "reference": "658873f300ae1c0c3100b49f0f0ca73d8209fc84"
                 },
-                "time": "2026-05-13T13:18:37+00:00",
+                "time": "2026-06-18T13:01:51+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
