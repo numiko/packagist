@@ -325,6 +325,58 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/media_video_id",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-id.git",
+                    "reference": "184098a3806039c74d5ef2bb76b69af08211d77e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_video_id/numiko-media_video_id-2.1.2-e61c0e.tar",
+                    "reference": "184098a3806039c74d5ef2bb76b69af08211d77e",
+                    "shasum": "c746175bc30e8bb40786d4212d0927232a18148d"
+                },
+                "time": "2026-06-24T15:25:08+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Refine the core media of drupal to be in line with our standard requirements including the output of a video ID (youtube or vimeo)",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_video_id",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-id.git",
+                    "reference": "ce2680e0dd671512942970d37b487718ad53625b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_video_id/numiko-media_video_id-2.1.3-f2fcc0.tar",
+                    "reference": "ce2680e0dd671512942970d37b487718ad53625b",
+                    "shasum": "2aff1741e69044c380931bca0d12132c438d20c4"
+                },
+                "time": "2026-06-24T15:31:26+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Refine the core media of drupal to be in line with our standard requirements including the output of a video ID (youtube or vimeo)",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

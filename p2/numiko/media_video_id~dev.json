@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-id.git",
-                    "reference": "a904e7fc750a4b56f1dc8242f592dfa58eccefc3"
+                    "reference": "ce2680e0dd671512942970d37b487718ad53625b"
                 },
-                "time": "2026-06-08T11:09:03+00:00",
+                "time": "2026-06-24T15:31:26+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
