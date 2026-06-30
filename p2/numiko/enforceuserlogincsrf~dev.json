@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
-                    "reference": "9f99bdc174298a4a92395cbadc0fa820bf46373a"
+                    "reference": "75ddf8e8a630d39813eb5b5dc569c7d6dcd295a2"
                 },
-                "time": "2024-06-17T09:53:24+00:00",
+                "time": "2026-06-30T14:55:02+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

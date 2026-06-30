@@ -8,9 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/file-size-display.git",
-                    "reference": "65226a761fa96f86255b82d22cafb29069d33149"
+                    "reference": "b2eefb12c685e6bee05ff12769863200746a31ad"
                 },
-                "time": "2022-09-06T09:17:01+00:00",
+                "time": "2026-06-30T15:25:21+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Field formatter for files to nicely show file size",

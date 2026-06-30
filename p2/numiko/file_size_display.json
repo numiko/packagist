@@ -54,6 +54,34 @@
                     "issues": "http://numiko.com",
                     "source": "https://bitbucket.org/numiko/file-size-display"
                 }
+            },
+            {
+                "name": "numiko/file_size_display",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/file-size-display.git",
+                    "reference": "b2eefb12c685e6bee05ff12769863200746a31ad"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/file_size_display/numiko-file_size_display-1.2.0-e9a039.tar",
+                    "reference": "b2eefb12c685e6bee05ff12769863200746a31ad",
+                    "shasum": "49597ba0f39c38e5aafbba89833bb723c1cc8296"
+                },
+                "time": "2026-06-30T15:25:21+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Field formatter for files to nicely show file size",
+                "homepage": "http://numiko.com",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://numiko.com",
+                    "source": "https://bitbucket.org/numiko/file-size-display"
+                }
             }
         ]
     }
