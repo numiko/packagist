@@ -27,9 +27,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-url-formatter.git",
-                    "reference": "45e2fd953b92a64a0bf5113afd89ec90787c10b0"
+                    "reference": "7bf8acfedcca4d05b02d57c5a4f378e5058dd100"
                 },
-                "time": "2024-11-04T10:48:40+00:00",
+                "time": "2026-07-01T11:30:17+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -50,25 +50,6 @@
                     "reference": "e428ef5117b53e921e75f5238e86d80fa0b16119"
                 },
                 "time": "2019-01-28T16:26:42+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Add media & image url formatter to fields",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/media_url_formatter",
-                "version": "dev-release/2.3.0",
-                "version_normalized": "dev-release/2.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
-                    "reference": "90465f2bbdcb507eea04acd826893c0ebcafd3ab"
-                },
-                "time": "2026-06-30T15:35:58+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

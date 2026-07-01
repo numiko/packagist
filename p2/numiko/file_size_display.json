@@ -72,7 +72,6 @@
                 },
                 "time": "2026-06-30T15:25:21+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Field formatter for files to nicely show file size",
                 "homepage": "http://numiko.com",
                 "keywords": [
