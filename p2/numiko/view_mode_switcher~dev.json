@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
-                    "reference": "9a8ec779621a44423d733fbc00e2d62507b23403"
+                    "reference": "39bf4d7c95b57fae6541330484eb66f2fa0ce1fd"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2026-02-02T11:25:59+00:00",
+                "time": "2026-07-03T10:55:23+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Adds the functionality to create an extra view mode.",

@@ -100,6 +100,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/view_mode_switcher",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/view-mode-switcher.git",
+                    "reference": "39bf4d7c95b57fae6541330484eb66f2fa0ce1fd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/view_mode_switcher/numiko-view_mode_switcher-1.1.0-285992.tar",
+                    "reference": "39bf4d7c95b57fae6541330484eb66f2fa0ce1fd",
+                    "shasum": "11c1f586d7e7fc2a4f9620cceedd0366b34fd7fe"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2026-07-03T10:55:23+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Adds the functionality to create an extra view mode.",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }
