@@ -253,6 +253,30 @@
             },
             {
                 "name": "numiko/listings_filter",
+                "version": "dev-feature/or-conjunction",
+                "version_normalized": "dev-feature/or-conjunction",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "bd231f49eed968cef83337981ce68402b688ea32"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2026-07-03T14:36:35+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/listings_filter",
                 "version": "dev-feature/plugin-sort-pinned-items",
                 "version_normalized": "dev-feature/plugin-sort-pinned-items",
                 "source": {

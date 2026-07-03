@@ -121,7 +121,6 @@
                 },
                 "time": "2026-07-03T10:55:23+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Adds the functionality to create an extra view mode.",
                 "keywords": [
                     "Drupal"
