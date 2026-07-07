@@ -440,25 +440,6 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-342",
-                "version_normalized": "dev-SKP-342",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "45b96a443aba205f9e455b247ef183f235867bf7"
-                },
-                "time": "2026-06-23T12:30:43+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
                 "version": "dev-chore/tailwind-v4-dependencies-update",
                 "version_normalized": "dev-chore/tailwind-v4-dependencies-update",
                 "source": {
@@ -749,9 +730,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "43b00d701f69155edeadeb51bb918f4745be6ba9"
+                    "reference": "e04cce837a6086ee24ba1552bec84870bc3c29db"
                 },
-                "time": "2026-06-24T14:27:55+00:00",
+                "time": "2026-07-07T08:25:52+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
