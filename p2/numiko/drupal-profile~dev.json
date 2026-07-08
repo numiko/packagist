@@ -153,9 +153,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "6563814f05075e96be54daa6ac91fe7ce0607af1"
+                    "reference": "f7a81f6ab4d96ff5416d77eadb717b60b55928d7"
                 },
-                "time": "2026-06-12T09:54:05+00:00",
+                "time": "2026-07-08T16:08:29+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

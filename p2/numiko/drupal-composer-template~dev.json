@@ -2493,12 +2493,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "33bfb17237348da2900173be8abd6b3a8d85d60d"
+                    "reference": "baf71c4f59296d3a182d6772934c38135a5e958a"
                 },
                 "require": {
                     "composer/installers": "^2.3",
                     "cweagans/composer-patches": "^2.0",
+                    "drupal/admin_audit_trail": "^1.0",
                     "drupal/admin_toolbar": "^3.2",
+                    "drupal/antibot": "^2.0",
                     "drupal/ckeditor_link_styles": "^1.1",
                     "drupal/ckeditor_quote": "^3.0",
                     "drupal/clientside_validation": "^4.0",
@@ -2572,7 +2574,8 @@
                     "drupal/twig_tweak": "^3.3",
                     "drupal/username_enumeration_prevention": "^1.2",
                     "drupal/vite": "^1.5",
-                    "drupal/webform": "^6.3@beta",
+                    "drupal/webform": "^6.3",
+                    "drupal/webform_spam_words": "^3.0",
                     "drush/drush": "^13",
                     "numiko/ckeditor_lazysizes_support": "^1.0",
                     "numiko/csp_per_page": "^9.2",
@@ -2613,7 +2616,7 @@
                 "require-dev": {
                     "drupal/core-dev": "^11.2"
                 },
-                "time": "2026-07-07T15:13:14+00:00",
+                "time": "2026-07-08T16:07:09+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
