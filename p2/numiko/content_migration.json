@@ -503,7 +503,6 @@
                 },
                 "time": "2026-07-10T10:55:05+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Drupal\\content_migration\\": "src/"
