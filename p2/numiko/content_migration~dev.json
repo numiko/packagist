@@ -138,14 +138,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/content-migration.git",
-                    "reference": "f968ab182ce89dfcec278e5c7c4d8a156e7afa06"
+                    "reference": "31b217fd32339c607b9d6aedffd3656fe987df5b"
                 },
                 "require": {
                     "drupal/core": "^9.0 || ^10.0 || ^11.0",
                     "fivefilters/readability.php": ">=3.0",
                     "php": ">=8.1"
                 },
-                "time": "2026-06-29T10:10:12+00:00",
+                "time": "2026-07-10T10:55:05+00:00",
                 "type": "drupal-module",
                 "autoload": {
                     "psr-4": {
