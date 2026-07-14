@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/bulk-field-change",
-                    "reference": "29f869cd8e7471924c1ab2ca07e8611ef59b4f96"
+                    "reference": "87d1e269683253ed124c921ae8f932e00da27dae"
                 },
                 "require": {
                     "drupal/core": "^11"
                 },
-                "time": "2026-05-26T10:08:51+00:00",
+                "time": "2026-07-14T09:36:03+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "extra": {
