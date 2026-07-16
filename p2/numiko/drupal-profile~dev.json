@@ -19,22 +19,6 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-172",
-                "version_normalized": "dev-SKP-172",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "93eed7b0c708af8d7be36c87462d9505909c3ad2"
-                },
-                "time": "2026-07-09T10:51:11+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-SKP-263",
                 "version_normalized": "dev-SKP-263",
                 "source": {
@@ -59,38 +43,6 @@
                     "reference": "f083c8b54badef187c0c1e6471f0c425142ca894"
                 },
                 "time": "2026-06-09T15:41:08+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-47",
-                "version_normalized": "dev-SKP-47",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "cdb62cac37fbe8fea1a237599307b9b5c8018063"
-                },
-                "time": "2026-07-09T14:50:27+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-feature/enable-slices",
-                "version_normalized": "dev-feature/enable-slices",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "05f27f9888472849214da5e9a1b1694f9afdf34e"
-                },
-                "time": "2026-07-15T16:48:35+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -201,9 +153,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "c4cf6e6ec0a11317630c0107473b05a07846c828"
+                    "reference": "744feb4952e5fc80dc0f91055d7cfe0466021ed3"
                 },
-                "time": "2026-07-10T09:11:56+00:00",
+                "time": "2026-07-16T08:47:58+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
