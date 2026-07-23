@@ -3,6 +3,26 @@
         "numiko/site_tests": [
             {
                 "name": "numiko/site_tests",
+                "version": "dev-SKP-357",
+                "version_normalized": "dev-SKP-357",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "ebfddcf53ac6ed9d3246f99df1f8208899e034db"
+                },
+                "time": "2026-07-23T13:47:45+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_tests",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -12,6 +32,26 @@
                 },
                 "time": "2026-03-17T10:20:58+00:00",
                 "default-branch": true,
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
+                "homepage": "https://bitbucket.org/numiko/site-tests",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/site_tests",
+                "version": "dev-release/4.1.x",
+                "version_normalized": "dev-release/4.1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/site-tests.git",
+                    "reference": "e39b1e04cdb462b00923c8aaa6b89659ed17244f"
+                },
+                "time": "2026-07-23T13:28:21+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"

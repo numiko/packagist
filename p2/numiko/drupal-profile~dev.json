@@ -51,6 +51,22 @@
             },
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-SKP-357",
+                "version_normalized": "dev-SKP-357",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "a54562a8feebd010bd86ef88a3b43ea22ffded13"
+                },
+                "time": "2026-07-23T12:44:05+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-feature/teaser-list-slice",
                 "version_normalized": "dev-feature/teaser-list-slice",
                 "source": {
@@ -153,9 +169,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "744feb4952e5fc80dc0f91055d7cfe0466021ed3"
+                    "reference": "43d25a37c5155a159f2e8edd5ae210ed2ebcb670"
                 },
-                "time": "2026-07-16T08:47:58+00:00",
+                "time": "2026-07-23T13:28:41+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

@@ -11,7 +11,6 @@
                     "reference": "fd537b25ddfbabb56bbb3a645ec9fabb2dcdae0a"
                 },
                 "time": "2022-09-14T16:06:15+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -107,6 +106,26 @@
                     "reference": "1895c6316d01149b1940b2f37f09b6389d03466c"
                 },
                 "time": "2026-01-29T13:38:11+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/descendants_menu_block",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "f4978a735e5da4d9148a633650bb8ff0af9d217e"
+                },
+                "time": "2026-07-23T12:14:07+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
