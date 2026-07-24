@@ -19,22 +19,6 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-214",
-                "version_normalized": "dev-SKP-214",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "298cd7de442718e8c0a467603afb63a5dd53c256"
-                },
-                "time": "2026-07-23T13:54:36+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-SKP-263",
                 "version_normalized": "dev-SKP-263",
                 "source": {
@@ -43,22 +27,6 @@
                     "reference": "9a4ee31f34f038f13249c332c93b7397baad614f"
                 },
                 "time": "2026-06-11T15:39:41+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-27",
-                "version_normalized": "dev-SKP-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "533c6ffe6faefc56bb3c3972cb3a206333ca8216"
-                },
-                "time": "2026-07-23T14:13:21+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -201,9 +169,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "b1a68498f4cb4e89a206e3647834b63b3b03762d"
+                    "reference": "c28b32492c4159d6b4ad8f48950399b0fbf5c209"
                 },
-                "time": "2026-07-23T13:50:23+00:00",
+                "time": "2026-07-24T08:16:12+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

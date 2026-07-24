@@ -86838,22 +86838,6 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
-            "dev-SKP-214": {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-214",
-                "version_normalized": "dev-SKP-214",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "298cd7de442718e8c0a467603afb63a5dd53c256"
-                },
-                "time": "2026-07-23T13:54:36+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
             "dev-SKP-263": {
                 "name": "numiko/drupal-profile",
                 "version": "dev-SKP-263",
@@ -86864,22 +86848,6 @@
                     "reference": "9a4ee31f34f038f13249c332c93b7397baad614f"
                 },
                 "time": "2026-06-11T15:39:41+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            "dev-SKP-27": {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-27",
-                "version_normalized": "dev-SKP-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "533c6ffe6faefc56bb3c3972cb3a206333ca8216"
-                },
-                "time": "2026-07-23T14:13:21+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -87022,9 +86990,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "b1a68498f4cb4e89a206e3647834b63b3b03762d"
+                    "reference": "c28b32492c4159d6b4ad8f48950399b0fbf5c209"
                 },
-                "time": "2026-07-23T13:50:23+00:00",
+                "time": "2026-07-24T08:16:12+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -101313,9 +101281,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2a49f472b9a27f5baca1354d1f590ea834ebd583"
+                    "reference": "919fc1a514f700327be26ace9c60a799c9f21420"
                 },
-                "time": "2024-11-13T15:41:13+00:00",
+                "time": "2026-07-24T07:43:02+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -101496,25 +101464,6 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-351": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-351",
-                "version_normalized": "dev-SKP-351",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "4345379ee04549ae539883c137daa6c12ed2829d"
-                },
-                "time": "2026-07-23T12:39:24+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-SKP-358": {
                 "name": "numiko/numibase",
                 "version": "dev-SKP-358",
@@ -101525,6 +101474,25 @@
                     "reference": "c8f5454eaa8fed6b4d288fbeb88b101d65735289"
                 },
                 "time": "2026-07-23T13:44:16+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-SKP-49": {
+                "name": "numiko/numibase",
+                "version": "dev-SKP-49",
+                "version_normalized": "dev-SKP-49",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "88ae8eb1efe75e0ffb7bcf0a945647527a3011ab"
+                },
+                "time": "2026-07-24T09:32:38+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -101845,9 +101813,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "b5ab2ebfc7730b60b0489868b6a9fccccc37b507"
+                    "reference": "8c023d7a1626a48d05385fca839956f3237ec6ce"
                 },
-                "time": "2026-07-23T12:38:56+00:00",
+                "time": "2026-07-24T08:39:02+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -110124,9 +110092,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "3a063bfdb84f631cfe19d5a9800c050b29198465"
+                    "reference": "26849418e041ca08eba90e9fa6ef27d9b5ae1efd"
                 },
-                "time": "2024-06-17T15:59:30+00:00",
+                "time": "2026-07-24T08:18:16+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -110341,6 +110309,37 @@
                 },
                 "time": "2024-06-17T15:59:30+00:00",
                 "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Slice entities",
+                "homepage": "https://www.drupal.org/project/slice",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/slice",
+                    "source": "http://cgit.drupalcode.org/slice"
+                }
+            },
+            "5.2.0": {
+                "name": "numiko/slice",
+                "version": "5.2.0",
+                "version_normalized": "5.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/slices.git",
+                    "reference": "26849418e041ca08eba90e9fa6ef27d9b5ae1efd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/slice/numiko-slice-5.2.0-f2ab8f.tar",
+                    "reference": "26849418e041ca08eba90e9fa6ef27d9b5ae1efd",
+                    "shasum": "055885f8b7f666798f656f58d795ce98ac932536"
+                },
+                "time": "2026-07-24T08:18:16+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -111211,30 +111210,6 @@
                     "reference": "f04bf85f09e7a72283994e3c283e97b4008972b0"
                 },
                 "time": "2016-11-08T10:55:41+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Slice entities",
-                "homepage": "https://www.drupal.org/project/slice",
-                "keywords": [
-                    "Drupal"
-                ],
-                "support": {
-                    "issues": "http://drupal.org/project/issues/slice",
-                    "source": "http://cgit.drupalcode.org/slice"
-                }
-            },
-            "dev-release/5.2.0": {
-                "name": "numiko/slice",
-                "version": "dev-release/5.2.0",
-                "version_normalized": "dev-release/5.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/slices.git",
-                    "reference": "dc818216025541a7cfa6753e2de045c6bbbf1e03"
-                },
-                "time": "2026-07-23T09:55:54+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
