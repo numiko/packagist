@@ -51,14 +51,14 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-359",
-                "version_normalized": "dev-SKP-359",
+                "version": "dev-SKP-72",
+                "version_normalized": "dev-SKP-72",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "7207bafac74eb805b2bdcb9be43f1bf95f795c2b"
+                    "reference": "a64e6c5736c2196cd08e8e9f779ce2dc046032f8"
                 },
-                "time": "2026-07-23T14:26:54+00:00",
+                "time": "2026-07-24T14:02:43+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -169,9 +169,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "c28b32492c4159d6b4ad8f48950399b0fbf5c209"
+                    "reference": "37112948869a4ae68bc4b7647b1bb9677b58a279"
                 },
-                "time": "2026-07-24T08:16:12+00:00",
+                "time": "2026-07-24T09:50:35+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

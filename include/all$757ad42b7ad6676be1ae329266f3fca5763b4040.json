@@ -86870,16 +86870,16 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
-            "dev-SKP-359": {
+            "dev-SKP-72": {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-359",
-                "version_normalized": "dev-SKP-359",
+                "version": "dev-SKP-72",
+                "version_normalized": "dev-SKP-72",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "7207bafac74eb805b2bdcb9be43f1bf95f795c2b"
+                    "reference": "a64e6c5736c2196cd08e8e9f779ce2dc046032f8"
                 },
-                "time": "2026-07-23T14:26:54+00:00",
+                "time": "2026-07-24T14:02:43+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -86990,9 +86990,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "c28b32492c4159d6b4ad8f48950399b0fbf5c209"
+                    "reference": "37112948869a4ae68bc4b7647b1bb9677b58a279"
                 },
-                "time": "2026-07-24T08:16:12+00:00",
+                "time": "2026-07-24T09:50:35+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -98830,6 +98830,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-release/2.3.1": {
+                "name": "numiko/media_url_formatter",
+                "version": "dev-release/2.3.1",
+                "version_normalized": "dev-release/2.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-url-formatter.git",
+                    "reference": "dc0252914589393474e812f39716eecd687c50fe"
+                },
+                "time": "2026-07-24T16:05:21+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media & image url formatter to fields",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/media_video_id": {
@@ -110022,26 +110041,6 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-357": {
-                "name": "numiko/site_tests",
-                "version": "dev-SKP-357",
-                "version_normalized": "dev-SKP-357",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "ebfddcf53ac6ed9d3246f99df1f8208899e034db"
-                },
-                "time": "2026-07-23T13:47:45+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "This is a base for tests for the site - this module is intended to reside within custom modules and be extended / overwritten",
-                "homepage": "https://bitbucket.org/numiko/site-tests",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-main": {
                 "name": "numiko/site_tests",
                 "version": "dev-main",
@@ -110070,9 +110069,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/site-tests.git",
-                    "reference": "e39b1e04cdb462b00923c8aaa6b89659ed17244f"
+                    "reference": "06a803c9857ab59836207a0765db9dd1b3f322bc"
                 },
-                "time": "2026-07-23T13:28:21+00:00",
+                "time": "2026-07-24T09:53:44+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -110339,7 +110338,6 @@
                 },
                 "time": "2026-07-24T08:18:16+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
