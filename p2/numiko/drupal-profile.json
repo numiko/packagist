@@ -9666,6 +9666,29 @@
                     "GPL-2.0+"
                 ],
                 "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
+                "version": "4.1.0-beta1",
+                "version_normalized": "4.1.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "02fedba0b6220522d23e52762d30c79ce8427e9c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/drupal-profile/numiko-drupal-profile-4.1.0-beta1-3653f5.tar",
+                    "reference": "02fedba0b6220522d23e52762d30c79ce8427e9c",
+                    "shasum": "2b47c8fc8f4910af4f7cc5b9bf1e43f427340dbc"
+                },
+                "time": "2026-07-28T14:36:45+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
             }
         ]
     }
