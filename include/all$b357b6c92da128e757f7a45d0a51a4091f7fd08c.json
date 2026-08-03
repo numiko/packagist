@@ -98032,20 +98032,27 @@
                     "Drupal"
                 ]
             },
-            "dev-UOLREBLD-2053-www-prefix": {
+            "2.1.1": {
                 "name": "numiko/media_gallery",
-                "version": "dev-UOLREBLD-2053-www-prefix",
-                "version_normalized": "dev-UOLREBLD-2053-www-prefix",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "381236a41bdfd8d55e6f56c0899cfdaa6cd65103"
+                    "reference": "e2b02c2a4272b2b90678efc2ffbfe595c51bbc54"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/media_gallery/numiko-media_gallery-2.1.1-1fd3bf.tar",
+                    "reference": "e2b02c2a4272b2b90678efc2ffbfe595c51bbc54",
+                    "shasum": "31ee9c44b2547415b2a9b484e6784e15e9179fd5"
                 },
                 "require": {
                     "numiko/media_video_id": "^2.0"
                 },
-                "time": "2026-07-31T09:12:38+00:00",
+                "time": "2026-08-03T08:51:18+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -98099,12 +98106,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-gallery.git",
-                    "reference": "0a859a6f324b5d54e6aa889f1356f20140fa0bb1"
+                    "reference": "e2b02c2a4272b2b90678efc2ffbfe595c51bbc54"
                 },
                 "require": {
                     "numiko/media_video_id": "^2.0"
                 },
-                "time": "2026-07-07T06:56:25+00:00",
+                "time": "2026-08-03T08:51:18+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -101762,9 +101769,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2a00c47b147ade63db20879125e906f873eae461"
+                    "reference": "c18a2718a5c508c415642196ebf750326aa35354"
                 },
-                "time": "2026-07-31T14:06:21+00:00",
+                "time": "2026-08-03T08:33:00+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
