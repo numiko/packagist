@@ -3,6 +3,25 @@
         "numiko/username_sanitize": [
             {
                 "name": "numiko/username_sanitize",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "73e312e572b9e931ab085813ccf9b25efd205be2"
+                },
+                "time": "2026-08-05T14:30:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/username_sanitize",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {

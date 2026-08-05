@@ -87121,22 +87121,6 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
-            "dev-SKP-87": {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-87",
-                "version_normalized": "dev-SKP-87",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "b81eb0d11ec96819518d0055082fc0f6e00e4f04"
-                },
-                "time": "2026-07-30T08:24:52+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
             "dev-feature/teaser-list-slice": {
                 "name": "numiko/drupal-profile",
                 "version": "dev-feature/teaser-list-slice",
@@ -87241,9 +87225,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "02fedba0b6220522d23e52762d30c79ce8427e9c"
+                    "reference": "3558275efe4efce11779bdc4107eb4cb7bda0f96"
                 },
-                "time": "2026-07-28T14:36:45+00:00",
+                "time": "2026-08-05T09:47:22+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -88081,6 +88065,29 @@
                 },
                 "time": "2021-08-13T14:42:15+00:00",
                 "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Entity Embed CKeditor view mode overrides",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/d11": {
+                "name": "numiko/entity_embed_ckeditor",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/entity-embed-ckeditor.git",
+                    "reference": "39df5eb45d2baf64439e301aea9434943d08b8ed"
+                },
+                "require": {
+                    "drupal/core": "^11",
+                    "drupal/entity_embed": "^1.7"
+                },
+                "time": "2026-08-05T14:33:45+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -98386,6 +98393,29 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/d11": {
+                "name": "numiko/media_linkit",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "a586644e768ec37f277ae8ebedf6859f4b7f8755"
+                },
+                "require": {
+                    "drupal/core": "^11",
+                    "drupal/linkit": "^7.0"
+                },
+                "time": "2026-08-05T14:21:34+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-release/3.0": {
                 "name": "numiko/media_linkit",
                 "version": "dev-release/3.0",
@@ -99814,6 +99844,28 @@
                     "reference": "209aba197d4bf1e4dff45df3d62ed46829223a08"
                 },
                 "time": "2019-03-12T15:26:06+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/d11": {
+                "name": "numiko/media_video_preview",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "6d2c0b7947870ec67d0ff5648feb65897e16aac2"
+                },
+                "require": {
+                    "drupal/core": "^11.2"
+                },
+                "time": "2026-08-05T14:53:30+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -101609,16 +101661,16 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-207": {
+            "dev-SKP-207-new": {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-207",
-                "version_normalized": "dev-SKP-207",
+                "version": "dev-SKP-207-new",
+                "version_normalized": "dev-SKP-207-new",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "660e18af52290c38c7d5fa27711cfd6511bf0a1a"
+                    "reference": "e23e4699a50bf11b3050324cc7964c38906dffa9"
                 },
-                "time": "2024-10-11T10:01:16+00:00",
+                "time": "2026-08-05T13:45:48+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -101942,25 +101994,6 @@
                     "reference": "fc5160b625e72fd1c2c87bca83889c447a4648bb"
                 },
                 "time": "2026-05-13T13:18:37+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/template-cleanup": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/template-cleanup",
-                "version_normalized": "dev-feature/template-cleanup",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f038ddd3d844f03d2d68b8a2351484bcadb28c09"
-                },
-                "time": "2024-06-13T14:54:55+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -106764,6 +106797,28 @@
                     "reference": "f7590f0aaf3de9fa58c5a0597b1a0f539b3d1584"
                 },
                 "time": "2019-03-04T15:42:24+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filter a view by node selection",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/d11": {
+                "name": "numiko/reference_views_filter",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/reference-views-filter.git",
+                    "reference": "a1ac0e5e72837c187ee2bbf6299a1e76b14c7e4f"
+                },
+                "require": {
+                    "drupal/core": "^11.1"
+                },
+                "time": "2026-08-05T15:17:46+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -115313,6 +115368,51 @@
                     "Drupal"
                 ]
             },
+            "3.0.0": {
+                "name": "numiko/taxonomy_slice",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "3a128a855d3dc29a7c9b2cef96fcf7c500409ea6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-3.0.0-156e64.tar",
+                    "reference": "3a128a855d3dc29a7c9b2cef96fcf7c500409ea6",
+                    "shasum": "eca982c6c8f4e92b2a406ad66eaf7cce25bbfa85"
+                },
+                "time": "2026-08-05T14:46:43+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/d11": {
+                "name": "numiko/taxonomy_slice",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/taxonomy-slice",
+                    "reference": "2a9004d0551ba543241431e952bc46ec28c2d0c1"
+                },
+                "time": "2026-08-05T14:37:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a slice that will use the taxonomy fields and populate contextual filters on a view field",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/optional-columns": {
                 "name": "numiko/taxonomy_slice",
                 "version": "dev-feature/optional-columns",
@@ -115339,9 +115439,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/taxonomy-slice",
-                    "reference": "3de6bb28da3c5701f22230926c2acfb58eefc4b9"
+                    "reference": "3a128a855d3dc29a7c9b2cef96fcf7c500409ea6"
                 },
-                "time": "2023-07-17T10:36:36+00:00",
+                "time": "2026-08-05T14:46:43+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -118125,6 +118225,25 @@
                     "shasum": "42cfebe292e4a11a692fd574f914df79f082024d"
                 },
                 "time": "2023-07-17T10:44:39+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Username Sanitize",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/d11": {
+                "name": "numiko/username_sanitize",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/username-sanitize.git",
+                    "reference": "73e312e572b9e931ab085813ccf9b25efd205be2"
+                },
+                "time": "2026-08-05T14:30:05+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

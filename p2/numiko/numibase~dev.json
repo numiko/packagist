@@ -231,14 +231,14 @@
             },
             {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-207",
-                "version_normalized": "dev-SKP-207",
+                "version": "dev-SKP-207-new",
+                "version_normalized": "dev-SKP-207-new",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "660e18af52290c38c7d5fa27711cfd6511bf0a1a"
+                    "reference": "e23e4699a50bf11b3050324cc7964c38906dffa9"
                 },
-                "time": "2024-10-11T10:01:16+00:00",
+                "time": "2026-08-05T13:45:48+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -562,25 +562,6 @@
                     "reference": "fc5160b625e72fd1c2c87bca83889c447a4648bb"
                 },
                 "time": "2026-05-13T13:18:37+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            {
-                "name": "numiko/numibase",
-                "version": "dev-feature/template-cleanup",
-                "version_normalized": "dev-feature/template-cleanup",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f038ddd3d844f03d2d68b8a2351484bcadb28c09"
-                },
-                "time": "2024-06-13T14:54:55+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
