@@ -47,12 +47,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-video-preview.git",
-                    "reference": "6d2c0b7947870ec67d0ff5648feb65897e16aac2"
+                    "reference": "7dcf2ceaf121ea688bbe70eb9c8a55a79c6ba948"
                 },
-                "require": {
-                    "drupal/core": "^11.2"
-                },
-                "time": "2026-08-05T14:53:30+00:00",
+                "time": "2026-08-06T10:13:52+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -91,6 +88,25 @@
                     "reference": "39b26fad0650e90442dc3e4c01e13f10ce2286f5"
                 },
                 "time": "2024-01-04T11:25:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add media preview data",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_video_preview",
+                "version": "dev-release/5.0",
+                "version_normalized": "dev-release/5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-video-preview.git",
+                    "reference": "feb0a6d1a5d3efc77d7f86d758d5a35cb29e60d7"
+                },
+                "time": "2026-08-06T10:31:39+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

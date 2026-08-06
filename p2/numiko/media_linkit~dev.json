@@ -46,13 +46,29 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/media-linkit.git",
-                    "reference": "a586644e768ec37f277ae8ebedf6859f4b7f8755"
+                    "reference": "dd7a665ff91f2d52af263e78c46525cbc6a78253"
                 },
-                "require": {
-                    "drupal/core": "^11",
-                    "drupal/linkit": "^7.0"
+                "time": "2026-08-06T10:12:29+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Filters for handling media added with linkit, including direct file link",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/media_linkit",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/media-linkit.git",
+                    "reference": "ee3eaa4008ae7ff2c6458a5cde1ef096f44311c5"
                 },
-                "time": "2026-08-05T14:21:34+00:00",
+                "time": "2026-08-06T11:55:07+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -91,7 +107,6 @@
                     "reference": "40dbc835cf440b1926380267ba3baf7c590b1b7d"
                 },
                 "time": "2025-09-24T14:06:01+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
