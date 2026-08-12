@@ -29904,6 +29904,25 @@
                     "Drupal"
                 ]
             },
+            "dev-fix/dependency-injection": {
+                "name": "numiko/descendants_menu_block",
+                "version": "dev-fix/dependency-injection",
+                "version_normalized": "dev-fix/dependency-injection",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "5dda23c607d6f5ea014fcfd1bf3fd196768424f1"
+                },
+                "time": "2026-08-12T12:54:28+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/descendants_menu_block",
                 "version": "dev-main",
@@ -101913,25 +101932,6 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-14": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-14",
-                "version_normalized": "dev-SKP-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "d7539e7ec28d8e6a2d534412281151a0636d1bda"
-                },
-                "time": "2026-08-11T09:56:40+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-SKP-17-Media-Gallery-Module": {
                 "name": "numiko/numibase",
                 "version": "dev-SKP-17-Media-Gallery-Module",
@@ -102122,25 +102122,6 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-31": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-31",
-                "version_normalized": "dev-SKP-31",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "96bf79f4a3d3367aed44cf6263be8d71ee281b9f"
-                },
-                "time": "2026-08-11T09:39:50+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-SKP-312": {
                 "name": "numiko/numibase",
                 "version": "dev-SKP-312",
@@ -102179,73 +102160,16 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-34": {
+            "dev-SKP-378": {
                 "name": "numiko/numibase",
-                "version": "dev-SKP-34",
-                "version_normalized": "dev-SKP-34",
+                "version": "dev-SKP-378",
+                "version_normalized": "dev-SKP-378",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "357371b49fdfa5a9e799686dc6bcba76d32d245f"
+                    "reference": "f09ab5ff3137bb4f26cd044400bc87b51de16f20"
                 },
-                "time": "2026-08-11T13:29:17+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-SKP-372": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-372",
-                "version_normalized": "dev-SKP-372",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f2f91a07075eba483fe24c894f7af1431b5ec524"
-                },
-                "time": "2026-08-11T12:47:58+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-SKP-379": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-379",
-                "version_normalized": "dev-SKP-379",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "dbd9c78251018cf45908f7a0f67dee35c6def495"
-                },
-                "time": "2026-08-11T10:35:10+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-SKP-381": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-381",
-                "version_normalized": "dev-SKP-381",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "ec607c81a7727b579788e1c4c8efbcc58fc510d8"
-                },
-                "time": "2026-08-11T10:31:01+00:00",
+                "time": "2026-08-12T10:41:01+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -102547,9 +102471,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "2e8a4097835f40c9312f1478ecb52272c0a62991"
+                    "reference": "1549fe5557f5c0ac402286bffd4d1ac9afc1a9a8"
                 },
-                "time": "2026-08-06T08:41:21+00:00",
+                "time": "2026-08-12T14:59:28+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -107038,6 +106962,19 @@
                 "type": "drupal-module",
                 "description": "Redirect unpublished nodes if they have a redirect"
             },
+            "dev-feature/d11": {
+                "name": "numiko/redirect_unpublished",
+                "version": "dev-feature/d11",
+                "version_normalized": "dev-feature/d11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
+                    "reference": "6c134401a2bb1cdf6aa2d01bca795e87b7256635"
+                },
+                "time": "2026-08-12T15:05:15+00:00",
+                "type": "drupal-module",
+                "description": "Redirect unpublished nodes if they have a redirect"
+            },
             "dev-master": {
                 "name": "numiko/redirect_unpublished",
                 "version": "dev-master",
@@ -108357,6 +108294,40 @@
                     "source": "http://cgit.drupalcode.org/sensible_email_validation"
                 }
             },
+            "6.0.0": {
+                "name": "numiko/sensible_email_validation",
+                "version": "6.0.0",
+                "version_normalized": "6.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
+                    "reference": "dd6e423d23b04992502b5a1e999e6158b74e64b8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/sensible_email_validation/numiko-sensible_email_validation-6.0.0-01e224.tar",
+                    "reference": "dd6e423d23b04992502b5a1e999e6158b74e64b8",
+                    "shasum": "562dda811488f51b7aee61d4973673ea974b72bc"
+                },
+                "require": {
+                    "egulias/email-validator": "^4.0"
+                },
+                "time": "2026-08-12T15:06:03+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Disallow domains without TLDs in email addresses",
+                "homepage": "https://www.drupal.org/project/sensible_email_validation",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "http://drupal.org/project/issues/sensible_email_validation",
+                    "source": "http://cgit.drupalcode.org/sensible_email_validation"
+                }
+            },
             "8.1.0": {
                 "name": "numiko/sensible_email_validation",
                 "version": "8.1.0",
@@ -108616,12 +108587,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/sensible-email-validation.git",
-                    "reference": "9a90bb3f09e0e88aa0be685960a5673ad7de8973"
+                    "reference": "dd6e423d23b04992502b5a1e999e6158b74e64b8"
                 },
                 "require": {
                     "egulias/email-validator": "^4.0"
                 },
-                "time": "2023-11-17T14:19:55+00:00",
+                "time": "2026-08-12T15:06:03+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

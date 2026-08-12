@@ -117,6 +117,25 @@
             },
             {
                 "name": "numiko/descendants_menu_block",
+                "version": "dev-fix/dependency-injection",
+                "version_normalized": "dev-fix/dependency-injection",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/descendants-menu-block.git",
+                    "reference": "5dda23c607d6f5ea014fcfd1bf3fd196768424f1"
+                },
+                "time": "2026-08-12T12:54:28+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Generate menu of descendants from the current page.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/descendants_menu_block",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
