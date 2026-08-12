@@ -38,6 +38,26 @@
                 "time": "2024-04-12T15:22:10+00:00",
                 "type": "drupal-module",
                 "description": "Redirect unpublished nodes if they have a redirect"
+            },
+            {
+                "name": "numiko/redirect_unpublished",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
+                    "reference": "a4a0e9ad6d53aa5a4f3bea718b109e7911e0c5b6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/redirect_unpublished/numiko-redirect_unpublished-3.0.0-f7c4e8.tar",
+                    "reference": "a4a0e9ad6d53aa5a4f3bea718b109e7911e0c5b6",
+                    "shasum": "7d24ce20b2ab75b3ffc6c68ae83a0de542d7aa76"
+                },
+                "time": "2026-08-12T15:14:55+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Redirect unpublished nodes if they have a redirect"
             }
         ]
     }

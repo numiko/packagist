@@ -8,9 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/username-sanitize.git",
-                    "reference": "73e312e572b9e931ab085813ccf9b25efd205be2"
+                    "reference": "ea41c6138603b68670a30e6a4e308f41798d2a81"
                 },
-                "time": "2026-08-05T14:30:05+00:00",
+                "require": {
+                    "drush/drush": "^12 || ^13"
+                },
+                "time": "2026-08-12T15:43:45+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

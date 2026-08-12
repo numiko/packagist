@@ -102160,25 +102160,6 @@
                     "Drupal"
                 ]
             },
-            "dev-SKP-378": {
-                "name": "numiko/numibase",
-                "version": "dev-SKP-378",
-                "version_normalized": "dev-SKP-378",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f09ab5ff3137bb4f26cd044400bc87b51de16f20"
-                },
-                "time": "2026-08-12T10:41:01+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-SKP-8": {
                 "name": "numiko/numibase",
                 "version": "dev-SKP-8",
@@ -102227,25 +102208,6 @@
                     "reference": "4a74804a0fa20b2560015d3815c2159eb732e8c5"
                 },
                 "time": "2026-03-17T14:25:35+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/SKP-309-remove-nvmrc": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/SKP-309-remove-nvmrc",
-                "version_normalized": "dev-feature/SKP-309-remove-nvmrc",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "13cdfbd37aa4421b783a80b67a337762399e0038"
-                },
-                "time": "2026-08-11T10:57:55+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -102471,9 +102433,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "1549fe5557f5c0ac402286bffd4d1ac9afc1a9a8"
+                    "reference": "0ba4acff9ad47855dd8be3002bedbd4dd9b1d3d8"
                 },
-                "time": "2026-08-12T14:59:28+00:00",
+                "time": "2026-08-12T15:31:28+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -106962,17 +106924,24 @@
                 "type": "drupal-module",
                 "description": "Redirect unpublished nodes if they have a redirect"
             },
-            "dev-feature/d11": {
+            "3.0.0": {
                 "name": "numiko/redirect_unpublished",
-                "version": "dev-feature/d11",
-                "version_normalized": "dev-feature/d11",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
-                    "reference": "6c134401a2bb1cdf6aa2d01bca795e87b7256635"
+                    "reference": "a4a0e9ad6d53aa5a4f3bea718b109e7911e0c5b6"
                 },
-                "time": "2026-08-12T15:05:15+00:00",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/redirect_unpublished/numiko-redirect_unpublished-3.0.0-f7c4e8.tar",
+                    "reference": "a4a0e9ad6d53aa5a4f3bea718b109e7911e0c5b6",
+                    "shasum": "7d24ce20b2ab75b3ffc6c68ae83a0de542d7aa76"
+                },
+                "time": "2026-08-12T15:14:55+00:00",
                 "type": "drupal-module",
+                "installation-source": "source",
                 "description": "Redirect unpublished nodes if they have a redirect"
             },
             "dev-master": {
@@ -106982,9 +106951,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/redirect-unpublished.git",
-                    "reference": "5fbe3c3a28850f904e9f7a04563c9ce5eb19a8e8"
+                    "reference": "a4a0e9ad6d53aa5a4f3bea718b109e7911e0c5b6"
                 },
-                "time": "2024-04-12T15:22:10+00:00",
+                "time": "2026-08-12T15:14:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Redirect unpublished nodes if they have a redirect"
@@ -108314,7 +108283,6 @@
                 },
                 "time": "2026-08-12T15:06:03+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -118656,9 +118624,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/username-sanitize.git",
-                    "reference": "73e312e572b9e931ab085813ccf9b25efd205be2"
+                    "reference": "ea41c6138603b68670a30e6a4e308f41798d2a81"
                 },
-                "time": "2026-08-05T14:30:05+00:00",
+                "require": {
+                    "drush/drush": "^12 || ^13"
+                },
+                "time": "2026-08-12T15:43:45+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
