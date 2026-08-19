@@ -97006,14 +97006,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "db81556f6b01e3bc1b888cea55ef16e52cfd4ce0"
+                    "reference": "2e49f68839457d0c520f4d6b6d1e0c87760bc0d6"
                 },
                 "require": {
                     "drupal/facets": "^2.0",
                     "drupal/paragraphs": "^1.0",
                     "drupal/search_api": "~1.24"
                 },
-                "time": "2026-05-08T11:31:34+00:00",
+                "time": "2026-08-19T15:02:27+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
