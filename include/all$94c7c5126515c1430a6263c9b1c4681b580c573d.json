@@ -87347,6 +87347,38 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
+            "dev-SKP-386": {
+                "name": "numiko/drupal-profile",
+                "version": "dev-SKP-386",
+                "version_normalized": "dev-SKP-386",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "ed5cee88fdc5156c041df0b48e4eb73efaa58467"
+                },
+                "time": "2026-08-26T10:54:01+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "dev-SKP-47": {
+                "name": "numiko/drupal-profile",
+                "version": "dev-SKP-47",
+                "version_normalized": "dev-SKP-47",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "58e3918bdb6edd51e64dde5e9aa1878c7b645ce6"
+                },
+                "time": "2026-08-26T10:14:10+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "dev-feature/teaser-list-slice": {
                 "name": "numiko/drupal-profile",
                 "version": "dev-feature/teaser-list-slice",
@@ -87451,9 +87483,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "674aab3b08618dc0ad1fa6052e90f507ab4f431b"
+                    "reference": "b76a083af8d5d71fa57f96464c9936e6b008d2d5"
                 },
-                "time": "2026-08-25T07:11:41+00:00",
+                "time": "2026-08-26T09:37:41+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -102147,6 +102179,25 @@
                     "Drupal"
                 ]
             },
+            "dev-SKP-386": {
+                "name": "numiko/numibase",
+                "version": "dev-SKP-386",
+                "version_normalized": "dev-SKP-386",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "d4a222e6dd7c462e16f995518dbfe0a1f16f11f2"
+                },
+                "time": "2026-08-26T14:52:21+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-SKP-8": {
                 "name": "numiko/numibase",
                 "version": "dev-SKP-8",
@@ -102420,9 +102471,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f5ee9f36c638dbda13996630ba8c7344279f4554"
+                    "reference": "d19e86c04a1325c843a043000ea62971f0afe0ee"
                 },
-                "time": "2026-08-25T13:02:34+00:00",
+                "time": "2026-08-26T09:37:54+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
