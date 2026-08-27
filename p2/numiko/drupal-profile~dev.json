@@ -67,6 +67,22 @@
             },
             {
                 "name": "numiko/drupal-profile",
+                "version": "dev-SKP-362",
+                "version_normalized": "dev-SKP-362",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
+                    "reference": "c1d2c6de86fb75cc76c556baecfebbd58ab37dcf"
+                },
+                "time": "2026-08-27T07:36:08+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/drupal-profile",
                 "version": "dev-SKP-386",
                 "version_normalized": "dev-SKP-386",
                 "source": {
