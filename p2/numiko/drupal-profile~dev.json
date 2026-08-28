@@ -67,54 +67,6 @@
             },
             {
                 "name": "numiko/drupal-profile",
-                "version": "dev-SKP-362",
-                "version_normalized": "dev-SKP-362",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "c1d2c6de86fb75cc76c556baecfebbd58ab37dcf"
-                },
-                "time": "2026-08-27T07:36:08+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-386",
-                "version_normalized": "dev-SKP-386",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "ed5cee88fdc5156c041df0b48e4eb73efaa58467"
-                },
-                "time": "2026-08-26T10:54:01+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
-                "version": "dev-SKP-47",
-                "version_normalized": "dev-SKP-47",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "58e3918bdb6edd51e64dde5e9aa1878c7b645ce6"
-                },
-                "time": "2026-08-26T10:14:10+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/drupal-profile",
                 "version": "dev-feature/teaser-list-slice",
                 "version_normalized": "dev-feature/teaser-list-slice",
                 "source": {
@@ -217,9 +169,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-profile.git",
-                    "reference": "b76a083af8d5d71fa57f96464c9936e6b008d2d5"
+                    "reference": "24d13a041b6351542660df90f784e10c1acdba5b"
                 },
-                "time": "2026-08-26T09:37:41+00:00",
+                "time": "2026-08-28T07:57:09+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
