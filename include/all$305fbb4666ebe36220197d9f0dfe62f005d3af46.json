@@ -1059,6 +1059,33 @@
                 "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
                 "homepage": "https://www.drupal.org/project/adestra"
             },
+            "5.0.0-beta1": {
+                "name": "numiko/adestra",
+                "version": "5.0.0-beta1",
+                "version_normalized": "5.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "ca3b6bf92dbf05ac48b3a51beea409e01f625807"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/adestra/numiko-adestra-5.0.0-beta1-adc5ed.tar",
+                    "reference": "ca3b6bf92dbf05ac48b3a51beea409e01f625807",
+                    "shasum": "a3b286a4193ec8241f6f09fab2a600c5255d2004"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.5.2"
+                },
+                "time": "2026-09-11T13:06:02+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            },
             "dev-dev": {
                 "name": "numiko/adestra",
                 "version": "dev-dev",
@@ -1072,6 +1099,26 @@
                     "phpxmlrpc/phpxmlrpc": "^4.5.2"
                 },
                 "time": "2021-08-10T08:02:17+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "This module provides an XML-RPC client implementation for communicating with Adestras MessageFocus API.",
+                "homepage": "https://www.drupal.org/project/adestra"
+            },
+            "dev-feature/drupal-11-compatibility": {
+                "name": "numiko/adestra",
+                "version": "dev-feature/drupal-11-compatibility",
+                "version_normalized": "dev-feature/drupal-11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/adestra.git",
+                    "reference": "ca3b6bf92dbf05ac48b3a51beea409e01f625807"
+                },
+                "require": {
+                    "phpxmlrpc/phpxmlrpc": "^4.5.2"
+                },
+                "time": "2026-09-11T13:06:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -92171,6 +92218,51 @@
                     "Drupal"
                 ]
             },
+            "2.0.0-beta1": {
+                "name": "numiko/glossary",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "20e5dd508a57e6cb7bcf62b65a1eee42ecbf22bc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/glossary/numiko-glossary-2.0.0-beta1-8487ea.tar",
+                    "reference": "20e5dd508a57e6cb7bcf62b65a1eee42ecbf22bc",
+                    "shasum": "eb3ec3da5382761f5216fbab7fe44e5eb300fe7e"
+                },
+                "time": "2026-09-11T13:26:51+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/drupal-11-compatibility": {
+                "name": "numiko/glossary",
+                "version": "dev-feature/drupal-11-compatibility",
+                "version_normalized": "dev-feature/drupal-11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "20e5dd508a57e6cb7bcf62b65a1eee42ecbf22bc"
+                },
+                "time": "2026-09-11T13:26:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-main": {
                 "name": "numiko/glossary",
                 "version": "dev-main",
@@ -106092,6 +106184,51 @@
                     "Drupal"
                 ]
             },
+            "3.0.0-beta1": {
+                "name": "numiko/paragraphs_parent_revision_access",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
+                    "reference": "61282b2ba538f1ddb9413628ed5705efeb88f11f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_parent_revision_access/numiko-paragraphs_parent_revision_access-3.0.0-beta1-813651.tar",
+                    "reference": "61282b2ba538f1ddb9413628ed5705efeb88f11f",
+                    "shasum": "6f2dfec8078800ebf7a333c922e12b2bc66b7380"
+                },
+                "time": "2026-09-11T13:24:53+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access handler for paragraphs when working with Content Moderation",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/drupal-11-compatibility": {
+                "name": "numiko/paragraphs_parent_revision_access",
+                "version": "dev-feature/drupal-11-compatibility",
+                "version_normalized": "dev-feature/drupal-11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-parent-revision-access.git",
+                    "reference": "61282b2ba538f1ddb9413628ed5705efeb88f11f"
+                },
+                "time": "2026-09-11T13:24:53+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access handler for paragraphs when working with Content Moderation",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/paragraphs_parent_revision_access",
                 "version": "dev-master",
@@ -118217,6 +118354,51 @@
                     "shasum": "fc9b8d73e4a2536c0777a87f125f513dfa58a98b"
                 },
                 "time": "2023-10-25T15:52:58+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "3.0.0-beta1": {
+                "name": "numiko/twig_smart_split",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "b80171e1022fb49739b1a1800c7b9cd1c1cf096d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_smart_split/numiko-twig_smart_split-3.0.0-beta1-e5e716.tar",
+                    "reference": "b80171e1022fb49739b1a1800c7b9cd1c1cf096d",
+                    "shasum": "bd8068095668adc0e2d620b5b8c0542d51319b6c"
+                },
+                "time": "2026-09-11T13:35:56+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Add a twig extension to intelligently divide content into multiple chunks",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/drupal-11-compatibility": {
+                "name": "numiko/twig_smart_split",
+                "version": "dev-feature/drupal-11-compatibility",
+                "version_normalized": "dev-feature/drupal-11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig_smart_split.git",
+                    "reference": "b80171e1022fb49739b1a1800c7b9cd1c1cf096d"
+                },
+                "time": "2026-09-11T13:35:56+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"

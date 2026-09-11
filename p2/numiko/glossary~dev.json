@@ -3,6 +3,25 @@
         "numiko/glossary": [
             {
                 "name": "numiko/glossary",
+                "version": "dev-feature/drupal-11-compatibility",
+                "version_normalized": "dev-feature/drupal-11-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/glossary.git",
+                    "reference": "20e5dd508a57e6cb7bcf62b65a1eee42ecbf22bc"
+                },
+                "time": "2026-09-11T13:26:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Provide a glossary of terms for use inline",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/glossary",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
