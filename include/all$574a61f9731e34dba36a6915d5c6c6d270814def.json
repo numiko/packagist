@@ -109343,6 +109343,39 @@
                     "Drupal"
                 ]
             },
+            "4.3.0-beta5": {
+                "name": "numiko/simple_domain_path",
+                "version": "4.3.0-beta5",
+                "version_normalized": "4.3.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/simple-domain-path.git",
+                    "reference": "fadbd388dc5a20b5c10be2436ae1ca6ac734f873"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-4.3.0-beta5-e3f3ed.tar",
+                    "reference": "fadbd388dc5a20b5c10be2436ae1ca6ac734f873",
+                    "shasum": "cd0d5cea78fcc502966ea7d7dbb767e8221c3bfd"
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "time": "2026-09-16T10:47:29+00:00",
+                "type": "drupal-module",
+                "extra": {
+                    "drush": {
+                        "services": {
+                            "drush.services.yml": "^9"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "description": "Allow paths per-domain",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/d11-experiments": {
                 "name": "numiko/simple_domain_path",
                 "version": "dev-feature/d11-experiments",
@@ -109421,12 +109454,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/simple-domain-path.git",
-                    "reference": "cf4ed70c71b73f8ae351f7e085c1597bfdafdec0"
+                    "reference": "fadbd388dc5a20b5c10be2436ae1ca6ac734f873"
                 },
                 "require": {
                     "php": ">=5.6.0"
                 },
-                "time": "2025-07-28T14:06:02+00:00",
+                "time": "2026-09-16T10:47:29+00:00",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
