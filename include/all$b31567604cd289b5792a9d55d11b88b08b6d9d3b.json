@@ -96845,6 +96845,37 @@
                     "Drupal"
                 ]
             },
+            "5.3.0-beta1": {
+                "name": "numiko/listings_filter",
+                "version": "5.3.0-beta1",
+                "version_normalized": "5.3.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "48439800e37fbed1461f42b34da89d2b2bde11d8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-5.3.0-beta1-aabc15.tar",
+                    "reference": "48439800e37fbed1461f42b34da89d2b2bde11d8",
+                    "shasum": "8b3744fdd07121b9b8dbba457708d4ccdcff7beb"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2026-10-07T13:17:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-UOLREBLD-1716-facet-search-id-in-results": {
                 "name": "numiko/listings_filter",
                 "version": "dev-UOLREBLD-1716-facet-search-id-in-results",
@@ -96884,6 +96915,30 @@
                     "drupal/search_api": "~1.24"
                 },
                 "time": "2026-03-31T20:54:06+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-feature/SKP-56-autocomplete": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/SKP-56-autocomplete",
+                "version_normalized": "dev-feature/SKP-56-autocomplete",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "48439800e37fbed1461f42b34da89d2b2bde11d8"
+                },
+                "require": {
+                    "drupal/facets": "^2.0",
+                    "drupal/paragraphs": "^1.0",
+                    "drupal/search_api": "~1.24"
+                },
+                "time": "2026-10-07T13:17:49+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0-or-later"
@@ -115353,7 +115408,6 @@
                 },
                 "time": "2026-10-07T12:03:05+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
