@@ -103028,6 +103028,25 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            "dev-spike/menu-exploration": {
+                "name": "numiko/numibase",
+                "version": "dev-spike/menu-exploration",
+                "version_normalized": "dev-spike/menu-exploration",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "7092667c5b9d613fd55156d2e74665978b049ff4"
+                },
+                "time": "2026-10-19T10:32:10+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         },
         "numiko/numidemo": {
