@@ -118534,6 +118534,33 @@
                     "Drupal"
                 ]
             },
+            "3.1.1": {
+                "name": "numiko/twig_media",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-media.git",
+                    "reference": "5e0d01ec8e2df5ead88459d44659f339fe0434ae"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/twig_media/numiko-twig_media-3.1.1-9821f9.tar",
+                    "reference": "5e0d01ec8e2df5ead88459d44659f339fe0434ae",
+                    "shasum": "a6bb4f671655a81d0a32f57fb4cd0658c69ad0aa"
+                },
+                "time": "2026-10-20T14:58:45+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Media allows for the rendering of media images directly in template",
+                "homepage": "https://bitbucket.org/numiko/twig-media",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-KU-465": {
                 "name": "numiko/twig_media",
                 "version": "dev-KU-465",
@@ -118544,6 +118571,26 @@
                     "reference": "64ac0b66bcffd3581fa4099882975209ef34c971"
                 },
                 "time": "2025-12-08T10:57:52+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Media allows for the rendering of media images directly in template",
+                "homepage": "https://bitbucket.org/numiko/twig-media",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            "dev-SKP-404-keep-alt-text": {
+                "name": "numiko/twig_media",
+                "version": "dev-SKP-404-keep-alt-text",
+                "version_normalized": "dev-SKP-404-keep-alt-text",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-media.git",
+                    "reference": "cf2a9a6a3db2fdbcc754757b54f532d63c09b2ab"
+                },
+                "time": "2026-10-19T19:19:05+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -118581,9 +118628,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "1f2aac79b3271cdeb1996cab5d4b3bbb4d76d724"
+                    "reference": "5e0d01ec8e2df5ead88459d44659f339fe0434ae"
                 },
-                "time": "2026-09-04T11:46:37+00:00",
+                "time": "2026-10-20T14:58:45+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
