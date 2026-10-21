@@ -28,9 +28,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "cf2a9a6a3db2fdbcc754757b54f532d63c09b2ab"
+                    "reference": "80e37d210106d014303dc77086e1385954445b7c"
                 },
-                "time": "2026-10-19T19:19:05+00:00",
+                "time": "2026-10-21T12:36:16+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -68,9 +68,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-media.git",
-                    "reference": "5e0d01ec8e2df5ead88459d44659f339fe0434ae"
+                    "reference": "00cf12a689055ebbc9e262ddad696e72d4ba66e3"
                 },
-                "time": "2026-10-20T14:58:45+00:00",
+                "time": "2026-10-21T12:41:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
