@@ -102953,6 +102953,25 @@
                     "Drupal"
                 ]
             },
+            "dev-prototype/layout-variants": {
+                "name": "numiko/numibase",
+                "version": "dev-prototype/layout-variants",
+                "version_normalized": "dev-prototype/layout-variants",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numibase.git",
+                    "reference": "e27c78291d63785489e1278c31ec8d831196b231"
+                },
+                "time": "2026-10-22T15:24:47+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Numiko Starter sub-theme of Stable",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-release/2.x": {
                 "name": "numiko/numibase",
                 "version": "dev-release/2.x",
@@ -118577,7 +118596,6 @@
                 },
                 "time": "2026-10-21T12:41:42+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
