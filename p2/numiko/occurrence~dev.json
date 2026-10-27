@@ -3,6 +3,28 @@
         "numiko/occurrence": [
             {
                 "name": "numiko/occurrence",
+                "version": "dev-KU-759",
+                "version_normalized": "dev-KU-759",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "55c85f018fdcc0895d4cf5a4c3055fae8097784b"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2026-10-27T15:46:31+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/occurrence",
                 "version": "dev-feature/d11-core-version",
                 "version_normalized": "dev-feature/d11-core-version",
                 "source": {
@@ -36,6 +58,28 @@
                     "drupal/time_field": "^2.1"
                 },
                 "time": "2023-09-18T09:47:42+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Event occurrence entity handler and field plugins.",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
+            {
+                "name": "numiko/occurrence",
+                "version": "dev-feature/node-upgrade",
+                "version_normalized": "dev-feature/node-upgrade",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/occurrences.git",
+                    "reference": "28195f703c0a622363b1e6083413aa10c0f7d86a"
+                },
+                "require": {
+                    "drupal/time_field": "^2.1"
+                },
+                "time": "2025-07-17T14:26:28+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
