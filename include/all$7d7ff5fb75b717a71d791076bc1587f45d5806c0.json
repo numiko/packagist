@@ -1105,7 +1105,6 @@
                 },
                 "time": "2026-10-30T10:52:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -102635,25 +102634,6 @@
                     "Drupal"
                 ]
             },
-            "dev-FEF-328": {
-                "name": "numiko/numibase",
-                "version": "dev-FEF-328",
-                "version_normalized": "dev-FEF-328",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "83009f7f1ddaaf11997f387260cd38d803dace0a"
-                },
-                "time": "2026-10-29T14:54:28+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-SITEKIT-204": {
                 "name": "numiko/numibase",
                 "version": "dev-SITEKIT-204",
@@ -103193,9 +103173,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "9578ff6d3a3c89bea7f0737632b6618e47404186"
+                    "reference": "8ffc08e235a5b7c2017cb4acf43a67e5d7b97148"
                 },
-                "time": "2026-08-28T14:20:01+00:00",
+                "time": "2026-10-30T16:56:19+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
