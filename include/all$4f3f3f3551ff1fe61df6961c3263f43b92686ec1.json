@@ -77955,7 +77955,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-composer-template.git",
-                    "reference": "51adb02d546a99d6f8b86254e11241aa6544a726"
+                    "reference": "35023580a4fbb0d66ff659e91598eb14394f76ee"
                 },
                 "require": {
                     "composer/installers": "^2.3",
@@ -78078,7 +78078,7 @@
                 "require-dev": {
                     "drupal/core-dev": "^11.2"
                 },
-                "time": "2026-11-03T11:58:39+00:00",
+                "time": "2026-11-26T10:26:11+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -78138,10 +78138,10 @@
                     "post-create-project-cmd": [
                         "Composer\\Config::disableProcessTimeout",
                         "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/numibase.git themes/custom/numiko master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/framework.git themes/custom/numiko/framework master",
-                        "bash scripts/composer/clone-and-detach git@bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main",
+                        "bash scripts/composer/clone-and-detach git@ssh.bitbucket.org:numiko/site-tests.git modules/custom/site_tests main",
+                        "bash scripts/composer/clone-and-detach git@ssh.bitbucket.org:numiko/numibase.git themes/custom/numiko master",
+                        "bash scripts/composer/clone-and-detach git@ssh.bitbucket.org:numiko/framework.git themes/custom/numiko/framework master",
+                        "bash scripts/composer/clone-and-detach git@ssh.bitbucket.org:numiko/vue-listings.git themes/custom/numiko/framework/src/js/apps/vue-listings main",
                         "bash scripts/composer/add-js-import js/apps/vue-listings"
                     ]
                 },
